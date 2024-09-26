@@ -1,4 +1,12 @@
-## Dima Denisenko
+### Hi there 👋 My name's Dima Denisenko 
+
+Java Developer 🔹 Software Architect 🔹 Open-source enthusiast
+
+### 🛠 &nbsp;Tech Stack
+
+![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 <!--
 **dimdnk/dimdnk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
