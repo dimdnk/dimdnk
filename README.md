@@ -1,7 +1,7 @@
 ### Hi there 👋 My name's Dima Denisenko 
 
-Software Developer 🔹 Software Architect 🔹 Open-source enthusiast
-
+ Software Developer 🔹 Architect 🔹 Open-source enthusiast
+***
 Focusing on Java, Spring, Kubernetes, microservices, Kafka, RabbitMQ, etc. Passionate about creating RESTful APIs, distributed services, cloud-native architecture.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dimdnk)](https://www.linkedin.com/in/dimdnk)
@@ -45,8 +45,7 @@ Here are some ideas to get you started:
 -->
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=dimdnk&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=Dima+Denisenko's+GitHub+Stats&show_icons=true" />
 
+---
 <!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimdnk"/>
 -->
-
----
