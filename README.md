@@ -1,4 +1,5 @@
-### Hi there 👋 My name's Dima Denisenko 
+# Welcome
+My name is Dima Denisenko 
 
  Software Developer 🔹 Architect 🔹 Open-source enthusiast
 ***
