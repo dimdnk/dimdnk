@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dimdnk&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=Dima+Denisenko's+GitHub+Stats&show_icons=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=dimdnk&count_private=true&hide=stars,issues&show_icons=true" />
 
 ---
 <!--
