@@ -1,0 +1,23 @@
+{
+    "name": "@dimdnk/dimdnk-github-profile",
+    "version": "24.0.0",
+    "description": "Provide an optional Git commit hooks.",
+    "private": true,
+    "scripts": {
+        "postinstall": "husky install"
+    },
+    "author": "Dima Denisenko",
+    "license": "Apache-2.0",
+    "devDependencies": {
+        "husky": "9.1.6",
+        "prettier": "3.3.3",
+        "prettier-plugin-java": "2.6.4",
+        "prettier-plugin-packagejson": "2.5.2"
+    },
+    "engines": {
+        "node": ">=18.20.4"
+    },
+    "cacheDirectories": [
+        "node_modules"
+    ]
+}
