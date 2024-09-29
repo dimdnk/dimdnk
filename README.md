@@ -1,5 +1,5 @@
 # Welcome
-My name is Dima Denisenko 
+My name is Dima Denisenko.
 
  Software developer focusing on Java, Spring, Kubernetes, microservices, Kafka, RabbitMQ, etc. Passionate about creating RESTful APIs, distributed services, cloud-native architecture.
 
