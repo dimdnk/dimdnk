@@ -5,17 +5,6 @@ My name is Dima Denisenko.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dimdnk)](https://www.linkedin.com/in/dimdnk)
 
-
-### GitHub Stats
-
-<p align="left"><img src="https://raw.githubusercontent.com/dimdnk/dimdnk/dev/github-metrics.svg" /></p>
-
-### 👷 Check out what I'm currently working on
-{{ range recentContributions 5 }}
-- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
-{{- end }}
-
-
 ### 🛠 &nbsp;Tech Stack
 
 <p align="left">
@@ -38,3 +27,12 @@ My name is Dima Denisenko.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
 <img src="https://cdn.svgporn.com/logos/graphql.svg" alt="postgresql" width="25" height="25" />
 </p>
+
+### GitHub Stats
+
+<p align="left"><img src="https://raw.githubusercontent.com/dimdnk/dimdnk/dev/github-metrics.svg" /></p>
+
+### 👷 Check out what I'm currently working on
+{{ range recentContributions 5 }}
+- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
+{{- end }}
