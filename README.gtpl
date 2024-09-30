@@ -5,6 +5,8 @@ My name is Dima Denisenko.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dimdnk)](https://www.linkedin.com/in/dimdnk)
 
+---
+
 ### 🛠 &nbsp;Tech Stack
 
 <p align="left">
@@ -27,6 +29,8 @@ My name is Dima Denisenko.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
 <img src="https://cdn.svgporn.com/logos/graphql.svg" alt="postgresql" width="25" height="25" />
 </p>
+
+---
 
 ### GitHub Stats
 
