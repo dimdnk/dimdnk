@@ -5,7 +5,6 @@ My name is Dima Denisenko.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dimdnk)](https://www.linkedin.com/in/dimdnk)
 
----
 
 ### 🛠 &nbsp;Tech Stack
 
