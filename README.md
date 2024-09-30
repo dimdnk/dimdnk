@@ -3,13 +3,7 @@ My name is Dima Denisenko.
 
  Software developer focusing on Java, Spring, Kubernetes, microservices, Kafka, RabbitMQ, etc. Passionate about creating RESTful APIs, distributed services, cloud-native architecture.
 
-***
-
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dimdnk)](https://www.linkedin.com/in/dimdnk)
-
-### GitHub Stats
-
-<p align="left"><img src="https://raw.githubusercontent.com/dimdnk/dimdnk/dev/github-metrics.svg" /></p>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -34,5 +28,14 @@ My name is Dima Denisenko.
 <img src="https://cdn.svgporn.com/logos/graphql.svg" alt="postgresql" width="25" height="25" />
 </p>
 
+### GitHub Stats
 
----
+<p align="left"><img src="https://raw.githubusercontent.com/dimdnk/dimdnk/dev/github-metrics.svg" /></p>
+
+### 👷 Check out what I'm currently working on
+
+- [IQKV/.github](https://github.com/IQKV/.github) - README repository.
+- [KnowHowSpringBoot/sample-lorem-mix-kafka-mvc-rest](https://github.com/KnowHowSpringBoot/sample-lorem-mix-kafka-mvc-rest) - Application allows to analysis of loripsum.net output and then generates statistic reports
+- [IQKV/boot-parent-pom](https://github.com/IQKV/boot-parent-pom) - Default configurations for complete dependency tree to quickly build Spring Boot project.
+- [IQKV/boot-mvc-rest](https://github.com/IQKV/boot-mvc-rest) - RESTful API support library.
+- [KnowHowDevOps/homelab-public-assets](https://github.com/KnowHowDevOps/homelab-public-assets) - Homelab Public Assets.
