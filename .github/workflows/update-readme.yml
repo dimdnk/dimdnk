@@ -38,7 +38,7 @@ jobs:
           # Options
           user: dimdnk
           template: classic
-          base: header, activity, community, metadata
+          base: header, activity, metadata
           config_timezone: UTC
           plugin_habits: yes
           plugin_habits_charts_type: classic
