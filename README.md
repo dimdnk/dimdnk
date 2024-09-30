@@ -7,6 +7,10 @@ My name is Dima Denisenko.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dimdnk)](https://www.linkedin.com/in/dimdnk)
 
+### GitHub Stats
+
+<p align="left"><img src="https://raw.githubusercontent.com/dimdnk/dimdnk/dev/github-metrics.svg" /></p>
+
 ### 🛠 &nbsp;Tech Stack
 
 <p align="left">
