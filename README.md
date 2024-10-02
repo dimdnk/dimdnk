@@ -37,7 +37,7 @@ My name is Dima Denisenko.
 
 ### 👷 Check out what I'm currently working on
 
-- [IQKV/.github](https://github.com/IQKV/.github) - README repository.
+- [KnowHowDevOps/.github](https://github.com/KnowHowDevOps/.github) - 
 - [KnowHowSpringBoot/sample-lorem-mix-kafka-mvc-rest](https://github.com/KnowHowSpringBoot/sample-lorem-mix-kafka-mvc-rest) - Application allows to analysis of loripsum.net output and then generates statistic reports
 - [IQKV/boot-parent-pom](https://github.com/IQKV/boot-parent-pom) - Default configurations for complete dependency tree to quickly build Spring Boot project.
 - [IQKV/boot-mvc-rest](https://github.com/IQKV/boot-mvc-rest) - RESTful API support library.
