@@ -1,6 +1,7 @@
 # Welcome
+My name is Dima Denisenko.
 
-I'm a software developer focusing on Java, Spring, Kubernetes, microservices, Kafka, RabbitMQ, etc. Passionate about creating RESTful APIs, distributed services, and cloud-native architecture.
+ Software developer focusing on Java, Spring, Kubernetes, microservices, Kafka, RabbitMQ, etc. Passionate about creating RESTful APIs, distributed services, cloud-native architecture.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dimdnk)](https://www.linkedin.com/in/dimdnk)
 
@@ -36,8 +37,8 @@ I'm a software developer focusing on Java, Spring, Kubernetes, microservices, Ka
 
 ### 👷 Check out what I'm currently working on
 
-- [KnowHowDevOps/.github](https://github.com/KnowHowDevOps/.github) - 
-- [KnowHowSpringBoot/sample-lorem-mix-kafka-mvc-rest](https://github.com/KnowHowSpringBoot/sample-lorem-mix-kafka-mvc-rest) - Application allows to analysis of loripsum.net output and then generates statistic reports
-- [IQKV/boot-parent-pom](https://github.com/IQKV/boot-parent-pom) - Default configurations for complete dependency tree to quickly build Spring Boot project.
-- [IQKV/boot-mvc-rest](https://github.com/IQKV/boot-mvc-rest) - RESTful API support library.
-- [KnowHowDevOps/homelab-public-assets](https://github.com/KnowHowDevOps/homelab-public-assets) - Homelab Public Assets.
+- [KVIncubator/mantine-dashboard-ui](https://github.com/KVIncubator/mantine-dashboard-ui) - 
+- [BiMiBo/accounts-service](https://github.com/BiMiBo/accounts-service) - Accounts Services
+- [KVIncubator/.github](https://github.com/KVIncubator/.github) - README repository.
+- [BiMiBo/admin-console-ui-service](https://github.com/BiMiBo/admin-console-ui-service) - Admin Console UI
+- [IQKV/.github](https://github.com/IQKV/.github) - README repository.
