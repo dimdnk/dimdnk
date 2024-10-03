@@ -38,7 +38,7 @@ My name is Dima Denisenko.
 ### 👷 Check out what I'm currently working on
 
 - [KVIncubator/.github](https://github.com/KVIncubator/.github) - README repository.
-- [BiMiBo/admin-console-ui-service](https://github.com/BiMiBo/admin-console-ui-service) - Admin Console UI
 - [KVIncubator/mantine-dashboard-ui](https://github.com/KVIncubator/mantine-dashboard-ui) - 
+- [BiMiBo/admin-console-ui-service](https://github.com/BiMiBo/admin-console-ui-service) - Admin Console UI
 - [BiMiBo/authorization-service](https://github.com/BiMiBo/authorization-service) - Authorization microservice validates a logged in user.
-- [IQKV/.github](https://github.com/IQKV/.github) - README repository.
+- [IQKV/web-configs](https://github.com/IQKV/web-configs) - Common configurations for building web apps at IQKV
