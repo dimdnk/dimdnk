@@ -37,8 +37,8 @@ My name is Dima Denisenko.
 
 ### 👷 Check out what I'm currently working on
 
-- [BiMiBo/admin-console-ui-service](https://github.com/BiMiBo/admin-console-ui-service) - Admin Console UI
+- [BiMiBo/.github](https://github.com/BiMiBo/.github) - README repository.
+- [BiMiBo/frontend-service](https://github.com/BiMiBo/frontend-service) - LMS UI
 - [KVIncubator/mantine-dashboard-ui](https://github.com/KVIncubator/mantine-dashboard-ui) - Dashboard UI built with Mantine
 - [KVIncubator/.github](https://github.com/KVIncubator/.github) - README repository.
-- [BiMiBo/authorization-service](https://github.com/BiMiBo/authorization-service) - Authorization microservice validates a logged in user.
-- [KnowHowDevOps/.github](https://github.com/KnowHowDevOps/.github) - README repository.
+- [BiMiBo/backend-service](https://github.com/BiMiBo/backend-service) - Courses management API backend.
