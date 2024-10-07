@@ -37,8 +37,8 @@ My name is Dima Denisenko.
 
 ### 👷 Check out what I'm currently working on
 
-- [BiMiBo/.github](https://github.com/BiMiBo/.github) - README repository.
-- [BiMiBo/frontend-service](https://github.com/BiMiBo/frontend-service) - LMS UI
 - [KVIncubator/mantine-dashboard-ui](https://github.com/KVIncubator/mantine-dashboard-ui) - Dashboard UI built with Mantine
+- [BiMiBo/.github](https://github.com/BiMiBo/.github) - README repository.
 - [KVIncubator/.github](https://github.com/KVIncubator/.github) - README repository.
-- [BiMiBo/backend-service](https://github.com/BiMiBo/backend-service) - Courses management API backend.
+- [KnowHowSpringBoot/quickstart-kafka-producing-hello](https://github.com/KnowHowSpringBoot/quickstart-kafka-producing-hello) - Minimal Spring Boot based sample of Kafka producer app.
+- [IQKV/boot-mvc-rest](https://github.com/IQKV/boot-mvc-rest) - RESTful API support library.
