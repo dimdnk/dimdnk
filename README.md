@@ -40,5 +40,5 @@ My name is Dima Denisenko.
 - [KVIncubator/mantine-dashboard-ui](https://github.com/KVIncubator/mantine-dashboard-ui) - Dashboard UI built with Mantine
 - [BiMiBo/.github](https://github.com/BiMiBo/.github) - README repository.
 - [KVIncubator/.github](https://github.com/KVIncubator/.github) - README repository.
-- [KnowHowSpringBoot/quickstart-kafka-producing-hello](https://github.com/KnowHowSpringBoot/quickstart-kafka-producing-hello) - Minimal Spring Boot based sample of Kafka producer app.
+- [KnowHowSpringBoot/sample-bookstore-mvc-rest-api](https://github.com/KnowHowSpringBoot/sample-bookstore-mvc-rest-api) - Sample book store REST API service using Spring Boot (backend)
 - [IQKV/boot-mvc-rest](https://github.com/IQKV/boot-mvc-rest) - RESTful API support library.
