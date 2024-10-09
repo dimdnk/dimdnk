@@ -42,8 +42,8 @@ I'm Dima, a software developer focusing on Java, Spring, Kubernetes, microservic
 
 ### 👷 Check out what I'm currently working on
 
-- [IQKV/boot-kafka](https://github.com/IQKV/boot-kafka) - Common library for Kafka support
-- [dimdnk/dotfiles](https://github.com/dimdnk/dotfiles) - This contain my personal config files.
+- [IQKV/boot-mail](https://github.com/IQKV/boot-mail) - Mail support library
+- [IQKV/.github](https://github.com/IQKV/.github) - README repository.
 - [IQKV/boot-parent-pom](https://github.com/IQKV/boot-parent-pom) - Default configurations for complete dependency tree to quickly build Spring Boot project.
 - [IQKV/boot-mvc-rest](https://github.com/IQKV/boot-mvc-rest) - RESTful API support library.
 - [KnowHowDevOps/homelab-public-assets](https://github.com/KnowHowDevOps/homelab-public-assets) - Homelab Public Assets.
