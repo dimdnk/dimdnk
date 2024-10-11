@@ -4,8 +4,8 @@ I'm Dima, a software developer focusing on Java, Spring, Kubernetes, microservic
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dimdnk)](https://www.linkedin.com/in/dimdnk)
 
-
 ## 💼 Skills
+
 <p align="left">
 <img src="https://cdn.svgporn.com/logos/java.svg" alt="java" width="25" height="25" />
 <img src="https://cdn.svgporn.com/logos/spring-icon.svg" alt="spring" width="25" height="25" />
