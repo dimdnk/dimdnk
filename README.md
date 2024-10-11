@@ -43,8 +43,8 @@ I'm Dima, a software developer focusing on Java, Spring, Kubernetes, microservic
 
 ### 👷 Check out what I'm currently working on
 
-- [KnowHowSpringBoot/sample-reactive-vaadin-chat](https://github.com/KnowHowSpringBoot/sample-reactive-vaadin-chat) - Sample of Chat application on top of Vaadin.
-- [dimdnk/dotfiles](https://github.com/dimdnk/dotfiles) - This contain my personal config files.
-- [KnowHowSpringBoot/quickstart-mvc-rest-hello-world](https://github.com/KnowHowSpringBoot/quickstart-mvc-rest-hello-world) - Minimal Spring Boot based RESTful &#39;Hello World&#39; example, including Swagger.
+- [KVIncubator/web-configs](https://github.com/KVIncubator/web-configs) - Common configurations for building web apps at IQKV
+- [KnowHowSpringBoot/sample-lorem-mix-kafka-mvc-rest](https://github.com/KnowHowSpringBoot/sample-lorem-mix-kafka-mvc-rest) - Application allows to analysis of loripsum.net output and then generates statistic reports.
+- [IQKV/boot-parent-pom](https://github.com/IQKV/boot-parent-pom) - Default configurations for complete dependency tree to quickly build Spring Boot project.
 - [IQKV/boot-mvc-rest](https://github.com/IQKV/boot-mvc-rest) - RESTful API support library.
 - [KnowHowDevOps/homelab-public-assets](https://github.com/KnowHowDevOps/homelab-public-assets) - Homelab Public Assets.
