@@ -6,6 +6,7 @@ I'm Dima, a software developer focusing on Java, Spring, Kubernetes, microservic
 
 
 ## 💼 Skills
+
 <p align="left">
 <img src="https://cdn.svgporn.com/logos/java.svg" alt="java" width="25" height="25" />
 <img src="https://cdn.svgporn.com/logos/spring-icon.svg" alt="spring" width="25" height="25" />
