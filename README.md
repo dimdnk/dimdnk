@@ -7,6 +7,7 @@ I'm Dima, a software developer focusing on Java, Spring, Kubernetes, microservic
 ➡️ 🧪 <a href="https://knowhowto.dev/" target="_blank">Homelab Services</a><br>
 ➡️ ☕ <a href="repo-index.md"  target="_blank">My Repositories</a><br>
 ➡️ 🌟 <a href="bookmarks-index.md"  target="_blank">My Bookmarks</a><br>
+➡️ 🙇 <a href="awesome-index.md"  target="_blank">Awesome Index</a><br>
 
 ### 💼 Skills
 
