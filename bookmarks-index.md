@@ -1,5 +1,6 @@
 # 🌟 My Bookmarks
 
+- [Curated list of awesome lists](https://project-awesome.org/)
 
 ### Home
 ##### Google
