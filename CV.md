@@ -1,6 +1,6 @@
 ## ☕ Dima Denisenko (Java Developer)
 
-➡️ I specialize in API Integration/Development, ETL, eCommerce domain, and service-oriented architectures.
+➡️ I specialize in REST API Integration/Development, ETL, eCommerce domain, and service-oriented architectures.
 
 ### ✴️ Summary:
 
