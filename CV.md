@@ -1,4 +1,4 @@
-☕ Dima Denisenko (Java Developer)
+## ☕ Dima Denisenko (Java Developer)
 ======
 
 I specialize in API Integration/Development, ETL, eCommerce domain, and service-oriented architectures.
@@ -15,8 +15,8 @@ I specialize in API Integration/Development, ETL, eCommerce domain, and service-
 -    Experience on Kubernetes, OpenShift environments, AWS cloud services like EC2, S3, Cloudfront, EKS, Fargate, and a capability with Google Cloud Run for multi-cloud.
 
 
-🔖 Experience
----------
+### 🔖 Experience
+
 **Java Developer, DataArt Solutions, Inc.** (2021 – Present)
 
 - Implementing ETL engine using Spring Boot 3, Apache Camel, Mapstruct, Kafka Streams, Hibernate (+postgres).
