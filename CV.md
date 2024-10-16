@@ -30,5 +30,5 @@ Dima Denisenko
  
 **Tech Lead/Co-founder , WellCart** (2012 – 2016)
 
-- Help companies handle complex technical and design problems related to the full stack web development using PHP products
-- Create open-source components for web applications to reduce overhead and shorten Zend Framework projects lifecycle.
+- Create open-source components for web applications to reduce overhead and shorten Zend Framework projects lifecycle
+- Help companies to handle complex technical and design problems related to the full stack web development using PHP products
