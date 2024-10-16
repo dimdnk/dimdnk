@@ -6,11 +6,11 @@ Dima Denisenko
 
 ### ✴️ Summary:
 
--    Around 5 years of IT experience in design, development, implementation and testing of client-server, web applications using Java technologies.
--    Involved in all the phases of SDLC and experience in different software development methodologies like Agile/Scrum, Kanban and waterfall approaches, continuous integration, and deployment.
+-    Around 5 years of IT experience in the design, development, implementation, and testing of client-server, web applications using Java technologies.
+-    Involved in all the phases of SDLC and experience in different software development methodologies like Agile/Scrum, Kanban, and waterfall approaches, continuous integration, and deployment.
 -    Experience with different modules of Spring Framework like Core Container, Web, MVC, Batch, JDBC, Data Couchbase, REST, Security, Spring Boot & Spring Cloud (Task, Gateway, Config, Vault, Kubernetes, Sleuth).
--    Experience with the Hibernate ORM involving connection pooling, mappings, transaction management, HQL (with databases like Postgres, MySQL).
--    Working experience on building data pipelines by managing payloads from Apache Kafka, and enriching the data from different data source.
+-    Experience with the Hibernate ORM involving connection pooling, mappings, transaction management, HQL (with databases like Postgres, and MySQL).
+-    Working experience on building data pipelines by managing payloads from Apache Kafka, Kafka Streams, and enriching the data from different data source.
 -    Designing and implementing various REST APIs backends, using best practices like idempotence, security, content negotiation, HATEOAS, versioning, etc.
 -    Proficient in developing SPA with Angular 10+, responsive admin UI with Bootstrap components.
 -    Experience on Kubernetes, OpenShift environments, AWS cloud services like EC2, S3, Cloudfront, EKS, Fargate, and a capability with Google Cloud Run for multi-cloud.
@@ -20,6 +20,7 @@ Dima Denisenko
 ---------
 **Java Developer, DataArt Solutions, Inc.** (2021 – Present)
 
+- Implementing ETL engine using Spring Boot 3, Apache Camel, Mapstruct, Kafka Streams, Hibernate (+postgres).
 - Building an enterprise product information management (PIM) software provides a single place to collect, manage, and enrich product information, create a product catalog, and distribute it to sales and eCommerce channels.
 
 **Software Engineer, Amadeus IT Group SA** (2016 – 2021)
