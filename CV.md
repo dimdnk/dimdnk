@@ -50,6 +50,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" />
 <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="css" width="42" height="42" />
+<br>
+
 <img src="https://cdn.svgporn.com/logos/mongodb.svg" alt="mongodb" width="42" height="42" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="42" height="42" />
 <img src="https://cdn.svgporn.com/logos/openapi-icon.svg" alt="REST API" width="42" height="42" />
