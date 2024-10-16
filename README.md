@@ -8,7 +8,7 @@ I'm Dima, a software developer focusing on Java, Spring, Kubernetes, microservic
 ➡️ ☕ <a href="repo-index.md"  target="_blank">My Repositories</a><br>
 ➡️ 🌟 <a href="bookmarks-index.md"  target="_blank">My Bookmarks</a><br>
 ➡️ 🙇 <a href="awesome-index.md"  target="_blank">Awesome Index</a><br>
-➡️ 💎 <a href="CV.md"  target="_blank">CV in short</a><br>
+➡️ 💎 <a href="CV.md"  target="_blank">My CV</a><br>
 
 ### 💼 Skills
 
