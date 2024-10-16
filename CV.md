@@ -1,8 +1,7 @@
-Dima Denisenko
+☕ Dima Denisenko (Java Developer)
 ======
 
-## ☕ Java Developer (eCommerce, ETL, API Integration/Development, SOA).
-
+I specialize in API Integration/Development, ETL, eCommerce domain, and service-oriented architectures.
 
 ### ✴️ Summary:
 
