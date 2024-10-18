@@ -17,8 +17,8 @@
 
 **Java Developer, DataArt Solutions, Inc.** (2021 – Present)
 
-- Implementing ETL engine using Spring Boot 3, Apache Camel, Mapstruct, Kafka Streams, Hibernate (+postgres).
-- Building an enterprise product information management (PIM) software provides a single place to collect, manage, and enrich product information, create a product catalog, and distribute it to sales and eCommerce channels.
+- I was working on the implementation of an ETL engine using Spring Boot 3, Apache Camel, Mapstruct, Kafka Streams, and Hibernate (+postgres).
+- Build an enterprise product information management (PIM) software that provides a single place to collect, manage, and enrich product information, create a product catalog, and distribute it to sales and eCommerce channels.
 
 **Software Engineer, Amadeus IT Group SA** (2016 – 2021)
 
