@@ -4,12 +4,12 @@
 
 ### ✴️ Summary:
 
--    Around 5 years of IT experience in the design, development, implementation, and testing of client-server, web applications using Java technologies.
+-    Around 4 years of IT experience in the design, development, implementation, and testing of client-server, web applications using Java technologies.
 -    Involved in all the phases of SDLC and experience in different software development methodologies like Agile/Scrum, Kanban, and waterfall approaches, continuous integration, and deployment.
+-    Working experience in building data pipelines by managing payloads from Apache Kafka, Kafka Streams, and enriching the data from different data sources.
+-    Designing and implementing various REST API using best practices like idempotence, security, content negotiation, HATEOAS, versioning, etc.
 -    Experience with different modules of Spring Framework like Core Container, Web, MVC, Batch, JDBC, Data Couchbase, REST, Security, Spring Boot & Spring Cloud (Task, Gateway, Config, Vault, Kubernetes, Sleuth).
 -    Experience with the Hibernate ORM involving connection pooling, mappings, transaction management, and HQL (with databases like Postgres, and MySQL).
--    Working experience in building data pipelines by managing payloads from Apache Kafka, Kafka Streams, and enriching the data from different data sources.
--    Designing and implementing various REST API backends, using best practices like idempotence, security, content negotiation, HATEOAS, versioning, etc.
 -    Proficient in developing SPA with Angular 10+, responsive admin UI with Bootstrap components.
 -    Experience with Kubernetes, OpenShift environments, AWS cloud services like EC2, S3, Cloudfront, EKS, and Fargate, and a capability with Google Cloud Run for multi-cloud.
 
