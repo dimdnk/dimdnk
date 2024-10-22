@@ -82,7 +82,7 @@ I'm Dima, a software developer focusing on Java, Spring, Kubernetes, microservic
 
 ### 🔥 GitHub Stats
 
-<p align="left"><img src="https://raw.githubusercontent.com/dimdnk/dimdnk/dev/github-metrics.svg" /></p>
+<p align="left"><img src="https://raw.githubusercontent.com/dmitriidaro/dmitriidaro/dev/github-metrics.svg" /></p>
 
 
 ### 👷 Check out some of my public repos:
