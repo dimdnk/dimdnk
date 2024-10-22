@@ -87,8 +87,8 @@ I'm Dima, a software developer focusing on Java, Spring, Kubernetes, microservic
 
 ### 👷 Check out some of my public repos:
 
-- [IQKV/iqkv-checkstyle-config](https://github.com/IQKV/iqkv-checkstyle-config) - Checkstyle configuration.
+- [KnowHowSpringBoot/quickstart-kafka-producing-hello](https://github.com/KnowHowSpringBoot/quickstart-kafka-producing-hello) - Minimal Spring Boot based sample of Kafka producer app.
 - [KnowHowSpringBoot/sample-lorem-mix-kafka-mvc-rest](https://github.com/KnowHowSpringBoot/sample-lorem-mix-kafka-mvc-rest) - loripsum.net  text analyzer service.
 - [IQKV/boot-parent-pom](https://github.com/IQKV/boot-parent-pom) - Default configurations for complete dependency tree to quickly build Spring Boot project.
-- [KnowHowDevOps/.github](https://github.com/KnowHowDevOps/.github) - README repository.
-- [KnowHowDevOps/homelab-public-assets](https://github.com/KnowHowDevOps/homelab-public-assets) - Homelab Public Assets.
+- [IQKV/boot-mvc-rest](https://github.com/IQKV/boot-mvc-rest) - RESTful API support library.
+- [KnowHowSpringBoot/sample-acme-mix-cloud-netflix](https://github.com/KnowHowSpringBoot/sample-acme-mix-cloud-netflix) - Microservice architecture with Spring Boot, Eureka, Hystrix, Config Server, minikube and Docker.
