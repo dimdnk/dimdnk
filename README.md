@@ -87,8 +87,8 @@ I'm Dima, a software developer focusing on Java, Spring, Kubernetes, microservic
 
 ### 👷 Check out some of my public repos:
 
-- [KnowHowSpringBoot/sample-acme-mix-cloud-netflix](https://github.com/KnowHowSpringBoot/sample-acme-mix-cloud-netflix) - Microservice architecture with Spring Boot, Eureka, Hystrix, Config Server, minikube and Docker.
-- [dmitriidaro/dotfiles](https://github.com/dmitriidaro/dotfiles) - This contain my personal config files.
-- [KnowHowDevOps/homelab-operations-pipeline](https://github.com/KnowHowDevOps/homelab-operations-pipeline) - This project aims to standardise CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
+- [IQKV/iqkv-checkstyle-config](https://github.com/IQKV/iqkv-checkstyle-config) - Checkstyle configuration.
+- [KnowHowSpringBoot/sample-lorem-mix-kafka-mvc-rest](https://github.com/KnowHowSpringBoot/sample-lorem-mix-kafka-mvc-rest) - loripsum.net  text analyzer service.
 - [IQKV/boot-parent-pom](https://github.com/IQKV/boot-parent-pom) - Default configurations for complete dependency tree to quickly build Spring Boot project.
+- [KnowHowDevOps/.github](https://github.com/KnowHowDevOps/.github) - README repository.
 - [KnowHowDevOps/homelab-public-assets](https://github.com/KnowHowDevOps/homelab-public-assets) - Homelab Public Assets.
