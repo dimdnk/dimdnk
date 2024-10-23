@@ -2,7 +2,7 @@
 
 I'm Dima, a software developer focusing on Java, Spring, Kubernetes, microservices, Kafka, RabbitMQ, etc. I really enjoy building open-source software, specializing in creating RESTful APIs, distributed services, ETL, batch data processing, and cloud-native architecture.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmitriidaro)](https://www.linkedin.com/in/dmitriidaro)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmitriidenisenko)](https://www.linkedin.com/in/dmitriidenisenko)
 
 ➡️ 🧪 <a href="https://knowhowto.dev/" target="_blank">Homelab Services</a><br>
 ➡️ ☕ <a href="repo-index.md"  target="_blank">My Repositories</a><br>
@@ -82,7 +82,7 @@ I'm Dima, a software developer focusing on Java, Spring, Kubernetes, microservic
 
 ### 🔥 GitHub Stats
 
-<p align="left"><img src="https://raw.githubusercontent.com/dmitriidaro/dmitriidaro/dev/github-metrics.svg" /></p>
+<p align="left"><img src="https://raw.githubusercontent.com/dmitriidenisenko/dmitriidenisenko/dev/github-metrics.svg" /></p>
 
 
 ### 👷 Check out some of my public repos:
