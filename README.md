@@ -87,7 +87,7 @@ I'm Dima, a software developer focusing on Java, Spring, Kubernetes, microservic
 
 ### 👷 Check out some of my public repos:
 
-- [dmitriidenisenko/dmitriidaro](https://github.com/dmitriidenisenko/dmitriidaro) - README repo
+- [dmitriidenisenko/dmitriidenisenko](https://github.com/dmitriidenisenko/dmitriidenisenko) - README repo
 - [dmitriidenisenko/dotfiles](https://github.com/dmitriidenisenko/dotfiles) - This contain my personal config files.
 - [IQKV/boot-cache](https://github.com/IQKV/boot-cache) - Handle properties file for caching options.
 - [IQKV/boot-mvc-rest](https://github.com/IQKV/boot-mvc-rest) - RESTful API support library.
