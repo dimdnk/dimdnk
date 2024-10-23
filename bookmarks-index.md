@@ -2377,7 +2377,7 @@
 - [anilallewar/microservices-basics-spring-boot: Basic architecture framework to create complete microservices using Spring boot and Spring cloud](https://github.com/anilallewar/microservices-basics-spring-boot)
 - [colinbut/microservices-spring-cloud-netflix-oss: Microservices example demo - using Spring Cloud / Netflix OSS Project](https://github.com/colinbut/microservices-spring-cloud-netflix-oss)
 - [Running Java Microservices on OpenShift using Source-2-Image - Piotr's TechBlog](https://piotrminkowski.com/2019/01/08/running-java-microservices-on-openshift-using-source-2-image/)
-- [microservice-kubernetes/kubernetes-deploy.sh at master · dmitriidaro/microservice-kubernetes](https://github.com/dmitriidaro/microservice-kubernetes/blob/master/microservice-kubernetes-demo/kubernetes-deploy.sh)
+- [microservice-kubernetes/kubernetes-deploy.sh at master · dmitriidenisenko/microservice-kubernetes](https://github.com/dmitriidenisenko/microservice-kubernetes/blob/master/microservice-kubernetes-demo/kubernetes-deploy.sh)
 - [Пишем Java веб-приложение на современном стеке. С нуля до микросервисной архитектуры. Часть 2](https://tproger.ru/articles/pishem-java-veb-prilozhenie-na-sovremennom-steke-s-nulja-do-mikroservisnoj-arhitektury-chast-2/)
 - [Best Practices for Microservices. If you are new to microservices I… | by Hasitha Subhashana | Geek Culture | Medium](https://medium.com/geekculture/best-practices-for-microservices-191d17ebdb43)
 - [7 Microservices Best Practices for Developers - DZone Microservices](https://dzone.com/articles/7-microservices-best-practices-for-developers)

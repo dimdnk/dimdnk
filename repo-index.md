@@ -1,7 +1,7 @@
 # 🧑‍💻List of my public repositories with topics
 
-- [dmitriidaro](https://github.com/dmitriidaro/dmitriidaro): GitHub public profile.
-- [dotfiles](https://github.com/dmitriidaro/dotfiles): contain my personal config files.
+- [dmitriidenisenko](https://github.com/dmitriidenisenko/dmitriidenisenko): GitHub public profile.
+- [dotfiles](https://github.com/dmitriidenisenko/dotfiles): contain my personal config files.
 
 ## 🧰 Quickstart App Templates
 

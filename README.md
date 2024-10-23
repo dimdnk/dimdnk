@@ -2,7 +2,7 @@
 
 I'm Dima, a software developer focusing on Java, Spring, Kubernetes, microservices, Kafka, RabbitMQ, etc. I really enjoy building open-source software, specializing in creating RESTful APIs, distributed services, ETL, batch data processing, and cloud-native architecture.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmitriidaro)](https://www.linkedin.com/in/dmitriidaro)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmitriidenisenko)](https://www.linkedin.com/in/dmitriidenisenko)
 
 ➡️ 🧪 <a href="https://knowhowto.dev/" target="_blank">Homelab Services</a><br>
 ➡️ ☕ <a href="repo-index.md"  target="_blank">My Repositories</a><br>
@@ -82,13 +82,13 @@ I'm Dima, a software developer focusing on Java, Spring, Kubernetes, microservic
 
 ### 🔥 GitHub Stats
 
-<p align="left"><img src="https://raw.githubusercontent.com/dmitriidaro/dmitriidaro/dev/github-metrics.svg" /></p>
+<p align="left"><img src="https://raw.githubusercontent.com/dmitriidenisenko/dmitriidenisenko/dev/github-metrics.svg" /></p>
 
 
 ### 👷 Check out some of my public repos:
 
-- [dmitriidaro/dotfiles](https://github.com/dmitriidaro/dotfiles) - This contain my personal config files.
-- [KnowHowSpringBoot/sample-lorem-mix-kafka-mvc-rest](https://github.com/KnowHowSpringBoot/sample-lorem-mix-kafka-mvc-rest) - loripsum.net  text analyzer service.
+- [KnowHowSpringBoot/sample-acme-mix-cloud-netflix](https://github.com/KnowHowSpringBoot/sample-acme-mix-cloud-netflix) - Microservice architecture with Spring Boot, Eureka, Hystrix, Config Server, minikube and Docker.
+- [dmitriidenisenko/dotfiles](https://github.com/dmitriidenisenko/dotfiles) - This contain my personal config files.
+- [KnowHowDevOps/homelab-operations-pipeline](https://github.com/KnowHowDevOps/homelab-operations-pipeline) - This project aims to standardise CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
 - [IQKV/boot-parent-pom](https://github.com/IQKV/boot-parent-pom) - Default configurations for complete dependency tree to quickly build Spring Boot project.
-- [IQKV/boot-mvc-rest](https://github.com/IQKV/boot-mvc-rest) - RESTful API support library.
-- [KnowHowSpringBoot/quickstart-mvc-rest-user-profile-crud](https://github.com/KnowHowSpringBoot/quickstart-mvc-rest-user-profile-crud) - User Profile CRUD - Sample Restful App.
+- [KnowHowDevOps/homelab-public-assets](https://github.com/KnowHowDevOps/homelab-public-assets) - Homelab Public Assets.
