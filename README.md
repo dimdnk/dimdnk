@@ -87,8 +87,8 @@ I'm Dima, a software developer focusing on Java, Spring, Kubernetes, microservic
 
 ### 👷 Check out some of my public repos:
 
-- [dmitriidenisenko/dotfiles](https://github.com/dmitriidenisenko/dotfiles) - This contain my personal config files.
-- [IQKV/boot-cache](https://github.com/IQKV/boot-cache) - Handle properties file for caching options.
-- [IQKV/boot-parent-pom](https://github.com/IQKV/boot-parent-pom) - Default configurations for complete dependency tree to quickly build Spring Boot project.
-- [IQKV/boot-mvc-rest](https://github.com/IQKV/boot-mvc-rest) - RESTful API support library.
-- [KnowHowDevOps/homelab-public-assets](https://github.com/KnowHowDevOps/homelab-public-assets) - Homelab Public Assets.
+- [KnowHowJHipster/jh-petclinic-vuebdd](https://github.com/KnowHowJHipster/jh-petclinic-vuebdd) - 
+- [KnowHowJHipster/jh-petclinic-minimal](https://github.com/KnowHowJHipster/jh-petclinic-minimal) - 
+- [KnowHowJHipster/jh-petclinic-ngbdd](https://github.com/KnowHowJHipster/jh-petclinic-ngbdd) - 
+- [KnowHowJHipster/jh-petclinic-vuewebflux](https://github.com/KnowHowJHipster/jh-petclinic-vuewebflux) - 
+- [KnowHowJHipster/jh-petclinic-reactmin](https://github.com/KnowHowJHipster/jh-petclinic-reactmin) - 
