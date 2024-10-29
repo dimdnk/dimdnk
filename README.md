@@ -87,8 +87,8 @@ I'm Dima, a software developer focusing on Java, Spring, Kubernetes, microservic
 
 ### 👷 Check out some of my public repos:
 
-- [KnowHowJHipster/jh-petclinic-vuebdd](https://github.com/KnowHowJHipster/jh-petclinic-vuebdd) - 
-- [KnowHowJHipster/jh-petclinic-minimal](https://github.com/KnowHowJHipster/jh-petclinic-minimal) - 
-- [KnowHowJHipster/jh-petclinic-ngbdd](https://github.com/KnowHowJHipster/jh-petclinic-ngbdd) - 
 - [KnowHowJHipster/jh-petclinic-vuewebflux](https://github.com/KnowHowJHipster/jh-petclinic-vuewebflux) - 
+- [KnowHowJHipster/jh-petclinic-reactbdd](https://github.com/KnowHowJHipster/jh-petclinic-reactbdd) - 
 - [KnowHowJHipster/jh-petclinic-reactmin](https://github.com/KnowHowJHipster/jh-petclinic-reactmin) - 
+- [KnowHowJHipster/jh-petclinic-minapifirst](https://github.com/KnowHowJHipster/jh-petclinic-minapifirst) - 
+- [KnowHowJHipster/jh-petclinic-reactwebflux](https://github.com/KnowHowJHipster/jh-petclinic-reactwebflux) - 
