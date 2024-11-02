@@ -87,8 +87,8 @@ I'm Dima, a software developer focusing on Java, Spring, Kubernetes, microservic
 
 ### 👷 Check out some of my public repos:
 
-- [KnowHowJHipster/jh8-frontend-basic-angular](https://github.com/KnowHowJHipster/jh8-frontend-basic-angular) - 
+- [KnowHowJHipster/backend-boutique-no-user-management](https://github.com/KnowHowJHipster/backend-boutique-no-user-management) - 
+- [IQKV/boot-parent-pom](https://github.com/IQKV/boot-parent-pom) - Default configurations for complete dependency tree to quickly build Spring Boot project.
+- [IQKV/boot-mvc-rest](https://github.com/IQKV/boot-mvc-rest) - RESTful API support library.
 - [KnowHowDevOps/homelab-public-assets](https://github.com/KnowHowDevOps/homelab-public-assets) - Homelab Public Assets.
-- [KnowHowJHipster/backend-blog-basic](https://github.com/KnowHowJHipster/backend-blog-basic) - 
-- [KnowHowJHipster/fullstack-blog-react](https://github.com/KnowHowJHipster/fullstack-blog-react) - 
-- [KnowHowJHipster/fullstack-blog-react-elasticsearch-mapstruct](https://github.com/KnowHowJHipster/fullstack-blog-react-elasticsearch-mapstruct) - 
+- [KnowHowSpringBoot/sample-lorem-mix-kafka-mvc-rest](https://github.com/KnowHowSpringBoot/sample-lorem-mix-kafka-mvc-rest) - loripsum.net  text analyzer service.
