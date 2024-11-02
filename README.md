@@ -87,8 +87,8 @@ I'm Dima, a software developer focusing on Java, Spring, Kubernetes, microservic
 
 ### 👷 Check out some of my public repos:
 
-- [KnowHowJHipster/jh-petclinic-vuewebflux](https://github.com/KnowHowJHipster/jh-petclinic-vuewebflux) - 
-- [KnowHowJHipster/jh-petclinic-reactbdd](https://github.com/KnowHowJHipster/jh-petclinic-reactbdd) - 
-- [KnowHowJHipster/jh-petclinic-reactmin](https://github.com/KnowHowJHipster/jh-petclinic-reactmin) - 
-- [KnowHowJHipster/jh-petclinic-minapifirst](https://github.com/KnowHowJHipster/jh-petclinic-minapifirst) - 
-- [KnowHowJHipster/jh-petclinic-reactwebflux](https://github.com/KnowHowJHipster/jh-petclinic-reactwebflux) - 
+- [KnowHowJHipster/jh8-frontend-basic-angular](https://github.com/KnowHowJHipster/jh8-frontend-basic-angular) - 
+- [KnowHowDevOps/homelab-public-assets](https://github.com/KnowHowDevOps/homelab-public-assets) - Homelab Public Assets.
+- [KnowHowJHipster/backend-blog-basic](https://github.com/KnowHowJHipster/backend-blog-basic) - 
+- [KnowHowJHipster/fullstack-blog-react](https://github.com/KnowHowJHipster/fullstack-blog-react) - 
+- [KnowHowJHipster/fullstack-blog-react-elasticsearch-mapstruct](https://github.com/KnowHowJHipster/fullstack-blog-react-elasticsearch-mapstruct) - 
