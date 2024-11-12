@@ -90,5 +90,5 @@ I'm Dima, a software developer focusing on Java, Spring, Kubernetes, microservic
 - [KnowHowSpringBoot/quickstart-kafka-consuming-hello](https://github.com/KnowHowSpringBoot/quickstart-kafka-consuming-hello) - Minimal Spring Boot based sample of Kafka consumer app.
 - [KnowHowSpringBoot/sample-lorem-mix-kafka-mvc-rest](https://github.com/KnowHowSpringBoot/sample-lorem-mix-kafka-mvc-rest) - loripsum.net  text analyzer service.
 - [KnowHowDevOps/homelab-operations-pipeline](https://github.com/KnowHowDevOps/homelab-operations-pipeline) - This project aims to standardise CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
-- [KnowHowSpringBoot/sample-reactive-vaadin-chat](https://github.com/KnowHowSpringBoot/sample-reactive-vaadin-chat) - Sample of Chat application on top of Vaadin.
 - [KnowHowSpringBoot/quickstart-mvc-rest-user-profile-crud](https://github.com/KnowHowSpringBoot/quickstart-mvc-rest-user-profile-crud) - User Profile CRUD - Sample Restful App.
+- [KnowHowSpringBoot/quickstart-amqp-consuming-hello](https://github.com/KnowHowSpringBoot/quickstart-amqp-consuming-hello) - Minimal Spring Boot based sample of AMQP consumer app.
