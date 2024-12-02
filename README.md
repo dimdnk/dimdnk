@@ -87,8 +87,8 @@ I'm Dima, a software developer focusing on Java, Spring, Kubernetes, microservic
 
 ### 👷 Check out some of my public repos:
 
-- [KnowHowSpringBoot/sample-bookstore-mvc-rest-api](https://github.com/KnowHowSpringBoot/sample-bookstore-mvc-rest-api) - Sample book store REST API service using Spring Boot (backend).
-- [KnowHowSpringBoot/quickstart-kafka-stream-initialize](https://github.com/KnowHowSpringBoot/quickstart-kafka-stream-initialize) - Initial code to start working with Kafka Streams.
+- [IQKV/boot-parent-pom](https://github.com/IQKV/boot-parent-pom) - Default configurations for complete dependency tree to quickly build Spring Boot project.
+- [KnowHowSpringBoot/sample-reactive-crud-secured](https://github.com/KnowHowSpringBoot/sample-reactive-crud-secured) - Minimal Spring Boot based reactive app example, which manages user entity (including Swagger UI).
+- [IQKV/boot-security](https://github.com/IQKV/boot-security) - Security support library.
 - [KnowHowSpringBoot/sample-lorem-mix-kafka-mvc-rest](https://github.com/KnowHowSpringBoot/sample-lorem-mix-kafka-mvc-rest) - loripsum.net  text analyzer service.
 - [KnowHowSpringBoot/quickstart-mvc-rest-user-profile-crud](https://github.com/KnowHowSpringBoot/quickstart-mvc-rest-user-profile-crud) - User Profile CRUD - Sample Restful App.
-- [IQKV/boot-mvc-rest](https://github.com/IQKV/boot-mvc-rest) - RESTful API support library.
