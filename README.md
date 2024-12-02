@@ -89,6 +89,6 @@ I'm Dima, a software developer focusing on Java, Spring, Kubernetes, microservic
 
 - [IQKV/boot-parent-pom](https://github.com/IQKV/boot-parent-pom) - Default configurations for complete dependency tree to quickly build Spring Boot project.
 - [KnowHowSpringBoot/sample-reactive-crud-secured](https://github.com/KnowHowSpringBoot/sample-reactive-crud-secured) - Minimal Spring Boot based reactive app example, which manages user entity (including Swagger UI).
-- [IQKV/boot-security](https://github.com/IQKV/boot-security) - Security support library.
+- [KnowHowSpringBoot/quickstart-kafka-stream-initialize](https://github.com/KnowHowSpringBoot/quickstart-kafka-stream-initialize) - Initial code to start working with Kafka Streams.
 - [KnowHowSpringBoot/sample-lorem-mix-kafka-mvc-rest](https://github.com/KnowHowSpringBoot/sample-lorem-mix-kafka-mvc-rest) - loripsum.net  text analyzer service.
 - [KnowHowSpringBoot/quickstart-mvc-rest-user-profile-crud](https://github.com/KnowHowSpringBoot/quickstart-mvc-rest-user-profile-crud) - User Profile CRUD - Sample Restful App.
