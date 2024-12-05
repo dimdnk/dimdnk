@@ -87,8 +87,8 @@ I'm Dima, a software developer focusing on Java, Spring, Kubernetes, microservic
 
 ### 👷 Check out some of my public repos:
 
+- [IQKV/boot-parent-pom](https://github.com/IQKV/boot-parent-pom) - Default configurations for complete dependency tree to quickly build Spring Boot project.
 - [KnowHowSpringBoot/quickstart-kafka-stream-initialize](https://github.com/KnowHowSpringBoot/quickstart-kafka-stream-initialize) - Initial code to start working with Kafka Streams.
 - [KnowHowSpringBoot/sample-lorem-mix-kafka-mvc-rest](https://github.com/KnowHowSpringBoot/sample-lorem-mix-kafka-mvc-rest) - loripsum.net  text analyzer service.
-- [IQKV/boot-starter](https://github.com/IQKV/boot-starter) - Spring Boot Starters.
+- [KnowHowSpringBoot/quickstart-amqp-producing-hello](https://github.com/KnowHowSpringBoot/quickstart-amqp-producing-hello) - Sample of AMQP producer app.
 - [KnowHowSpringBoot/quickstart-mvc-rest-user-profile-crud](https://github.com/KnowHowSpringBoot/quickstart-mvc-rest-user-profile-crud) - User Profile CRUD - Sample Restful App.
-- [IQKV/boot-parent-pom](https://github.com/IQKV/boot-parent-pom) - Default configurations for complete dependency tree to quickly build Spring Boot project.
