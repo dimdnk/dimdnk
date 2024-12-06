@@ -87,8 +87,8 @@ I'm Dima, a software developer focusing on Java, Spring, Kubernetes, microservic
 
 ### 👷 Check out some of my public repos:
 
-- [KnowHowSpringBoot/sample-mix-netflixoss](https://github.com/KnowHowSpringBoot/sample-mix-netflixoss) - Microservice architecture with Spring Boot, Eureka, Hystrix, Config Server, minikube and Docker.
+- [dmitriidenisenko/dotfiles](https://github.com/dmitriidenisenko/dotfiles) - This contain my personal config files.
 - [KnowHowSpringBoot/sample-lorem-mix-kafka-mvc-rest](https://github.com/KnowHowSpringBoot/sample-lorem-mix-kafka-mvc-rest) - loripsum.net  text analyzer service.
-- [IQKV/boot-security-errors](https://github.com/IQKV/boot-security-errors) - Useful exception handlers for security proposes.
-- [KnowHowDevOps/homelab-operations-pipeline](https://github.com/KnowHowDevOps/homelab-operations-pipeline) - This project aims to standardise CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
+- [IQKV/boot-parent-pom](https://github.com/IQKV/boot-parent-pom) - Default configurations for complete dependency tree to quickly build Spring Boot project.
 - [IQKV/boot-mvc-rest](https://github.com/IQKV/boot-mvc-rest) - RESTful API support library.
+- [KnowHowSpringBoot/quickstart-mvc-rest-user-profile-crud](https://github.com/KnowHowSpringBoot/quickstart-mvc-rest-user-profile-crud) - User Profile CRUD - Sample Restful App.
