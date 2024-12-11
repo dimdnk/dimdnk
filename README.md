@@ -88,7 +88,7 @@ I'm Dima, a software developer focusing on Java, Spring, Kubernetes, microservic
 ### 👷 Check out some of my public repos:
 
 - [KnowHowSpringBoot/quickstart-jpa-jwt-secured](https://github.com/KnowHowSpringBoot/quickstart-jpa-jwt-secured) - JWT-based Spring security REST API.
-- [KnowHowSpringBoot/sample-lorem-mix-kafka-mvc-rest](https://github.com/KnowHowSpringBoot/sample-lorem-mix-kafka-mvc-rest) - loripsum.net  text analyzer service.
+- [KnowHowSpringBoot/sample-mix-lorem](https://github.com/KnowHowSpringBoot/sample-mix-lorem) - loripsum.net  text analyzer service.
 - [KnowHowSpringBoot/quickstart-mvc-rest-user-profile-crud](https://github.com/KnowHowSpringBoot/quickstart-mvc-rest-user-profile-crud) - User Profile CRUD - Sample Restful App.
 - [dmitriidenisenko/dotfiles](https://github.com/dmitriidenisenko/dotfiles) - This contain my personal config files.
 - [KnowHowSpringBoot/sample-bookingdb-mix-rest-graphql-amqp](https://github.com/KnowHowSpringBoot/sample-bookingdb-mix-rest-graphql-amqp) - Sample Spring Boot application that uses some features provided by Spring Cloud, deployed on Kubernetes.
