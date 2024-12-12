@@ -87,8 +87,8 @@ I'm Dima, a software developer focusing on Java, Spring, Kubernetes, microservic
 
 ### 👷 Check out some of my public repos:
 
-- [KnowHowSpringBoot/quickstart-kafka-stream-initialize](https://github.com/KnowHowSpringBoot/quickstart-kafka-stream-initialize) - Initial code to start working with Kafka Streams.
-- [KnowHowSpringBoot/sample-lorem-mix-kafka-mvc-rest](https://github.com/KnowHowSpringBoot/sample-lorem-mix-kafka-mvc-rest) - loripsum.net  text analyzer service.
+- [KnowHowDevOps/homelab-operations-pipeline](https://github.com/KnowHowDevOps/homelab-operations-pipeline) - This project aims to standardise CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
+- [KnowHowSpringBoot/sample-mix-lorem](https://github.com/KnowHowSpringBoot/sample-mix-lorem) - loripsum.net  text analyzer service.
 - [KnowHowSpringBoot/quickstart-mvc-rest-user-profile-crud](https://github.com/KnowHowSpringBoot/quickstart-mvc-rest-user-profile-crud) - User Profile CRUD - Sample Restful App.
 - [IQKV/boot-mvc-rest](https://github.com/IQKV/boot-mvc-rest) - RESTful API support library.
-- [KnowHowSpringBoot/quickstart-amqp-consuming-hello](https://github.com/KnowHowSpringBoot/quickstart-amqp-consuming-hello) - Minimal Spring Boot based sample of AMQP consumer app.
+- [KnowHowSpringBoot/sample-bookingdb-mix-rest-graphql-amqp](https://github.com/KnowHowSpringBoot/sample-bookingdb-mix-rest-graphql-amqp) - Sample Spring Boot application that uses some features provided by Spring Cloud, deployed on Kubernetes.
