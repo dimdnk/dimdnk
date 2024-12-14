@@ -87,8 +87,8 @@ I'm Dima, a software developer focusing on Java, Spring, Kubernetes, microservic
 
 ### 👷 Check out some of my public repos:
 
-- [KnowHowSpringBoot/quickstart-kafka-consuming-hello](https://github.com/KnowHowSpringBoot/quickstart-kafka-consuming-hello) - Minimal Spring Boot based sample of Kafka consumer app.
-- [KnowHowSpringBoot/sample-reactive-vaadin-chat](https://github.com/KnowHowSpringBoot/sample-reactive-vaadin-chat) - Sample of Chat application on top of Vaadin.
+- [KnowHowSpringBoot/sample-mix-bookingdb](https://github.com/KnowHowSpringBoot/sample-mix-bookingdb) - Sample Spring Boot application that uses some features provided by Spring Cloud, deployed on Kubernetes.
+- [dmitriidenisenko/dotfiles](https://github.com/dmitriidenisenko/dotfiles) - This contain my personal config files.
+- [KnowHowSpringBoot/quickstart-mvc-rest-hello-world](https://github.com/KnowHowSpringBoot/quickstart-mvc-rest-hello-world) - Minimal Spring Boot based RESTful &#39;Hello World&#39; example, including Swagger.
 - [KnowHowSpringBoot/quickstart-mvc-rest-user-profile-crud](https://github.com/KnowHowSpringBoot/quickstart-mvc-rest-user-profile-crud) - User Profile CRUD - Sample Restful App.
-- [KnowHowSpringBoot/sample-bookingdb-mix-rest-graphql-amqp](https://github.com/KnowHowSpringBoot/sample-bookingdb-mix-rest-graphql-amqp) - Sample Spring Boot application that uses some features provided by Spring Cloud, deployed on Kubernetes.
 - [KnowHowSpringBoot/sample-mix-netflixoss](https://github.com/KnowHowSpringBoot/sample-mix-netflixoss) - Microservice architecture with Spring Boot, Eureka, Hystrix, Config Server, minikube and Docker.
