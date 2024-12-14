@@ -17,7 +17,7 @@
 ## 📜 Samples
 
 - [sample-mix-netflixoss](https://github.com/KnowHowSpringBoot/sample-mix-netflixoss): legacy, mysql, mongodb, fault-tolerance, service-discovery, spring-cloud, microservices-architecture, zipkin, cloud-design-pattern, maven-multi-module
-- [sample-bookingdb-mix-rest-graphql-amqp](https://github.com/KnowHowSpringBoot/sample-bookingdb-mix-rest-graphql-amqp): kubernetes, rabbitmq, rest-api, amqp, graphql-server, swagger-ui, microservices-architecture, maven-multi-module
+- [sample-mix-bookingdb](https://github.com/KnowHowSpringBoot/sample-mix-bookingdb): kubernetes, rabbitmq, rest-api, amqp, graphql-server, swagger-ui, microservices-architecture, maven-multi-module
 - [sample-bookstore-mvc-rest-api](https://github.com/KnowHowSpringBoot/sample-bookstore-mvc-rest-api): rest-api, swagger-ui, liquibase, postgresql-database, testcontainers
 - [sample-lorem-mix-kafka-restful](https://github.com/KnowHowSpringBoot/sample-lorem-mix-kafka-restful): kafka,, sample-app, liquibase, postgresql-database, microservices-architecture, maven-multi-module
 - [sample-reactive-crud-secured](https://github.com/KnowHowSpringBoot/sample-reactive-crud-secured): spring-security, swagger-ui, postgresql-database, json-web-token, flyway-migrations, webflux-security
