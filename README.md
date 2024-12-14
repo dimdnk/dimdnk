@@ -87,8 +87,8 @@ I'm Dima, a software developer focusing on Java, Spring, Kubernetes, microservic
 
 ### 👷 Check out some of my public repos:
 
-- [KnowHowSpringBoot/sample-mix-bookingdb](https://github.com/KnowHowSpringBoot/sample-mix-bookingdb) - Sample Spring Boot application that uses some features provided by Spring Cloud, deployed on Kubernetes.
+- [KnowHowDevOps/homelab-operations-pipeline](https://github.com/KnowHowDevOps/homelab-operations-pipeline) - This project aims to standardise CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
 - [dmitriidenisenko/dotfiles](https://github.com/dmitriidenisenko/dotfiles) - This contain my personal config files.
+- [KnowHowSpringBoot/sample-mix-bookingdb](https://github.com/KnowHowSpringBoot/sample-mix-bookingdb) - Sample Spring Boot application that uses some features provided by Spring Cloud, deployed on Kubernetes.
 - [KnowHowSpringBoot/quickstart-mvc-rest-hello-world](https://github.com/KnowHowSpringBoot/quickstart-mvc-rest-hello-world) - Minimal Spring Boot based RESTful &#39;Hello World&#39; example, including Swagger.
-- [KnowHowSpringBoot/quickstart-mvc-rest-user-profile-crud](https://github.com/KnowHowSpringBoot/quickstart-mvc-rest-user-profile-crud) - User Profile CRUD - Sample Restful App.
-- [KnowHowSpringBoot/sample-mix-netflixoss](https://github.com/KnowHowSpringBoot/sample-mix-netflixoss) - Microservice architecture with Spring Boot, Eureka, Hystrix, Config Server, minikube and Docker.
+- [IQKV/boot-mvc-rest](https://github.com/IQKV/boot-mvc-rest) - RESTful API support library.
