@@ -3,7 +3,9 @@
 - [Curated list of awesome lists](https://project-awesome.org/)
 
 ### Home
+
 ##### Google
+
 - [Google](https://www.google.com.ua/)
 - [My Activity](https://myactivity.google.com/myactivity?pli=1)
 - [Google Keep](https://keep.google.com/)
@@ -11,16 +13,20 @@
 - [Google Drive](https://drive.google.com/drive/my-drive)
 - [Google Photos](https://photos.google.com/?pageId=none)
 - [Google Translator](https://translate.google.com/)
-- [Google Contacts](https://contacts.google.com/?hl=en&amp;tab=qC)
+- [Google Contacts](https://contacts.google.com/?hl=en&tab=qC)
 - [Developer Guide &nbsp;|&nbsp; Geocoding API &nbsp;|&nbsp; Google Developers](https://developers.google.com/maps/documentation/geocoding/intro#ReverseGeocoding)
 - [YouTube](https://www.youtube.com/)
 - [How Old Is My Gmail Account? - Raleigh SEO Company](https://www.raleighseocompany.org/how-old-is-my-gmail-account/)
 - [Migrate from Gmail or webmail to Google Workspace - Google Workspace Admin Help](https://support.google.com/a/answer/9216781?hl=en)
+
 ##### Development
+
 - [GitHub](https://github.com/)
 - [Bitbucket](https://bitbucket.org/)
 - [Docker Hub](https://hub.docker.com/)
+
 ##### Domains &amp; Hosting
+
 - [DigitalOcean](https://cloud.digitalocean.com/login)
 - [Hostpro - Панель клиента](https://billing.hostpro.ua/clientarea.php)
 - [VPS-хостинг | VPS-сервер зараз зі знижкою до 70%](https://www.hostinger.com.ua/vps-hosting#slide3)
@@ -29,34 +35,46 @@
 - [Website Builder, Productivity Apps, Marketing Tools - Namecheap.com](https://www.namecheap.com/apps/)
 - [Promo Codes and Coupons - Exclusive offers and discounts - Namecheap](https://www.namecheap.com/promos/coupons/)
 - [Generating a CSR on Windows using OpenSSL - SSL Certificates - Namecheap.com](https://www.namecheap.com/support/knowledgebase/article.aspx/10161/2290/generating-a-csr-on-windows-using-openssl/)
-- [GoDaddy](https://sso.godaddy.com/?regionsite=www&amp;marketid=en-US)
+- [GoDaddy](https://sso.godaddy.com/?regionsite=www&marketid=en-US)
 - [HOSTiQ.ua](https://hostiq.ua/clients/clientarea.php)
 - [Хостинг в Украине — купить украинский хостинг сайтов от провайдера FreeHost](https://freehost.com.ua/)
+
 ###### VPS
-- [1Gb.ua - Реєстрація користувача](http://www.1gb.ua/l_vds2_ukr.php?utm_source=google&amp;utm_medium=search&amp;utm_term=%2Bcheap%20%2Bvps&amp;utm_content=8859395679257401130&amp;utm_campaign=173804401&amp;utm_offer=server_rus&amp;utm_tag=dedicated&amp;gclid=EAIaIQobChMI15eC4OaL7wIVjs13Ch3orANGEAAYASAAEgJ5WPD_BwE)
-- [Virtual Private Servers | Quality VPS at Incredib…](https://contabo.com/en/vps/?utm_source=adwords&amp;utm_medium=cpc&amp;utm_campaign=vps&amp;gclid=EAIaIQobChMI2dWMlMeU8QIVDpCyCh36bQ9cEAAYAyAAEgIP-vD_BwE)
+
+- [1Gb.ua - Реєстрація користувача](http://www.1gb.ua/l_vds2_ukr.php?utm_source=google&utm_medium=search&utm_term=%2Bcheap%20%2Bvps&utm_content=8859395679257401130&utm_campaign=173804401&utm_offer=server_rus&utm_tag=dedicated&gclid=EAIaIQobChMI15eC4OaL7wIVjs13Ch3orANGEAAYASAAEgJ5WPD_BwE)
+- [Virtual Private Servers | Quality VPS at Incredib…](https://contabo.com/en/vps/?utm_source=adwords&utm_medium=cpc&utm_campaign=vps&gclid=EAIaIQobChMI2dWMlMeU8QIVDpCyCh36bQ9cEAAYAyAAEgIP-vD_BwE)
 - [VPS2day Pricing - KVM based SSD VPS in Europe &amp; USA](https://www.vps2day.com/pricing/)
 - [ua-hosting VPS (KVM)](https://ua-hosting.company/cloudvps/nl#maincubes_tier_iv)
+
 ###### Other
+
 - [It's official: .corp, .home, .mail will never be top-level domains on the 'net • The Register](https://www.theregister.co.uk/2018/02/12/icann_corp_home_mail_gtlds/)
-- [Buy &amp; Sell Domains - Domain Name Auction | Namecheap](https://www.namecheap.com/domains/marketplace/buy-domains?page=1&amp;size=20&amp;keyword=&amp;priceRange=0:25&amp;categories=-1&amp;seller=&amp;maxLength=5&amp;hyphens=true&amp;numbers=true&amp;adultListing=)
+- [Buy &amp; Sell Domains - Domain Name Auction | Namecheap](https://www.namecheap.com/domains/marketplace/buy-domains?page=1&size=20&keyword=&priceRange=0:25&categories=-1&seller=&maxLength=5&hyphens=true&numbers=true&adultListing=)
+
 ##### Conferencing
+
 - [Zoom Video Conferencing](https://zoom.us/)
 - [Slack](https://slack.com/intl/en-gb/)
+
 ##### Education
+
 - [Leanpub: Publish Early, Publish Often](https://leanpub.com/)
 - [Coursera](https://www.coursera.org/)
 - [DevTube - The best developer videos in one place](https://dev.tube/)
 - [Udemy](https://www.udemy.com/)
 - [reddit: the front page of the internet](https://www.reddit.com/)
+
 ##### Travel
+
 - [Airbnb](https://ru.airbnb.com/)
 - [Doba.ua](https://doba.ua/)
-- [Booking.com](https://www.booking.com/index.ru.html?label=gen173nr-1BCAEoggJCAlhYSDNYBGjpAYgBAZgBIcIBCndpbmRvd3MgMTDIAQzYAQHoAQGSAgF5qAID;sid=ae5c1b352e1cff730e017e019929af75;keep_landing=1&amp;sb_price_type=total&amp;)
+- [Booking.com](https://www.booking.com/index.ru.html?label=gen173nr-1BCAEoggJCAlhYSDNYBGjpAYgBAZgBIcIBCndpbmRvd3MgMTDIAQzYAQHoAQGSAgF5qAID;sid=ae5c1b352e1cff730e017e019929af75;keep_landing=1&sb_price_type=total&)
 - [BlaBlaCar.com.ua](https://www.blablacar.com.ua/)
 - [Tickets.ua](https://gd.tickets.ua/)
 - [Автобусні подорожі Європою | FlixBus](https://www.flixbus.com.ua/)
+
 ##### Media
+
 - [Deezer - Flow - Загружайте и слушайте свою музыку | Бесплатная потоковая трансляция](https://www.deezer.com/ru/)
 - [DI.FM - addictive electronic music](https://www.di.fm/)
 - [RadioTunes | Enjoy amazing Free Internet Radio stations](https://www.radiotunes.com/login)
@@ -64,7 +82,9 @@
 - [Last.fm](https://secure.last.fm/login)
 - [TuneIn](https://tunein.com/)
 - [Watch Free Movies &amp; TV | Stream Smarter with Plex](https://www.plex.tv/)
+
 ##### Social Networks
+
 - [DOU](https://dou.ua/)
 - [LinkedIn](https://www.linkedin.com/)
 - [Where Developers Learn, Share, &amp; Build Careers](https://stackoverflow.com/)
@@ -78,21 +98,29 @@
 - [Pinterest](https://www.pinterest.com/)
 - [Sony Entertainment Network](https://auth.api.sonyentertainmentnetwork.com/login.jsp)
 - [Google :: Download your data](https://takeout.google.com/settings/takeout?pli=1)
-- [Mi Account - Sign in](https://account.xiaomi.com/pass/serviceLogin?callback=https%3A%2F%2Faccount.xiaomi.com%2Fsts%3Fsign%3DZvAtJIzsDsFe60LdaPa76nNNP58%253D%26followup%3Dhttps%253A%252F%252Faccount.xiaomi.com%252Fpass%252Fauth%252Fsecurity%252Fhome%26sid%3Dpassport&amp;sid=passport)
+- [Mi Account - Sign in](https://account.xiaomi.com/pass/serviceLogin?callback=https%3A%2F%2Faccount.xiaomi.com%2Fsts%3Fsign%3DZvAtJIzsDsFe60LdaPa76nNNP58%253D%26followup%3Dhttps%253A%252F%252Faccount.xiaomi.com%252Fpass%252Fauth%252Fsecurity%252Fhome%26sid%3Dpassport&sid=passport)
+
 ###### Work
+
 - [Upwork - Hire Freelancers &amp; Get Freelance Jobs Online](https://www.upwork.com/)
 - [Payoneer: Login](https://myaccount.payoneer.com/)
+
 ##### Mobile Operators
+
 - [Поповнити телефон та Інтернет | Virgin Mobile](https://doladowania.virginmobile.pl/uk/)
 - [My Kyivstar](https://account.kyivstar.ua/cas/login?service=http%3A%2F%2Fb2b.kyivstar.ua%3A80%2Ftbmb%2Fdisclaimer%2Fshow.do)
 - [lifecell. Подключай будущее - 4.5G интернет, 4.5G тарифы, 4.5G пакеты интернета, тарифы на интернет](https://my.lifecell.ua/ru/)
+
 ##### Data
+
 - [Dropbox](https://www.dropbox.com/)
 - [Sign in to your Zoho Account](https://www.zoho.com/login.html)
-- [Податки, платежі до бюджету — Portmone.com](https://www.portmone.com.ua/r3/uk/terminal/social?utm_source=eSputnik-promo&amp;utm_medium=email&amp;utm_campaign=23042019NalogiECB&amp;utm_content=105274103)
+- [Податки, платежі до бюджету — Portmone.com](https://www.portmone.com.ua/r3/uk/terminal/social?utm_source=eSputnik-promo&utm_medium=email&utm_campaign=23042019NalogiECB&utm_content=105274103)
+
 #### Personal
+
 - [Resume Builder · Resume.io](https://resume.io/app/auth/sign-up)
-- [(51) Java Developer | PerceptionBox | LinkedIn](https://www.linkedin.com/jobs/view/3080695910/?lgTemp=jobs_jymbii_digest&amp;eBP=NotAvailableFromMidTier&amp;lgCta=eml-jymbii-organic-job-card&amp;recommendedFlavor=HIDDEN_GEM&amp;refId=OKlweLwxeqmgHXDxSsbnCg%3D%3D&amp;trackingId=OKlweLwxeqmgHXDxSsbnCg%3D%3D&amp;midToken=AQFJQ0KJczoOOQ&amp;midSig=2U0fV2NkCJmag1&amp;trk=eml-jobs_jymbii_digest-jymbii-36-job_card_mercado&amp;trkEmail=eml-jobs_jymbii_digest-jymbii-36-job_card_mercado-null-2jzuyy%7El3bfol0f%7E8g-null-jobs%7Eview)
+- [(51) Java Developer | PerceptionBox | LinkedIn](https://www.linkedin.com/jobs/view/3080695910/?lgTemp=jobs_jymbii_digest&eBP=NotAvailableFromMidTier&lgCta=eml-jymbii-organic-job-card&recommendedFlavor=HIDDEN_GEM&refId=OKlweLwxeqmgHXDxSsbnCg%3D%3D&trackingId=OKlweLwxeqmgHXDxSsbnCg%3D%3D&midToken=AQFJQ0KJczoOOQ&midSig=2U0fV2NkCJmag1&trk=eml-jobs_jymbii_digest-jymbii-36-job_card_mercado&trkEmail=eml-jobs_jymbii_digest-jymbii-36-job_card_mercado-null-2jzuyy%7El3bfol0f%7E8g-null-jobs%7Eview)
 - [How to fund an MVP-stage startup? An ultimate guide to initial funding / Habr](https://habr.com/en/post/581360/)
 - [Заклад дошкільної освіти №247, портал дошкільної освіти міста Києва](https://osvita.kyivcity.gov.ua/#/objpage/58b672d4108cf4a567444ed7?_k=t9raca)
 - [Кем ты можешь стать в геймдеве: карта профессий](https://ain.ua/special/who-could-you-be-in-gamedev/)
@@ -103,7 +131,9 @@
 - [Про реалізацію експериментальног... | від 23.10.2019 № 956](https://zakon.rada.gov.ua/laws/show/956-2019-%D0%BF#Text)
 - [Инструменты английского, которые сделают ваши письменные тексты более богатыми / Блог компании EnglishDom / Хабр](https://habr.com/ru/company/englishdom/blog/556732/)
 - [Оплата штрафів ПДР | Онлайн оплата штрафів і перевірка погашення](https://shtrafua.com/)
+
 ###### Venture
+
 - [CrunchBase accelerates innovation by bringing together data on companies and the people behind them.](https://www.crunchbase.com/#/home/index)
 - [Startpack](https://startpack.ru/)
 - [DOU Проектор](http://dou.ua/lenta/tags/DOU%20%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BE%D1%80/)
@@ -124,7 +154,9 @@
 - [STARTUP NEWS: Что такое «Executive Summary» и с чем его едят.](http://www.startup.org.ua/2016/06/executive-summary.html)
 - [https://startuplaunchlist.com/?](https://startuplaunchlist.com/?)
 - [AngelList](https://angel.co/)
+
 #### Network
+
 - [How to set up VPN on Synology 6.1 NAS | NordVPN Support](https://support.nordvpn.com/Connectivity/NAS/1047411072/How-to-Set-up-a-VPN-on-Synology.htm)
 - [Fast &amp; Secure VPN You Can Trust | Free VPN Server | PrivadoVPN](https://privadovpn.com/)
 - [Move Mouse](https://sites.google.com/a/windandkite.co.uk/movemouse/home)
@@ -132,11 +164,15 @@
 - [Starter Domains - Brandable Domain Name Marketplace](https://starter.domains/)
 - [High-Speed, Secure &amp; Anonymous VPN Service | ExpressVPN](https://www.expressvpn.com/)
 - [ICANN Lookup](https://lookup.icann.org/lookup)
+
 ##### Providers
+
 - [Мій IPNET - Сторінка входу](https://my.ipnet.ua/#/login)
 - [O3 Profile](https://my.o3.ua/login)
 - [BestNet](http://10.90.10.1/cgi-bin/stat.pl)
+
 ##### NAS
+
 - [System Memory for Intel® NUC 11 Performance Kits NUC11PAQ/H/K[x]...](https://www.intel.com/content/www/us/en/support/articles/000058053/intel-nuc.html)
 - [Synology Account](https://account.synology.com/en-global/overview)
 - [RAID Calculator | Synology Inc.](https://www.synology.com/en-global/support/RAID_calculator)
@@ -154,13 +190,17 @@
 - [TrueNAS, TrueNAS или OMV? Выбираем софт для сетевого хранилища — «Хакер»](https://xakep.ru/2021/07/26/truenas-or-truenas/)
 - [EasyNAS | Making storage easy](https://easynas.org/)
 - [XigmaNAS – XigmaNAS](https://xigmanas.com/xnaswp/)
+
 ##### Misc
+
 - [Plex NAS Compatibility - Google Sheets](https://docs.google.com/spreadsheets/d/1MfYoJkiwSqCXg8cm5-Ac4oOLPRtCkgUxU0jdj3tmMPc/edit#gid=1274624273)
 - [Synology Reverse Proxy Server Set-Up — GRHMLGGT](https://www.grahamleggat.com/blog/2017/8/21/synology-reverse-proxy-server)
 - [avahi - mDNS/DNS-SD](https://www.avahi.org/)
 - [Building a $50 DIY Synology NAS! - YouTube](https://www.youtube.com/watch?v=9M91zH9guFM)
 - [Правильный монтаж кабеля витой пары](https://e-server.com.ua/sovety/123-pravilnyj-montazh-kabelya-vitoj-pary)
+
 ### · PM
+
 - [OpenSource Maturity Model - Wikipedia](https://en.wikipedia.org/wiki/OpenSource_Maturity_Model)
 - [goReflect | Online Retrospectives](https://www.goreflect.com/)
 - [Best Collaboration Tools in 2021 – Survey Results | The Space Blog](https://blog.jetbrains.com/space/2021/07/16/best-collaboration-tools/)
@@ -181,7 +221,7 @@
 - [Сопротивление сотрудников: «пьяный велосипед», проходимость сигналов, люфты,… и беспечность компании / Хабр](https://habr.com/ru/post/556880/)
 - [Как развиваться руководителю разработки / Блог компании Яндекс / Хабр](https://habr.com/company/yandex/blog/430826/)
 - [8&nbsp;основных причин, почему в&nbsp;растущем проекте падает качество | DOU](https://dou.ua/lenta/articles/main-reasons-why-quality-is-falling/)
-- [Senior Dev &amp; Architect: в чому різниця? - Skyworker](https://skyworker.com.ua/senior-dev-vs-architector?utm_source=facebook_architect&amp;utm_medium=facebook&amp;utm_campaign=article)
+- [Senior Dev &amp; Architect: в чому різниця? - Skyworker](https://skyworker.com.ua/senior-dev-vs-architector?utm_source=facebook_architect&utm_medium=facebook&utm_campaign=article)
 - [Управление проектами по разработке программного обеспечения. Проблемы и пути решения / Хабрахабр](https://habr.com/post/348248/)
 - [Как общаться с заказчиками и договариваться о проектной работе / Хабрахабр](https://habr.com/post/302340/)
 - [Про Agile, Scrum и командную работу. Как устроены процессы развития продуктов в Альфа-Лаборатории / Блог компании Альфа-Банк / Хабрахабр](https://habr.com/company/alfa/blog/334294/)
@@ -193,23 +233,31 @@
 - [Почему Agile иногда не работает / Блог компании Alconost / Хабрахабр](https://habr.com/company/alconost/blog/340900/)
 - [Менеджеру нужно уметь думать, а&nbsp;не программировать / Блог компании RegionSoft Developer Studio / Хабрахабр](https://habr.com/company/regionsoft/blog/352884/)
 - [Путь IT-менеджера (часть #1) / Хабрахабр](https://habr.com/post/352922/)
-- [Trunk Based Development as a Cornerstone for Continuous Delivery](https://www.infoq.com/news/2018/04/trunk-based-development?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global)
+- [Trunk Based Development as a Cornerstone for Continuous Delivery](https://www.infoq.com/news/2018/04/trunk-based-development?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)
 - [Где Agile ужасен, особенно Scrum / Хабр](https://habr.com/post/430890/)
 - [Sviatoslav Hryb - Intermediate Software Engineer - SoftServe | LinkedIn](https://www.linkedin.com/in/sviatoslav-hryb-9b82742a)
 - [Не нажимай и не утверждай / Хабр](https://habr.com/ru/post/456610/)
 - [Математическое невежество и его последствия, Джон Аллен Паулос, Студия Артемия Лебедева купить книгу 978-5-98062-127-8 – Лавка Бабуин, Киев, Украина](https://lavkababuin.com/matematicheskoe-nevezhestvo-i-ego-posledstviya-1010217/)
 - [Что такое SDLC? Этапы, методология и процессы жизненного цикла программного обеспечения / Блог компании Дата-центр «Миран» / Хабр](https://habr.com/ru/company/dcmiran/blog/521718/)
 - [Тестирование лучших self-hosted аналогов Notion / Хабр](https://habr.com/ru/companies/serverspace/articles/843480/)
+
 #### Agile
+
 - [SAFe 5.0 Framework - SAFe Big Picture](https://www.scaledagileframework.com/)
 - [Scrum Master - Scaled Agile Framework](https://www.scaledagileframework.com/scrum-master/)
+
 #### Software Testing
+
 - [Опыт работы с TDD и размышления о том, как надо тестировать код](https://m.habr.com/ru/post/207448/)
+
 ### · Software
+
 - [The Free Software Media System | Jellyfin](https://jellyfin.org/)
 - [Techno Tim HomeLab Services Tour (Late 2022) - What am I Self-Hosting in my HomeLab? - YouTube](https://www.youtube.com/watch?v=yrMRZVvkxeA)
 - [localstack/localstack-pro-samples: Sample projects to demonstrate advanced LocalStack features](https://github.com/localstack/localstack-pro-samples)
+
 #### Self-hosted
+
 - [awesome-selfhosted/README.md at master · awesome-selfhosted/awesome-selfhosted · GitHub](https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/README.md)
 - [⛺️ Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨](https://github.com/meienberger/runtipi)
 - [Relay and proxy all your webhooks to public and internal destinations - Webhook Relay](https://webhookrelay.com/)
@@ -221,7 +269,9 @@
 - [Using Terraform with Proxmox](https://tcude.net/using-terraform-with-proxmox/)
 - [pfSense Proxmox Install Process and Configuration - Virtualization Howto](https://www.virtualizationhowto.com/2022/08/pfsense-proxmox-install-process-and-configuration/)
 - [GitHub - bastienwirtz/homer: A very simple static homepage for your server.](https://github.com/bastienwirtz/homer)
+
 ### · Dev
+
 - [SourceCraft | Yandex](https://src.yandex.ru/?erid=2SDnjeygHvA)
 - [Status Page On Demand | Gatus](https://gatus.io/)
 - [DevDocs API Documentation](https://devdocs.io/)
@@ -232,7 +282,7 @@
 - [How Programming Works · GitHub](https://github.com/HowProgrammingWorks)
 - [daily.dev | Where developers grow together](https://daily.dev/)
 - [SFTPGo - Bring your file transfers anywhere](https://sftpgo.com/)
-- [Библиотека Java Junior - FAANG School](https://www.faang.school/java-junior-library?utm_source=youtube_community&amp;utm_medium=organic&amp;utm_campaign=library-java-junior&amp;utm_content=post-2)
+- [Библиотека Java Junior - FAANG School](https://www.faang.school/java-junior-library?utm_source=youtube_community&utm_medium=organic&utm_campaign=library-java-junior&utm_content=post-2)
 - [Tunnel to dev - Expose your local web server to the internet with a public URL](https://tunnelto.dev/)
 - [amq-kahadb-tool/README.md at master · Hill30/amq-…](https://github.com/Hill30/amq-kahadb-tool/blob/master/README.md)
 - [The New Stack | DevOps, Open Source, and Cloud Native News](https://thenewstack.io/)
@@ -240,7 +290,7 @@
 - [gabrie30/ghorg: Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🥚](https://github.com/gabrie30/ghorg)
 - [(35) Oleh Kravchuk | LinkedIn](https://www.linkedin.com/in/kolegm/)
 - [30 seconds of code](https://www.30secondsofcode.org/)
-- [Concourse CI](https://concourse-ci.org/?utm_source=thenewstack&amp;utm_medium=website&amp;utm_content=inline-mention&amp;utm_campaign=platform)
+- [Concourse CI](https://concourse-ci.org/?utm_source=thenewstack&utm_medium=website&utm_content=inline-mention&utm_campaign=platform)
 - [localtunnel/localtunnel: expose yourself](https://github.com/localtunnel/localtunnel)
 - [dev.by – IT-компании в Беларуси, вакансии, отзывы о белорусских IT-компаниях](https://companies.devby.io/)
 - [Home | Dmytro Denysenko | Cloudflare](https://dash.cloudflare.com/6c4a2a3e5abf79d3360cec462b5aa871)
@@ -256,7 +306,7 @@
 - [ohmybash/oh-my-bash: A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.](https://github.com/ohmybash/oh-my-bash)
 - [Open source Notion alternative AppFlowy gets big-name backers and lands on the cloud | TechCrunch](https://techcrunch.com/2023/11/20/appflowy-open-source-notion-alternative/)
 - [GitHub - olivrg/Awesome-Open-Source-eCommerce-Platforms: Awesome list of open source e-commerce platforms](https://github.com/olivrg/Awesome-Open-Source-eCommerce-Platforms#java)
-- [SG TCP/IP Ports Database](https://www.speedguide.net/ports.php?filter=&amp;sort=&amp;p=0)
+- [SG TCP/IP Ports Database](https://www.speedguide.net/ports.php?filter=&sort=&p=0)
 - [gohugoio/hugo: The world’s fastest framework for building websites.](https://github.com/gohugoio/hugo)
 - [GitHub - quay/quay: Build, Store, and Distribute your Applications and Containers](https://github.com/quay/quay)
 - [Mac Setup for Web Development [2022]](https://www.robinwieruch.de/mac-setup-web-development/)
@@ -294,9 +344,9 @@
 - [Learn Git Branching](https://learngitbranching.js.org/)
 - [Дорожная карта для начинающих в бэкенде – Telegraph](https://telegra.ph/Dorozhnaya-karta-dlya-nachinayushchih-v-behkende-04-28)
 - [Pricing Plans for all sizes | Conduktor](https://www.conduktor.io/pricing)
-- [Download VMware vSphere - VMware Customer Connect](https://customerconnect.vmware.com/en/downloads/details?downloadGroup=ESXI70U3F&amp;productId=974&amp;rPId=92926#product_downloads)
+- [Download VMware vSphere - VMware Customer Connect](https://customerconnect.vmware.com/en/downloads/details?downloadGroup=ESXI70U3F&productId=974&rPId=92926#product_downloads)
 - [vladilenm (Vladilen) · GitHub](https://github.com/vladilenm)
-- [Побитовые операторы](https://learn.javascript.ru/bitwise-operators#:~:text=%26%20(%D0%9F%D0%BE%D0%B1%D0%B8%D1%82%D0%BE%D0%B2%D0%BE%D0%B5%20%D0%98),a%20%D0%B8%20b%20%D1%80%D0%B0%D0%B2%D0%BD%D1%8B%20%D0%B5%D0%B4%D0%B8%D0%BD%D0%B8%D1%86%D0%B5.)
+- [Побитовые операторы](<https://learn.javascript.ru/bitwise-operators#:~:text=%26%20(%D0%9F%D0%BE%D0%B1%D0%B8%D1%82%D0%BE%D0%B2%D0%BE%D0%B5%20%D0%98),a%20%D0%B8%20b%20%D1%80%D0%B0%D0%B2%D0%BD%D1%8B%20%D0%B5%D0%B4%D0%B8%D0%BD%D0%B8%D1%86%D0%B5.>)
 - [What is REST - REST API Tutorial](https://restfulapi.net/)
 - [Conventional Commits](https://platform.uno/docs/articles/uno-development/git-conventional-commits.html)
 - [GitHub - codecrafters-io/build-your-own-x: Master programming by recreating your favorite technologies from scratch.](https://github.com/codecrafters-io/build-your-own-x#build-your-own-docker)
@@ -326,12 +376,12 @@
 - [React.js cheatsheet](https://devhints.io/react)
 - [Wellcome Collection](https://github.com/wellcomecollection)
 - [free-programming-books/free-programming-books-ru.md at main · EbookFoundation/free-programming-books · GitHub](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-ru.md#javascript)
-- [Grid® Report for ETL Tools](https://www.g2.com/reports/grid-report-for-etl-tools-spring-2022.embed?featured=fivetran&amp;secure%5Bgated_consumer%5D=81c19e0c-32db-41db-8f32-c8d1281ecc5c&amp;secure%5Btoken%5D=54561cc8446af6f8128ba2f45ec9e77fde0630de0b06aa3a3d18879aeb7a5fd1&amp;utm_campaign=gate-821144)
+- [Grid® Report for ETL Tools](https://www.g2.com/reports/grid-report-for-etl-tools-spring-2022.embed?featured=fivetran&secure%5Bgated_consumer%5D=81c19e0c-32db-41db-8f32-c8d1281ecc5c&secure%5Btoken%5D=54561cc8446af6f8128ba2f45ec9e77fde0630de0b06aa3a3d18879aeb7a5fd1&utm_campaign=gate-821144)
 - [Online analytical processing - Wikipedia](https://en.m.wikipedia.org/wiki/Online_analytical_processing)
 - [Advantages of spring batch - Stack Overflow](https://stackoverflow.com/questions/26929308/advantages-of-spring-batch)
 - [Is there any alternative to Spring Batch framework for batch processing? - Quora](https://www.quora.com/Is-there-any-alternative-to-Spring-Batch-framework-for-batch-processing)
-- [Шаблон мобильного приложения gradient glassmorphism | Бесплатно векторы](https://ru.freepik.com/free-vector/gradient-glassmorphism-mobile-app-template_28122586.htm#query=ui%20kit&amp;position=35&amp;from_view=search)
-- [G2](https://www.g2.com/reports/grid-report-for-etl-tools-summer-2022.embed?featured=fivetran&amp;secure%5Bgated_consumer%5D=81ec295f-bd8f-49b5-8075-bbddb1092571&amp;secure%5Btoken%5D=efddc7f0aeb1bd89226089c3a0b48d50d373258c7381554735318ff1b63f28ed&amp;utm_campaign=gate-1833039)
+- [Шаблон мобильного приложения gradient glassmorphism | Бесплатно векторы](https://ru.freepik.com/free-vector/gradient-glassmorphism-mobile-app-template_28122586.htm#query=ui%20kit&position=35&from_view=search)
+- [G2](https://www.g2.com/reports/grid-report-for-etl-tools-summer-2022.embed?featured=fivetran&secure%5Bgated_consumer%5D=81ec295f-bd8f-49b5-8075-bbddb1092571&secure%5Btoken%5D=efddc7f0aeb1bd89226089c3a0b48d50d373258c7381554735318ff1b63f28ed&utm_campaign=gate-1833039)
 - [GitHub - ishandeveloper/Notes-Keeper: This is a Google Keep inspired, Notes keeping app. The best part? All the notes you save are kept locally on your computer!](https://github.com/ishandeveloper/Notes-Keeper)
 - [Top 18 Exciting Spring Projects Ideas &amp; Topics For Beginners [2023] | upGrad blog](https://www.upgrad.com/blog/spring-projects-ideas-topics-for-beginners/)
 - [Top 10 Projects You can Build to Learn Spring Boot in 2023 | Java67](https://www.java67.com/2022/12/10-projects-ideas-to-learn-spring-boot.html)
@@ -364,7 +414,9 @@
 - [hantsy/spring-reactive-jwt-sample: Secures REST APIs with Spring Security and JWT Token-based Authentication powered by Spring Reactive stack](https://github.com/hantsy/spring-reactive-jwt-sample)
 - [Creating user, database and adding access on PostgreSQL | by Arnav Gupta | Coding Blocks | Medium](https://medium.com/coding-blocks/creating-user-database-and-adding-access-on-postgresql-8bfcd2f4a91e)
 - [(1) Mautic - YouTube](https://www.youtube.com/@MauticOrg/featured)
+
 #### · Coding
+
 - [GitHub Apps](https://github.com/settings/apps)
 - [Make a README](https://www.makeareadme.com/)
 - [Chronologic Versioning ∙ v2019.05.19](https://chronver.org/)
@@ -389,42 +441,54 @@
 - [spring-boot-s3-poc/pom.xml at main · nirajsonawane/spring-boot-s3-poc](https://github.com/nirajsonawane/spring-boot-s3-poc/blob/main/pom.xml)
 - [springboot-aws-s3/pom.xml at main · hendisantika/springboot-aws-s3](https://github.com/hendisantika/springboot-aws-s3/blob/main/pom.xml)
 - [minio-howto/aws-cli-with-minio-server.md at master · arschles/minio-howto](https://github.com/arschles/minio-howto/blob/master/aws-cli-with-minio-server.md)
+
 ##### Tools
+
 - [Postman](https://www.postman.com/)
 - [CSV To JSON Converter](https://www.convertcsv.com/csv-to-json.htm)
 - [httpstat.us](https://httpstat.us/)
 - [Scoop](https://scoop.sh/)
 - [Functional Core, Imperative Shell](https://www.destroyallsoftware.com/screencasts/catalog/functional-core-imperative-shell)
 - [GitHub - qarmin/czkawka: Multi functional app to find duplicates, empty folders, similar images etc.](https://github.com/qarmin/czkawka)
+
 ##### Theory
 
 ###### Algorithms
+
 - [Big O / Хабр](https://m.habr.com/ru/post/444594/)
+
 ##### Back-End Development
+
 - [Entity Framework - Database First Approach - Tutorialspoint](https://www.tutorialspoint.com/entity_framework/entity_database_first_approach.htm)
 - [High-Performance Ecommerce Platform | Aero Commerce](https://www.aerocommerce.com/)
 - [Saleor – A headless, GraphQL-first, open-source e-commerce platform](https://saleor.io/)
 - [GitHub - mirumee/saleor: A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React.](https://github.com/mirumee/saleor)
 - [CS-Cart | Marketplace Software Trusted by 1300+ Marketplaces](https://www.cs-cart.com/)
+
 ###### Message-queue systems
+
 - [RabbitMQ vs Kafka Part 2 - RabbitMQ Messaging Patterns — Jack Vanlightly](https://jack-vanlightly.com/blog/2017/12/5/rabbitmq-vs-kafka-part-2-rabbitmq-messaging-patterns-and-topologies)
 - [RabbitMQ poisoned messages handling](https://byalexblog.net/rabbitmq-poisoned-messages-handeling)
 - [All You Need to Know About Asynchronous Messaging and RabbitMQ - DZone Integration](https://dzone.com/articles/all-you-need-to-know-about-asyncronous-messaging-u)
 - [vFabric Documentation Center](https://pubs.vmware.com/vfabricRabbitMQ32/index.jsp?topic=/com.vmware.vfabric.rabbitmq.3.2/rabbit-web-docs/tutorials/tutorial-six-java.html)
 - [Getting result of a long running task with RabbitMQ](https://stackoverflow.com/questions/5870511/getting-result-of-a-long-running-task-with-rabbitmq)
 - [How to know when a set of RabbitMQ tasks are complete?](https://stackoverflow.com/questions/7734597/how-to-know-when-a-set-of-rabbitmq-tasks-are-complete)
-####### PHP
+  ####### PHP
 - [Неочевидный RabbitMQ в Yii2 или почему RabbitMQ пишет во все очереди сразу / Хабр](https://habr.com/ru/post/439080/)
 - [[Часть 4] RabbitMQ Exchanges, ключи роутинга и биндинги | | The Web Land](https://thewebland.net/development/devops/rabbitmq/exchanges-routing-kyes-and-bindingi/)
 - [GitHub - php-amqplib/Thumper: PHP Library that implements several messaging patterns for RabbitMQ](https://github.com/php-amqplib/Thumper)
 - [enqueue-elastica-bundle/QueuePagerPersister.php at master · php-enqueue/enqueue-elastica-bundle · GitHub](https://github.com/php-enqueue/enqueue-elastica-bundle/blob/master/Persister/QueuePagerPersister.php#L69)
+
 ###### Task Queue
+
 - [GitHub - yoomoney-tech/db-queue: Worker-queue implementation on top of Java and database](https://github.com/yoomoney-tech/db-queue)
 - [GitHub - badmonkee/coronamq: The simplest way to implement a task queue with Java, Vertx and PostgreSQL.](https://github.com/badmonkee/coronamq)
 - [5 subtle ways you're using MySQL as a queue, and why it'll bite you](https://blog.engineyard.com/5-subtle-ways-youre-using-mysql-as-a-queue-and-why-itll-bite-you)
 - [The best way to use a DB table as a job queue (a.k.a batch queue or message queue)](https://xspdf.com/resolution/55702399.html)
 - [Why MySQL is not a queue - ESchrade - Kevin Schroeder](https://www.eschrade.com/page/why-mysql-is-not-a-queue/)
+
 ###### PHP
+
 - [Introducing PeachPie 1.0.0 @ PeachPie | PHP compiler to .NET](https://www.peachpie.io/2021/03/v1.html)
 - [Rapid Enterprise App Development with Zend Expressive — SitePoint](https://www.sitepoint.com/rapid-enterprise-app-development-zend-expressive/)
 - [GitHub - ssledz/eav-model-pattern: Entity attribute value model](https://github.com/ssledz/eav-model-pattern)
@@ -445,7 +509,7 @@
 - [GitHub - qandidate-labs/broadway: Infrastructure and testing helpers for creating CQRS and event sourced applications.](https://github.com/qandidate-labs/broadway)
 - [Kraken](https://kraken.io/)
 - [defunkt/jquery-pjax · GitHub](https://github.com/defunkt/jquery-pjax)
-####### Magento
+  ####### Magento
 - [OpenMage LTS - A community-driven fork of Magento Community Edition - OpenMage LTS](https://www.openmage.org/)
 - [Magento just plain sucks. Magento 2.4.2 is unusable. Period. · Issue #32280 · magento/magento2 · GitHub](https://github.com/magento/magento2/issues/32280)
 - [GitHub - magenx/Magento-2-aws-cluster-terraform: Magento 2 AWS autoscaling cluster with terraform, using all AWS services](https://github.com/magenx/Magento-2-aws-cluster-terraform)
@@ -462,14 +526,14 @@
 - [Yehor Shytikov on LinkedIn: Magento just plain sucks. Magento 2.4.2 is unusable. Period. · Issue | 23 comments](https://www.linkedin.com/posts/yehorshytikov_magento-just-plain-sucks-magento-242-is-activity-6777435737844535296-ZkVa)
 - [Programmatically add a column to the Magento 2 sales order database table](https://m.academy/blog/programmatically-add-column-magento-2-sales-order-database-table/)
 - [6 Product Types in Magento 2 Explained &amp; Examples – Mageplaza](https://www.mageplaza.com/kb/6-types-product-types-magento-2.html)
-####### Symfony
+  ####### Symfony
 - [Symfony CMS / CMF listing](https://symfony-cms.net/)
 - [Dependency Injection Extensions &gt; Journey to the Center of Symfony: The Dependency Injection Container | KnpUniversity](https://knpuniversity.com/screencast/symfony-journey-di/dependency-injection-extensions#play)
 - [Using Bootstrap CSS &amp; JS (Symfony Docs)](https://symfony.com/doc/current/frontend/encore/bootstrap.html)
 - [KNP Labs − Proven team of Symfony3 developers / freelancers](http://knplabs.com/en)
 - [Elcodi - Symfony E-commerce Platform](http://elcodi.io/)
 - [New in Symfony 3.4: Advanced environment variables (Symfony Blog)](https://symfony.com/blog/new-in-symfony-3-4-advanced-environment-variables)
-- [Symfony 4: Let's Launch! &gt; Stellar Development with Symfony 4 | KnpUniversity](https://knpuniversity.com/screencast/symfony/setup?utm_content=bufferf70f0&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer)
+- [Symfony 4: Let's Launch! &gt; Stellar Development with Symfony 4 | KnpUniversity](https://knpuniversity.com/screencast/symfony/setup?utm_content=bufferf70f0&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 - [Aimeos: Symfony e-commerce bundle and online shop solution](https://aimeos.org/integrations/symfony-ecommerce-bundle/)
 - [Symfony + RabbitMQ Быстрый старт для молодых / Хабрахабр](https://habr.com/post/338950/)
 - [LiipImagineBundle/Async at 1.0 · Erdou/LiipImagineBundle · GitHub](https://github.com/Erdou/LiipImagineBundle/tree/1.0/Async)
@@ -495,13 +559,13 @@
 - [GitHub - Symplify/ChangelogLinker: [READ-ONLY] Make CHANGELOG.md Useful with Links](https://github.com/Symplify/ChangelogLinker)
 - [GitHub - akveo/ngx-admin: Admin dashboard template based on Angular 6+, Bootstrap 4 (previously known as ng2-admin)](https://github.com/akveo/ngx-admin)
 - [ngx-admin - Angular 6, Bootstrap 4 Admin dashboard template](http://akveo.com/ngx-admin/#/pages/dashboard)
-####### DDD
+  ####### DDD
 - [Слои, Луковицы, Гексогоны, Порты и Адаптеры — всё это об одном / Хабрахабр](https://habr.com/post/344164/)
 - [Matthias Noback Об Идеальной Архитектуре — Слои, Порты и Адаптеры(Часть 2 — Слои) / Хабрахабр](https://habr.com/post/351982/)
 - [Введение в проектирование сущностей, проблемы создания объектов / Хабрахабр](https://habr.com/post/321340/)
 - [Моя модернизация Byndyusoft.Infrastructure | DDD + CQRS + WebApi / Хабрахабр](https://habr.com/post/327484/)
 - [GitHub - citerus/dddsample-core: This is the new home of the original DDD Sample app (previously hosted at sf.net)..](https://github.com/citerus/dddsample-core)
-####### Libraries
+  ####### Libraries
 - [GitHub - thephpleague/skeleton: A skeleton repository for League Packages](https://github.com/thephpleague/skeleton)
 - [GitHub - unicodeveloper/laravel-hackathon-starter: A hackathon/MVP boilerplate for laravel web applications. Start your hackathons without hassle.](https://github.com/unicodeveloper/laravel-hackathon-starter)
 - [A set of PHP libraries&nbsp;–&nbsp;Hoa](https://hoa-project.net/En/)
@@ -521,7 +585,7 @@
 - [GitHub - elgentos/masquerade: Faker-driven, configuration-based, platform-agnostic, locale-compatible data faker tool](https://github.com/elgentos/masquerade)
 - [Laravel Nova](https://nova.laravel.com/)
 - [DigitalBrands/booking-com-sdk](https://github.com/DigitalBrands/booking-com-sdk)
-####### Dev Interview
+  ####### Dev Interview
 - [108 задач с IT-собеседований с разбором решений](https://tproger.ru/articles/problems/)
 - [Что должен знать Junior PHP разработчик](http://anton.shevchuk.name/php/required-skills-for-junior-php-developer/)
 - [every-programmer-should-know/README.md at master · mtdvio/every-programmer-should-know · GitHub](https://github.com/mtdvio/every-programmer-should-know/blob/master/README.md)
@@ -529,10 +593,14 @@
 - [Yevhen Trynchuk | LinkedIn](https://www.linkedin.com/in/eugenetrinchuk)
 - [Array merge vs. + - stitcher.io](https://stitcher.io/blog/array-merge-vs+)
 - [Senior Engineer в поисках работы. Как я прошел 20 собеседований с HR и что я об этом думаю / Хабрахабр](https://habr.com/post/430222/)
+
 ###### Automated Testing
+
 - [TDD есть опиум для народа. Так ли хороша технология, как ее описывают адепты? / Блог компании Quadcode / Хабр](https://habr.com/ru/company/quadcode/blog/571818/)
 - [Dredd](http://dredd.readthedocs.io/en/latest/)
+
 ###### Kafka
+
 - [Apache Kafka Intro](https://kafka.apache.org/intro)
 - [Home · linkedin/Burrow Wiki · GitHub](https://github.com/linkedin/Burrow/wiki)
 - [Apache Kafka Documentation](https://kafka.apache.org/documentation/)
@@ -548,39 +616,53 @@
 - [GitHub - SpringOnePlatform2016/grussell-spring-kafka: Spring for Apache Kafka @SpringOnePlatform](https://github.com/SpringOnePlatform2016/grussell-spring-kafka)
 - [Spring Boot and Kafka Configuration Tuning - DZone Big Data](https://dzone.com/articles/spring-boot-and-kafka-configuration-tuning)
 - [Spring and Kafka - Multiple Consumers with same Group ID - Only one consumer gets the messages - Stack Overflow](https://stackoverflow.com/questions/63865160/spring-and-kafka-multiple-consumers-with-same-group-id-only-one-consumer-get)
-- [Kafka Producer Architecture - Picking the Partition of Records - DZone Big Data](https://dzone.com/articles/kafka-producer-architecture-picking-the-partition#:~:text=kafka%20producers&amp;text=the%20producer%20picks%20which%20partition,can%20send%20records%20round%2Drobin.&amp;text=the%20default%20partitioner%20for%20java,the%20record%20has%20no%20key.)
+- [Kafka Producer Architecture - Picking the Partition of Records - DZone Big Data](https://dzone.com/articles/kafka-producer-architecture-picking-the-partition#:~:text=kafka%20producers&text=the%20producer%20picks%20which%20partition,can%20send%20records%20round%2Drobin.&text=the%20default%20partitioner%20for%20java,the%20record%20has%20no%20key.)
 - [RoundRobinAssignor (kafka 0.10.2.1 API)](https://kafka.apache.org/0102/javadoc/org/apache/kafka/clients/consumer/RoundRobinAssignor.html)
 - [Apache Kafka Use Cases: When To Use It &amp; When Not To | Upsolver](https://www.upsolver.com/blog/apache-kafka-use-cases-when-to-use-not)
 - [Delete message after consuming it in KAFKA - Stac…](https://stackoverflow.com/questions/28586008/delete-message-after-consuming-it-in-kafka)
 - [Kafka Cluster Minimum Requirements | Genpact Cora Knowledge Center](https://knowledgecenter.gcora.genpact.com/help/kafka-cluster-minimum-requirements)
-- [GitHub - provectus/kafka-ui: Open-Source Web GUI for Apache Kafka Management](https://github.com/provectus/kafka-ui#:~:text=Kafka%20UI%20is%20a%20free,management%20of%20Apache%20Kafka%20clusters.&amp;text=Its%20lightweight%20dashboard%20makes%20it,Partitions%2C%20Production%2C%20and%20Consumption.)
+- [GitHub - provectus/kafka-ui: Open-Source Web GUI for Apache Kafka Management](https://github.com/provectus/kafka-ui#:~:text=Kafka%20UI%20is%20a%20free,management%20of%20Apache%20Kafka%20clusters.&text=Its%20lightweight%20dashboard%20makes%20it,Partitions%2C%20Production%2C%20and%20Consumption.)
 - [Can multiple Kafka consumers read same message from the partition](https://stackoverflow.com/questions/35561110/can-multiple-kafka-consumers-read-same-message-from-the-partition)
 - [4. Kafka Consumers: Reading Data from Kafka - Kafka: The Definitive Guide [Book]](https://www.oreilly.com/library/view/kafka-the-definitive/9781491936153/ch04.html)
 - [Confluent: Apache Kafka &amp; Event Streaming Platform for the Enterprise](https://www.confluent.io/)
+
 ##### Data Formats
+
 - [Swagger](http://swagger.io/)
 - [SwaggerHub](https://app.swaggerhub.com/search)
 - [How to Merge Data from Multiple Sources into a Single Platform | Practical Ecommerce](https://www.practicalecommerce.com/how-to-merge-data-from-multiple-sources-into-a-single-platform)
 - [CSV Explorer](https://www.csvexplorer.com/datasets#)
 - [5 Different Types of Data Processing - Loginworks Softwares Pvt. Ltd.](https://www.loginworks.com/blogs/5-different-types-of-data-processing/)
+
 ###### JSON
+
 - [Fastest JSON parser ever](https://jsoniter.com/)
 - [JSON API — A specification for building APIs in JSON](http://jsonapi.org/)
 - [json-iterator/go: A high-performance 100% compatible drop-in replacement of "encoding/json"](https://github.com/json-iterator/go)
 - [JSON Schema Tool](https://jsonschema.net/login)
+
 ###### GraphQL
+
 - [Сравнение REST и GraphQL / Хабрахабр](https://habr.com/post/335158/)
+
 ###### REST
+
 - [Как построить REST-like API в крупном проекте / Блог компании Яндекс.Деньги / Хабрахабр](https://habr.com/company/yamoney/blog/347390/)
+
 ###### XML
+
 - [XML Parser | XML Viewer| XML Editor](https://countwordsfree.com/xmlviewer)
 - [How to Read XML File in Java - Javatpoint](https://www.javatpoint.com/how-to-read-xml-file-in-java)
 - [An introduction to XQuery](https://www.ibm.com/developerworks/library/x-xquery/index.html#sidebar)
 - [macos - How to execute xq files on xml files?](https://stackoverflow.com/questions/34191561/how-to-execute-xq-files-on-xml-files)
 - [XQuery Examples: Selecting and Joining Using FLWORs](http://www.datypic.com/books/xquery/chapter06.html)
+
 ###### SOAP
+
 - [From SOAP/1.1 to SOAP Version 1.2 in 9 points](https://www.w3.org/2003/06/soap11-soap12.html)
+
 ##### DB
+
 - [Запросы в PostgreSQL: 1. Этапы выполнения / Habr](https://habr.com/en/company/postgrespro/blog/574702/)
 - [Поиск по Postgres с использованием ZomboDb и elasticsearch / Habr](https://habr.com/en/post/303744/)
 - [PostgreSQL: Data Types](https://www.postgresql.org/docs/9.5/datatype.html)
@@ -595,7 +677,9 @@
 - [Conceptual, Logical and Physical Data Model](https://www.visual-paradigm.com/support/documents/vpuserguide/3563/3564/85378_conceptual,l.html)
 - [PostgreSQL: Documentation: 9.5: Constraints](https://www.postgresql.org/docs/9.5/ddl-constraints.html)
 - [PostgreSQL UNIQUE Constraint](https://www.postgresqltutorial.com/postgresql-unique-constraint/)
+
 ###### SQL
+
 - [Large MySQL Imports](https://support.tigertech.net/mysql-large-inserts#disable-mysql-jmp)
 - [Best Practices for Datatypes in a MySQL Schema](http://mysql.rjweb.org/doc.php/schema_best_practices_mysql)
 - [How do I create a new database and database user in MySQL? FAQ - Analytics Platform - Matomo](https://matomo.org/faq/how-to-install/faq_23484/)
@@ -605,9 +689,11 @@
 - [Базовые различия при работе с базами данными MySQL и PostgreSQL Дилетантский обзор / Хабрахабр](https://habr.com/post/302768/)
 - [SQL JOIN | JOIN Syntax | JOIN Differences | 3 tables | Examples](https://www.dofactory.com/sql/join)
 - [SQL UNION | Examples](https://www.dofactory.com/sql/union)
+
 ###### NoSQL
+
 - [За и против: Когда стоит и не стоит использовать MongoDB / Блог компании Латера Софтвер / Хабрахабр](https://habr.com/company/latera/blog/280196/)
-####### CouchBase
+  ####### CouchBase
 - [Indexer not working after a period of time - Couchbase Server - Couchbase Forums](https://forums.couchbase.com/t/indexer-not-working-after-a-period-of-time/19225)
 - [Too slow to delete millions of record in bucket - N1QL - Couchbase Forums](https://forums.couchbase.com/t/too-slow-to-delete-millions-of-record-in-bucket/27700)
 - [Delete v Expiry | Couchbase Docs](https://docs.couchbase.com/server/current/eventing/eventing-examples-delete-v-expiry.html)
@@ -637,13 +723,13 @@
 - [Sub-Document Operations with the Java SDK | Couchbase Docs](https://docs.couchbase.com/java-sdk/current/howtos/subdocument-operations.html)
 - [Couchbase Playground](https://couchbase.live/examples/basic-java-subdoc-mutate)
 - [What's the most efficient way to bulk update the expiry of documents? - .NET SDK - Couchbase Forums](https://forums.couchbase.com/t/whats-the-most-efficient-way-to-bulk-update-the-expiry-of-documents/12187/7)
-######## Spring Data
+  ######## Spring Data
 - [GitHub - zooldk/log4j-couchbase: Log4j couchbase appender, that persist logs (log stash style) in couchbase for easy mapping and searching](https://github.com/zooldk/log4j-couchbase)
 - [Spring Data Couchbase - Reference Documentation](https://docs.spring.io/spring-data/couchbase/docs/current/reference/html/#reference)
 - [How to Configure Multiple Data Sources in a Spring Boot Application - Spring Framework Guru](https://springframework.guru/how-to-configure-multiple-data-sources-in-a-spring-boot-application/)
 - [spring-data-couchbase/AbstractCouchbaseDataConfiguration.java at dc0f552841c2d7c3a73b9c3fec0d0735d956403d · spring-projects/spring-data-couchbase · GitHub](https://github.com/spring-projects/spring-data-couchbase/blob/dc0f552841c2d7c3a73b9c3fec0d0735d956403d/src/main/java/org/springframework/data/couchbase/config/AbstractCouchbaseDataConfiguration.java#L70)
 - [Is it possible to connect to two different buckets of couchbase in spring boot](https://stackoverflow.com/questions/36919204/is-it-possible-to-connect-to-two-different-buckets-of-couchbase-in-spring-boot)
-####### Couchbase
+  ####### Couchbase
 - [DELETE very slow for a ton of records - N1QL - Couchbase Forums](https://forums.couchbase.com/t/delete-very-slow-for-a-ton-of-records/15688/6)
 - [Using Couchbase in a Spring Application | Baeldung](https://www.baeldung.com/couchbase-sdk-spring)
 - [GitHub - bsubhashni/spring-boot-couchbase-demo: Demo - Restaurant suggestion application based on inspection score](https://github.com/bsubhashni/spring-boot-couchbase-demo)
@@ -653,13 +739,17 @@
 - [Couchbase N1QL Samples](https://gist.github.com/martinesmann/6eb50d033436decdfe3c)
 - [Couchbase N1QL WHERE…IN. Couchbase query language N1QL is very… | by Eli Segev | Medium](https://medium.com/@elisegev/couchbase-n1ql-where-in-120a414e0f13)
 - [Using Couchbase to Store Non-JSON Data | The Couchbase Blog](https://blog.couchbase.com/using-couchbase-to-store-non-json-data/)
+
 ##### Education
+
 - [Remote certification of AWS](https://t.me/aws_notes/628)
 - [DevDocs API Documentation](http://devdocs.io/)
 - [Skillotron — community driven endless quiz for technology — dotNet, Java, JavaScript, QA, Python, Ruby and other](https://skillotron.com/signin)
 - [GitHub - Hexlet/ru-test-assignments: Тестовые задания для самостоятельного выполнения от разных it компаний](https://github.com/Hexlet/ru-test-assignments)
 - [The 2018 Web Developer Roadmap – codeburst](https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d)
+
 ###### Dev Tips
+
 - [The Bulletproof Event Naming For Symfony Event Dispatcher | Tomas Votruba](https://www.tomasvotruba.com/blog/2020/05/25/the-bulletproof-event-naming-for-symfony-event-dispatcher/)
 - [Modern Software Over-Engineering Mistakes - RDX - Medium](https://medium.com/@rdsubhas/10-modern-software-engineering-mistakes-bc67fbef4fc8#.22iu9ar1o)
 - [iOS Developer Library](https://developer.apple.com/library/ios/navigation/)
@@ -676,7 +766,7 @@
 - [10 ошибок, приводящих к оверинжинирингу ПО / Блог компании Инфопульс Украина / Хабрахабр](https://habr.com/company/infopulse/blog/306328/)
 - [Zend Framework - Configuration mapping table](https://framework.zend.com/manual/2.4/en/tutorials/config.advanced.html)
 - [Горизонтальное масштабирование. Что, зачем, когда и как? / Блог компании Конференции Олега Бунина (Онтико) / Хабрахабр](https://habr.com/company/oleg-bunin/blog/319526/)
-- [8 B2B features improving CX – check if you have them all | Divante.co](http://divante.co/blog/8-b2b-features-improving-cx-check/?utm_source=twitter&amp;utm_medium=post-divante.co&amp;utm_campaign=make-your-loyalty-program-differently)
+- [8 B2B features improving CX – check if you have them all | Divante.co](http://divante.co/blog/8-b2b-features-improving-cx-check/?utm_source=twitter&utm_medium=post-divante.co&utm_campaign=make-your-loyalty-program-differently)
 - [Учимся любить юнит тесты](http://xp.1024.info/Articles/LoveUT.html)
 - [Why Developers Are Poor Testers And What To Do About It?](https://simpleprogrammer.com/2016/04/20/developers-poor-testers-can-done/)
 - [Event Sourcing | Microsoft Docs](https://docs.microsoft.com/en-us/azure/architecture/patterns/event-sourcing)
@@ -690,12 +780,18 @@
 - [Howto make Nginx decompress a gzipped request - pataliebre.net](http://www.pataliebre.net/howto-make-nginx-decompress-a-gzipped-request.html#.WtgJYaWa80N)
 - [Does Nginx handle Content-Encoding: gzip ?](https://forum.nginx.org/read.php?11,96472,214266)
 - [Free SSL/TLS Certificates with Let's Encrypt and NGINX](https://www.nginx.com/blog/free-certificates-lets-encrypt-and-nginx/)
-- [GitHub Package Registry: Your packages, at home with their code · GitHub](https://github.com/features/package-registry?utm_campaign=1557595156&amp;utm_medium=social&amp;utm_source=linkedin&amp;utm_content=1557595156)
+- [GitHub Package Registry: Your packages, at home with their code · GitHub](https://github.com/features/package-registry?utm_campaign=1557595156&utm_medium=social&utm_source=linkedin&utm_content=1557595156)
+
 ###### RegEx
+
 - [Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript](https://regex101.com/)
+
 ##### Processes
+
 - [How to avoid Code review pitfalls that slow your productivity down! - Doctor McKayla](https://www.michaelagreiler.com/code-review-pitfalls-slow-down/)
+
 ##### Misc
+
 - [Factorio](https://www.factorio.com/)
 - [A Killer Project in Killer Code, the Novel - Silicon Valley Project Management](https://svprojectmanagement.com/a-killer-project-in-killer-code-the-novel)
 - [Грустная история о том, что каждый программный код переписывается хоть раз / Хабр](https://m.habr.com/ru/post/549648/)
@@ -709,7 +805,9 @@
 - [Как распознать липовые проекты Agile / Хабр](https://habr.com/ru/post/436866/)
 - [Почему мы пишем программы такого низкого качества? / Хабр](https://m.habr.com/ru/post/488194/)
 - [Installing Cisco AnyConnect VPN Client on Ubuntu 18.04 | 16.04 | Website for Students](https://websiteforstudents.com/installing-cisco-anyconnect-vpn-client-on-ubuntu-18-06-18-04/)
+
 ###### Inspiring
+
 - [Headless e-commerce with GraphQL, TypeScript and Node.js | Vendure E-commerce](https://www.vendure.io/)
 - [SailfishOS - sailfishos.org](https://sailfishos.org/)
 - [Ecommerce Platform provider | Build online store for india | Create online store india | Build ecommerce website india](http://nationkart.com/)
@@ -747,9 +845,9 @@
 - [2016 Internet Trends — Kleiner Perkins Caufield Byers](http://www.kpcb.com/internet-trends)
 - [исследование юзабилити процесса покупки онлайн](http://habr.com/company/mastercard/blog/259663/)
 - [f6s.com - #1 for startup founder deals, accelerators &amp; funding | F6S](https://www.f6s.com/)
-- [Replace Legacy BPMS | Camunda BPM](https://camunda.com/solutions/replace-legacy-bpms/?utm_source=twitter&amp;utm_medium=cpc&amp;utm_campaign=lightweight_BPMS_v1)
+- [Replace Legacy BPMS | Camunda BPM](https://camunda.com/solutions/replace-legacy-bpms/?utm_source=twitter&utm_medium=cpc&utm_campaign=lightweight_BPMS_v1)
 - [Rapid Enterprise Application Development Platform | Appian](http://www.appian.com/bpm-software/application-platform/)
-####### CMS
+  ####### CMS
 - [Sell Tickets Online - Attendize.com](https://www.attendize.com/)
 - [Ensemble: a php content management framework](http://ensemble.github.io/)
 - [State of Drupal Commerce for Drupal 8 - Liip Blog Liip](https://blog.liip.ch/archive/2016/04/21/state-drupal-commerce-drupal-8.html)
@@ -774,21 +872,25 @@
 - [intaro · GitHub](https://github.com/intaro?tab=repositories)
 - [Understanding Dependencies / Хабрахабр](https://habr.com/post/349836/#Example1)
 - [Flowlu | Cloud based CRM system for small businesses &amp; Project Management Software](https://www.flowlu.com/)
-- [Content management systems: A business buyer's guide | TechRadar](http://www.techradar.com/news/software/business-software/content-management-systems-a-business-buyer-s-guide-1109207?utm_campaign=Awareness%20-%20Technology&amp;utm_content=28647601&amp;utm_medium=social&amp;utm_source=linkedin)
-####### eCommerce Reviews
+- [Content management systems: A business buyer's guide | TechRadar](http://www.techradar.com/news/software/business-software/content-management-systems-a-business-buyer-s-guide-1109207?utm_campaign=Awareness%20-%20Technology&utm_content=28647601&utm_medium=social&utm_source=linkedin)
+  ####### eCommerce Reviews
 - [commercetools | The eCommerce solution for innovators and visionaries - Next generation commerce](https://commercetools.com/)
 - [commercetools | The World’s Most Flexible Commerce Platform](https://commercetools.com/commerce-platform)
-- [A Sneak Peek at the Top 10 Website Builders Out There](http://www.top10bestwebsitebuilders.com/best10?utm_source=taboolaNI&amp;utm_medium=msn-msn-home&amp;a=2977&amp;ts=taboo&amp;utm_campaign=2977)
+- [A Sneak Peek at the Top 10 Website Builders Out There](http://www.top10bestwebsitebuilders.com/best10?utm_source=taboolaNI&utm_medium=msn-msn-home&a=2977&ts=taboo&utm_campaign=2977)
 - [List of E-Commerce Software, Shopping Cart Solutions &amp; Online Store Builders - E-Commerce - by CMS Critic](https://www.cmscritic.com/dir/ecommerce-software/)
 - [Ecommerce Platforms - How To Choose The Best Platform](http://www.abetterlemonadestand.com/ecommerce-platforms/)
 - [The Ultimate Checklist for Every New Ecommerce Site](http://ecommerce-platforms.com/articles/ultimate-checklist-every-new-ecommerce-site)
 - [How to Get Involved in the Magento Community | Magento](https://magento.com/blog/technical/how-get-involved-magento-community)
-- [Den Pavlovsky's answer to What is the best e-commerce platform and why? - Quora](https://www.quora.com/What-is-the-best-e-commerce-platform-and-why/answer/Den-Pavlovsky-1?srid=cLdT&amp;share=75a830e6)
+- [Den Pavlovsky's answer to What is the best e-commerce platform and why? - Quora](https://www.quora.com/What-is-the-best-e-commerce-platform-and-why/answer/Den-Pavlovsky-1?srid=cLdT&share=75a830e6)
 - [Responsive Upscaling: 11 Ideas for Large-Screen E-Commerce Design - Articles - Baymard Institute](http://baymard.com/blog/responsive-upscaling)
+
 ##### Docs
+
 - [Zeal - Offline Documentation Browser](https://zealdocs.org/)
 - [Dash for macOS - API Documentation Browser, Snippet Manager - Kapeli](https://kapeli.com/dash)
+
 ##### News
+
 - [Hacker News](https://news.ycombinator.com/)
 - [ITC.ua](https://itc.ua/)
 - [TechCrunch – Startup and Technology News](https://techcrunch.com/)
@@ -800,11 +902,15 @@
 - [CNET](https://www.cnet.com/)
 - [HelloTech](https://engineering.hellofresh.com/)
 - [Интернет-издание о высоких технологиях - CNews](https://www.cnews.ru/)
+
 ##### Patterns
+
 - [HumbleObject](https://martinfowler.com/bliki/HumbleObject.html)
+
 ##### Tips &amp; Tricks
+
 - [Clean Coder Blog](http://blog.cleancoder.com/)
-- [kettanaito/naming-cheatsheet: Comprehensive language-agnostic guidelines on variables naming.: PHP](https://www.reddit.com/r/PHP/comments/l03eio/kettanaitonamingcheatsheet_comprehensive/?$deep_link=true&amp;correlation_id=ce21ee0f-65ba-48e4-bafa-7109c1818093&amp;ref=email_digest&amp;ref_campaign=email_digest&amp;ref_source=email&amp;$3p=e_as&amp;$original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FPHP%2Fcomments%2Fl03eio%2Fkettanaitonamingcheatsheet_comprehensive%2F%3F%24deep_link%3Dtrue%26correlation_id%3Dce21ee0f-65ba-48e4-bafa-7109c1818093%26ref%3Demail_digest%26ref_campaign%3Demail_digest%26ref_source%3Demail&amp;_branch_match_id=880342274517333099)
+- [kettanaito/naming-cheatsheet: Comprehensive language-agnostic guidelines on variables naming.: PHP](https://www.reddit.com/r/PHP/comments/l03eio/kettanaitonamingcheatsheet_comprehensive/?$deep_link=true&correlation_id=ce21ee0f-65ba-48e4-bafa-7109c1818093&ref=email_digest&ref_campaign=email_digest&ref_source=email&$3p=e_as&$original_url=https%3A%2F%2Fwww.reddit.com%2Fr%2FPHP%2Fcomments%2Fl03eio%2Fkettanaitonamingcheatsheet_comprehensive%2F%3F%24deep_link%3Dtrue%26correlation_id%3Dce21ee0f-65ba-48e4-bafa-7109c1818093%26ref%3Demail_digest%26ref_campaign%3Demail_digest%26ref_source%3Demail&_branch_match_id=880342274517333099)
 - [JavaScript - You Don't Need](https://github.com/you-dont-need)
 - [linux - How to run a shell script in the background and get no output](https://stackoverflow.com/questions/9190151/how-to-run-a-shell-script-in-the-background-and-get-no-output)
 - [curl - Extract CA Certs from Mozilla](https://curl.se/docs/caextract.html)
@@ -816,7 +922,9 @@
 - [Remove Duplicates from a CSV File - CSV Explorer Blog](https://www.csvexplorer.com/blog/remove-duplicates-from-a-csv-file/)
 - [Cron schedule expression editor](https://crontab.guru/#5_0_*_8_*)
 - [Comprehensive guidelines on variables naming.](https://github.com/kettanaito/naming-cheatsheet)
+
 #### · Architecture
+
 - [Marketplace architecture&nbsp; | Download Scientific Diagram](https://www.researchgate.net/figure/Marketplace-architecture_fig2_227995739)
 - [Application architecture — digitalmarketplace-manual 1.0.0 documentation](https://crown-commercial-service.github.io/digitalmarketplace-manual/developing-the-digital-marketplace/application-architecture.html)
 - [API Design: Long-Running Background Jobs - Tyk API Gateway](https://tyk.io/blog/api-design-guidance-long-running-background-jobs/)
@@ -825,7 +933,7 @@
 - [Shift Left Approach for API Standardization](https://www.infoq.com/articles/shift-left-api-standardization/)
 - [Best Practices in API Design](https://swagger.io/resources/articles/best-practices-in-api-design/)
 - [TOGAF® Series Guide: Microservices Architecture (MSA)](https://publications.opengroup.org/togaf-library/g21i)
-- [Hexagonal architecture (software) - Wikipedia](https://en.wikipedia.org/wiki/Hexagonal_architecture_(software)#:~:text=The%20hexagonal%20architecture%2C%20or%20ports,means%20of%20ports%20and%20adapters.)
+- [Hexagonal architecture (software) - Wikipedia](<https://en.wikipedia.org/wiki/Hexagonal_architecture_(software)#:~:text=The%20hexagonal%20architecture%2C%20or%20ports,means%20of%20ports%20and%20adapters.>)
 - [Microservice Architecture: Sidecar Pattern | by Shashir | Nerd For Tech | Medium](https://medium.com/nerd-for-tech/microservice-design-pattern-sidecar-sidekick-pattern-dbcea9bed783)
 - [Doing Cloud-Native the Right Way. Key Components.](https://www.tynybay.com/insights-our-thinking/doing-cloud-native-the-right-way-key-components)
 - [6 Common System Design Interview Questions (With Example Answers) | Indeed.com](https://www.indeed.com/career-advice/interviewing/system-design-interview-questions)
@@ -845,7 +953,9 @@
 - [Fireside chat about Cloud Native Java with Jonathan Vila - YouTube](https://www.youtube.com/watch?v=HM5cfp6PtOo)
 - [Domain model purity vs. domain model completeness (DDD Trilemma) · Enterprise Craftsmanship](https://enterprisecraftsmanship.com/posts/domain-model-purity-completeness/)
 - [anirban99/hexagonal-architecture: A Spring Boot application illustrating hexagonal architecture in Java](https://github.com/anirban99/hexagonal-architecture)
+
 ##### Solution
+
 - [The Application Continuum](https://www.appcontinuum.io/)
 - [The Twelve-Factor App](https://12factor.net/)
 - [The BFF Pattern (Backend for Frontend): An Introduction | by Viduni Wickramarachchi | Bits and Pieces](https://blog.bitsrc.io/bff-pattern-backend-for-frontend-an-introduction-e4fa965128bf)
@@ -855,14 +965,16 @@
 - [Best of Big Data - DataFlair](https://data-flair.training/blogs/)
 - [Ready for changes with Hexagonal Architecture - Netflix TechBlog](https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749?gi=ad6a39a5ee75)
 - [The Difference Between a Data Warehouse and a Database | Panoply](https://panoply.io/data-warehouse-guide/the-difference-between-a-database-and-a-data-warehouse/)
-- [Storm (event processor) - Wikipedia](https://en.wikipedia.org/wiki/Storm_(event_processor)#Apache_Storm_Architecture)
-- [Business Intelligence for the Real-Time Enterprises: First International ... - Google Books](https://books.google.com.ua/books?id=AjC5j4KeTkEC&amp;pg=PA77&amp;lpg=PA77&amp;dq=etl+xquery&amp;source=bl&amp;ots=RdwYp6T7hs&amp;sig=ACfU3U2gPFNUkB3oLotoG6z-VbnEP1OqJg&amp;hl=en&amp;sa=X&amp;ved=2ahUKEwjA_di7pZ_pAhWRsKQKHYcDCqUQ6AEwBXoECGQQAQ#v=onepage&amp;q=etl%20xquery&amp;f=false)
+- [Storm (event processor) - Wikipedia](<https://en.wikipedia.org/wiki/Storm_(event_processor)#Apache_Storm_Architecture>)
+- [Business Intelligence for the Real-Time Enterprises: First International ... - Google Books](https://books.google.com.ua/books?id=AjC5j4KeTkEC&pg=PA77&lpg=PA77&dq=etl+xquery&source=bl&ots=RdwYp6T7hs&sig=ACfU3U2gPFNUkB3oLotoG6z-VbnEP1OqJg&hl=en&sa=X&ved=2ahUKEwjA_di7pZ_pAhWRsKQKHYcDCqUQ6AEwBXoECGQQAQ#v=onepage&q=etl%20xquery&f=false)
 - [Metadata - business and technical](https://etl-tools.info/en/metadata.html)
 - [5 Ways You're Probably Messing Up Your Microservices](https://blog.overops.com/5-ways-to-not-f-up-your-microservices-in-production/)
 - [Architecting Architecture / Habr](https://m.habr.com/en/post/546902/)
 - [What's the difference between Data Modelling and Domain Modelling?](https://stackoverflow.com/questions/3507671/whats-the-difference-between-data-modelling-and-domain-modelling?rq=1)
 - [What Is A Data Pipeline? Considerations &amp; Examples | Hazelcast](https://hazelcast.com/glossary/data-pipeline/)
+
 ##### Code
+
 - [The Catalog of Design Patterns](https://refactoring.guru/design-patterns/catalog)
 - [Catalog of Refactorings](https://refactoring.com/catalog/)
 - [Refactoring: Guard Clauses. A technique to be a better developer | by Carlos Caballero | Better Programming](https://betterprogramming.pub/refactoring-guard-clauses-2ceeaa1a9da)
@@ -880,16 +992,20 @@
 - [Design by Contract in Java with Google | Object Computing, Inc.](https://objectcomputing.com/resources/publications/sett/september-2011-design-by-contract-in-java-with-google)
 - [Что такое I в ACID или вы нам не подходите / Хабр](https://habr.com/ru/post/484944/)
 - [RabbitMQ Cheat Sheet by francisuk - Download free from Cheatography - Cheatography.com: Cheat Sheets For Every Occasion](https://cheatography.com/francisuk/cheat-sheets/rabbitmq/)
+
 ###### Organization
+
 - [Four Strategies for Organizing Code | by Martin Sandin | Medium](https://medium.com/@msandin/strategies-for-organizing-code-2c9d690b6f33)
 - [What is Package Diagram?](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-package-diagram/)
-- [split large components by - Google Search](https://www.google.com/search?q=split+large+components+by&amp;rlz=1C1GCEU_enUA900UA900&amp;oq=split+large+components+by&amp;aqs=chrome..69i57&amp;sourceid=chrome&amp;ie=UTF-8)
+- [split large components by - Google Search](https://www.google.com/search?q=split+large+components+by&rlz=1C1GCEU_enUA900UA900&oq=split+large+components+by&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
 - [«Пластилиновая» архитектура / Комментарии / Хабр](https://habr.com/ru/post/115628/comments/)
 - [GitHub - chicio/Clean-Code-Meaningful-Names: An example java project created for my blog post "A first approach to contract test"](https://github.com/chicio/Clean-Code-Meaningful-Names)
 - [Domain Driven Design and package organization – Code for Fun and Money](https://codeforfunandmoney.wordpress.com/2016/07/13/domain-driven-design-and-package-organization/)
 - [Efficiently manage dependencies thanks to maven BOM - DEV Community](https://dev.to/jbebar/effectively-manage-dependencies-thanks-to-maven-bom-449f)
 - [Spring Boot REST Java Microservice: Why Use Maven Submodules? - Software Engineering Stack Exchange](https://softwareengineering.stackexchange.com/questions/392170/spring-boot-rest-java-microservice-why-use-maven-submodules)
+
 ###### DDD
+
 - [What is Domain-Driven Design ?](http://seedstack.org/docs/business/)
 - [Services in DDD finally explained · Developer 2.0](https://developer20.com/services-in-ddd-finally-explained/)
 - [To DDD or not to DDD? What to do if your domain is boring? — Weronika Łabaj - YouTube](https://www.youtube.com/watch?v=h6WvetICeo4)
@@ -903,13 +1019,15 @@
 - [DDD Bounded Contexts and Java Modules | Baeldung](https://www.baeldung.com/java-modules-ddd-bounded-contexts)
 - [Best Practices for Designing and Implementing a L…](https://www.oracle.com/corporate/features/library-in-java-best-practices.html)
 - [Package Wisely. How to effectively use Java Packa…](https://medium.com/@mattcarroll/package-wisely-4899f9580d3)
-####### Github
+  ####### Github
 - [anton-liauchuk/educational-platform](https://github.com/anton-liauchuk/educational-platform)
 - [GitHub - ddd-by-examples/library: A comprehensive Domain-Driven Design example with problem space strategic analysis and various tactical patterns.](https://github.com/ddd-by-examples/library)
 - [mploed/ddd-with-spring](https://github.com/mploed/ddd-with-spring)
 - [selimyanat/expense-tracker-ddd-lite](https://github.com/selimyanat/expense-tracker-ddd-lite)
 - [tomek39856/hotel-manager-modular-monolith](https://github.com/tomek39856/hotel-manager-modular-monolith)
+
 ##### Microservices
+
 - [What are microservices?](https://microservices.io/index.html)
 - [Microservice Architecture and Design Patterns - DZone Microservices](https://dzone.com/articles/design-patterns-for-microservices)
 - [Microservice Trade-Offs](https://martinfowler.com/articles/microservice-trade-offs.html)
@@ -918,13 +1036,17 @@
 - [REST or Events? Choose the right communication style for your microservices / Habr](https://habr.com/en/post/565506/)
 - [java - How to have common DTOs or entities across Microservices - Stack Overflow](https://stackoverflow.com/questions/64658398/how-to-have-common-dtos-or-entities-across-microservices)
 - [How a microservices chassis regulates cross-cutting concerns](https://searchapparchitecture.techtarget.com/tip/How-a-microservices-chassis-regulates-cross-cutting-concerns)
+
 ##### Big Data
+
 - [DataFlair Big Data, Hadoop, Spark](https://data-flair.training/)
 - [Data vault modeling - Wikipedia](https://en.wikipedia.org/wiki/Data_vault_modeling)
 - [Apache NiFi](https://nifi.apache.org/)
 - [Creating Custom Processors and Controllers in Apache NiFi | by Hashmap | HashmapInc | Medium](https://medium.com/hashmapinc/creating-custom-processors-and-controllers-in-apache-nifi-e14148740ea)
 - [Lightstreamer - Wikipedia](https://en.wikipedia.org/wiki/Lightstreamer)
+
 ###### ETL Solutions
+
 - [Apache Flink vs Spark: что и когда выбрать для потоковой обработки Big Data](https://medium.com/@bigdataschool/apache-flink-vs-spark-%D1%87%D1%82%D0%BE-%D0%B8-%D0%BA%D0%BE%D0%B3%D0%B4%D0%B0-%D0%B2%D1%8B%D0%B1%D1%80%D0%B0%D1%82%D1%8C-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%B2%D0%BE%D0%B9-%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8-big-data-7c82097c1a7d)
 - [Автоконфигурируемость ETL: как мы сделали ETL устойчивым к постоянным изменениям в структуре входных данных / Хабр](https://habr.com/ru/company/dins/blog/590005/)
 - [To Spring Batch or ETL (Spring forum at Coderanch)](https://coderanch.com/t/579152/frameworks/Spring-Batch-ETL)
@@ -952,7 +1074,9 @@
 - [Мифы о Spark, или Может ли пользоваться Spark обычный Java-разработчик / Блог компании JUG Ru Group / Хабр](https://habr.com/ru/company/jugru/blog/325070/)
 - [Running a Job on Spark [Video Tutorial &amp; PDF Instructions] - Talend](https://www.talend.com/resources/running-job-spark/)
 - [Spring Integration](https://spring.io/projects/spring-integration)
+
 ###### Flink
+
 - [Apache Flink 1.10 Documentation: Flink DataSet API Programming Guide](https://ci.apache.org/projects/flink/flink-docs-stable/dev/batch/)
 - [Apache Flink 1.10 Documentation: Flink DataSet API Programming Guide](https://ci.apache.org/projects/flink/flink-docs-stable/dev/batch/#read-compressed-files)
 - [Apache Flink 1.10 Documentation: Flink DataSet API Programming Guide](https://ci.apache.org/projects/flink/flink-docs-stable/dev/batch/#data-sources)
@@ -963,12 +1087,18 @@
 - [Hadoop vs Spark vs Flink – Big Data Frameworks Comparison - DataFlair](https://data-flair.training/blogs/hadoop-vs-spark-vs-flink/)
 - [GitHub - apache/flink: Apache Flink](https://github.com/apache/flink)
 - [GitHub - vthinkxie/flink-runtime-web: Default UI in Flink 1.9.0](https://github.com/vthinkxie/flink-runtime-web)
+
 ###### Spark
+
 - [Extract xml data from Dataframe and process the xml in to a separate Dataframe · Issue #331 · databricks/spark-xml · GitHub](https://github.com/databricks/spark-xml/issues/331)
+
 ##### Software tools
+
 - [Draw.IO diagrams.net](https://app.diagrams.net/)
 - [Lucidchart Online Diagram](https://www.lucidchart.com/pages/)
+
 #### · Awesome lists
+
 - [Developer Roadmaps](https://roadmap.sh/roadmaps)
 - [awesome · GitHub Topics](https://github.com/topics/awesome)
 - [GitHub - lorabv/awesome-agile: Awesome List of re…](https://github.com/lorabv/awesome-agile)
@@ -1013,7 +1143,9 @@
 - [pmordel/docker-exercices: tutorial exercises to learn about docker](https://github.com/pmordel/docker-exercices)
 - [web-configs/packages/eslint-plugin/lib/config/typescript.js at 118090a6567c852f0d55109cdaf0ea7b3d212690 · Shopify/web-configs](https://github.com/Shopify/web-configs/blob/118090a6567c852f0d55109cdaf0ea7b3d212690/packages/eslint-plugin/lib/config/typescript.js)
 - [aviaryan/awesome-no-login-web-apps: 🚀 Awesome (free) web apps that work without login](https://github.com/aviaryan/awesome-no-login-web-apps)
+
 ##### IT
+
 - [😎 Interesting topics](https://github.com/sindresorhus/awesome)
 - [IT projects](https://github.com/inafev/awesome-tech)
 - [Git and GitHub](https://github.com/tiimgreen/github-cheat-sheet)
@@ -1024,10 +1156,14 @@
 - [Open source crafted web &amp; mobile applications](https://github.com/unicodeveloper/awesome-opensource-apps)
 - [Self-hosted apps](https://github.com/awesome-selfhosted/awesome-selfhosted)
 - [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+
 ###### Talks
+
 - [awesome-talks: Awesome online talks](https://github.com/JanVanRyswyck/awesome-talks)
 - [programming-talks](https://github.com/hellerve/programming-talks)
+
 ##### Java
+
 - [Java - List of awesome frameworks, libraries](https://github.com/akullpp/awesome-java)
 - [GitHub - Vedenin/useful-java-links: A list of useful Java frameworks, libraries, software and hello worlds examples](https://github.com/Vedenin/useful-java-links)
 - [Apache Spark packages and resources.](https://github.com/awesome-spark/awesome-spark)
@@ -1036,7 +1172,9 @@
 - [ThomasVitale/awesome-spring](https://github.com/ThomasVitale/awesome-spring)
 - [peterhalasz/awesome-spring](https://github.com/peterhalasz/awesome-spring)
 - [stunstunstun/awesome-spring-boot](https://github.com/stunstunstun/awesome-spring-boot)
+
 ##### PHP
+
 - [My beloved PHP cheat sheet - DEV Community](https://dev.to/ericchapman/my-beloved-php-cheat-sheet-7dl)
 - [ jrfnl/PHP-cheat-sheet-extended](https://github.com/jrfnl/PHP-cheat-sheet-extended)
 - [PHP Cheatsheets](https://phpcheatsheets.com/)
@@ -1045,53 +1183,75 @@
 - [Learn PHP: Getting Started with PHP Cheatsheet | Codecademy](https://www.codecademy.com/learn/learn-php/modules/getting-started-with-php/cheatsheet)
 - [PHP Cheat Sheet | OverAPI.com](https://overapi.com/php)
 - [PHP Cheat Sheet by DaveChild - Download free from Cheatography - Cheatography.com: Cheat Sheets For Every Occasion](https://cheatography.com/davechild/cheat-sheets/php/)
+
 ##### Angular
+
 - [PatrickJS/awesome-angular](https://github.com/PatrickJS/awesome-angular)
 - [DaanDeSmedt/awesome-angular](https://github.com/DaanDeSmedt/awesome-angular)
+
 ##### Docker
+
 - [Docker resources and projects](https://github.com/veggiemonk/awesome-docker)
 - [Docker Compose samples](https://github.com/docker/awesome-compose)
 - [Production ready Dockerfiles](https://github.com/fiunchinho/awesome-dockerfiles)
+
 ##### Kubernetes
+
 - [Awesome Kubernetes](https://redhatspain.com/)
 - [Kubernetes sources](https://github.com/ramitsurana/awesome-kubernetes)
 - [Kubernetes tools and resources](https://github.com/tomhuang12/awesome-k8s-resources)
+
 ##### Interviewing
+
 - [jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.](https://github.com/jwasham/coding-interview-university)
 - [donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.](https://github.com/donnemartin/system-design-primer)
 - [yangshun/tech-interview-handbook: 💯 Materials to help you rock your next coding interview](https://github.com/yangshun/tech-interview-handbook)
 - [checkcheckzz/system-design-interview: System design interview for IT companies](https://github.com/checkcheckzz/system-design-interview)
+
 ##### Command Line
+
 - [GitHub - vikaskyadav/awesome-bash-alias: A curated list of awesome Bash aliases.](https://github.com/vikaskyadav/awesome-bash-alias)
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
 - [Linux Command Line Cheat Sheet by DaveChild - Download free from Cheatography - Cheatography.com: Cheat Sheets For Every Occasion](https://cheatography.com/davechild/cheat-sheets/linux-command-line/)
 - [Command-line frameworks, toolkits](https://github.com/alebcay/awesome-shell)
 - [30 Bash Script Examples – Linux Hint](https://linuxhint.com/30_bash_script_examples/#t1)
 - [awesome-bash-alias | A curated list of awesome Bash aliases.](https://vikaskyadav.github.io/awesome-bash-alias/)
+
 ##### Architecture
+
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
 - [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java)
+
 ##### GitHub Project
+
 - [devspace/awesome-github-templates: Curated list of GitHub Issues and Pull Requests templates](https://github.com/devspace/awesome-github-templates)
 - [GitHub pull request template – Axolo Blog](https://axolo.co/blog/p/part-3-github-pull-request-template)
 - [stevemao/github-issue-templates: A collection of GitHub issue and pull request templates](https://github.com/stevemao/github-issue-templates)
+
 ##### APIs
+
 - [Travel APIs: Types, Providers and Integration | AltexSoft](https://www.altexsoft.com/blog/engineering/travel-and-booking-apis-for-online-travel-and-tourism-service-providers/)
 - [OpenTravel Alliance · GitHub](https://github.com/OpenTravel)
 - [EPS Rapid Content - EPS Rapid](https://developer.expediapartnersolutions.com/documentation/rapid-content-docs-2-4/)
+
 ###### OTA
+
 - [OTA Specifications](http://www.opentravelmodel.net/pubs/specifications/PastSpecs.html)
-- [OTA Browse Publications](http://www.opentravelmodel.net/pubs/specifications/OnlinePublicationDetails.html?spec=2013B&amp;specType=OTA_1_0)
+- [OTA Browse Publications](http://www.opentravelmodel.net/pubs/specifications/OnlinePublicationDetails.html?spec=2013B&specType=OTA_1_0)
 - [OTA справочники - Коды - PET : Pets Policy Code](http://ota-dictionary.ru/codelist/PET)
 - [Open Travel (OTA) XML Schema Documentation](https://schemas.liquid-technologies.com/OpenTravel/2008B/?page=ota_hoteldescriptivecontentnotifrq.html)
 - [Open Travel (OTA) XML Schema Documentation](https://schemas.liquid-technologies.com/OpenTravel/2008B/?page=ota_vehlocdetailrq.html)
-- [OpenTravel could not find any documentation on how to create WSDL](http://www.opentravelcommunityforum.com/forum/viewtopic.php?f=8&amp;t=1637&amp;sid=7ccdf7ac14bb0e7ed944b13486e3d453)
+- [OpenTravel could not find any documentation on how to create WSDL](http://www.opentravelcommunityforum.com/forum/viewtopic.php?f=8&t=1637&sid=7ccdf7ac14bb0e7ed944b13486e3d453)
 - [Specifications](http://www.opentravelmodel.net/pubs/specifications/Specifications.html)
+
 ###### Amadeus Self-Service
+
 - [Self-Service travel API catalog](https://developers.amadeus.com/self-service)
 - [Hotel Booking](https://developers.amadeus.com/self-service/category/hotel/api-doc/hotel-booking)
 - [API Reference Hotel Booking](https://developers.amadeus.com/self-service/category/hotel/api-doc/hotel-booking/api-reference)
+
 #### · Infrastructure
+
 - [Devtron- The Kubernetes-Native Application Management Platform](https://devtron.ai/)
 - [Okteto - The Kubernetes development platform | Okteto](https://www.okteto.com/)
 - [Depot](https://depot.dev/)
@@ -1136,7 +1296,9 @@
 - [Creating a Self-Signed SSL Certificate | Heroku Dev Center](https://devcenter.heroku.com/articles/ssl-certificate-self)
 - [Cloud Computing &amp; Web Hosting | OVHcloud Worldwide](https://www.ovhcloud.com/en/)
 - [UltaHost Login - Client Area Portal - UltaHost](https://bill.ultahost.com/login)
+
 ##### Tools
+
 - [Personal apps | Heroku](https://dashboard.heroku.com/apps)
 - [I want to set up my own jira server on my computer...](https://community.atlassian.com/t5/Jira-Software-questions/I-want-to-set-up-my-own-jira-server-on-my-computer-at-home-so-i/qaq-p/1196481)
 - [Опыт применения GitHub Actions для создания CI/CD с бесплатным хостингом на Heroku / Хабр](https://habr.com/ru/post/571374/)
@@ -1151,25 +1313,35 @@
 - [CoScreen: Deep Collaboration for Engineering Teams](https://www.coscreen.co/)
 - [Clients — scality-zenko-cloudserver 7.0.0 documentation](https://s3-server.readthedocs.io/en/latest/CLIENTS.html)
 - [Lightstreamer | Real-Time Messaging](https://lightstreamer.com/)
+
 ###### OAuth2
+
 - [Ory - Open Source OAuth2 and OpenID Connect Access Control &amp; API Security - ory.sh](https://www.ory.sh/)
 - [GitHub - dexidp/dex: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors](https://github.com/dexidp/dex)
+
 ###### Consul
+
 - [Consul](https://www.consul.io/)
 - [Consul vs. Eureka | Consul by HashiCorp](https://www.consul.io/intro/vs/eureka)
 - [Consul Service Registration and Discovery Example - HowToDoInJava](https://howtodoinjava.com/spring-cloud/consul-service-registration-discovery/)
 - [How to Register Spring Cloud with Consul Service Discovery - ru-rocker](https://www.ru-rocker.com/2018/07/09/how-to-register-spring-cloud-with-consul-service-discovery/)
 - [Using Consul Key-Value Store for Service Configuration - Dots and Brackets: Code Blog](https://codeblog.dotsandbrackets.com/consul-key-value-store-configuration/)
+
 ###### Audit
+
 - [OpenZipkin · A distributed tracing system](https://zipkin.io/)
 - [Datadog |Modern Monitoring &amp; Analytic](https://www.datadoghq.com/)
 - [GitHub - thepirat000/Audit.NET: An extensible framework to audit executing operations in .NET and .NET Core.](https://github.com/thepirat000/Audit.NET)
 - [GitHub - decebals/auditor: Auditing micro framework for Java](https://github.com/decebals/auditor)
+
 ###### Rundeck
+
 - [Rundeck | Runbook Automation | Scheduling and ETL](https://www.rundeck.com/use-case/scheduling)
 - [GitHub - rundeck/rundeck: Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts](https://github.com/rundeck/rundeck)
 - [Could not roll back Hibernate transaction / Unable to rollback against JDBC Connection · Issue #4302 · rundeck/rundeck · GitHub](https://github.com/rundeck/rundeck/issues/4302)
+
 ##### Monitoring
+
 - [Prometheus](https://prometheus.io/docs/introduction/overview/)
 - [PromLens, the query builder for PromQL - PromLens](https://promlens.com/)
 - [Nagios](https://www.nagios.org/)
@@ -1179,23 +1351,31 @@
 - [PagerDuty](https://www.pagerduty.com/)
 - [Munin Monitoring](https://munin-monitoring.org/)
 - [AppDynamics](https://www.appdynamics.com/)
+
 ##### Log Management
+
 - [Elastic Stack: Elasticsearch, Kibana, Beats &amp; Logstash](https://www.elastic.co/elastic-stack/)
 - [Logstash: Collect, Parse, Transform Logs | Elastic](https://www.elastic.co/products/logstash)
 - [Graylog](https://www.graylog.org/)
 - [Papertrail - cloud-hosted log management, live in seconds](https://www.papertrail.com/)
 - [Loggly](https://www.loggly.com/)
+
 ###### Splunk
+
 - [Splunk](https://www.splunk.com/en_us/platform/platform-operations-overview.html)
 - [Hands on Lab: Sandboxing with Splunk with Docker (from .conf2017) | Splunk](https://www.splunk.com/en_us/blog/tips-and-tricks/hands-on-lab-sandboxing-with-splunk-with-docker.html)
 - [Collecting docker logs and stats with Splunk | Splunk](https://www.splunk.com/en_us/blog/tips-and-tricks/collecting-docker-logs-and-stats-with-splunk.html)
 - [GitHub - splunk/splunk-library-javalogging: Splunk logging appenders for popular Java Logging frameworks](https://github.com/splunk/splunk-library-javalogging)
+
 ##### Container Orchestration
+
 - [Nomad](https://www.nomadproject.io/)
 - [Swarm mode overview](https://docs.docker.com/engine/swarm/)
 - [Apache Mesos](http://mesos.apache.org/)
 - [What Is Container Orchestration? (+ 4 Top Container Tools)](https://www.cloudzero.com/blog/container-orchestration)
+
 ###### Kubernetes
+
 - [kui](https://github.com/kubernetes-sigs/kui)
 - [The world's lightest, fastest service mesh. | Linkerd](https://linkerd.io/)
 - [k9s: Kubernetes CLI](https://github.com/derailed/k9s)
@@ -1234,7 +1414,7 @@
 - [Helm: Why DevOps Engineers Love it? | p3r](https://www.p3r.one/helm-package-manager-kubernetes/)
 - [flant/helm-charts: Public Helm charts from Flant.](https://github.com/flant/helm-charts)
 - [Install Kubernetes Cluster on Ubuntu 20.04 with kubeadm | ComputingForGeeks](https://computingforgeeks.com/deploy-kubernetes-cluster-on-ubuntu-with-kubeadm/)
-####### Java Microservices
+  ####### Java Microservices
 - [Deploying Java microservices to Kubernetes](https://openliberty.io/guides/kubernetes-intro.html#why-use-kubernetes)
 - [Deploying Java microservices to Kubernetes](https://openliberty.io/guides/kubernetes-intro.html)
 - [Building RESTful Webservices using Spring Boot with Spring JDBC - Javagyansite](https://javagyansite.com/2020/02/09/building-restful-webservices-in-spring-framework-using-spring-boot-with-spring-jdbc/)
@@ -1246,11 +1426,15 @@
 - [Deploying Java microservices to Kubernetes](https://openliberty.io/guides/kubernetes-intro.html#additional-prerequisites)
 - [spring-guides/top-spring-on-kubernetes: Spring on Kubernetes :: Topic guide to Spring and Kubernetes](https://github.com/spring-guides/top-spring-on-kubernetes#best-practices)
 - [Kubernetes to the Cloud with Spring Boot and JHipster | Okta Developer](https://developer.okta.com/blog/2021/06/01/kubernetes-spring-boot-jhipster)
+
 ###### Rancher
+
 - [Rancher Docs: Installing/Upgrading Rancher](https://rancher.com/docs/rancher/v2.x/en/installation/)
 - [Managed Kubernetes Cluster Operations | Rancher](https://rancher.com/products/rancher/)
 - [Getting Started with Kubernetes | Rancher Quick Start](https://rancher.com/quick-start/)
+
 ###### OpenShift
+
 - [How to install (Openshift) Minishift in Ubuntu 20.04 using virtualbox as hypervisor? | by Bala Kumar | Medium](https://medium.com/@balashanmugam2016/how-to-install-openshift-minishift-in-ubuntu-20-04-using-virtualbox-as-hypervisor-6adbd0092563)
 - [Deploy a Spring Boot Application to OpenShift | Baeldung](https://www.baeldung.com/spring-boot-deploy-openshift)
 - [MiniShift setup on Windows: OpenShift on Windows – Marksei](https://www.marksei.com/openshift-minishift-widnows/)
@@ -1267,31 +1451,41 @@
 - [Using a Router - Getting Traffic into a Cluster | Developer Guide | OpenShift Container Platform 3.4](https://docs.openshift.com/container-platform/3.4/dev_guide/expose_service/expose_internal_ip_router.html#expose-router-svc)
 - [postgresql - Access OpenShift forwarded ports from remote host - Stack Overflow](https://stackoverflow.com/questions/52607821/access-openshift-forwarded-ports-from-remote-host)
 - [oc port forwarding to local docker · GitHub](https://gist.github.com/kevineye/92fbdaf6ddcba57afe0129e4619c2c79)
+
 ###### OpenStack
+
 - [MicroStack - OpenStack in a snap](https://microstack.run/)
 - [Run Your Kubernetes Cluster on OpenStack in Production - Superuser](https://superuser.openstack.org/articles/run-your-kubernetes-cluster-on-openstack-in-production/)
 - [Openshift vs Openstack: An Easy Differentiation i…](https://www.jigsawacademy.com/blogs/cloud-computing/openshift-vs-openstack/)
 - [OpenShift vs OpenStack – Linux Hint](https://linuxhint.com/openshift_vs_openstack/)
 - [DevStack — DevStack documentation](https://docs.openstack.org/devstack/latest/)
 - [Basic DevStack installation — kuryr-kubernetes 4.…](https://docs.openstack.org/kuryr-kubernetes/latest/installation/devstack/basic.html)
+
 ##### Cloud Services
+
 - [Cloud agnostic strategy: All you need to know](https://www.n-ix.com/cloud-agnostic/)
 - [Azure Spring Cloud&nbsp;— разработка приложений Spring Boot&nbsp;| Microsoft Azure](https://azure.microsoft.com/ru-ru/services/spring-cloud/#overview)
 - [Top 10 Alternatives to Heroku | Low-code backend to build modern apps](https://blog.back4app.com/heroku-alternatives/)
 - [Cloud Foundry – Open Source Cloud Native Application Delivery](https://www.cloudfoundry.org/)
 - [Cloud Storage client libraries &nbsp;|&nbsp; Google Cloud](https://cloud.google.com/storage/docs/reference/libraries#client-libraries-install-java)
+
 ###### Cloud-Native
+
 - [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io/)
 - [Cloud Native Computing Foundation](https://www.cncf.io/)
 - [Cloud Native Buildpack Documentation · Cloud Native Buildpack Documentation](https://buildpacks.io/)
+
 ###### Containers
+
 - [Bottlerocket — Amazon Web Services](https://aws.amazon.com/bottlerocket/)
 - [Google Cloud Platform Blog: 7 best practices for building containers](https://cloudplatform.googleblog.com/2018/07/7-best-practices-for-building-containers.html?m=1)
+
 ###### Amazon AWS
+
 - [Amazon EC2 Instance Comparison](https://instances.vantage.sh/)
 - [AWS Billing Management Console](https://console.aws.amazon.com/billing/home?#/)
 - [AWS Fargate - Amazon EKS](https://docs.aws.amazon.com/eks/latest/userguide/fargate.html)
-- [Amazon EKS | Managed Kubernetes Service | Amazon Web Services](https://aws.amazon.com/eks/?nc1=h_ls&amp;whats-new-cards.sort-by=item.additionalFields.postDateTime&amp;whats-new-cards.sort-order=desc&amp;eks-blogs.sort-by=item.additionalFields.createdDate&amp;eks-blogs.sort-order=desc)
+- [Amazon EKS | Managed Kubernetes Service | Amazon Web Services](https://aws.amazon.com/eks/?nc1=h_ls&whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc&eks-blogs.sort-by=item.additionalFields.createdDate&eks-blogs.sort-order=desc)
 - [Tutorial: Use CodeDeploy to Deploy an Application from GitHub - AWS CodeDeploy](https://docs.aws.amazon.com/codedeploy/latest/userguide/tutorials-github.html)
 - [Confused by AWS Storage Options? S3, EBS, EFS Explained - DZone Cloud](https://dzone.com/articles/confused-by-aws-storage-options-s3-ebs-amp-efs-explained)
 - [Amazon Web Services Simple Monthly Calculator](https://calculator.s3.amazonaws.com/index.html)
@@ -1301,7 +1495,9 @@
 - [Amazon Elastic File System (EFS) | Облачное хранилище файлов | Цены](https://aws.amazon.com/ru/efs/pricing/)
 - [AWS CloudFormation - Infrastructure as Code &amp; AWS Resource Provisioning](https://aws.amazon.com/cloudformation/)
 - [Amazon EBS vs EFS vs S3: Picking the Best AWS Storage Option for Your Business](https://www.missioncloud.com/blog/resource-amazon-ebs-vs-efs-vs-s3-picking-the-best-aws-storage-option-for-your-business)
+
 ##### Automation
+
 - [Terraform by HashiCorp](https://www.terraform.io/)
 - [Build Infrastructure | Terraform - HashiCorp Learn](https://learn.hashicorp.com/tutorials/terraform/aws-build)
 - [Introduction to Terraform | Baeldung](https://www.baeldung.com/terraform-intro)
@@ -1312,14 +1508,18 @@
 - [Terraform vs Helm Charts - Coralogix](https://coralogix.com/blog/terraform-vs-helm-charts/)
 - [terraform-ansible-setup | Setting up your complete infrastructure on cloud premises using Infrastructure as a Code](https://ramitsurana.github.io/terraform-ansible-setup/)
 - [Системный подход к переменным в Ansible / Блог компании Мир Plat.Form (НСПК) / Хабр](https://habr.com/ru/company/nspk/blog/511448/)
+
 ###### Samples
+
 - [GitHub - in28minutes/devops-master-class: Devops Tutorial for Beginners - Learn Docker, Kubernetes, Terraform, Ansible, Jenkins and Azure Devops](https://github.com/in28minutes/devops-master-class)
 - [GitHub - jtbonhomme/terraform-ansible-k8s: Initialize a Kubernetes cluster on AWS using terraform and ansible.](https://github.com/jtbonhomme/terraform-ansible-k8s)
 - [GitHub - thomvaill/tads-boilerplate: Terraform + Ansible + Docker Swarm boilerplate = DevOps on | Infrastructure as Code](https://github.com/thomvaill/tads-boilerplate)
 - [GitHub - iidrees/LHUG-terraform-ansible-k8s-demo: A repo for my Lagos Hashicorp User Group Speaking &amp; Demo session](https://github.com/iidrees/LHUG-terraform-ansible-k8s-demo)
 - [Migrating Databases using Ansible and Terraform | by Pratheep Ananthan | FAUN](https://faun.pub/migrating-databases-using-ansible-and-terraform-58d23b5f7d8e)
 - [GitHub - DevOpsPlayground/Hands-on-with-Terraform-and-Ansible](https://github.com/DevOpsPlayground/Hands-on-with-Terraform-and-Ansible)
+
 ##### Containers
+
 - [GitHub - palantir/gradle-docker: a Gradle plugin for orchestrating docker builds and pushes.](https://github.com/palantir/gradle-docker)
 - [Deploy a registry server | Docker Documentation](https://docs.docker.com/registry/deploying/)
 - [Configuring a registry | Docker Documentation](https://docs.docker.com/registry/configuration/)
@@ -1331,7 +1531,9 @@
 - [multi-stage-build-example/Dockerfile at master · garethr/multi-stage-build-example · GitHub](https://github.com/garethr/multi-stage-build-example/blob/master/Dockerfile)
 - [environment variables - docker-compose env_file only loading .env, but not a specific name](https://stackoverflow.com/questions/64405332/docker-compose-env-file-only-loading-env-but-not-a-specific-name)
 - [Containers · GitHub](https://github.com/containers)
+
 ##### CI/CD
+
 - [Jenkins](https://www.jenkins.io/)
 - [TeamCity](https://www.jetbrains.com/teamcity/)
 - [Bamboo](https://www.atlassian.com/software/bamboo)
@@ -1345,7 +1547,9 @@
 - [35+ Of The Best CI/CD Tools: Organized By Category](https://www.google.com/amp/s/www.cloudzero.com/blog/cicd-tools%3fhs_amp=true)
 - [ArgoCD vs FluxCD vs Jenkins X: Which GitOps implementation tool suits you the best? | by TYNYBAY | Medium](https://medium.com/@tynybay/argocd-vs-fluxcd-vs-jenkins-x-which-gitops-implementation-tool-suits-you-the-best-be0d72ecef41)
 - [ArgoCD vs FluxCD vs Jenkins X: Which GitOps implementation tool suits you the best?](https://www.tynybay.com/insights-our-thinking/argocd-vs-fluxcd-vs-jenkins-x-which-gitops-implementation-tool-suits-you-the-best)
+
 ###### Tips &amp; Solutions
+
 - [Setting up simple, self-hosted &amp; fast CI/CD solution with Drone for homelab or office - DEV Community](https://dev.to/webhookrelay/setting-up-simple-self-hosted--fast-cicd-solution-with-drone-for-homelab-or-office-1fnd)
 - [Строим домашний CI/CD при помощи GitHub Actions и Python / Хабр](https://habr.com/ru/post/476368/)
 - [Auto-start - Webhook Relay](https://docs.webhookrelay.com/installation-options/installation-options/background-service)
@@ -1362,12 +1566,17 @@
 - [Building projects (CI/CD), instruments / Habr](https://m.habr.com/en/post/550658/)
 - [Почему я советую людям не учить Ansible. Андрей Девяткин / Хабр](https://habr.com/ru/post/556868/)
 - [Building CI/CD Pipeline with Jenkins, Kubernetes &amp; GitHub: Part 2 | by @pramodAIML | SysopsMicro | May, 2021 | Medium](https://medium.com/the-programmer/building-ci-cd-pipeline-with-jenkins-kubernetes-github-part-2-cbb6c366aa41)
+
 ##### Microservices
+
 ###### Apigee
+
 - [Overview of local development with Apigee &nbsp;|&nbsp; Apigee X &nbsp;|&nbsp; Google Cloud](https://cloud.google.com/apigee/docs/api-platform/local-development/overview)
 - [Edge Installation Overview &nbsp;|&nbsp; Edge for Private Cloud v4.18.05](https://docs.apigee.com/private-cloud/v4.18.05/installation-overview)
 - [Apigee vs Zuul | What are the differences?](https://stackshare.io/stackups/apigee-vs-zuul)
+
 ##### Test/Mocking
+
 - [Большой гайд по тестированию с Postman для начинающих — testengineer.ru](https://testengineer.ru/gajd-po-testirovaniyu-v-postman/)
 - [ngrok - secure introspectable tunnels to localhost](https://ngrok.com/)
 - [LocalStack](https://localstack.cloud/)
@@ -1382,12 +1591,14 @@
 - [Puppeteer](https://pptr.dev/#:~:text=Puppeteer%20is%20a%20Node%20library,-headless)%20Chrome%20or%20Chromium.)
 - [Puppeteer](https://pptr.dev/)
 - [GitHub - rest-assured/rest-assured: Java DSL for easy testing of REST services](https://github.com/rest-assured/rest-assured)
+
 ##### Git
+
 - [Отрабатываем Git hooks на автоматизации commit message / Хабр](https://habr.com/ru/company/dins/blog/584562/)
 - [How can I use git rebase without requiring a forced push? - Stack Overflow](https://stackoverflow.com/questions/11058312/how-can-i-use-git-rebase-without-requiring-a-forced-push)
 - [Git branching strategy to achieve continuous delivery](https://medium.com/@sairamkrish/git-branching-strategy-for-true-continuous-delivery-eade4435b57e)
 - [How to count total lines changed by a specific author in a Git repository?](https://stackoverflow.com/questions/1265040/how-to-count-total-lines-changed-by-a-specific-author-in-a-git-repository)
-- [The benefits of single application CI/CD | GitLab](https://about.gitlab.com/resources/ebook-single-app-cicd/?utm_medium=paidsocial&amp;utm_source=facebook&amp;utm_campaign=cicdcmp3_emea_pr_static_x_x&amp;utm_content=ebook-single-app-cicd&amp;utm_term=intcmp)
+- [The benefits of single application CI/CD | GitLab](https://about.gitlab.com/resources/ebook-single-app-cicd/?utm_medium=paidsocial&utm_source=facebook&utm_campaign=cicdcmp3_emea_pr_static_x_x&utm_content=ebook-single-app-cicd&utm_term=intcmp)
 - [An introduction to Git merge and rebase: what they are, and how to use them](https://www.google.com/amp/s/www.freecodecamp.org/news/an-introduction-to-git-merge-and-rebase-what-they-are-and-how-to-use-them-131b863785f/amp/)
 - [Git Workflow | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/comparing-workflows)
 - [How to set up an efficient development workflow with Git and CI/CD](https://proandroiddev.com/how-to-set-up-an-efficient-development-workflow-with-git-and-ci-cd-5e8916f6bece?gi=9e51a3c93337)
@@ -1401,13 +1612,17 @@
 - [Gitflow Workflow | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 - [fend-office-hours/README.md at master · udacity/fend-office-hours · GitHub](https://github.com/udacity/fend-office-hours/blob/master/Git%20and%20GitHub/Git%20Branching%20Strategies/README.md)
 - [git and git flow cheat sheet](https://github.com/arslanbilal/git-cheat-sheet#readme)
+
 ##### Learning
-- [AWS Training Online | Certification Course for Solutions Architect](https://mindmajix.com/aws-training?utm_source=aws-blogs&amp;utm_medium=mindmajix-blogs&amp;utm_campaign=id-sale-blog-promotions)
+
+- [AWS Training Online | Certification Course for Solutions Architect](https://mindmajix.com/aws-training?utm_source=aws-blogs&utm_medium=mindmajix-blogs&utm_campaign=id-sale-blog-promotions)
 - [Cyber Security Leader | Imperva, Inc.](https://www.imperva.com/)
 - [Building a Linux Desktop for Cloud Native Development](https://blog.alexellis.io/building-a-linux-desktop-for-cloud-native-development/)
 - [Learn how to build your own Kubernetes Homelab with Raspberry Pi](https://blog.alexellis.io/raspberry-pi-homelab-with-k3sup/)
 - [GitHub - marcel-dempers/docker-development-youtube-series](https://github.com/marcel-dempers/docker-development-youtube-series)
+
 #### · Interview
+
 - [GitHub - Olshansk/interview: Everything you need to prepare for your technical interview](https://github.com/Olshansk/interview)
 - [Hudson MX - Crunchbase Company Profile &amp; Funding](https://www.crunchbase.com/organization/hudson-mx)
 - [GitHub - enhorse/java-interview: Вопросы и ответы к интервью Java разработчика](https://github.com/enhorse/java-interview)
@@ -1426,8 +1641,10 @@
 - [Interviewer - Scheduled interviews](https://apps-interviewer.dataart.com/Scheduler/ScheduledInterview)
 - [rajeshsurana/Java-Portfolio: These are some challenging java programs and kind of awesome!](https://github.com/rajeshsurana/Java-Portfolio)
 - [Software Engineer Interview Question: "Tell Me About Yourself" | Indeed.com](https://www.indeed.com/career-advice/interviewing/tell-me-about-yourself-software-engineer)
-- [Flexible Software Developer Jobs | Indeed.com](https://www.indeed.com/jobs?q=Software%20Developer&amp;from=careeradvice-US&amp;vjk=863747cb816c506c)
+- [Flexible Software Developer Jobs | Indeed.com](https://www.indeed.com/jobs?q=Software%20Developer&from=careeradvice-US&vjk=863747cb816c506c)
+
 ##### PHP
+
 - [PHP81 cheat sheet](https://dev.to/ericchapman/php-cheat-sheet-updated-to-php-81-3o4p)
 - [PHP Quick Reference](https://quickref.me/php)
 - [StarTutorial: 5 New Features In Php 7 That You Should Have A Look At](https://startutorial.com/view/5-new-features-in-php-7-that-you-should-have-a-look-at)
@@ -1437,12 +1654,16 @@
 - [PHP74](https://www.php.net/manual/en/migration74.new-features.php)
 - [PHP80](https://www.php.net/manual/en/migration80.new-features.php)
 - [RabbitMQ Cheat Sheets | Development notes](https://dev-pages.info/rabbitmq-cheat-sheets/)
+
 ##### Interview
+
 - [Java Developer Resume Sample + How-to Guide [2022]](https://novoresume.com/career-blog/java-developer-resume)
 - [Советы для начинающего Java-разработчика. Подготовка к&nbsp;собеседованию&nbsp;— часть&nbsp;2 | DOU](https://dou.ua/lenta/articles/junior-java-interview-2/?from=similar_posts)
 - [Running an interview: sharing experience and best practices | Edu](https://edu.dataart.com/webinar/QA/3133/)
 - [5 Java Developer Resume Samples Built for 2022](https://www.beamjobs.com/resumes/java-developer-resume-samples)
+
 #### · How-To
+
 - [Multiple SSH keys for different github accounts · GitHub](https://gist.github.com/jexchan/2351996)
 - [43 Microservices Interview Questions (With Sample Answers) | Indeed.com Canada](https://ca.indeed.com/career-advice/interviewing/microservices-interview-questions)
 - [Generating a new SSH key and adding it to the ssh-agent - GitHub Docs](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
@@ -1482,7 +1703,9 @@
 - [ci-demo-springboot/.drone.yml at master · lework/ci-demo-springboot](https://github.com/lework/ci-demo-springboot/blob/master/.drone.yml)
 - [Git commit-msg hook to validate for jira issue or the word merge](https://gist.github.com/pgilad/5d7e4db725a906bd7aa7)
 - [angular sonarqube setup | A Step by Step Guide to integrate Sonarqube with Angular project | BeingCoders](https://medium.com/beingcoders/setup-sonarqube-with-angular-project-in-6-minutes-57a87b3ca8c4)
+
 ##### DevOps
+
 - [5 Steps to Get Your New Virtual Private Server (VPS) Ready to Use](https://www.hostinger.com/tutorials/getting-started-with-vps-hosting)
 - [PostgreSQL - Storage Backends - Configuration | Vault by HashiCorp](https://www.vaultproject.io/docs/configuration/storage/postgresql)
 - [How To Secure Nginx with Let's Encrypt on Ubuntu 20.04 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-20-04)
@@ -1491,16 +1714,20 @@
 - [20 Ways to Secure Your Linux VPS so You Don't Get Hacked](https://www.eurovps.com/blog/20-ways-to-secure-linux-vps/)
 - [Install OpenShift 4 on your laptop – IBM Developer](https://developer.ibm.com/blogs/install-openshift-4-on-your-laptop/)
 - [MAAS | Metal as a Service](https://maas.io/)
+
 ###### Ansible &amp; Ubuntu
+
 - [Установка и настройка Ansible в Ubuntu 20.04 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-ansible-on-ubuntu-20-04-ru)
 - [How to Use Ansible to Automate Initial Server Setup on Ubuntu | DigitalOcean](https://www.google.com/amp/s/www.digitalocean.com/community/tutorials/how-to-use-ansible-to-automate-initial-server-setup-on-ubuntu-18-04.amp)
 - [How to Configure a New Ubuntu Server Using Ansible - Vultr.com](https://www.vultr.com/docs/how-to-configure-a-new-ubuntu-server-using-ansible)
-- [Configuration Management 101: Writing Ansible Playbooks | DigitalOcean](https://www.digitalocean.com/community/tutorials/configuration-management-101-writing-ansible-playbooks?segment=1*165cs0t*s_amp_id*Q3pMeWVmb1VEV2JtWGw1b05CUzU1RjNjdmZJZnI4NTVMY05sc3VicXZ3eDUxR01wWjlyNXNDSHFrTkJwSldzZg..&amp;_gl=1*14s0om*_ga*Q3pMeWVmb1VEV2JtWGw1b05CUzU1RjNjdmZJZnI4NTVMY05sc3VicXZ3eDUxR01wWjlyNXNDSHFrTkJwSldzZg..)
+- [Configuration Management 101: Writing Ansible Playbooks | DigitalOcean](https://www.digitalocean.com/community/tutorials/configuration-management-101-writing-ansible-playbooks?segment=1*165cs0t*s_amp_id*Q3pMeWVmb1VEV2JtWGw1b05CUzU1RjNjdmZJZnI4NTVMY05sc3VicXZ3eDUxR01wWjlyNXNDSHFrTkJwSldzZg..&_gl=1*14s0om*_ga*Q3pMeWVmb1VEV2JtWGw1b05CUzU1RjNjdmZJZnI4NTVMY05sc3VicXZ3eDUxR01wWjlyNXNDSHFrTkJwSldzZg..)
 - [How to Install Ansible and Automate Your Ubuntu Server Setup - SpinupWP](https://spinupwp.com/automating-server-setup-ansible/)
 - [geerlingguy/ansible-for-devops: Ansible for DevOps examples.](https://github.com/geerlingguy/ansible-for-devops)
 - [GitHub - geerlingguy/ansible-role-nodejs: Ansible Role - Node.js](https://github.com/geerlingguy/ansible-role-nodejs)
 - [ansible-for-devops/helm.yml at master · geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops/blob/master/kubernetes/examples/helm.yml)
+
 ###### Reverse Proxy
+
 - [Jenkins configuration for Nginx reverse proxy](https://gist.github.com/rhuanbarreto/a06965cbc4fcd05752da22f6b3792506)
 - [Running an NGINX reverse proxy with Docker and Let's Encrypt on Compute Engine](https://cloud.google.com/community/tutorials/nginx-reverse-proxy-docker)
 - [ Jenkins with reverse proxy to alternative port number](https://stackoverflow.com/questions/32737076/jenkins-with-reverse-proxy-to-alternative-port-number)
@@ -1512,7 +1739,9 @@
 - [Configuring a Reverse Proxy - Synapse](https://matrix-org.github.io/synapse/latest/reverse_proxy.html)
 - [NGINX reverse proxy rewrite SAML callback - Stack Overflow](https://stackoverflow.com/questions/66362582/nginx-reverse-proxy-rewrite-saml-callback)
 - [Sample nginx.conf which for SonarQube 5.6.3](https://gist.github.com/nirmalpathak/83129ddfda898459c7e68362d43d2a36)
+
 ###### Linux
+
 - [7 Ways to Determine the File System Type in Linux (Ext2, Ext3 or Ext4)](https://www.tecmint.com/find-linux-filesystem-type/)
 - [How to Add Swap Space on Ubuntu 18.04 | Linuxize](https://linuxize.com/post/how-to-add-swap-space-on-ubuntu-18-04/)
 - [How to move docker data directory to another location on Ubuntu - guguweb.com](https://www.guguweb.com/2019/02/07/how-to-move-docker-data-directory-to-another-location-on-ubuntu/)
@@ -1522,7 +1751,9 @@
 - [LVM — это просто! / Хабр](https://habr.com/ru/post/67283/)
 - [Using ssh-copy-id to install SSH keys on servers as authorized keys for passwordless authentication. Options and troubleshooting.](https://www.ssh.com/academy/ssh/copy-id)
 - [2 Simple Steps to Set up Passwordless SSH Login on Ubuntu](https://www.linuxbabe.com/linux-server/setup-passwordless-ssh-login)
+
 ##### Kubernetes
+
 - [Skaffold](https://skaffold.dev/)
 - [networking - how to access local kubernetes minikube dashboard remotely - Stack Overflow](https://stackoverflow.com/questions/47173463/how-to-access-local-kubernetes-minikube-dashboard-remotely)
 - [Multipass Microk8s Cluster on Multiple Nodes | pancho.dev](https://pancho.dev/posts/multipass-microk8s-cluster/)
@@ -1532,24 +1763,32 @@
 - [ahxsahxs/hello-world-kubernetes: Sample project for testing the capabilities of Kubernetes and ArgoCD](https://github.com/ahxsahxs/hello-world-kubernetes)
 - [Kubernetes for Java developers – XP Injection](https://xpinjection.com/trainings/kubernetes-for-spring-boot-developers/)
 - [Is there a recommended way to handle database migrations in kubernetes? Is there... | Hacker News](https://news.ycombinator.com/item?id=17388317)
+
 ##### Kafka
+
 - [Kafka Topic Naming Conventions | Chris Riccomini](https://cnr.sh/essays/how-paint-bike-shed-kafka-topic-naming-conventions)
 - [Error handling with Apache Kafka – Sourcelabs](https://www.sourcelabs.nl/2022/03/08/error-handling-with-apache-kafka/)
 - [Kafka Dead Letter Publishing - JDriven Blog](https://blog.jdriven.com/2022/01/kafka-dead-letter-publishing/)
 - [timtebeek/kafka-dead-letter-publishing](https://github.com/timtebeek/kafka-dead-letter-publishing)
 - [Kafka producer delivery semantics | by Sylvester John | Medium](https://medium.com/@sdjemails/kafka-producer-delivery-semantics-be863c727d3f)
+
 ##### Git
+
 - [Git branching strategy integated with testing/QA process - Stack Overflow](https://stackoverflow.com/questions/18371741/git-branching-strategy-integated-with-testing-qa-process)
 - [How should Git Flow work with QA testing both a release and a new feature? - Stack Overflow](https://stackoverflow.com/questions/25238846/how-should-git-flow-work-with-qa-testing-both-a-release-and-a-new-feature)
-- [branch strategy testing - Google Search](https://www.google.com/search?q=branch+strategy+testing&amp;newwindow=1&amp;sxsrf=AOaemvL8SUilxN63vdXS0foOAs4juxBhQg%3A1635447578907&amp;ei=GvN6YYbeNsrJrgTM-6DoCw&amp;oq=branch+strategy+testing&amp;gs_lcp=Cgdnd3Mtd2l6EAMYADIFCCEQoAEyBQghEKABMgUIIRCgATIECCEQFToECCMQJzoKCAAQgAQQhwIQFDoFCAAQgAQ6BAgAEEM6BQgAEJECOgsILhCABBDHARCvAToGCAAQFhAeSgQIQRgAUNTMAlijmwNgjqYDaABwAngAgAGAAYgBjweSAQM0LjWYAQCgAQHAAQE&amp;sclient=gws-wiz)
+- [branch strategy testing - Google Search](https://www.google.com/search?q=branch+strategy+testing&newwindow=1&sxsrf=AOaemvL8SUilxN63vdXS0foOAs4juxBhQg%3A1635447578907&ei=GvN6YYbeNsrJrgTM-6DoCw&oq=branch+strategy+testing&gs_lcp=Cgdnd3Mtd2l6EAMYADIFCCEQoAEyBQghEKABMgUIIRCgATIECCEQFToECCMQJzoKCAAQgAQQhwIQFDoFCAAQgAQ6BAgAEEM6BQgAEJECOgsILhCABBDHARCvAToGCAAQFhAeSgQIQRgAUNTMAlijmwNgjqYDaABwAngAgAGAAYgBjweSAQM0LjWYAQCgAQHAAQE&sclient=gws-wiz)
+
 ##### GitHub
+
 - [Working with the Apache Maven registry - GitHub Docs](https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-apache-maven-registry)
 - [Publishing Java packages with Maven - GitHub Docs](https://docs.github.com/en/actions/publishing-packages/publishing-java-packages-with-maven)
 - [Move the workflow file | GitHub Actions: Publish to GitHub Packages | GitHub Learning Lab](https://lab.github.com/githubtraining/github-actions:-publish-to-github-packages?overlay=register-box-overlay)
 - [action-maven-publish · Actions · GitHub Marketplace](https://github.com/marketplace/actions/action-maven-publish)
+
 ### · UI
+
 - [Radix UI](https://www.radix-ui.com/)
-- [Think outside the box Generic gradient fill icon | Freepik](https://www.freepik.com/icon/think-outside-box_11905002#fromView=resource_detail&amp;position=0)
+- [Think outside the box Generic gradient fill icon | Freepik](https://www.freepik.com/icon/think-outside-box_11905002#fromView=resource_detail&position=0)
 - [Wedges — Open-source UI components for React • Lemon Squeezy](https://www.lemonsqueezy.com/wedges)
 - [Sign in | DesignSparx](https://mantine-analytics-dashboard.netlify.app/authentication/signin)
 - [Design Sparx · GitHub](https://github.com/design-sparx)
@@ -1625,7 +1864,9 @@
 - [marketplacekit/marketplacekit: A platform to create an online marketplace](https://github.com/marketplacekit/marketplacekit)
 - [GitHub - jotyy/Mantine-Admin: A Modern Admin Dashboard with Mantine7/React/NextJS14](https://github.com/jotyy/Mantine-Admin)
 - [Zanex – React Admin &amp; Dashboard Template](https://react.spruko.com/zanex-ts/preview/dashboard)
+
 #### Remix Framework
+
 - [MUI: Move faster with intuitive React UI tools](https://mui.com/)
 - [Remix: A guide to the React framework taking on Next.js - LogRocket Blog](https://blog.logrocket.com/guide-to-remix-react-framework/#:~:text=Remix%20automatically%20handles%20all%20loading,library%20like%20Redux%20or%20Recoil.)
 - [React-Admin - The Open-Source Framework For B2B Apps](https://marmelab.com/react-admin/)
@@ -1638,7 +1879,9 @@
 - [Remix Guide](https://remix.guide/)
 - [material-ui/examples/material-ui-remix-ts at master · mui/material-ui · GitHub](https://github.com/mui/material-ui/tree/master/examples/material-ui-remix-ts)
 - [Introduction to MakerKit: a SaaS boilerplate for Remix and Firebase - Remix Firebase](https://makerkit.dev/docs/remix-fire/introduction)
+
 #### Angular
+
 - [Build an Example Angular 10 Form: ngForm/ngModel vs FormGroup/FormBuilder | Techiediaries](https://www.techiediaries.com/build-angular-form/)
 - [Создание приложений на Angular с использованием продвинутых возможностей DI / Блог компании Мир Plat.Form (НСПК) / Хабр](https://habr.com/ru/company/nspk/blog/560026/)
 - [Angular v14 is now available!. We are excited to announce the release… | by Emma Twersky | Jun, 2022 | Angular Blog](https://blog.angular.io/angular-v14-is-now-available-391a6db736af)
@@ -1647,7 +1890,9 @@
 - [Working with models in Angular](https://nehalist.io/working-with-models-in-angular/)
 - [Angular Reactive Forms: The Ultimate Guide to FormArray | by Netanel Basal | Netanel Basal](https://netbasal.com/angular-reactive-forms-the-ultimate-guide-to-formarray-3adbe6b0b61a?gi=a9619d59c721)
 - [Angular Reactive Forms: The Ultimate Guide to FormArray | by Netanel Basal | Netanel Basal](https://netbasal.com/angular-reactive-forms-the-ultimate-guide-to-formarray-3adbe6b0b61a?gi=d066d944fd03)
+
 #### Frontend &amp; JS
+
 - [Как работает JS: веб push-уведомления / Хабрахабр](https://habr.com/company/ruvds/blog/350486/)
 - [Code Splitting](https://webpack.js.org/guides/code-splitting/)
 - [Текстовый туториал по React.js и Redux на русском / Хабрахабр](https://habr.com/post/279249/)
@@ -1661,7 +1906,9 @@
 - [11 библиотек (наборов компонентов) для Vue, о которых стоит знать в 2018-м / Блог компании RUVDS.com / Хабрахабр](https://habr.com/company/ruvds/blog/346220/)
 - [React / PHP platform for developers | Webiny](https://www.webiny.com/)
 - [Designing very large (JavaScript) applications – Malte Ubl – Medium](https://medium.com/@cramforce/designing-very-large-javascript-applications-6e013a3291a3)
+
 #### HTML
+
 - [eShopper - Best Free Ecommerce HTML Template Live Demo | ShapeBootstrap](http://shapebootstrap.net/item/1524993-e-shopper-best-free-ecommerce-html-template/live-demo)
 - [OutSystems Silk UI](https://silkui.outsystems.com/)
 - [RSCSS Summary](http://rscss.io/summary.html)
@@ -1677,14 +1924,18 @@
 - [10 Best React Redux Admin Dashboard 2019 | RedQ Inc](https://redq.io/blog/best-react-admin-templates/)
 - [Voyager - The Missing Laravel Admin](https://laravelvoyager.com/)
 - [React Native Starter - Mobile Application Template built with React Native](https://reactnativestarter.com/)
+
 #### Design Tools
+
 - [UICloud | User Interface Design Search Engine, UI Inspiration, UI Elements, GUI Design, Freebies](http://ui-cloud.com/)
 - [Icon Search Engine | Iconfinder](http://www.iconfinder.com/)
 - [Spot-Free UI Kit | UI Kits | Web Design Freebies](http://www.webdesignfreebies.net/ui-kits/spot-free-ui-kit/)
 - [Ultimate CSS Gradient Generator - ColorZilla.com](http://www.colorzilla.com/gradient-editor/)
 - [Twitter's Bootstrap 3 Button Generator :: Home](http://twitterbootstrap3buttons.w3masters.nl/)
 - [The Beginner's Guide to Google's Material Design](https://speckyboy.com/2016/05/04/beginners-guide-material-design/)
+
 ### · Java
+
 - [provectus/kafka-ui: Open-Source Web UI for Apache Kafka Management](https://github.com/provectus/kafka-ui)
 - [piomin/sample-spring-microservices-new: Demo for Spring Boot 3(`master` branch)/2(other branches) and Spring Cloud microservices with distributed configuration (Spring Cloud Config), service discovery (Eureka), API gateway (Spring Cloud Gateway, Zuul), Swagger/OpenAPI documentation (Springdoc), logs correlation using Spring Cloud Sleuth/Micrometer OTEL and many more](https://github.com/piomin/sample-spring-microservices-new)
 - [https://github.com/afsalashyana/Spring-Boot-Tutorials/blob/master/LearnSpringSecurity/src/main/java/com/genuinecoder/learnspringsecurity/model/MyUserRepository.java](https://github.com/afsalashyana/Spring-Boot-Tutorials/blob/master/LearnSpringSecurity/src/main/java/com/genuinecoder/learnspringsecurity/model/MyUserRepository.java)
@@ -1725,7 +1976,7 @@
 - [Aggregate :: Apache Camel](https://camel.apache.org/components/next/eips/aggregate-eip.html)
 - [Send HTML emails with FreeMarker Templates - Spring Boot | SpringHow](https://www.google.com/amp/s/springhow.com/spring-boot-email-freemarker/%3famp=1)
 - [GitHub - ChristianLempa/boilerplates: This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.](https://github.com/ChristianLempa/boilerplates)
-- [thombergs (thombergs) / Repositories · GitHub](https://github.com/thombergs?page=2&amp;tab=repositories)
+- [thombergs (thombergs) / Repositories · GitHub](https://github.com/thombergs?page=2&tab=repositories)
 - [Symflower for IntelliJ IDEA - Smart Unit Test Generator for Java](https://symflower.com/en/)
 - [Top 25+ Java Projects for Beginners in 2022](https://www.simplilearn.com/tutorials/java-tutorial/java-projects-for-beginner)
 - [Java67: 10 Projects you can build to Learn Java in 2023](https://www.java67.com/2022/12/10-projects-you-can-build-to-learn-java.html?m=1)
@@ -1825,7 +2076,7 @@
 - [AssertJ как способ значительно улучшить код ваших тестов – Telegraph](https://telegra.ph/AssertJ-kak-sposob-znachitelno-uluchshit-kod-vashih-testov-07-09)
 - [Полезные GitHub-репозитории для Java-разработчиков – Telegraph](https://telegra.ph/Poleznye-GitHub-repozitorii-dlya-Java-razrabotchikov-05-27)
 - [maven - How to differentiate between deploying releases vs snapshots - Stack Overflow](https://stackoverflow.com/questions/9461225/how-to-differentiate-between-deploying-releases-vs-snapshots)
-- [Java Integer Cache - GeeksforGeeks](https://www.geeksforgeeks.org/java-integer-cache/#:~:text=Java%20Integer%20Cache%20Implementation%3A&amp;text=Integer%20objects%20are%20cached%20internally,are%20built%20using%20the%20constructor.)
+- [Java Integer Cache - GeeksforGeeks](https://www.geeksforgeeks.org/java-integer-cache/#:~:text=Java%20Integer%20Cache%20Implementation%3A&text=Integer%20objects%20are%20cached%20internally,are%20built%20using%20the%20constructor.)
 - [Popular Java eCommerce Frameworks and CMS | JRebel &amp; XRebel by Perforce](https://www.jrebel.com/blog/popular-java-ecommerce-frameworks-and-cms)
 - [Maven Snapshot Repository vs Release Repository | Newbedev](https://newbedev.com/maven-snapshot-repository-vs-release-repository)
 - [☕ 15 лучших каналов YouTube по Java для новичков и профессионалов](https://proglib.io/p/15-luchshih-kanalov-youtube-po-java-dlya-novichkov-i-professionalov)
@@ -1847,7 +2098,7 @@
 - [Controlling Access to Members of a Class (The Java™ Tutorials &gt; Learning the Java Language &gt; Classes and Objects)](https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html)
 - [Introduction to Awaitlity | Baeldung](https://www.baeldung.com/awaitility-testing)
 - [Guide to JUnit 5 Parameterized Tests | Baeldung](https://www.baeldung.com/parameterized-tests-junit-5)
-- [Kafka Consumer Multithreading – Madhur Ahuja](https://www.madhur.co.in/blog/2020/08/30/kafka-consumer-multithreading.html#:~:text=In%20the%20thread%20per%20consumer,%2F%20single%20partition(s).)
+- [Kafka Consumer Multithreading – Madhur Ahuja](<https://www.madhur.co.in/blog/2020/08/30/kafka-consumer-multithreading.html#:~:text=In%20the%20thread%20per%20consumer,%2F%20single%20partition(s).>)
 - [Measure execution time for a Java method - Stack Overflow](https://stackoverflow.com/questions/3382954/measure-execution-time-for-a-java-method)
 - [Measure Elapsed Time in Java | Baeldung](https://www.baeldung.com/java-measure-elapsed-time)
 - [Understanding Java 8’s Consumer, Supplier, Predicate and Function | by Somnath Musib | The Startup | Medium](https://medium.com/swlh/understanding-java-8s-consumer-supplier-predicate-and-function-c1889b9423d)
@@ -1863,7 +2114,7 @@
 - [Java - Interthread Communication](https://www.tutorialspoint.com/java/java_thread_communication.htm)
 - [Хороший код на Java: коротко о Java Collections Framework](https://highload.today/blogs/kollektsioner-horoshego-koda-chto-nuzhno-znat-o-java-collections-framework/)
 - [Справочник по Java Collections Framework / Хабр](https://habr.com/ru/post/237043/)
-- [Обзор java.util.concurrent.* / Хабр](https://habr.com/ru/company/luxoft/blog/157273/)
+- [Обзор java.util.concurrent.\* / Хабр](https://habr.com/ru/company/luxoft/blog/157273/)
 - [Java67](https://www.java67.com/?m=1)
 - [The modern web framework for Java · Hilla](https://hilla.dev/)
 - [Exposing Prometheus Metrics from Java | VMware Tanzu Developer Center](https://tanzu.vmware.com/developer/learningpaths/application-observability/exposing-metrics-java-prometheus/)
@@ -1885,7 +2136,9 @@
 - [Изоляция в тестах с Kafka / Хабр](https://habr.com/ru/articles/797049/)
 - [How to Modernize Java Development Environment using VS Code and WSL2 to Improve Productivity | by PravinPreneur | Medium](https://medium.com/@pravinpreneur/how-to-modernize-java-development-environment-using-vs-code-and-wsl2-to-improve-productivity-1c9681390170)
 - [Java development environment on Windows (WSL2 + SDKMAN + IntelliJ) | by Marcin Jakuszko | Medium](https://marcinjakuszko.medium.com/java-development-environment-on-windows-10-wsl2-sdkman-intellij-584686fdea85)
+
 #### Auto Tests
+
 - [Cucumber-JVM - Cucumber Documentation](https://cucumber.io/docs/installation/java/)
 - [10 интересных нововведений в JUnit 5 / Хабр](https://habr.com/ru/post/337700/)
 - [REST Assured Tutorial: How to test API with Example](https://www.guru99.com/rest-assured.html)
@@ -1896,13 +2149,15 @@
 - [REST Assured](https://rest-assured.io/)
 - [The different types of testing in Software | Atlassian](https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing)
 - [Using JUnit 5 in IntelliJ IDEA | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2016/08/using-junit-5-in-intellij-idea/)
+
 #### Tutorials
+
 - [All Tutorials on Mkyong.com – Mkyong.com](https://www.mkyong.com/all-tutorials-on-mkyong-com/)
 - [Schedule a Personalized Demo for JRebel or XRebel | Rebel](https://www.jrebel.com/java-toolkit-demo)
 - [Implementing a 2048 Solver in Java | Baeldung](https://www.baeldung.com/2048-java-solver?__s=i8havkdqqfsqxds8wasp)
 - [CQRS and Event Sourcing in Java | Baeldung](https://www.baeldung.com/cqrs-event-sourcing-java?__s=i8havkdqqfsqxds8wasp)
 - [Baeldung | Java, Spring and Web Development tutorials](https://www.baeldung.com/)
-- [Java Video Tutorial - YouTube](https://www.youtube.com/watch?v=TBWX97e1E9g&amp;list=PLE7E8B7F4856C9B19)
+- [Java Video Tutorial - YouTube](https://www.youtube.com/watch?v=TBWX97e1E9g&list=PLE7E8B7F4856C9B19)
 - [GitHub - mafudge/LearnJava: Learn Java Programming](https://github.com/mafudge/LearnJava)
 - [10 Best Java Tutorial, Course &amp; Certification [2019] [UPDATED]](https://digitaldefynd.com/best-java-tutorial-class-course-training-certification/)
 - [Learn Java in 1 Video](http://www.newthinktank.com/2019/02/learn-java-1-video/)
@@ -1912,7 +2167,9 @@
 - [How to create an empty multi module Maven project?](https://stackoverflow.com/questions/6328778/how-to-create-an-empty-multi-module-maven-project)
 - [Multi-Module Project With Spring Boot | Baeldung](https://www.baeldung.com/spring-boot-multiple-modules)
 - [Building a Multi-Module Spring Boot Application with Gradle](https://reflectoring.io/spring-boot-gradle-multi-module/)
+
 #### How To
+
 - [How to Switch From PHP to Java and Why It’s Still a Good Idea](https://medium.com/javarevisited/how-to-switch-from-php-to-java-and-why-its-still-a-good-idea-de0f309da757)
 - [Как приручить дракона или Сказочка о том, как разработчик впервые встретился с Unit-тестами / Блог компании Ростелеком / Хабр](https://habr.com/ru/company/rostelecom/blog/572640/)
 - [tidyjava/vertx-guice-clean-architecture](https://github.com/tidyjava/vertx-guice-clean-architecture)
@@ -1922,7 +2179,9 @@
 - [How to send HTTP request GET/POST in Java – Mkyong.com](https://www.mkyong.com/java/how-to-send-http-request-getpost-in-java/)
 - [Transferring a File Through SFTP in Java | Baeldung](https://www.baeldung.com/java-file-sftp)
 - [java - Guice Constructor Injection withOUT Annotations?](https://stackoverflow.com/questions/50846677/guice-constructor-injection-without-annotations)
+
 #### Batch Processing Q&amp;A
+
 - [Magic Quadrant for Data Integration Tools](https://www.gartner.com/en/documents/3955823/magic-quadrant-for-data-integration-tools)
 - [Batch Execution ‒ QlikView](https://help.qlik.com/en-US/qlikview/April2019/Subsystems/Client/Content/QV_QlikView/BatchExecution.htm)
 - [Spring Boot Tutorial - Integrate Spring Boot + Apache Camel | JavaInUse](https://www.javainuse.com/spring/bootcamel)
@@ -1935,7 +2194,9 @@
 - [Java 8 Stream - Read a file line by line - Mkyong.com](https://mkyong.com/java8/java-8-stream-read-a-file-line-by-line/)
 - [How to Read a Large File Efficiently with Java | Baeldung](https://www.baeldung.com/java-read-lines-large-file)
 - [io - Java Read Large Text File With 70million line of text](https://stackoverflow.com/questions/14037404/java-read-large-text-file-with-70million-line-of-text)
+
 #### &gt; Github
+
 - [Brightspot | Headless CMS, Enterprise CMS &amp; Digital Asset Management - Brightspot](https://www.brightspot.com/)
 - [camel-jacksonxml – A developer's journal](https://rphgoossens.wordpress.com/tag/camel-jacksonxml/)
 - [GitHub - pivotal-cf/java-cfenv](https://github.com/pivotal-cf/java-cfenv)
@@ -1962,7 +2223,9 @@
 - [devRobots/spring-boot-ecommerce: eCommerce Application for Spring Boot](https://github.com/devRobots/spring-boot-ecommerce)
 - [apache/dubbo](https://github.com/apache/dubbo)
 - [Univocity Parsers | Baeldung](https://www.baeldung.com/java-univocity-parsers?__s=i8havkdqqfsqxds8wasp)
+
 #### Language Knowledge Base
+
 - [The best way to implement equals, hashCode, and toString with JPA and Hibernate - Vlad Mihalcea](https://vladmihalcea.com/the-best-way-to-implement-equals-hashcode-and-tostring-with-jpa-and-hibernate/)
 - [Ultimate Guide to Implementing equals() and hashCode() with Hibernate](https://thorben-janssen.com/ultimate-guide-to-implementing-equals-and-hashcode-with-hibernate/)
 - [Google Guice Constructor Injection](https://www.tutorialspoint.com/guice/guice_constructor_injection.htm)
@@ -1994,7 +2257,9 @@
 - [Java67: Top 10 Tough Core Java Interview Questions Answers for Programmers](https://www.java67.com/2012/09/top-10-tough-core-java-interview-questions-answers.html?m=1)
 - [Groovy Working with collections](https://docs.groovy-lang.org/next/html/documentation/working-with-collections.html#_list_literals)
 - [Nested HashMaps Examples in Java | Baeldung](https://www.baeldung.com/java-nested-hashmaps)
+
 #### Web Frameworks
+
 - [Home - Across](https://across.dev/)
 - [Across in a nutshell - Across](https://docs.across.dev/across-site/production/across/in-a-nutshell.html)
 - [Ninja Web Framework Tutorial – Part 1 - DZone Web Dev](https://dzone.com/articles/ninja-web-framework-tutorial-part-1)
@@ -2003,7 +2268,9 @@
 - [Ninja – Java web framework](https://www.ninjaframework.org/)
 - [Javalin - A lightweight Java and Kotlin web framework](https://javalin.io/)
 - [Elide Auto JSON API or GraphQL](https://elide.io/)
+
 ##### Spring
+
 - [Spring Guides](https://github.com/spring-guides)
 - [andrei-punko/spring-boot-template: Template for Spring Boot application](https://github.com/andrei-punko/spring-boot-template)
 - [sivalabs/spring-boot-java-rest-api-archetype: Maven Archetype for SpringBoot Java REST API](https://github.com/sivalabs/spring-boot-java-rest-api-archetype)
@@ -2073,7 +2340,9 @@
 - [Spring Data Elasticsearch - Reference Documentation](https://docs.spring.io/spring-data/elasticsearch/docs/current/reference/html/#elasticsearch.query-methods.criterions)
 - [Spring data elasticsearch query products with multiple fields - Stack Overflow](https://stackoverflow.com/questions/31119717/spring-data-elasticsearch-query-products-with-multiple-fields)
 - [The Best Spring Data JPA Logging Configuration in Spring Boot](https://thorben-janssen.com/spring-data-jpa-logging/)
+
 ###### Batch Processing
+
 - [mminella (Michael Minella) · GitHub](https://github.com/mminella)
 - [Working With Spring Batch and Distributed Transaction](https://medium.com/swlh/working-with-spring-batch-and-distributed-transaction-772de2219e60)
 - [Spring Batch 3.0 Лучший Способ Передать 250+ String As Jobparameter](https://progi.pro/spring-batch-30-luchshiy-sposob-peredat-250-string-as-jobparameter-10494802)
@@ -2092,14 +2361,14 @@
 - [java - Run Spring Batch Job programmatically?](https://stackoverflow.com/questions/5951427/run-spring-batch-job-programmatically)
 - [java - Spring-Batch without persisting metadata to database?](https://stackoverflow.com/questions/25077549/spring-batch-without-persisting-metadata-to-database)
 - [Spring Cloud Data Flow](https://spring.io/projects/spring-cloud-dataflow#overview)
-####### Java Batch
+  ####### Java Batch
 - [Java EE 7 Batch Processing | Baeldung](https://www.baeldung.com/java-ee-7-batch-processing)
 - [Re: [jakartaee-platform-dev] Deprecate JSR-352 and rework JSR-236](https://www.eclipse.org/lists/jakartaee-platform-dev/msg01156.html)
 - [Creating job definitions](https://help.hcltechsw.com/workloadautomation/v95/distr/src_tsweb/General_Help/Creating_exec_jobs_t.html)
 - [Java EE Batch Processing with OpenShift, WildFly &amp; JBeret | chuffman | Katacoda](https://www.katacoda.com/chuffman/courses/middleware/java-batch-processing)
 - [Restarting JSR 352 Java Batch jobs from the point of failure](https://help.hcltechsw.com/workloadautomation/v95/common/src_gi/eqqg1JSR352pluginMonitoringEnh.html)
 - [BatchStatus (Java(TM) EE 8 Specification APIs)](https://javaee.github.io/javaee-spec/javadocs/javax/batch/runtime/BatchStatus.html)
-####### Spring Batch
+  ####### Spring Batch
 - [DCP - Batch Tasks](http://localhost:50100/applications)
 - [ItemWriterAdapter (Spring Batch)](https://docs.spring.io/spring-batch/docs/current/api/org/springframework/batch/item/adapter/ItemWriterAdapter.html)
 - [Spring Batch MultiResourceItemReader example - Mkyong.com](https://mkyong.com/spring-batch/spring-batch-multiresourceitemreader-example/)
@@ -2107,7 +2376,7 @@
 - [Consul Services](http://localhost:8500/ui/dc1/services)
 - [Scaling and Parallel Processing](https://docs.spring.io/spring-batch/docs/current/reference/html/scalability.html)
 - [Lots of data, multiple batches? Sounds like a job for Spring Batch - Desynit](https://www.desynit.com/dev-zone/java/lots-of-data-multiple-batches-sounds-like-a-job-for-spring-batch/)
-- [CB - default](http://localhost:8091/ui/index.html#!/buckets?scenarioBucket=default&amp;scenarioZoom=minute)
+- [CB - default](http://localhost:8091/ui/index.html#!/buckets?scenarioBucket=default&scenarioZoom=minute)
 - [Spring Batch Architecture](https://terasoluna-batch.github.io/guideline/5.0.0.RELEASE/en/Ch02_SpringBatchArchitecture.html#Ch02_SpringBatchArch_Detail_BusinessLogic)
 - [Guide to Spring Batch Processing | Toptal](https://www.toptal.com/spring/spring-batch-tutorial)
 - [spring-batch/spring-batch-samples at master · spring-projects/spring-batch · GitHub](https://github.com/spring-projects/spring-batch/tree/master/spring-batch-samples)
@@ -2123,7 +2392,7 @@
 - [Chapter 10. Controlling execution - Spring Batch in Action](https://livebook.manning.com/book/spring-batch-in-action/chapter-10/22)
 - [Four ways to scale Spring Batch. How to efficiently scale up Spring… | by Female Power SV | Code Like A Girl](https://code.likeagirl.io/four-ways-to-scale-spring-batch-3ad5042e0266?gi=e0267891e270)
 - [Four ways to scale Spring Batch. How to efficiently scale up Spring… | by Female Power SV | Code Like A Girl](https://code.likeagirl.io/four-ways-to-scale-spring-batch-3ad5042e0266)
-- [PPTY file generation on the fly on CouchBase](https://rndwww.nce.amadeus.net/confluence/pages/resumedraft.action?draftId=1422325283&amp;draftShareId=13481894-5012-44b7-8fff-a8314e13546d&amp;)
+- [PPTY file generation on the fly on CouchBase](https://rndwww.nce.amadeus.net/confluence/pages/resumedraft.action?draftId=1422325283&draftShareId=13481894-5012-44b7-8fff-a8314e13546d&)
 - [Challenges with built-in item readers in Spring Batch · GitHub](https://gist.github.com/nieldw/7b731b1717af6f0a4756)
 - [Spring Batch Exception Handling Example | Examples Java Code Geeks - 2020](https://examples.javacodegeeks.com/enterprise-java/spring/batch/spring-batch-exception-handling-example/#:~:text=1.-,Spring%20batch%20Skip%20technique,on%20with%20the%20next%20one.)
 - [GitHub - pdyraga/spring-batch-samples: Spring Batch samples](https://github.com/pdyraga/spring-batch-samples)
@@ -2135,7 +2404,7 @@
 - [Spring Batch Extensions](https://github.com/spring-projects/spring-batch-extensions)
 - [spring-batch-toolkit](https://github.com/arey/spring-batch-toolkit)
 - [Spring Batch Partitioning At Runtime](https://stackoverflow.com/questions/62501554/spring-batch-partitioning-at-runtime)
-####### Cloud Data Flow
+  ####### Cloud Data Flow
 - [Reference Guide](https://docs.spring.io/spring-cloud-dataflow/docs/current/reference/htmlsingle/#spring-cloud-dataflow-stream-intro-dsl)
 - [Architecture](https://dataflow.spring.io/docs/concepts/architecture/)
 - [Available Applications](https://docs.spring.io/spring-cloud-dataflow/docs/current/reference/htmlsingle/#_available_applications)
@@ -2147,16 +2416,18 @@
 - [Introduction to Spring Cloud Data Flow – Jose Carvajal – Passionate Software Engineer](https://sgitario.github.io/introduction-spring-data-flow/)
 - [Spring Cloud Data Flow](https://dataflow.spring.io/)
 - [Spring Cloud Data Flow Server for OpenShift](https://donovanmuller.blog/spring-cloud-dataflow-server-openshift/docs/1.1.0.RELEASE/reference/htmlsingle/)
-######## GitHub
+  ######## GitHub
 - [mminella (Michael Minella) / Repositories · GitHub](https://github.com/mminella?tab=repositories)
 - [ravindrabhatt/spring-cloud-dataflow-sample](https://github.com/ravindrabhatt/spring-cloud-dataflow-sample)
 - [spring-cloud-data-flow-demo/README.md at master · vaquarkhan/spring-cloud-data-flow-demo · GitHub](https://github.com/vaquarkhan/spring-cloud-data-flow-demo/blob/master/README.md)
 - [scaling-demos/HighPerformanceBatch.pptx at master · mminella/scaling-demos · GitHub](https://github.com/mminella/scaling-demos)
-######## Video
+  ######## Video
 - [Cloud Native Batch Processing](https://www.youtube.com/watch?v=1NZVwv1cmMc)
 - [Case Study of Batch Processing With Spring Cloud Data Flow Server in Cloud Foundry - Bruce Thelen - YouTube](https://www.youtube.com/watch?v=ohayqcMh-Fw)
 - [Spring Batch and Apache Kafka](https://www.youtube.com/watch?v=UJesCn731G4)
+
 ###### Cloud-Native
+
 - [Liveness and Readiness Probes with Spring Boot](https://spring.io/blog/2020/03/25/liveness-and-readiness-probes-with-spring-boot)
 - [Graceful Shutdown Spring Boot Applications](https://blog.marcosbarbero.com/graceful-shutdown-spring-boot-apps/)
 - [Guide to Spring Cloud Kubernetes | Baeldung](https://www.baeldung.com/spring-cloud-kubernetes)
@@ -2167,30 +2438,40 @@
 - [graceful-shutdown-spring-boot/README.md at master · gesellix/graceful-shutdown-spring-boot · GitHub](https://github.com/gesellix/graceful-shutdown-spring-boot/blob/master/README.md)
 - [Spring Cloud Task Reference Guide](https://docs.spring.io/spring-cloud-task/docs/current/reference/#getting-started)
 - [Quick Guide to Spring Cloud Open Service Broker | Baeldung](https://www.baeldung.com/spring-cloud-open-service-broker?__s=i8havkdqqfsqxds8wasp)
+
 ###### Dockerize
+
 - [Build Spring Microservices and Dockerize Them for…](https://developer.okta.com/blog/2019/02/28/spring-microservices-docker)
 - [spring-boot-microservices-series/docker-compose.y…](https://github.com/sivaprasadreddy/spring-boot-microservices-series/blob/master/docker-compose.yml)
 - [spring-boot-microservices-series/run.sh at master · sivaprasadreddy/spring-boot-microservices-series · GitHub](https://github.com/sivaprasadreddy/spring-boot-microservices-series/blob/master/run.sh)
 - [Getting Started | Spring Boot with Docker](https://spring.io/guides/gs/spring-boot-docker/)
 - [Reusing Docker Layers with Spring Boot | Baeldung](https://www.baeldung.com/docker-layers-spring-boot?__s=i8havkdqqfsqxds8wasp)
 - [Docker Compose + Consul + Spring Boot + FeignClient / Хабр](https://habr.com/ru/post/429472/)
+
 ###### Scopes
+
 - [GitHub - jyore/spring-scopes: Custom Spring Bean Scopes](https://github.com/jyore/spring-scopes)
 - [java - Spring Custom Scope Lifecycle Bean Termination - Stack Overflow](https://stackoverflow.com/questions/50477894/spring-custom-scope-lifecycle-bean-termination)
 - [Spring bean custom scope / Хабр](https://habr.com/ru/post/225397/)
 - [Spring by Example Custom Thread Scope Module](https://www.springbyexample.org/examples/custom-thread-scope-module.html)
+
 ###### Native Image
+
 - [Native Image](https://www.graalvm.org/reference-manual/native-image/)
+
 ##### JHipster
+
 - [JHIPSTER Using Kafka](https://www.jhipster.tech/using-kafka/)
-- [Reactive Java Microservices with Spring Boot and JHipster | Okta Developer](https://developer.okta.com/blog/2021/01/20/reactive-java-microservices?utm_campaign=text_website_all_multiple_dev_dev_jhipster-q2_&amp;utm_source=jhipster&amp;utm_medium=cpc)
-- [Reactive Java Microservices with Spring Boot and JHipster | Okta Developer](https://developer.okta.com/blog/2021/01/20/reactive-java-microservices?utm_campaign=text_website_all_multiple_dev_dev_jhipster-q2_&amp;utm_source=jhipster&amp;utm_medium=cpc#why-reactive-java)
+- [Reactive Java Microservices with Spring Boot and JHipster | Okta Developer](https://developer.okta.com/blog/2021/01/20/reactive-java-microservices?utm_campaign=text_website_all_multiple_dev_dev_jhipster-q2_&utm_source=jhipster&utm_medium=cpc)
+- [Reactive Java Microservices with Spring Boot and JHipster | Okta Developer](https://developer.okta.com/blog/2021/01/20/reactive-java-microservices?utm_campaign=text_website_all_multiple_dev_dev_jhipster-q2_&utm_source=jhipster&utm_medium=cpc#why-reactive-java)
 - [JHipster Conf 2019 : JHipster side-by-side in practice by David Steiman - YouTube](https://www.youtube.com/watch?v=Gg5CYoBdpVo)
 - [Microservices for the Masses with Spring Boot, JHipster, and JWT by Matt Raible - YouTube](https://www.youtube.com/watch?v=72K7cMCv7eM)
 - [JHipster Tutorial for Beginners - Step by Step (with example) - IONOS](https://www.ionos.com/digitalguide/websites/web-development/jhipster/)
 - [GitHub - dancancro/great-big-example-application: A full-stack example app built with JHipster, Spring Boot, Kotlin, Angular 4, ngrx, and Webpack](https://github.com/dancancro/great-big-example-application)
 - [Multi-Tenant Applications With JHipster - Sonalake](https://sonalake.com/latest/multi-tenant-applications-with-jhipster/)
+
 #### HTTP Clients
+
 - [Top 5 solutions for Java Http Clients](http://www.mastertheboss.com/other/java-stuff/top-solutions-for-java-http-clients)
 - [Vert.x Web Client - Vert.x](https://vertx.io/docs/vertx-web-client/java/)
 - [Java Code Examples io.vertx.ext.web.client.WebClient](https://www.programcreek.com/java-api-examples/?api=io.vertx.ext.web.client.WebClient)
@@ -2207,7 +2488,9 @@
 - [java - What is the correct way to use feign with spring cloud kubernetes?](https://stackoverflow.com/questions/59217208/what-is-the-correct-way-to-use-feign-with-spring-cloud-kubernetes)
 - [What is the best (both fast and reliable) HTTP client library in Java? - Quora](https://www.quora.com/What-is-the-best-both-fast-and-reliable-HTTP-client-library-in-Java)
 - [android - Download binary file from OKHTTP](https://stackoverflow.com/questions/25893030/download-binary-file-from-okhttp)
+
 #### Camel &amp; Karaf
+
 - [Apache Camel Reviews &amp; Ratings 2020](https://www.trustradius.com/products/apache-camel/reviews)
 - [Apache Camel in the belly of the Docker whale](https://www.slideshare.net/hekonsek/apache-camel-in-the-belly-of-the-docker-whale)
 - [Apache Camel : "direct:start" endpoint - what does it mean?](https://stackoverflow.com/questions/9636651/apache-camel-directstart-endpoint-what-does-it-mean)
@@ -2230,7 +2513,9 @@
 - [Apache Camel Reviews 2020: Details, Pricing, &amp; Features | G2](https://www.g2.com/products/apache-camel/reviews#survey-response-1695251)
 - [Over the Hump: Why We Need to Talk About Apache Camel](https://www.cbronline.com/feature/apache-camel)
 - [Apache Camel - Reviews, Pros &amp; Cons | Companies using Apache Camel](https://stackshare.io/apache-camel)
+
 ##### Apache Camel
+
 - [rest - Read from Paginated API in Apache camel Route](https://stackoverflow.com/questions/37976930/read-from-paginated-api-in-apache-camel-route)
 - [Camel - Users - camel-http how to retrieve response body from HttpOperationFailedException](https://camel.465427.n5.nabble.com/camel-http-how-to-retrieve-response-body-from-HttpOperationFailedException-td471619.html)
 - [Chapter 11: Error handling - Camel in Action](https://livebook.manning.com/book/camel-in-action-second-edition/chapter-11/)
@@ -2238,7 +2523,9 @@
 - [How to monitor Apache camel routes in a Java project using hawtio](https://stackoverflow.com/questions/48722138/how-to-monitor-apache-camel-routes-in-a-java-project-using-hawtio)
 - [Apache Camel Tutorial | Tom Donohue](https://tomd.xyz/camel-tutorial/)
 - [Chapter 13: Parallel processing - Camel in Action](https://livebook.manning.com/book/camel-in-action-second-edition/chapter-13/8)
+
 #### Native Images
+
 - [В Java 9 появится Ahead-Of-Time компиляция. Это как?](https://tproger.ru/news/jaotc-wtf/)
 - [Native Image](https://www.graalvm.org/docs/reference-manual/native-image/)
 - [Configuring A Quarkus Application With Profiles – Antonio's Blog](https://antoniogoncalves.org/2019/11/07/configuring-a-quarkus-application-with-profiles/)
@@ -2251,24 +2538,30 @@
 - [Graalvm native executable couchbase client not working - Java SDK - Couchbase Forums](https://forums.couchbase.com/t/graalvm-native-executable-couchbase-client-not-working/24108)
 - [Introducing Quarkus: a next-generation Kubernetes native Java framework - Red Hat Developer Blog](https://developers.redhat.com/blog/2019/03/07/quarkus-next-generation-kubernetes-native-java-framework/)
 - [Micronaut Framework](https://micronaut.io/)
+
 #### Dockerize
+
 - [Simplified Docker Image Builds for Java Microserv…](https://medium.com/better-programming/simplified-docker-image-builds-for-java-microservices-316648e0de81)
 - [Creating Docker Images with Spring Boot | Baeldung](https://www.baeldung.com/spring-boot-docker-images?__s=i8havkdqqfsqxds8wasp)
 - [Java Microservices: A Practical Guide](https://www.marcobehler.com/guides/java-microservices-a-practical-guide)
 - [Crafting the perfect Java Docker build flow - Codefresh](https://codefresh.io/docker-tutorial/java_docker_pipeline/)
 - [Deploying Microservices in Java | Rebel](https://www.jrebel.com/blog/deploying-microservices-in-java)
+
 #### Other
+
 - [SpringOne | September 2–3, 2020](https://springone.io/)
 - [How to Build a Java eCommerce Site from Scratch in 2019](https://www.expertmarket.co.uk/web-design/how-to-build-a-java-ecommerce-site-from-scratch)
 - [java - Connect through squid proxy with pusher lib](https://stackoverflow.com/questions/42859266/connect-through-squid-proxy-with-pusher-lib)
 - [Spring Fu 0.3.0 и не только / Блог компании OTUS / Хабр](https://habr.com/ru/company/otus/blog/555292/)
 - [Java-дайджест за 6 марта — JUG.ru](https://jug.ru/2020/03/java-digest-90/)
+
 #### JDBC JPA Hibernate
+
 - [Batch operations, scrollable ResultSets, and SQL warnings with JDBC - IBM Documentation](https://www.ibm.com/docs/en/icfsfz/11.3.0?topic=client-batch-operations-scrollable-resultsets-sql-warnings-jdbc)
 - [Making batch updates in JDBC applications - IBM Documentation](https://www.ibm.com/docs/en/db2-for-zos/11?topic=sql-making-batch-updates-in-jdbc-applications)
 - [Hibernate Postgresql select for update with outer join issue - Stack Overflow](https://stackoverflow.com/questions/46282087/hibernate-postgresql-select-for-update-with-outer-join-issue)
 - [Write an example for batch update using PreparedStatement. - Java JDBC Programs](https://www.java2novice.com/jdbc/prepared-statement-batch-update/)
-- [jdbc ResultSet for batch update - Google Search](https://www.google.com/search?q=jdbc+ResultSet+for+batch+update&amp;newwindow=1&amp;sxsrf=AOaemvI4m06b7mgghE-6O6vlSunG5853nA%3A1635424069690&amp;ei=RZd6YfG6KcKFrwS07ZiQBA&amp;ved=0ahUKEwix8eu1je3zAhXCwosKHbQ2BkIQ4dUDCA8&amp;uact=5&amp;oq=jdbc+ResultSet+for+batch+update&amp;gs_lcp=Cgdnd3Mtd2l6EAM6BwgAEEcQsANKBAhBGABQxr0EWMa9BGCz1wRoAXACeACAAV6IAV6SAQExmAEAoAEByAEIwAEB&amp;sclient=gws-wiz)
+- [jdbc ResultSet for batch update - Google Search](https://www.google.com/search?q=jdbc+ResultSet+for+batch+update&newwindow=1&sxsrf=AOaemvI4m06b7mgghE-6O6vlSunG5853nA%3A1635424069690&ei=RZd6YfG6KcKFrwS07ZiQBA&ved=0ahUKEwix8eu1je3zAhXCwosKHbQ2BkIQ4dUDCA8&uact=5&oq=jdbc+ResultSet+for+batch+update&gs_lcp=Cgdnd3Mtd2l6EAM6BwgAEEcQsANKBAhBGABQxr0EWMa9BGCz1wRoAXACeACAAV6IAV6SAQExmAEAoAEByAEIwAEB&sclient=gws-wiz)
 - [JDBC Batch Update Examples](https://www.codejava.net/java-se/jdbc/jdbc-batch-update-examples)
 - [Guide to the JDBC ResultSet Interface | Baeldung](https://www.baeldung.com/jdbc-resultset)
 - [Spring 4 @Async Exception Handling with AsyncUncaughtExceptionHandler](https://www.concretepage.com/spring-4/spring-4-async-exception-handling-with-asyncuncaughtexceptionhandler)
@@ -2286,10 +2579,14 @@
 - [Ignore null values of entity bean while updating the table using Hibernate - Stack Overflow](https://stackoverflow.com/questions/23285520/ignore-null-values-of-entity-bean-while-updating-the-table-using-hibernate)
 - [Guide on Loading Initial Data with Spring Boot | Baeldung](https://www.baeldung.com/spring-boot-data-sql-and-schema-sql)
 - [JOOQ и его кроличья нора. Как выжить без Hibernate / Хабр](https://habr.com/ru/post/488522/)
+
 #### Maven
+
 - [Maven – Guide to Naming Conventions](https://maven.apache.org/guides/mini/guide-naming-conventions.html)
 - [Maven artifact and groupId naming](https://stackoverflow.com/questions/3724415/maven-artifact-and-groupid-naming)
+
 #### Essentials
+
 - [Java – Path vs File | Baeldung](https://www.baeldung.com/java-path-vs-file)
 - [Compare Two JSON Objects with Jackson | Baeldung](https://www.baeldung.com/jackson-compare-two-json-objects)
 - [A Guide to MongoDB with Java | Baeldung](https://www.baeldung.com/java-mongodb)
@@ -2301,13 +2598,17 @@
 - [Java Essentials](https://www.javabrains.io/courses/java-essentials)
 - [Java OOPs Concepts - Javatpoint](https://www.javatpoint.com/java-oops-concepts)
 - [Free Java Course for Clean Code Beginners](https://marcus-biel.com/java-beginner-course/)
+
 #### Tests
+
 - [Getting Started - WireMock](http://wiremock.org/docs/getting-started/)
 - [Testing RESTful Services in Java: Best Practices](https://phauer.com/2016/testing-restful-services-java-best-practices/)
 - [GitHub - anystub/anystub: record input output for tests in java](https://github.com/anystub/anystub)
 - [Using Mockito ArgumentCaptor | Baeldung](https://www.baeldung.com/mockito-argumentcaptor)
 - [Example of Mockito's argumentCaptor - Stack Overflow](https://stackoverflow.com/questions/36253040/example-of-mockitos-argumentcaptor)
+
 #### Tips &amp; Tricks
+
 - [jms - How to run very long process in a java base…](https://stackoverflow.com/questions/42723806/how-to-run-very-long-process-in-a-java-based-web-application)
 - [How to call a webservice directly from Java (without webservice library) - AMIS, Data Driven Blog - Oracle &amp; Microsoft Azure](https://technology.amis.nl/2011/06/29/how-to-call-a-call-a-webservice-directly-from-java-without-webservice-library/)
 - [xml - SAXON - Calling external java functions in Xquery - Stack Overflow](https://stackoverflow.com/questions/30098684/saxon-calling-external-java-functions-in-xquery)
@@ -2318,7 +2619,9 @@
 - [java - How do you find words in a text file and print the most frequent word shown using array? - Stack Overflow](https://stackoverflow.com/questions/18626233/how-do-you-find-words-in-a-text-file-and-print-the-most-frequent-word-shown-usin)
 - [Most frequent word | TutorialHorizon](https://algorithms.tutorialhorizon.com/most-frequent-word/)
 - [What is the Java program to find the most frequent word in a text file? - Quora](https://www.quora.com/What-is-the-Java-program-to-find-the-most-frequent-word-in-a-text-file)
+
 #### Spring
+
 - [Overview of Spring Boot Dev Tools |Baeldung](https://www.baeldung.com/spring-boot-devtools)
 - [tutorials/spring-boot-modules/spring-boot-3 at master · eugenp/tutorials · GitHub](https://github.com/eugenp/tutorials/tree/master/spring-boot-modules/spring-boot-3)
 - [aabarmin (Aleksandr Barmin) · GitHub](https://github.com/aabarmin)
@@ -2328,7 +2631,7 @@
 - [Liveness and Readiness Probes in Spring Boot | Baeldung](https://www.baeldung.com/spring-liveness-readiness-probes)
 - [goudai/spring-boot-starter-kafka: Spring boot &amp; Spring Cloud Kafka support](https://github.com/goudai/spring-boot-starter-kafka)
 - [aabarmin (aabarmin) / Repositories · GitHub](https://github.com/aabarmin?tab=repositories)
-- [Jeka1978 (Jeka1978) / Repositories](https://github.com/Jeka1978?tab=repositories&amp;q=micr&amp;type=&amp;language=&amp;sort=)
+- [Jeka1978 (Jeka1978) / Repositories](https://github.com/Jeka1978?tab=repositories&q=micr&type=&language=&sort=)
 - [Paging with Spring Boot](https://reflectoring.io/spring-boot-paging/)
 - [spring-boot/additional-spring-configuration-metadata.json at main · spring-projects/spring-boot](https://github.com/spring-projects/spring-boot/blob/main/spring-boot-project/spring-boot/src/main/resources/META-INF/additional-spring-configuration-metadata.json)
 - [societe-generale/rabbitmq-advanced-spring-boot-starter: A generic library for messaging with rabbit mq with extension on spring boot amqp](https://github.com/societe-generale/rabbitmq-advanced-spring-boot-starter)
@@ -2363,7 +2666,9 @@
 - [Online Full Stack Java Bootcamp - Coders Campus](https://www.coderscampus.com/online-java-coding-bootcamp/)
 - [GitHub - hotire/spring-boot-webflux: ✏️ study](https://github.com/hotire/spring-boot-webflux)
 - [GitHub - sumanentc/spring-webflux-reactive-rest-api-example: The purpose of this project is to demonstrate how we can use Spring WebFlux to create a simple reactive web application.](https://github.com/sumanentc/spring-webflux-reactive-rest-api-example)
+
 ##### Microservices
+
 - [AndriyKalashnykov/spring-microservices-k8s: Java Microservices with Spring Boot and Spring Cloud Kubernetes](https://github.com/AndriyKalashnykov/spring-microservices-k8s)
 - [Rewrite - NGINX Ingress Controller](https://kubernetes.github.io/ingress-nginx/examples/rewrite/)
 - [SivaLabs - Kubernetes - Exposing Services to outside of Cluster using Ingress](https://www.sivalabs.in/kubernetes-ingress/)
@@ -2381,7 +2686,9 @@
 - [Пишем Java веб-приложение на современном стеке. С нуля до микросервисной архитектуры. Часть 2](https://tproger.ru/articles/pishem-java-veb-prilozhenie-na-sovremennom-steke-s-nulja-do-mikroservisnoj-arhitektury-chast-2/)
 - [Best Practices for Microservices. If you are new to microservices I… | by Hasitha Subhashana | Geek Culture | Medium](https://medium.com/geekculture/best-practices-for-microservices-191d17ebdb43)
 - [7 Microservices Best Practices for Developers - DZone Microservices](https://dzone.com/articles/7-microservices-best-practices-for-developers)
+
 ##### Fullstack
+
 - [Getting Started | Enabling Cross Origin Requests for a RESTful Web Service](https://spring.io/guides/gs/rest-service-cors/)
 - [gothinkster/realworld: "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅](https://github.com/gothinkster/realworld)
 - [borovikovd/realworld-backend-spring-ddd: Realworld spec implementation using Spring Boot](https://github.com/borovikovd/realworld-backend-spring-ddd)
@@ -2396,15 +2703,21 @@
 - [darbyluv2code/fullstack-angular-and-springboot: Source code for the popular course. Full Stack: Angular and Spring Boot](https://github.com/darbyluv2code/fullstack-angular-and-springboot)
 - [RameshMF/Angular-10-Spring-Boot-CRUD-Full-Stack-App: Angular Spring Boot CRUD Full Stack App created for my YouTube course](https://github.com/RameshMF/Angular-10-Spring-Boot-CRUD-Full-Stack-App)
 - [spring-petclinic/spring-petclinic-angular: Angular 11 version of the Spring Petclinic sample application (frontend)](https://github.com/spring-petclinic/spring-petclinic-angular)
+
 ##### Reactive
+
 - [spring-webflux-reactive-rest-api-example/UserInitializer.java at master · sumanentc/spring-webflux-reactive-rest-api-example](https://github.com/sumanentc/spring-webflux-reactive-rest-api-example/blob/master/src/main/java/com/reactive/examples/initialize/UserInitializer.java)
 - [Spring WebFlux By Example · A collection of code snippets and tips of using Spring WebFlux](https://hantsy.github.io/spring-reactive-sample/)
 - [callicoder/spring-webflux-reactive-rest-api-demo: Build Reactive Rest APIs with Spring WebFlux and Reactive Mongo](https://github.com/callicoder/spring-webflux-reactive-rest-api-demo)
+
 #### zerocracy
+
 - [jcabi – Small Useful Java Components](https://www.jcabi.com/)
 - [takes.org](https://www.takes.org/)
 - [rultor](http://www.rultor.com/)
+
 #### Learn
+
 - [Javarush - онлайн-курс обучения программированию на Java](https://javarush.ru/)
 - [Java | How to start learning Java - GeeksforGeeks](https://www.geeksforgeeks.org/java-how-to-start-learning-java/)
 - [work-kit/java-interview-questions.md at master · matlux/work-kit · GitHub](https://github.com/matlux/work-kit/blob/master/articles/java/java-interview-questions.md)
@@ -2421,7 +2734,9 @@
 - [proselytear (Eugene Suleimanov) · GitHub](https://github.com/proselytear)
 - [GitHub - proselytear/streamapibasic](https://github.com/proselytear/streamapibasic)
 - [JavaOPs (Java Online Projects)](https://github.com/JavaOPs)
+
 ### · Homelab
+
 - [The 19 Useful GitHub Repositories You Need to Become a Better Developer 🔥🚀 | HackerNoon](https://hackernoon.com/the-19-useful-github-repositories-you-need-to-become-a-better-developer)
 - [Beautiful insights for your GitHub repositories](https://repobeats.axiom.co/)
 - [trimstray/the-practical-linux-hardening-guide: This guide details creating a secure Linux production system. OpenSCAP (C2S/CIS, STIG).](https://github.com/trimstray/the-practical-linux-hardening-guide)
@@ -2429,9 +2744,13 @@
 - [Аналоги Udemy - 38 похожих сервисов 2024](https://crmindex.ru/services/udemy/analog)
 - [muratkeremozcan/react-cypress-ts-vite-template](https://github.com/muratkeremozcan/react-cypress-ts-vite-template)
 - [muratkeremozcan/lerna-react-ts-cypress: lerna react typescript yarn workspaces cypress github actions](https://github.com/muratkeremozcan/lerna-react-ts-cypress)
+
 #### · Hostinger
+
 - [Home | Hostinger](https://hpanel.hostinger.com/)
+
 #### · Infrastructure
+
 - [SQL миграции в Postgres. Часть 2 / Хабр](https://habr.com/ru/articles/736458/)
 - [Реализация Transactional outbox pattern и немного DDD / Habr](https://www.google.com/amp/s/habr.com/ru/amp/publications/741568/)
 - [What are AWS Naming Conventions?](https://peritossolutions.com/aws/aws-workload-naming-convention/)
@@ -2462,7 +2781,9 @@
 - [Product Backlog Example](https://www.mountaingoatsoftware.com/agile/scrum/scrum-tools/product-backlog/example)
 - [JavaMoney](https://javamoney.github.io/)
 - [GitHub - hcengineering/platform: Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)](https://github.com/hcengineering/platform#)
+
 ##### K8s
+
 - [GitHub - kubernetes-up-and-running/kuard: Demo app for Kubernetes Up and Running book](https://github.com/kubernetes-up-and-running/kuard)
 - [3 years managing Kubernetes clusters, my 10 lessons. | by Herve Khg | Nov, 2023 | Medium](https://hervekhg.medium.com/3-years-managing-kubernetes-clusters-my-10-lessons-b565a5509f0e)
 - [14 DevOps and SRE Tools for 2024: Your Ultimate Guide to Stay Ahead | by Eduardo Messuti | StatusPal | Dec, 2023 | Medium](https://medium.com/statuspal/14-devops-and-sre-tools-for-2024-your-ultimate-guide-to-stay-ahead-f77bbf4b0eb8)
@@ -2488,11 +2809,15 @@
 - [charts/charts/homer/values.yaml at main · djjudas21/charts](https://github.com/djjudas21/charts/blob/main/charts/homer/values.yaml)
 - [2 ways to route Ingress traffic across namespaces - Kubernetes ~ Ahmed AbouZaid!](https://tech.aabouzaid.com/2022/08/2-ways-to-route-ingress-traffic-across-namespaces.html)
 - [Proxying the dashboard on a sub path broken · Issue #5017 · kubernetes/dashboard](https://github.com/kubernetes/dashboard/issues/5017)
+
 ##### CI / CD
+
 - [ngrok Pricing for Personal and Production use-cases](https://ngrok.com/pricing)
 - [ruanbekker/drone-ci-testing: Repository with Drone CI Examples](https://github.com/ruanbekker/drone-ci-testing#drone-cli-secrets)
 - [Notify slack from Drone. Here is a quick steps to get a… | by Salohy Miarisoa | Medium](https://medium.com/@salohyprivat/notify-slack-with-drone-106e3766e2a4)
+
 ##### Observability
+
 - [Prometheus not discovering ServiceMonitor · Issue #1370 · prometheus-operator/prometheus-operator · GitHub](https://github.com/prometheus-operator/prometheus-operator/issues/1370)
 - [jaeger/examples/hotrod/README.md at main · jaegertracing/jaeger · GitHub](https://github.com/jaegertracing/jaeger/blob/main/examples/hotrod/README.md)
 - [Spring Boot monitoring with Prometheus Operator | by Artur Bartosik | DevOps.dev](https://blog.devops.dev/spring-boot-monitoring-with-prometheus-operator-82508300f87d)
@@ -2519,10 +2844,14 @@
 - [Reactive Observability in Spring Boot 3 with Micrometer | VMware Tanzu Developer Center](https://tanzu.vmware.com/developer/guides/observability-reactive-spring-boot-3/)
 - [What happened to tempo older helm charts? - Grafana Tempo - Grafana Labs Community Forums](https://community.grafana.com/t/what-happened-to-tempo-older-helm-charts/51426)
 - [Setting up the Kube Prometheus Stack | LinuxBlog.xyz](https://linuxblog.xyz/posts/kube-prometheus-stack/)
+
 ##### expose to internet
+
 - [agrinman/tunnelto: Expose your local web server to the internet with a public URL.](https://github.com/agrinman/tunnelto)
 - [Serveo: expose local servers to the internet using SSH](https://serveo.net/)
+
 #### Java Spring Tips
+
 - [naturalprogrammer/spring-lemon: Helper library for Spring Boot web applications](https://github.com/naturalprogrammer/spring-lemon)
 - [naturalprogrammer/np-spring-mvc-demo: Spring Boot MVC (non-reactive) real-world demo application](https://github.com/naturalprogrammer/np-spring-mvc-demo/tree/main)
 - [pimenovoleg (Oleg Pimenov) · GitHub](https://github.com/pimenovoleg)
@@ -2532,7 +2861,9 @@
 - [stripe-java/src/main/java/com/stripe/model/Price.…](https://github.com/stripe/stripe-java/blob/master/src/main/java/com/stripe/model/Price.java)
 - [Structuring Projects with Gradle](https://docs.gradle.org/current/userguide/multi_project_builds.html#sec:naming_recommendations)
 - [mraible (Matt Raible)](https://github.com/mraible)
+
 #### CVs
+
 - [Lead Full Stack (JavaScript+Java) Engineer (#4245621101) - Office/Remote | N-iX](https://careers.n-ix.com/jobs/4245621101-javascript-leader/)
 - [How to write an effective developer resume: Advice from a hiring manager - Stack Overflow](https://stackoverflow.blog/2020/11/25/how-to-write-an-effective-developer-resume-advice-from-a-hiring-manager/)
 - [Skill Icons](https://skillicons.dev/)
@@ -2541,7 +2872,9 @@
 - [byoungd (离谱)](https://github.com/byoungd)
 - [Job Application Tracker, AI Resume Builder, Resume Checker and More Job Search Tools - Huntr](https://huntr.co/)
 - [profile-technology-icons/README.md at main · marwin1991/profile-technology-icons](https://github.com/marwin1991/profile-technology-icons/blob/main/README.md)
+
 ##### github
+
 - [smortezah/awesome-cv: A curated list of awesome resources to create and customize your Curriculum Vitae](https://github.com/smortezah/awesome-cv)
 - [ChrisTitusTech (Chris Titus)](https://github.com/ChrisTitusTech)
 - [GitHub - itsOwen/CyberScraper-2077: A Powerful web scraper powered by LLM | OpenAI, Gemini &amp; Ollama](https://github.com/itsOwen/CyberScraper-2077)
@@ -2559,7 +2892,9 @@
 - [Nikhil Singh](https://nikhils.ca/)
 - [Code-Mars (Chandrabhan Maurya) · GitHub](https://github.com/Code-Mars)
 - [CarloWood (Carlo Wood)](https://github.com/carlowood)
+
 #### · Architecture
+
 - [Red Hat Quarkus Java stack spruces up the dev UI | InfoWorld](https://www.infoworld.com/article/3709551/red-hat-quarkus-java-stack-spruces-up-the-dev-ui.html#tk.rss_java)
 - [GitHub - softwaremill/realworld-spring-boot-native: Realworld backend with spring boot compiled to native binary](https://github.com/softwaremill/realworld-spring-boot-native)
 - [Development containers](https://containers.dev/)
@@ -2570,7 +2905,9 @@
 - [How to Install Kotlin on Linux? - GeeksforGeeks](https://www.geeksforgeeks.org/how-to-install-kotlin-on-linux/)
 - [Spring Boot and React Project - Github Code](https://www.githubcode.com/spring-boot-react-project-github/)
 - [bmaity/Online-Shopping-Store-C4-Diagrams: to test my scripts](https://github.com/bmaity/Online-Shopping-Store-C4-Diagrams/tree/master)
+
 ##### Microservices
+
 - [spring-petclinic/spring-petclinic-microservices: Distributed version of Spring Petclinic built with Spring Cloud](https://github.com/spring-petclinic/spring-petclinic-microservices/tree/master)
 - [ahlem-phantom/hrms-microservice: Human Resources Management System Microservices for employees, job seekers that captures all the essential functionalities required for any enterprise.](https://github.com/ahlem-phantom/hrms-microservice)
 - [Why Implementing Microservices on AWS Is Indispensable to a Modern Architecture for Business Agility | HackerNoon](https://hackernoon.com/why-implementing-microservices-on-aws-is-indispensable-to-a-modern-architecture-for-business-agility)
@@ -2592,30 +2929,36 @@
 - [Can you expose your services with an API gateway in Kubernetes?](https://learnk8s.io/kubernetes-ingress-api-gateway)
 - [Why do I need an API Gateway on a Kubernetes cluster | by Martin Hodges | Medium](https://medium.com/@martin.hodges/why-do-i-need-an-api-gateway-on-a-kubernetes-cluster-c70f15da836c)
 - [API Gateway Authentication and Authorization in Spring Boot](https://www.geeksforgeeks.org/api-gateway-authentication-and-authorization-in-spring-boot/)
-- [KubeSphere Services](https://know-how.space/clusters/default/services?page=1&amp;limit=100)
+- [KubeSphere Services](https://know-how.space/clusters/default/services?page=1&limit=100)
 - [Speed application development and boost developer productivity](https://www.getambassador.io/)
 - [Backstage Software Catalog and Developer Platform](https://backstage.io/)
 - [Install KubeSphere on Your Kubernetes Clusters - Civo.com](https://www.civo.com/learn/install-kubesphere-on-your-civo-kubernetes-clusters)
 - [MicroserviceTutorials/api-gateway/pom.xml at main · navinreddy20/MicroserviceTutorials · GitHub](https://github.com/navinreddy20/MicroserviceTutorials/blob/main/api-gateway/pom.xml)
+
 ##### Spring Boot
+
 - [SivaLabs - Spring Boot 3 : Error Responses using Problem Details for HTTP APIs](https://www.sivalabs.in/spring-boot-3-error-reporting-using-problem-details/)
 - [kotlin-projects/sk-gateway at master · siddhivinayak-sk/kotlin-projects · GitHub](https://github.com/siddhivinayak-sk/kotlin-projects/tree/master/sk-gateway)
 - [A website to liste to music online build with NextJs + Spring Boot + MySQL](https://www.google.com/amp/s/reactjsexample.com/a-website-to-liste-to-music-online-build-with-nextjs-spring-boot-mysql/amp/)
 - [How to use Saga Pattern with Spring Boot? by C. Barkin Ozer | Medium](https://cbarkinozer.medium.com/how-to-use-saga-pattern-with-spring-boot-67c3428810f1)
-- [Spring boot 3 &amp; Spring security 6 - Roles and Permissions Based Authorization Explained! - YouTube](https://m.youtube.com/watch?si=yTJQvf0O2_ILGvIa&amp;v=mq5oUXcAXL4&amp;feature=youtu.be)
+- [Spring boot 3 &amp; Spring security 6 - Roles and Permissions Based Authorization Explained! - YouTube](https://m.youtube.com/watch?si=yTJQvf0O2_ILGvIa&v=mq5oUXcAXL4&feature=youtu.be)
 - [Securing Your Microservices Architecture with Spring Boot: An in-depth guide to Authentication and Authorization | by Damith Neranjan Samarakoon | Geek Culture | Medium](https://medium.com/geekculture/securing-your-microservices-architecture-with-spring-boot-an-in-depth-guide-to-authentication-and-d4acd8cf7efb)
 - [oussamabasry/microservices-jwt-spring-security-from-scratch](https://github.com/oussamabasry/microservices-jwt-spring-security-from-scratch/tree/main)
+
 #### · Specs
+
 - [My notes on user stories · GitHub](https://gist.github.com/seanh/8a5b7b36d5c4fdfcfbd3b42506296968)
 - [Ecommerce User Stories + Steps · GitHub](https://gist.github.com/Jbot29/b84e5e2c6275d963f7f6)
 - [testingisdocumenting/znai: Build functional, maintainable, beautiful User Guides with markdown and Znai plugins. Instant pages navigation. Local search. Multiple integrations to work with Python, Java, C++, OpenAPI, etc. Transform "getting started" sections into slideshow for your workshops. Manage multiple documentations with self-deployed znai hub.](https://github.com/testingisdocumenting/znai)
-- [Data Analyst Books Logo | BrandCrowd Logo Maker | BrandCrowd](https://www.brandcrowd.com/maker/logo/data-analyst-books-44271?text=KVCRM&amp;isSearch=True)
+- [Data Analyst Books Logo | BrandCrowd Logo Maker | BrandCrowd](https://www.brandcrowd.com/maker/logo/data-analyst-books-44271?text=KVCRM&isSearch=True)
 - [CoreMedia/coremedia-headless-client-react: Spark - The React Example Application for the CoreMedia Headless Server](https://github.com/CoreMedia/coremedia-headless-client-react)
+
 #### · eCommerce
+
 - [Elastic Path | Java eCommerce | Open-Source &amp; API-First | Elastic Path](https://www.elasticpath.com/technologies/java-ecommerce)
 - [Elastic Path | Demo Library](https://www.elasticpath.com/demo-library)
 - [Headless eCommerce Platform | Kibo Commerce](https://kibocommerce.com/)
-- [Microservices for Modern Commerce Booklet | commercetools](https://commercetools.com/resources/booklet/microservices?utm_source=Paid-Search&amp;utm_medium=Google-Search&amp;utm_content=microservices-architecture-bmk&amp;utm_campaign=mach-microservices&amp;utm_term=microservices%20architecture&amp;utm_campaign=mach%202024%20EMEA-UKI&amp;utm_source=adwords&amp;utm_medium=ppc&amp;hsa_acc=1309061964&amp;hsa_cam=19420898287&amp;hsa_grp=158668888218&amp;hsa_ad=687301321338&amp;hsa_src=g&amp;hsa_tgt=kwd-299890907739&amp;hsa_kw=microservices%20architecture&amp;hsa_mt=b&amp;hsa_net=adwords&amp;hsa_ver=3&amp;gad_source=1&amp;gclid=EAIaIQobChMI3dPO7c_JiAMVeIpQBh08Mh1IEAAYAiAAEgKDEPD_BwE)
+- [Microservices for Modern Commerce Booklet | commercetools](https://commercetools.com/resources/booklet/microservices?utm_source=Paid-Search&utm_medium=Google-Search&utm_content=microservices-architecture-bmk&utm_campaign=mach-microservices&utm_term=microservices%20architecture&utm_campaign=mach%202024%20EMEA-UKI&utm_source=adwords&utm_medium=ppc&hsa_acc=1309061964&hsa_cam=19420898287&hsa_grp=158668888218&hsa_ad=687301321338&hsa_src=g&hsa_tgt=kwd-299890907739&hsa_kw=microservices%20architecture&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=EAIaIQobChMI3dPO7c_JiAMVeIpQBh08Mh1IEAAYAiAAEgKDEPD_BwE)
 - [Digital commerce⏐Drive growth with Vaimo](https://www.vaimo.com/expertise/digital-commerce/)
 - [Ecommerce Microservices vs. Monolith Models vs Headless Commerce](https://www.bigcommerce.co.uk/articles/ecommerce-website-development/microservices/#h2_headless_commerce)
 - [What is eCommerce Microservices Architecture | Kibo Commerce](https://kibocommerce.com/blog/what-is-microservices-based-ecommerce/)
@@ -2624,7 +2967,7 @@
 - [Home | Allegro](https://about.allegro.eu/)
 - [How to sell on Allegro in Europe - Allegro](https://allegro.pl/help/sell-on-allegro)
 - [Turis | Software Reviews &amp; Alternatives](https://crozdesk.com/software/turis)
-- [Turis - B2B eCommerce Platform](https://get.turis.app/the-b2b-ecommerce-platform/?utm_term=b2b%20ecommerce&amp;utm_campaign=Search+-+North&amp;utm_source=adwords&amp;utm_medium=ppc&amp;hsa_acc=7427942784&amp;hsa_cam=21041692470&amp;hsa_grp=161136116540&amp;hsa_ad=694855282457&amp;hsa_src=g&amp;hsa_tgt=kwd-26391241&amp;hsa_kw=b2b%20ecommerce&amp;hsa_mt=p&amp;hsa_net=adwords&amp;hsa_ver=3&amp;gad_source=1&amp;gclid=Cj0KCQjwiOy1BhDCARIsADGvQnB2Qhyrp4sbXtVorYG0ZQRFbCnupZ8Zm3P04Fr0IPkKnQiF-2aue6QaAiPoEALw_wcB)
+- [Turis - B2B eCommerce Platform](https://get.turis.app/the-b2b-ecommerce-platform/?utm_term=b2b%20ecommerce&utm_campaign=Search+-+North&utm_source=adwords&utm_medium=ppc&hsa_acc=7427942784&hsa_cam=21041692470&hsa_grp=161136116540&hsa_ad=694855282457&hsa_src=g&hsa_tgt=kwd-26391241&hsa_kw=b2b%20ecommerce&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQjwiOy1BhDCARIsADGvQnB2Qhyrp4sbXtVorYG0ZQRFbCnupZ8Zm3P04Fr0IPkKnQiF-2aue6QaAiPoEALw_wcB)
 - [Elastic Path | Composable Commerce | Elastic Path](https://www.elasticpath.com/composable-commerce)
 - [ecommerce · GitHub Topics](https://github.com/topics/ecommerce)
 - [sulu/sulu: Core framework that implements the functionality of the Sulu content management system](https://github.com/sulu/sulu)
@@ -2632,7 +2975,7 @@
 - [Unchained Commerce - Unlock the Magic 🪄 with the eCommerce engine you always wanted.](https://unchained.shop/)
 - [GitHub - dotnet-architecture/eShopOnWeb: Sample ASP.NET Core 8.0 reference application, powered by Microsoft, demonstrating a layered application architecture with monolithic deployment model. Download the eBook PDF from docs folder.](https://github.com/dotnet-architecture/eShopOnWeb)
 - [Fake Store API](https://fakestoreapi.com/)
-- [retail stores app microservices - Пошук Google](https://www.google.com/search?q=retail+stores+app+microservices&amp;oq=retail+stores+app+microservices&amp;aqs=chrome..69i57.24034j0j4&amp;client=ms-android-samsung-gj-rev1&amp;sourceid=chrome-mobile&amp;ie=UTF-8)
+- [retail stores app microservices - Пошук Google](https://www.google.com/search?q=retail+stores+app+microservices&oq=retail+stores+app+microservices&aqs=chrome..69i57.24034j0j4&client=ms-android-samsung-gj-rev1&sourceid=chrome-mobile&ie=UTF-8)
 - [Platzi Fake Store API](https://fakeapi.platzi.com/)
 - [EduardoPires/EquinoxProject: Full ASP.NET Core 6 application with DDD, CQRS and Event Sourcing concepts](https://github.com/EduardoPires/EquinoxProject)
 - [Statamic is a powerful, highly scalable CMS built on Laravel.](https://statamic.com/)
@@ -2651,7 +2994,9 @@
 - [Univio / Digital Potential . Fully Realized](https://www.univio.com/)
 - [Spryker Documentation | Spryker Documentation](https://docs.spryker.com/)
 - [Admin User Console Tour - Infosys Equinox Developer Portal](https://developer.infosysequinox.com/info-adminconsole/)
+
 ##### Platforms
+
 - [Web-to-Print, Ecommerce, Order Management, Fulfillment | Liftoff Commerce](https://www.liftoffcommerce.com/)
 - [General Information - Liftoff Knowledge Base - Liftoff Help](https://help.liftoffcommerce.com/space/KB/2725642241/General+Information)
 - [GitHub - dotnet-architecture/eShopOnWeb: Sample ASP.NET Core 7.0 reference application, powered by Microsoft, demonstrating a layered application architecture with monolithic deployment model. Download the eBook PDF from docs folder.](https://github.com/dotnet-architecture/eShopOnWeb/tree/main)
@@ -2683,7 +3028,9 @@
 - [Getting Started with Adobe Commerce Web APIs](https://developer.adobe.com/commerce/webapi/get-started/)
 - [idurar/idurar-erp-crm: IDURAR Open Code Source ERP CRM | Node Js React AntD MERN](https://github.com/idurar/idurar-erp-crm)
 - [.NET Application Architecture - Reference Apps](https://github.com/dotnet-architecture)
+
 ##### CRM
+
 - [Bigcapital | Financial accounting software for medium and small businesses.](https://bigcapital.ly/)
 - [monday.com | A new way of working](https://monday.com/)
 - [Plane - The open source project management tool](https://plane.so/)
@@ -2693,13 +3040,17 @@
 - [espocrm/espocrm: EspoCRM – Open Source CRM Application](https://github.com/espocrm/espocrm)
 - [pingcrm-react18-laravel10/database/migrations/2019_03_05_000000_create_accounts_table.php at main · artemio87/pingcrm-react18-laravel10](https://github.com/artemio87/pingcrm-react18-laravel10/blob/main/database/migrations/2019_03_05_000000_create_accounts_table.php)
 - [pingcrm/database/migrations at master · inertiajs/pingcrm](https://github.com/inertiajs/pingcrm/tree/master/database/migrations)
+
 ##### Companies
+
 - [commercebuild | B2B &amp; B2C eCommerce Software Platform](https://commercebuild.com/)
 - [Online Store Builder | eCommerce Website Builder | Atcommerce](https://atcommerce.pk/)
 - [eCommerce Digital Marketing Consultants](https://aicommerce.com/)
 - [Tech Stack | Ocado Technology](https://ocadogroup.com/technology/tech-stack/)
 - [LeadMagnet](https://www.leadmagnet.co/)
+
 #### LMS
+
 - [Creating New Roles and Authorities in JHipster | Baeldung](https://www.baeldung.com/jhipster-new-roles)
 - [Kajabi: Create and sell online courses, coaching, and memberships](https://kajabi.com/)
 - [Courses – Kajabi Help Center](https://help.kajabi.com/hc/en-us/sections/360005874313-Courses)
@@ -2715,7 +3066,7 @@
 - [Ready LMS uses learning management to empower student journeys » ReadyTech](https://www.readytech.com.au/what-we-do/education/products/ready-lms/overview/)
 - [Empat - client-focused software development company ensuring our customers' needs are met](https://www.empat.tech/)
 - [GitHub - taiseen/linkedin-clone: Linkedin Clone](https://github.com/taiseen/linkedin-clone)
-- [Unlocking knowledge with AI | Sana](https://sanalabs.com/?utm_term=lms+platforms&amp;utm_campaign=O+-+Primary+keyword+-+LMS+-+UK&amp;utm_source=adwords&amp;utm_medium=ppc&amp;hsa_acc=4334994313&amp;hsa_cam=19713641661&amp;hsa_grp=148806447760&amp;hsa_ad=682171008237&amp;hsa_src=g&amp;hsa_tgt=kwd-302582917621&amp;hsa_kw=lms+platforms&amp;hsa_mt=p&amp;hsa_net=adwords&amp;hsa_ver=3&amp;gad_source=1&amp;gclid=CjwKCAjw9eO3BhBNEiwAoc0-jRbdAImF__3PB1Qx0lIK4mYA7kQxb7C-RK45oeUn2NWC3R917G1rshoCKAgQAvD_BwE)
+- [Unlocking knowledge with AI | Sana](https://sanalabs.com/?utm_term=lms+platforms&utm_campaign=O+-+Primary+keyword+-+LMS+-+UK&utm_source=adwords&utm_medium=ppc&hsa_acc=4334994313&hsa_cam=19713641661&hsa_grp=148806447760&hsa_ad=682171008237&hsa_src=g&hsa_tgt=kwd-302582917621&hsa_kw=lms+platforms&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAjw9eO3BhBNEiwAoc0-jRbdAImF__3PB1Qx0lIK4mYA7kQxb7C-RK45oeUn2NWC3R917G1rshoCKAgQAvD_BwE)
 - [GitHub - bojanzdelar/Learning-management-system: University's Learning management system web application implemented with microservices architecture. Built with Spring and Angular](https://github.com/bojanzdelar/Learning-management-system/tree/main)
 - [Default Dashboard | DashLite Admin Template](https://dashlite.net/demo2/index.html)
 - [learning-management-system · GitHub Topics](https://github.com/topics/learning-management-system?l=javascript)
@@ -2725,7 +3076,9 @@
 - [jahidhiron (Jahid Hiron)](https://github.com/jahidhiron)
 - [shehabkotb/Edu-Hub: Learning Management System (LMS) built with React, Node.js and mongoDB](https://github.com/shehabkotb/Edu-Hub)
 - [Acronis Academy – Managed Service Provider training and certifications](https://www.acronis.com/en-us/academy/)
+
 #### Inspiration
+
 - [GitHub - florinpop17/app-ideas: A Collection of application ideas which can be used to improve your coding skills.](https://github.com/florinpop17/app-ideas?tab=readme-ov-file)
 - [10 Work-From Home Business Ideas To Start In 2024](https://www.forbes.com/sites/rachelwells/2024/09/18/10-work-from-home-business-ideas-to-start-in-2024/)
 - [Frappe · GitHub](https://github.com/frappe)
