@@ -4,14 +4,14 @@
 
 ### ✴️ Summary:
 
--    Around 4 years of IT experience in the design, development, implementation, and testing of client-server, web applications using Java technologies.
--    Involved in all the phases of SDLC and experience in different software development methodologies like Agile/Scrum, Kanban, and waterfall approaches, continuous integration, and deployment.
--    Working experience in building data pipelines by managing payloads from Apache Kafka, Kafka Streams, and enriching the data from different data sources.
--    Designing and implementing various REST API using best practices like idempotence, security, content negotiation, HATEOAS, versioning, etc.
--    Experience with different modules of Spring Framework like Core Container, Web, MVC, Batch, JDBC, Data Couchbase, REST, Security, Spring Boot & Spring Cloud (Task, Gateway, Config, Vault, Kubernetes, Sleuth).
--    Experience with the Hibernate ORM involving connection pooling, mappings, transaction management, and HQL (with databases like Postgres, and MySQL).
--    Proficient in developing SPA with Angular 10+, responsive admin UI with Bootstrap components.
--    Experience with Kubernetes, OpenShift environments, AWS cloud services like EC2, S3, Cloudfront, EKS, and Fargate, and a capability with Google Cloud Run for multi-cloud.
+- Around 4 years of IT experience in the design, development, implementation, and testing of client-server, web applications using Java technologies.
+- Involved in all the phases of SDLC and experience in different software development methodologies like Agile/Scrum, Kanban, and waterfall approaches, continuous integration, and deployment.
+- Working experience in building data pipelines by managing payloads from Apache Kafka, Kafka Streams, and enriching the data from different data sources.
+- Designing and implementing various REST API using best practices like idempotence, security, content negotiation, HATEOAS, versioning, etc.
+- Experience with different modules of Spring Framework like Core Container, Web, MVC, Batch, JDBC, Data Couchbase, REST, Security, Spring Boot & Spring Cloud (Task, Gateway, Config, Vault, Kubernetes, Sleuth).
+- Experience with the Hibernate ORM involving connection pooling, mappings, transaction management, and HQL (with databases like Postgres, and MySQL).
+- Proficient in developing SPA with Angular 10+, responsive admin UI with Bootstrap components.
+- Experience with Kubernetes, OpenShift environments, AWS cloud services like EC2, S3, Cloudfront, EKS, and Fargate, and a capability with Google Cloud Run for multi-cloud.
 
 ### 🔖 Experience
 
@@ -25,7 +25,7 @@
 - Design and develop an internal extract-transform-load tool that ran in batch mode to gather descriptive static content from different sources (like REST APIs, sFTP, SOAP servers), transform it using XQuery, and finally load it to the third-party consumer.
 - Leading in the technical content of the system/functional/design specifications
 - Developing Java microservices using Spring Boot, Spring Cloud stack, Kafka, Couchbase, Kubernetes, and OpenShift.
- 
+
 **Tech Lead/Co-founder , WellCart** (2012 – 2016)
 
 - Create open-source components for web applications to reduce overhead and shorten Zend Framework projects lifecycle
@@ -89,4 +89,3 @@
 <img src="https://cdn.svgporn.com/logos/linux-tux.svg" alt="linux" width="48" height="48" />
 <img src="https://cdn.svgporn.com/logos/bash-icon.svg" alt="bash" width="48" height="48" />
 </p>
-

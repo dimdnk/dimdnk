@@ -84,7 +84,6 @@ I'm Dima, a software developer focusing on Java, Spring, Kubernetes, microservic
 
 <p align="left"><img src="https://raw.githubusercontent.com/dmitriidenisenko/dmitriidenisenko/dev/github-metrics.svg" /></p>
 
-
 ### 👷 Check out some of my public repos:
 
 - [dmitriidenisenko/dotfiles](https://github.com/dmitriidenisenko/dotfiles) - This contain my personal config files.

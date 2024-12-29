@@ -12,7 +12,7 @@
 - [quickstart-kafka-producing-hello](https://github.com/KnowHowSpringBoot/quickstart-kafka-producing-hello): kafka producer, testcontainers
 - [quickstart-kafka-stream-initialize](https://github.com/KnowHowSpringBoot/quickstart-kafka-stream-initialize): kafka-streams, kafka-test
 - [quickstart-mvc-rest-hello-world](https://github.com/KnowHowSpringBoot/quickstart-mvc-rest-hello-world): rest-api, swagger-ui
-- [quickstart-mvc-rest-user-profile-crud](https://github.com/KnowHowSpringBoot/quickstart-mvc-rest-user-profile-crud):  rest-api, swagger-ui, liquibase, postgresql-database
+- [quickstart-mvc-rest-user-profile-crud](https://github.com/KnowHowSpringBoot/quickstart-mvc-rest-user-profile-crud): rest-api, swagger-ui, liquibase, postgresql-database
 
 ## 📜 Samples
 
@@ -28,5 +28,4 @@
 - [homelab-operations-pipeline](https://github.com/KnowHowDevOps/homelab-operations-pipeline): maintaining CICD with quality gates.
 - [charts](https://github.com/KnowHowDevOps/charts): Helm Charts for homelab projects.
 - [homelab-cluster-automation](https://github.com/KnowHowDevOps/homelab-cluster-automation): custom Terrafrom, Ansible, Kubernetes manifests.
-- [homelab-public-assets](https://github.com/KnowHowDevOps/homelab-public-assets): homelab public assets -  js, styles, images, etc.
-
+- [homelab-public-assets](https://github.com/KnowHowDevOps/homelab-public-assets): homelab public assets - js, styles, images, etc.

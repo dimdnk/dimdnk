@@ -1,6 +1,5 @@
 # 🙇 Awesome Lists
 
-
 - [Developer Roadmaps](https://roadmap.sh/roadmaps)
 - [awesome · GitHub Topics](https://github.com/topics/awesome)
 - [GitHub - lorabv/awesome-agile: Awesome List of re…](https://github.com/lorabv/awesome-agile)
@@ -45,7 +44,9 @@
 - [pmordel/docker-exercices: tutorial exercises to learn about docker](https://github.com/pmordel/docker-exercices)
 - [web-configs/packages/eslint-plugin/lib/config/typescript.js at 118090a6567c852f0d55109cdaf0ea7b3d212690 · Shopify/web-configs](https://github.com/Shopify/web-configs/blob/118090a6567c852f0d55109cdaf0ea7b3d212690/packages/eslint-plugin/lib/config/typescript.js)
 - [aviaryan/awesome-no-login-web-apps: 🚀 Awesome (free) web apps that work without login](https://github.com/aviaryan/awesome-no-login-web-apps)
+
 ##### IT
+
 - [😎 Interesting topics](https://github.com/sindresorhus/awesome)
 - [IT projects](https://github.com/inafev/awesome-tech)
 - [Git and GitHub](https://github.com/tiimgreen/github-cheat-sheet)
@@ -56,10 +57,14 @@
 - [Open source crafted web &amp; mobile applications](https://github.com/unicodeveloper/awesome-opensource-apps)
 - [Self-hosted apps](https://github.com/awesome-selfhosted/awesome-selfhosted)
 - [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+
 ###### Talks
+
 - [awesome-talks: Awesome online talks](https://github.com/JanVanRyswyck/awesome-talks)
 - [programming-talks](https://github.com/hellerve/programming-talks)
+
 ##### Java
+
 - [Java - List of awesome frameworks, libraries](https://github.com/akullpp/awesome-java)
 - [GitHub - Vedenin/useful-java-links: A list of useful Java frameworks, libraries, software and hello worlds examples](https://github.com/Vedenin/useful-java-links)
 - [Apache Spark packages and resources.](https://github.com/awesome-spark/awesome-spark)
@@ -68,7 +73,9 @@
 - [ThomasVitale/awesome-spring](https://github.com/ThomasVitale/awesome-spring)
 - [peterhalasz/awesome-spring](https://github.com/peterhalasz/awesome-spring)
 - [stunstunstun/awesome-spring-boot](https://github.com/stunstunstun/awesome-spring-boot)
+
 ##### PHP
+
 - [My beloved PHP cheat sheet - DEV Community](https://dev.to/ericchapman/my-beloved-php-cheat-sheet-7dl)
 - [ jrfnl/PHP-cheat-sheet-extended](https://github.com/jrfnl/PHP-cheat-sheet-extended)
 - [PHP Cheatsheets](https://phpcheatsheets.com/)
@@ -77,23 +84,33 @@
 - [Learn PHP: Getting Started with PHP Cheatsheet | Codecademy](https://www.codecademy.com/learn/learn-php/modules/getting-started-with-php/cheatsheet)
 - [PHP Cheat Sheet | OverAPI.com](https://overapi.com/php)
 - [PHP Cheat Sheet by DaveChild - Download free from Cheatography - Cheatography.com: Cheat Sheets For Every Occasion](https://cheatography.com/davechild/cheat-sheets/php/)
+
 ##### Angular
+
 - [PatrickJS/awesome-angular](https://github.com/PatrickJS/awesome-angular)
 - [DaanDeSmedt/awesome-angular](https://github.com/DaanDeSmedt/awesome-angular)
+
 ##### Docker
+
 - [Docker resources and projects](https://github.com/veggiemonk/awesome-docker)
 - [Docker Compose samples](https://github.com/docker/awesome-compose)
 - [Production ready Dockerfiles](https://github.com/fiunchinho/awesome-dockerfiles)
+
 ##### Kubernetes
+
 - [Awesome Kubernetes](https://redhatspain.com/)
 - [Kubernetes sources](https://github.com/ramitsurana/awesome-kubernetes)
 - [Kubernetes tools and resources](https://github.com/tomhuang12/awesome-k8s-resources)
+
 ##### Interviewing
+
 - [jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.](https://github.com/jwasham/coding-interview-university)
 - [donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.](https://github.com/donnemartin/system-design-primer)
 - [yangshun/tech-interview-handbook: 💯 Materials to help you rock your next coding interview](https://github.com/yangshun/tech-interview-handbook)
 - [checkcheckzz/system-design-interview: System design interview for IT companies](https://github.com/checkcheckzz/system-design-interview)
+
 ##### Command Line
+
 - [GitHub - vikaskyadav/awesome-bash-alias: A curated list of awesome Bash aliases.](https://github.com/vikaskyadav/awesome-bash-alias)
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
 - [Linux Command Line Cheat Sheet by DaveChild - Download free from Cheatography - Cheatography.com: Cheat Sheets For Every Occasion](https://cheatography.com/davechild/cheat-sheets/linux-command-line/)
