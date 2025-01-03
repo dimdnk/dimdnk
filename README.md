@@ -88,9 +88,9 @@ I'm Dima, a software developer focusing on Java, Spring, Kubernetes, microservic
 
 
 
-- [KnowHowDevOps/.github](https://github.com/KnowHowDevOps/.github) - README repository.
+- [IQKV/boot-security](https://github.com/IQKV/boot-security) - Security support library.
 
-- [KnowHowSpringBoot/sample-mix-lorem](https://github.com/KnowHowSpringBoot/sample-mix-lorem) - loripsum.net  text analyzer service.
+- [KnowHowDevOps/.github](https://github.com/KnowHowDevOps/.github) - README repository.
 
 - [KnowHowSpringBoot/sample-mix-bookingdb](https://github.com/KnowHowSpringBoot/sample-mix-bookingdb) - Sample Spring Boot application that uses some features provided by Spring Cloud, deployed on Kubernetes.
 
