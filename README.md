@@ -88,12 +88,12 @@ I'm Dima, a software developer focusing on Java, Spring, Kubernetes, microservic
 
 
 
-- [IQKV/boot-security](https://github.com/IQKV/boot-security) - Security support library.
+- [IQKV/boot-kafka](https://github.com/IQKV/boot-kafka) - Common library for Kafka support.
 
-- [KnowHowDevOps/.github](https://github.com/KnowHowDevOps/.github) - README repository.
+- [IQKV/boot-cache](https://github.com/IQKV/boot-cache) - Handle properties file for caching options.
 
-- [KnowHowSpringBoot/sample-mix-bookingdb](https://github.com/KnowHowSpringBoot/sample-mix-bookingdb) - Sample Spring Boot application that uses some features provided by Spring Cloud, deployed on Kubernetes.
+- [IQKV/boot-mail](https://github.com/IQKV/boot-mail) - Mail support library.
 
 - [IQKV/boot-mvc-rest](https://github.com/IQKV/boot-mvc-rest) - RESTful API support library.
 
-- [KnowHowSpringBoot/sample-mix-netflixoss](https://github.com/KnowHowSpringBoot/sample-mix-netflixoss) - Microservice architecture with Spring Boot, Eureka, Hystrix, Config Server, minikube and Docker.
+- [IQKV/boot-info](https://github.com/IQKV/boot-info) - Provide access to the system properties.
