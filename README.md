@@ -88,12 +88,12 @@ I'm Dima, a software developer focusing on Java, Spring, Kubernetes, microservic
 
 
 
-- [IQKV/boot-kafka](https://github.com/IQKV/boot-kafka) - Common library for Kafka support.
+- [KnowHowSpringBoot/quickstart-kafka-consuming-hello](https://github.com/KnowHowSpringBoot/quickstart-kafka-consuming-hello) - Minimal Spring Boot based sample of Kafka consumer app.
 
-- [IQKV/boot-cache](https://github.com/IQKV/boot-cache) - Handle properties file for caching options.
+- [KnowHowSpringBoot/sample-mix-lorem](https://github.com/KnowHowSpringBoot/sample-mix-lorem) - loripsum.net  text analyzer service.
 
-- [IQKV/boot-mail](https://github.com/IQKV/boot-mail) - Mail support library.
+- [KnowHowSpringBoot/sample-mix-bookingdb](https://github.com/KnowHowSpringBoot/sample-mix-bookingdb) - Sample Spring Boot application that uses some features provided by Spring Cloud, deployed on Kubernetes.
 
-- [IQKV/boot-mvc-rest](https://github.com/IQKV/boot-mvc-rest) - RESTful API support library.
+- [KnowHowSpringBoot/sample-reactive-vaadin-chat](https://github.com/KnowHowSpringBoot/sample-reactive-vaadin-chat) - Sample of Chat application on top of Vaadin.
 
-- [IQKV/boot-info](https://github.com/IQKV/boot-info) - Provide access to the system properties.
+- [KnowHowSpringBoot/sample-mix-netflixoss](https://github.com/KnowHowSpringBoot/sample-mix-netflixoss) - Microservice architecture with Spring Boot, Eureka, Hystrix, Config Server, minikube and Docker.
