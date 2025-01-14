@@ -88,12 +88,12 @@ I'm Dima, a software developer focusing on Java, Spring, Kubernetes, microservic
 
 
 
-- [dmitriidenisenko/dotfiles](https://github.com/dmitriidenisenko/dotfiles) - This contain my personal config files.
+- [KnowHowDevOps/.github](https://github.com/KnowHowDevOps/.github) - README repository.
 
-- [IQKV/.github](https://github.com/IQKV/.github) - README repository.
+- [KnowHowDevOps/homelab-operations-pipeline](https://github.com/KnowHowDevOps/homelab-operations-pipeline) - This project aims to standardise CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
 
-- [KnowHowSpringBoot/quickstart-kafka-consuming-hello](https://github.com/KnowHowSpringBoot/quickstart-kafka-consuming-hello) - Minimal Spring Boot based sample of Kafka consumer app.
-
-- [KnowHowSpringBoot/sample-mix-netflixoss](https://github.com/KnowHowSpringBoot/sample-mix-netflixoss) - Microservice architecture with Spring Boot, Eureka, Hystrix, Config Server, minikube and Docker.
+- [KnowHowSpringBoot/sample-mix-bookingdb](https://github.com/KnowHowSpringBoot/sample-mix-bookingdb) - Sample Spring Boot application that uses some features provided by Spring Cloud, deployed on Kubernetes.
 
 - [KnowHowSpringBoot/quickstart-mvc-rest-user-profile-crud](https://github.com/KnowHowSpringBoot/quickstart-mvc-rest-user-profile-crud) - User Profile CRUD - Sample Restful App.
+
+- [KnowHowSpringBoot/sample-mix-netflixoss](https://github.com/KnowHowSpringBoot/sample-mix-netflixoss) - Microservice architecture with Spring Boot, Eureka, Hystrix, Config Server, minikube and Docker.
