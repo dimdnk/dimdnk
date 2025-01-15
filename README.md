@@ -87,12 +87,12 @@ I'm Dima, a software developer focusing on Java, Spring, Kubernetes, microservic
 ### 👷 Check out some of my public repos:
 
 
-- [dmitriidenisenko/dotfiles](https://github.com/dmitriidenisenko/dotfiles) - This contain my personal config files.
-
 - [KnowHowDevOps/.github](https://github.com/KnowHowDevOps/.github) - README repository.
 
-- [KnowHowSpringBoot/sample-mix-bookingdb](https://github.com/KnowHowSpringBoot/sample-mix-bookingdb) - Sample Spring Boot application that uses some features provided by Spring Cloud, deployed on Kubernetes.
+- [dmitriidenisenko/dotfiles](https://github.com/dmitriidenisenko/dotfiles) - This contain my personal config files.
 
-- [KnowHowSpringBoot/sample-mix-netflixoss](https://github.com/KnowHowSpringBoot/sample-mix-netflixoss) - Microservice architecture with Spring Boot, Eureka, Hystrix, Config Server, minikube and Docker.
+- [IQKV/iqkv-checkstyle-config](https://github.com/IQKV/iqkv-checkstyle-config) - Checkstyle configuration.
 
-- [KnowHowSpringBoot/quickstart-mvc-rest-user-profile-crud](https://github.com/KnowHowSpringBoot/quickstart-mvc-rest-user-profile-crud) - User Profile CRUD - Sample Restful App.
+- [IQKV/.github](https://github.com/IQKV/.github) - README repository.
+
+- [KnowHowDevOps/homelab-public-assets](https://github.com/KnowHowDevOps/homelab-public-assets) - Homelab Public Assets.
