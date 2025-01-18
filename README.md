@@ -87,12 +87,12 @@ I'm Dima, a software developer focusing on Java, Spring, Kubernetes, microservic
 ### 👷 Check out some of my public repos:
 
 
-- [KnowHowDevOps/.github](https://github.com/KnowHowDevOps/.github) - README repository.
+- [IQKV/boot-security-errors](https://github.com/IQKV/boot-security-errors) - Useful exception handlers for security proposes.
 
-- [IQKV/.github](https://github.com/IQKV/.github) - README repository.
+- [KnowHowSpringBoot/sample-mix-lorem](https://github.com/KnowHowSpringBoot/sample-mix-lorem) - loripsum.net  text analyzer service.
 
-- [dmitriidenisenko/dotfiles](https://github.com/dmitriidenisenko/dotfiles) - This contain my personal config files.
+- [KnowHowSpringBoot/sample-mix-bookingdb](https://github.com/KnowHowSpringBoot/sample-mix-bookingdb) - Sample Spring Boot application that uses some features provided by Spring Cloud, deployed on Kubernetes.
 
-- [KnowHowSpringBoot/.github](https://github.com/KnowHowSpringBoot/.github) - README repository.
+- [KnowHowSpringBoot/quickstart-mvc-rest-user-profile-crud](https://github.com/KnowHowSpringBoot/quickstart-mvc-rest-user-profile-crud) - User Profile CRUD - Sample Restful App.
 
-- [KnowHowDevOps/homelab-public-assets](https://github.com/KnowHowDevOps/homelab-public-assets) - Homelab Public Assets.
+- [IQKV/boot-mvc-rest](https://github.com/IQKV/boot-mvc-rest) - RESTful API support library.
