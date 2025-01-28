@@ -87,12 +87,12 @@ I'm Dima, a software developer focusing on Java, Spring, Kubernetes, microservic
 ### 👷 Check out some of my public repos:
 
 
-- [KnowHowDevOps/.github](https://github.com/KnowHowDevOps/.github) - README repository.
-
 - [KnowHowDevOps/homelab-public-assets](https://github.com/KnowHowDevOps/homelab-public-assets) - Homelab Public Assets.
+
+- [KnowHowDevOps/.github](https://github.com/KnowHowDevOps/.github) - README repository.
 
 - [KnowHowDevOps/homelab-operations-pipeline](https://github.com/KnowHowDevOps/homelab-operations-pipeline) - This project aims to standardise CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
 
-- [KnowHowSpringBoot/quickstart-mvc-rest-hello-world](https://github.com/KnowHowSpringBoot/quickstart-mvc-rest-hello-world) - Minimal Spring Boot based RESTful &#39;Hello World&#39; example, including Swagger.
+- [KnowHowSpringBoot/sample-mix-lorem](https://github.com/KnowHowSpringBoot/sample-mix-lorem) - loripsum.net  text analyzer service.
 
-- [KnowHowSpringBoot/quickstart-mvc-rest-user-profile-crud](https://github.com/KnowHowSpringBoot/quickstart-mvc-rest-user-profile-crud) - User Profile CRUD - Sample Restful App.
+- [KnowHowSpringBoot/sample-bookstore-mvc-rest-api](https://github.com/KnowHowSpringBoot/sample-bookstore-mvc-rest-api) - Sample book store REST API service using Spring Boot (backend).
