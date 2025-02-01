@@ -87,12 +87,12 @@ I'm Dima, a software developer focusing on Java, Spring, Kubernetes, microservic
 ### 👷 Check out some of my public repos:
 
 
-- [IQKV/boot-security-errors](https://github.com/IQKV/boot-security-errors) - Useful exception handlers for security proposes.
+- [KnowHowDevOps/homelab-operations-pipeline](https://github.com/KnowHowDevOps/homelab-operations-pipeline) - This project aims to standardise CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
 
-- [KnowHowSpringBoot/sample-mix-lorem](https://github.com/KnowHowSpringBoot/sample-mix-lorem) - loripsum.net  text analyzer service.
+- [IQKV/.github](https://github.com/IQKV/.github) - README repository.
 
-- [KnowHowSpringBoot/sample-mix-bookingdb](https://github.com/KnowHowSpringBoot/sample-mix-bookingdb) - Sample Spring Boot application that uses some features provided by Spring Cloud, deployed on Kubernetes.
+- [IQKV/boot-starter](https://github.com/IQKV/boot-starter) - Spring Boot Starters.
 
-- [KnowHowSpringBoot/sample-mix-netflixoss](https://github.com/KnowHowSpringBoot/sample-mix-netflixoss) - Microservice architecture with Spring Boot, Eureka, Hystrix, Config Server, minikube and Docker.
+- [KnowHowSpringBoot/.github](https://github.com/KnowHowSpringBoot/.github) - README repository.
 
-- [KnowHowSpringBoot/quickstart-mvc-rest-user-profile-crud](https://github.com/KnowHowSpringBoot/quickstart-mvc-rest-user-profile-crud) - User Profile CRUD - Sample Restful App.
+- [KnowHowSpringBoot/sample-reactive-vaadin-chat](https://github.com/KnowHowSpringBoot/sample-reactive-vaadin-chat) - Sample of Chat application on top of Vaadin.
