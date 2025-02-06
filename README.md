@@ -87,6 +87,8 @@ I'm Dima, a software developer focusing on Java, Spring, Kubernetes, microservic
 ### 👷 Check out some of my public repos:
 
 
+- [KnowHowSpringBoot/sample-reactive-vaadin-chat](https://github.com/KnowHowSpringBoot/sample-reactive-vaadin-chat) - Sample of Chat application on top of Vaadin.
+
 - [KnowHowDevOps/homelab-operations-pipeline](https://github.com/KnowHowDevOps/homelab-operations-pipeline) - This project aims to standardise CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
 
 - [IQKV/.github](https://github.com/IQKV/.github) - README repository.
@@ -94,5 +96,3 @@ I'm Dima, a software developer focusing on Java, Spring, Kubernetes, microservic
 - [IQKV/boot-starter](https://github.com/IQKV/boot-starter) - Spring Boot Starters.
 
 - [KnowHowSpringBoot/.github](https://github.com/KnowHowSpringBoot/.github) - README repository.
-
-- [KnowHowSpringBoot/sample-reactive-vaadin-chat](https://github.com/KnowHowSpringBoot/sample-reactive-vaadin-chat) - Sample of Chat application on top of Vaadin.
