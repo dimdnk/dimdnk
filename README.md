@@ -89,10 +89,10 @@ I'm Dima, a software developer focusing on Java, Spring, Kubernetes, microservic
 
 - [KnowHowDevOps/.github](https://github.com/KnowHowDevOps/.github) - README repository.
 
-- [IQKV/boot-reactive-rest](https://github.com/IQKV/boot-reactive-rest) - RESTful API support library.
-
 - [IQKV/sample-spring-webmvc-rest-api-template](https://github.com/IQKV/sample-spring-webmvc-rest-api-template) - 
 
 - [IQKV/sample-mix-bookingdb](https://github.com/IQKV/sample-mix-bookingdb) - Sample Spring Boot application that uses some features provided by Spring Cloud, deployed on Kubernetes.
 
-- [IQKV/boot-security-errors](https://github.com/IQKV/boot-security-errors) - Useful exception handlers for security proposes.
+- [KnowHowDevOps/homelab-operations-pipeline](https://github.com/KnowHowDevOps/homelab-operations-pipeline) - This project aims to standardise CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
+
+- [IQKV/boot-reactive-rest](https://github.com/IQKV/boot-reactive-rest) - RESTful API support library.
