@@ -87,12 +87,12 @@ I'm Dima, a software developer focusing on Java, Spring, Kubernetes, microservic
 ### 👷 Check out some of my public repos:
 
 
-- [IQKV/boot-security-errors](https://github.com/IQKV/boot-security-errors) - Useful exception handlers for security proposes.
+- [IQKV/checkstyle-config](https://github.com/IQKV/checkstyle-config) - Checkstyle configuration.
 
 - [IQKV/sample-spring-webmvc-rest-api-template](https://github.com/IQKV/sample-spring-webmvc-rest-api-template) - 
 
 - [IQKV/sample-mix-bookingdb](https://github.com/IQKV/sample-mix-bookingdb) - Sample Spring Boot application that uses some features provided by Spring Cloud, deployed on Kubernetes.
 
-- [KnowHowDevOps/homelab-operations-pipeline](https://github.com/KnowHowDevOps/homelab-operations-pipeline) - This project aims to standardise CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
-
 - [IQKV/quickstart-mvc-rest-user-profile-crud](https://github.com/IQKV/quickstart-mvc-rest-user-profile-crud) - User Profile CRUD - Sample Restful App.
+
+- [IQKV/sample-mix-netflixoss](https://github.com/IQKV/sample-mix-netflixoss) - Microservice architecture with Spring Boot, Eureka, Hystrix, Config Server, minikube and Docker.
