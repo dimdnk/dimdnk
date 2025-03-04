@@ -87,7 +87,7 @@ I'm Dima, a software developer focusing on Java, Spring, Kubernetes, microservic
 ### 👷 Check out some of my public repos:
 
 
-- [IQKV/.github](https://github.com/IQKV/.github) - README repository.
+- [KnowHowDevOps/.github](https://github.com/KnowHowDevOps/.github) - README repository.
 
 - [IQKV/sample-mix-bookingdb](https://github.com/IQKV/sample-mix-bookingdb) - Sample Spring Boot application that uses some features provided by Spring Cloud, deployed on Kubernetes.
 
