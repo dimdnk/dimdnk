@@ -87,12 +87,12 @@ I'm Dima, a software developer focusing on Java, Spring, Kubernetes, microservic
 ### 👷 Check out some of my public repos:
 
 
-- [KnowHowDevOps/.github](https://github.com/KnowHowDevOps/.github) - README repository.
+- [iqkv/boot-reactive-rest](https://github.com/iqkv/boot-reactive-rest) - RESTful API support library.
 
 - [iqkv/sample-mix-bookingdb](https://github.com/iqkv/sample-mix-bookingdb) - Sample Spring Boot application that uses some features provided by Spring Cloud, deployed on Kubernetes.
 
 - [iqkv/quickstart-mvc-rest-user-profile-crud](https://github.com/iqkv/quickstart-mvc-rest-user-profile-crud) - User Profile CRUD - Sample Restful App.
 
-- [iqkv/sample-spring-webmvc-rest-api-template](https://github.com/iqkv/sample-spring-webmvc-rest-api-template) - 
-
 - [iqkv/sample-mix-netflixoss](https://github.com/iqkv/sample-mix-netflixoss) - Microservice architecture with Spring Boot, Eureka, Hystrix, Config Server, minikube and Docker.
+
+- [iqkv/sample-spring-webmvc-rest-api-template](https://github.com/iqkv/sample-spring-webmvc-rest-api-template) - 
