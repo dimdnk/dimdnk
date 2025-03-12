@@ -25,7 +25,7 @@
 
 ## 🤿 DevOps
 
-- [homelab-operations-pipeline](https://github.com/iqkv-devops/homelab-operations-pipeline): maintaining CICD with quality gates.
-- [charts](https://github.com/iqkv-devops/charts): Helm Charts for homelab projects.
-- [homelab-cluster-automation](https://github.com/iqkv-devops/homelab-cluster-automation): custom Terrafrom, Ansible, Kubernetes manifests.
-- [homelab-public-assets](https://github.com/iqkv-devops/homelab-public-assets): homelab public assets - js, styles, images, etc.
+- [homelab-operations-pipeline](https://github.com/devsecops-toolbox/homelab-operations-pipeline): maintaining CICD with quality gates.
+- [charts](https://github.com/devsecops-toolbox/charts): Helm Charts for homelab projects.
+- [homelab-cluster-automation](https://github.com/devsecops-toolbox/homelab-cluster-automation): custom Terrafrom, Ansible, Kubernetes manifests.
+- [homelab-public-assets](https://github.com/devsecops-toolbox/homelab-public-assets): homelab public assets - js, styles, images, etc.
