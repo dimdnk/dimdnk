@@ -87,12 +87,12 @@ I'm Dima, a software developer focusing on Java, Spring, Kubernetes, microservic
 ### 👷 Check out some of my public repos:
 
 
-- [devsecops-toolbox/homelab-operations-pipeline](https://github.com/devsecops-toolbox/homelab-operations-pipeline) - This project aims to standardise CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
+- [iqkv/sample-spring-webmvc-rest-api-template](https://github.com/iqkv/sample-spring-webmvc-rest-api-template) - Spring Boot WebMvc App
+
+- [devsecops-toolbox/.github](https://github.com/devsecops-toolbox/.github) - README repository.
 
 - [devsecops-toolbox/homelab-public-assets](https://github.com/devsecops-toolbox/homelab-public-assets) - Homelab Public Assets.
 
+- [devsecops-toolbox/homelab-operations-pipeline](https://github.com/devsecops-toolbox/homelab-operations-pipeline) - This project aims to standardise CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
+
 - [iqkv/boot-reactive-rest](https://github.com/iqkv/boot-reactive-rest) - RESTful API support library.
-
-- [iqkv/quickstart-mvc-rest-user-profile-crud](https://github.com/iqkv/quickstart-mvc-rest-user-profile-crud) - User Profile CRUD - Sample Restful App.
-
-- [iqkv/sample-mix-netflixoss](https://github.com/iqkv/sample-mix-netflixoss) - Microservice architecture with Spring Boot, Eureka, Hystrix, Config Server, minikube and Docker.
