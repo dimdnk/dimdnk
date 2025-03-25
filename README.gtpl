@@ -86,10 +86,10 @@ I really enjoy building open-source software, specializing in creating RESTful A
 ### 🔥 GitHub Stats
 
 <p align="left"><img src="https://raw.githubusercontent.com/dmitriidenisenko/dmitriidenisenko/dev/github-metrics.svg" /></p>
-<!--
+
 ### 👷 Check out some of my public repos:
 {{ range recentContributions 5 }}
 
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
   {{- end }}
--->
+
