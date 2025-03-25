@@ -9,7 +9,7 @@ I'm Dima, a software developer focusing on Java, Spring, Kubernetes, microservic
 ➡️ 🧪 <a href="https://knowhowto.dev/" target="_blank">Homelab Services</a><br>
 ➡️ 🌟 <a href="bookmarks-index.md"  target="_blank">My Bookmarks</a><br>
 ➡️ 🙇 <a href="awesome-index.md"  target="_blank">Awesome Index</a><br>
-➡️ 💎 <a href="CV.md"  target="_blank">My CV</a> ( <a href="Denisenko_Dmitry_CV.pdf"  target="_blank">pdf</a> / <a href="Denisenko_Dmitry_CV.docx"  target="_blank">docx</a>)<br>
+➡️ 💎 <a href="CV.md"  target="_blank">My CV</a> ( <a href="https://github.com/dmitriidenisenko/dmitriidenisenko/raw/refs/heads/dev/Denisenko_Dmitry_CV.pdf"  target="_blank">pdf</a> / <a href="https://github.com/dmitriidenisenko/dmitriidenisenko/raw/refs/heads/dev/Denisenko_Dmitry_CV.docx"  target="_blank">docx</a>)<br>
 
 ### 💼 Skills
 
