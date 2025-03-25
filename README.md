@@ -87,3 +87,16 @@ I really enjoy building open-source software, specializing in creating RESTful A
 
 <p align="left"><img src="https://raw.githubusercontent.com/dmitriidenisenko/dmitriidenisenko/dev/github-metrics.svg" /></p>
 
+### 👷 Check out some of my public repos:
+
+
+- [daromir-tech/boot-parent-pom](https://github.com/daromir-tech/boot-parent-pom) - Default configurations for complete dependency tree to quickly build Spring Boot project.
+
+- [daromir-tech/.github](https://github.com/daromir-tech/.github) - GitHub Profile Repository
+
+- [daromir-tech/boot-security-errors](https://github.com/daromir-tech/boot-security-errors) - Useful exception handlers for security proposes.
+
+- [daromir-tech/boot-kafka](https://github.com/daromir-tech/boot-kafka) - Common library for Kafka support.
+
+- [iqkv/sample-spring-webmvc-rest-api-template](https://github.com/iqkv/sample-spring-webmvc-rest-api-template) - Spring Boot WebMvc App
+
