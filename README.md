@@ -90,13 +90,13 @@ I really enjoy building open-source software, specializing in creating RESTful A
 ### 👷 Check out some of my public repos:
 
 
-- [daromir-tech/boot-parent-pom](https://github.com/daromir-tech/boot-parent-pom) - Default configurations for complete dependency tree to quickly build Spring Boot project.
+- [iqkv/.github](https://github.com/iqkv/.github) - README repository.
 
 - [daromir-tech/.github](https://github.com/daromir-tech/.github) - GitHub Profile Repository
 
+- [dmitriidenisenko/dotfiles](https://github.com/dmitriidenisenko/dotfiles) - This contain my personal config files.
+
+- [devsecops-toolbox/homelab-public-assets](https://github.com/devsecops-toolbox/homelab-public-assets) - Homelab Public Assets.
+
 - [daromir-tech/boot-security-errors](https://github.com/daromir-tech/boot-security-errors) - Useful exception handlers for security proposes.
-
-- [daromir-tech/boot-kafka](https://github.com/daromir-tech/boot-kafka) - Common library for Kafka support.
-
-- [iqkv/sample-spring-webmvc-rest-api-template](https://github.com/iqkv/sample-spring-webmvc-rest-api-template) - Spring Boot WebMvc App
 
