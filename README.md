@@ -90,13 +90,13 @@ I really enjoy building open-source software, specializing in creating RESTful A
 ### 👷 Check out some of my public repos:
 
 
-- [iqkv/.github](https://github.com/iqkv/.github) - README repository.
+- [dmitriidenisenko/dotfiles](https://github.com/dmitriidenisenko/dotfiles) - This contain my personal config files.
 
 - [daromir-tech/.github](https://github.com/daromir-tech/.github) - GitHub Profile Repository
 
-- [dmitriidenisenko/dotfiles](https://github.com/dmitriidenisenko/dotfiles) - This contain my personal config files.
+- [devsecops-toolbox/homelab-operations-pipeline](https://github.com/devsecops-toolbox/homelab-operations-pipeline) - This project aims to standardise CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
 
-- [devsecops-toolbox/homelab-public-assets](https://github.com/devsecops-toolbox/homelab-public-assets) - Homelab Public Assets.
+- [iqkv/.github](https://github.com/iqkv/.github) - README repository.
 
-- [daromir-tech/boot-security-errors](https://github.com/daromir-tech/boot-security-errors) - Useful exception handlers for security proposes.
+- [devsecops-toolbox/.github](https://github.com/devsecops-toolbox/.github) - README repository.
 
