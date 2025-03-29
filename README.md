@@ -90,13 +90,13 @@ I really enjoy building open-source software, specializing in creating RESTful A
 ### 👷 Check out some of my public repos:
 
 
-- [dmitriidenisenko/dotfiles](https://github.com/dmitriidenisenko/dotfiles) - This contain my personal config files.
-
-- [daromir-tech/.github](https://github.com/daromir-tech/.github) - GitHub Profile Repository
-
 - [devsecops-toolbox/homelab-operations-pipeline](https://github.com/devsecops-toolbox/homelab-operations-pipeline) - This project aims to standardise CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
 
-- [iqkv/.github](https://github.com/iqkv/.github) - README repository.
+- [iqkv/sample-mix-lorem](https://github.com/iqkv/sample-mix-lorem) - loripsum.net  text analyzer service.
 
-- [devsecops-toolbox/.github](https://github.com/devsecops-toolbox/.github) - README repository.
+- [iqkv/sample-mix-bookingdb](https://github.com/iqkv/sample-mix-bookingdb) - Sample Spring Boot application that uses some features provided by Spring Cloud, deployed on Kubernetes.
+
+- [iqkv/sample-spring-webmvc-rest-api-template](https://github.com/iqkv/sample-spring-webmvc-rest-api-template) - Spring Boot WebMvc App
+
+- [iqkv/quickstart-mvc-rest-user-profile-crud](https://github.com/iqkv/quickstart-mvc-rest-user-profile-crud) - User Profile CRUD - Sample Restful App.
 
