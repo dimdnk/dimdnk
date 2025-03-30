@@ -90,13 +90,13 @@ I really enjoy building open-source software, specializing in creating RESTful A
 ### 👷 Check out some of my public repos:
 
 
-- [devsecops-toolbox/homelab-operations-pipeline](https://github.com/devsecops-toolbox/homelab-operations-pipeline) - This project aims to standardise CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
+- [iqkv/quickstart-kafka-producing-hello](https://github.com/iqkv/quickstart-kafka-producing-hello) - Minimal Spring Boot based sample of Kafka producer app.
 
 - [iqkv/sample-mix-lorem](https://github.com/iqkv/sample-mix-lorem) - loripsum.net  text analyzer service.
 
-- [iqkv/sample-mix-bookingdb](https://github.com/iqkv/sample-mix-bookingdb) - Sample Spring Boot application that uses some features provided by Spring Cloud, deployed on Kubernetes.
+- [iqkv/.github](https://github.com/iqkv/.github) - README repository.
 
-- [iqkv/sample-spring-webmvc-rest-api-template](https://github.com/iqkv/sample-spring-webmvc-rest-api-template) - Spring Boot WebMvc App
+- [devsecops-toolbox/homelab-operations-pipeline](https://github.com/devsecops-toolbox/homelab-operations-pipeline) - This project aims to standardise CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
 
-- [iqkv/quickstart-mvc-rest-user-profile-crud](https://github.com/iqkv/quickstart-mvc-rest-user-profile-crud) - User Profile CRUD - Sample Restful App.
+- [iqkv/quickstart-kafka-consuming-hello](https://github.com/iqkv/quickstart-kafka-consuming-hello) - Minimal Spring Boot based sample of Kafka consumer app.
 
