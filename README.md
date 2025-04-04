@@ -90,9 +90,9 @@ I really enjoy building open-source software, specializing in creating RESTful A
 ### 👷 Check out some of my public repos:
 
 
-- [daromir-tech/boot-http](https://github.com/daromir-tech/boot-http) - Useful helpers for http-related functionality.
+- [iqkv/quickstart-jpa-jwt-secured](https://github.com/iqkv/quickstart-jpa-jwt-secured) - JWT-based Spring security REST API.
 
-- [iqkv/sample-mix-lorem](https://github.com/iqkv/sample-mix-lorem) - loripsum.net  text analyzer service.
+- [iqkv/sample-reactive-vaadin-chat](https://github.com/iqkv/sample-reactive-vaadin-chat) - Sample of Chat application on top of Vaadin.
 
 - [iqkv/sample-spring-webmvc-rest-api-template](https://github.com/iqkv/sample-spring-webmvc-rest-api-template) - Spring Boot WebMvc App
 
