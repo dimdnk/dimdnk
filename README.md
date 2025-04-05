@@ -90,9 +90,9 @@ I really enjoy building open-source software, specializing in creating RESTful A
 ### 👷 Check out some of my public repos:
 
 
-- [iqkv/quickstart-jpa-jwt-secured](https://github.com/iqkv/quickstart-jpa-jwt-secured) - JWT-based Spring security REST API.
+- [iqkv/quickstart-mvc-rest-hello-world](https://github.com/iqkv/quickstart-mvc-rest-hello-world) - Minimal Spring Boot based RESTful &#39;Hello World&#39; example, including Swagger.
 
-- [iqkv/sample-reactive-vaadin-chat](https://github.com/iqkv/sample-reactive-vaadin-chat) - Sample of Chat application on top of Vaadin.
+- [iqkv/sample-mix-lorem](https://github.com/iqkv/sample-mix-lorem) - loripsum.net  text analyzer service.
 
 - [iqkv/sample-spring-webmvc-rest-api-template](https://github.com/iqkv/sample-spring-webmvc-rest-api-template) - Spring Boot WebMvc App
 
