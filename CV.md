@@ -10,7 +10,7 @@
 - Experienced in *building* software development, QA/QA Automation, DevOps processes from scratch, and optimizing existing ones;
 - Business-oriented: I know how to balance between business needs and tech efforts to maximize the business value;
 - I am passionate about sharing some nice and suitable solutions to open source;<br><br>
-
+<hr>
 - Solid knowledge and hands-on experience in development for the *Java* platform and related technologies;
 - Proficient knowledge of modern *PHP*, *JavaScript*, and popular JavaScript-based libraries and frameworks;
 - Experience with *Spring*, *Quarkus*, *Vaadin*, *Angular*, *Zend*, and other MVC frameworks;
