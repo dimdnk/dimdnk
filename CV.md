@@ -9,15 +9,15 @@
 - Consulted global retail, investment companies as an IT industry expert in digital transformation and cloud computing;
 - Experienced in building software development, QA/QA Automation, DevOps processes from scratch, and optimizing existing ones;
 - Business-oriented: I know how to balance between business needs and tech efforts to maximize the business value;
-- I am passionate about sharing some nice and suitable solutions to open source;<br><br><br>
+- I am passionate about sharing some nice and suitable solutions to open source;<br><br>
 
 - Solid knowledge and hands-on experience in development for the Java platform and related technologies;
-- Proficient knowledge of modern PHP, JavaScript, and popular JavaScript-based libraries, and frameworks;
+- Proficient knowledge of modern PHP, JavaScript, and popular JavaScript-based libraries and frameworks;
 - Experience with Spring, Quarkus, Vaadin, Angular, Zend, and other MVC frameworks;
 - Strong understanding of design patterns, OOP, and development methodologies;
 - Experienced in software architecture design and development planning, business analysis, and requirements definition;
 - Experience in gathering requirements, establishing development goals, estimating tasks and projects;
-- Experience with DB abstraction layers (JDBC, Hibernate, JOOQ, + Liquibase, Flyway) and messaging services (Apache Kafka, RabbitMQ, JMS, etc.);
+- Experience with DB abstraction layers (JDBC, Hibernate, JOOQ, + Liquibase, Flyway) and messaging services (Apache Kafka, RabbitMQ, JMS), etc.;
 - Experience with different modules of Spring Framework like Web, Webflux, Batch, JDBC, Data Couchbase, REST, Security, Spring Cloud (Task, Gateway, Config, Vault, Sleuth).
 - Working experience in building ELT using Spring Boot, Kafka Streams, Apache Camel 4, Mapstruct, Commons HttpClient;
 - Designing and implementing various REST API using best practices like idempotence, security, content negotiation, HATEOAS, versioning, etc.
@@ -34,19 +34,19 @@
 
 **Java Developer, DataArt Solutions, Inc.** (2021 – Present)
 
-- I was working on the implementation of an ETL engine using Spring Boot 3, Apache Camel, Mapstruct, Kafka Streams, and Hibernate (+postgres).
+- I was working on implementing an ETL engine using Spring Boot 3, Apache Camel, Mapstruct, Kafka Streams, and Hibernate (+ Postgres).
 - Build an enterprise product information management (PIM) software that provides a single place to collect, manage, and enrich product information, create a product catalog, and distribute it to sales and eCommerce channels.
 
 **Software Engineer, Amadeus IT Group SA** (2016 – 2021)
 
-- Design and develop an internal extract-transform-load tool that ran in batch mode to gather descriptive static content from different sources (like REST APIs, sFTP, SOAP servers), transform it using XQuery, and finally load it to the third-party consumer.
+- Designed and developed an internal extract-transform-load tool that ran in batch mode to gather descriptive static content from different sources (like REST APIs, sFTP, SOAP servers), transform it using XQuery, and finally load it to the third-party consumer.
 - Leading in the technical content of the system/functional/design specifications
 - Developing Java microservices using Spring Boot, Spring Cloud stack, Kafka, Couchbase, Kubernetes, and OpenShift.
 
 **Tech Lead/Co-founder , WellCart** (2012 – 2016)
 
-- Create open-source components for web applications to reduce overhead and shorten Zend Framework projects lifecycle
-- Help companies to handle complex technical and design problems related to the full stack web development using PHP products
+- Create open-source components for web applications to reduce overhead and shorten Zend Framework projects' lifecycle
+- Helped companies to handle complex technical and design problems related to the full stack web development using PHP products
 
 **PHP Developer, Hypnotic Response** (2013 - 2015) 
 
