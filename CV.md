@@ -44,6 +44,31 @@
 - Create open-source components for web applications to reduce overhead and shorten Zend Framework projects lifecycle
 - Help companies to handle complex technical and design problems related to the full stack web development using PHP products
 
+**PHP Developer, Hypnotic Response** (2013 - 2015) 
+
+Pic-Cha Project
+
+- Full rewriting legacy code in media sharing startup, photo hosting;
+- Build & deploy on Amazon EC2 with enabling S3, CloudFront, CloudWatch;
+- Implementing Facebook API, Twitter API, Paypal API integration;
+- Develop JSON REST API for the mobile client, push notification systems based on Google Cloud Messaging & Apple APN;
+- Scaling & sharding databases; 
+
+**Team Lead & PHP Developer, MSL** (2011 - 2012)
+
+- Evobet platform was launched to give users the possibility to create their own betting ground and make their experience profitable.
+- The project is built in PHP and leveraged the Mysql, Zend Framework, Redis, Memcached, JQuery, and MarionetteJs. 
+- Uses flexible, modular, multi-tenant single instance architecture
+- Includes a powerful payment gateway integration framework.
+
+**PHP Developer, Magento** 2009 - 2011
+
+- Develop and customize Magento modules to enhance user experience and functionality;
+- Integrate third-party APIs and services to extend Magento platform capabilities;
+- Optimize Magento performance using caching, indexing, and database tuning techniques;
+- Collaborate with UX/UI designers to implement responsive and accessible web designs;
+- Implement automated testing frameworks to ensure code quality and reliability;
+
 ### 💼 Skills
 
 <p align="left">
