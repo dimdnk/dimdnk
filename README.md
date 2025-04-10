@@ -90,13 +90,13 @@ I really enjoy building open-source software, specializing in creating RESTful A
 ### 👷 Check out some of my public repos:
 
 
+- [daromir-tech/boot-http](https://github.com/daromir-tech/boot-http) - Useful helpers for http-related functionality.
+
 - [daromir-tech/.github](https://github.com/daromir-tech/.github) - GitHub Profile Repository
-
-- [daromir-tech/boot-cache](https://github.com/daromir-tech/boot-cache) - Handle properties file for caching options.
-
-- [daromir-tech/boot-kafka](https://github.com/daromir-tech/boot-kafka) - Common library for Kafka support.
 
 - [daromir-tech/boot-info](https://github.com/daromir-tech/boot-info) - Provide access to the system properties.
 
-- [dmitriidenisenko/dotfiles](https://github.com/dmitriidenisenko/dotfiles) - This contain my personal config files.
+- [daromir-tech/boot-kafka](https://github.com/daromir-tech/boot-kafka) - Common library for Kafka support.
+
+- [devsecops-toolbox/.github](https://github.com/devsecops-toolbox/.github) - README repository.
 
