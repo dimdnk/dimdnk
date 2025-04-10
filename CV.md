@@ -8,6 +8,7 @@
 - Domain expert in e-commerce, retail, and  travel industries;
 - Consulted global retail, investment companies as an IT industry expert in digital transformation and cloud computing;
 - Solid knowledge and hands-on experience in development for the Java platform and related technologies;
+- Proficient knowledge of modern PHP, JavaScript, and popular JavaScript-based libraries, and frameworks;
 - Experience with Spring, Quarkus, Vaadin, Angular, Zend, and other MVC frameworks;
 - Strong understanding of design patterns, OOP, and development methodologies;
 - Experienced in software architecture design and development planning, business analysis, and requirements definition;
