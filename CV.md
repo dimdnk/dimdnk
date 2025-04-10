@@ -4,14 +4,26 @@
 
 ### ✴️ Summary:
 
-- Around 6 years of IT experience in the design, development, implementation, and testing of client-server, web applications using Java technologies.
-- Involved in all the phases of SDLC and experience in different software development methodologies like Agile/Scrum, Kanban, and waterfall approaches, continuous integration, and deployment.
-- Working experience in building data pipelines by managing payloads from Apache Kafka, Kafka Streams, Apache Camel 4, and enriching the data from different data sources.
+- 15+ years of professional experience in the IT industry - proficient developer on popular web and backend platforms (Spring Boot, Symfony, React, etc);
+- Domain expert in e-commerce, retail, and  travel industries;
+- Consulted global retail, investment companies as an IT industry expert in digital transformation and cloud computing;
+- Solid knowledge and hands-on experience in development for the Java platform and related technologies;
+- Experience with Spring, Quarkus, Vaadin, Angular, Zend, and other MVC frameworks;
+- Strong understanding of design patterns, OOP, and development methodologies;
+- Experienced in software architecture design and development planning, business analysis, and requirements definition;
+- Experience in gathering requirements, establishing development goals, estimating tasks and projects;
+- Experience with DB abstraction layers and messaging services (Apache Kafka, RabbitMQ, JMS, etc.);
+- Experience with different modules of Spring Framework like Web, Webflux, Batch, JDBC, Data Couchbase, REST, Security, Spring Cloud (Task, Gateway, Config, Vault, Sleuth).
+- Working experience in building ELT using Spring Boot, Kafka Streams, Apache Camel 4, Mapstruct, Commons HttpClient;
 - Designing and implementing various REST API using best practices like idempotence, security, content negotiation, HATEOAS, versioning, etc.
-- Experience with different modules of Spring Framework like Core Container, Web, MVC, Batch, JDBC, Data Couchbase, REST, Security, Spring Boot & Spring Cloud (Task, Gateway, Config, Vault, Kubernetes, Sleuth).
-- Experience with the Hibernate ORM involving connection pooling, mappings, transaction management, and HQL (with databases like Postgres, and MySQL).
-- Proficient in developing SPA with Angular 13+, responsive admin UI with Bootstrap components.
 - Experience with Kubernetes, OpenShift environments, AWS cloud services like EC2, S3, Cloudfront, EKS, and Fargate, and a capability with Google Cloud Run for multi-cloud.
+- Deep understanding and hands-on experience with microservice architecture (autonomy, deployability, load balancing, fault tolerance, monitoring, etc.);
+- Experience with CI/CD (Jenkins, GitLab pipelines, Drone CI, GitHub Actions, etc.);
+- Team management skills:
+    - Project coordination, guidance, planning, and tasks distribution;
+    - Building development processes as a tech leader, code review, and code audit;
+    - Team motivation, assistance on team member technical growth;
+    - Following development methodology and processes (Agile, Scrum, SAFe, Kanban);
 
 ### 🔖 Experience
 
