@@ -91,9 +91,9 @@ I really enjoy building open-source software, specializing in creating RESTful A
 ### 👷 Check out some of my public repos:
 
 
-- [iqkv/sample-mix-lorem](https://github.com/iqkv/sample-mix-lorem) - loripsum.net  text analyzer service.
-
 - [devsecops-toolbox/homelab-operations-pipeline](https://github.com/devsecops-toolbox/homelab-operations-pipeline) - This project aims to standardise CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
+
+- [iqkv/sample-mix-lorem](https://github.com/iqkv/sample-mix-lorem) - loripsum.net  text analyzer service.
 
 - [iqkv/sample-spring-webmvc-rest-api-template](https://github.com/iqkv/sample-spring-webmvc-rest-api-template) - Spring Boot WebMvc App
 
