@@ -5,7 +5,7 @@
 ### ✴️ Summary:
 
 - 15+ years of professional experience in the IT industry - proficient developer on popular web and backend platforms (Spring Boot, Symfony, Magento, React, etc);
-- Domain expert in e-commerce, retail, and  travel industries;
+- Domain expertise in e-commerce, finance, retail, and  travel industries;
 - Consulted global retail, investment companies as an IT industry expert in digital transformation and cloud computing;
 - Solid knowledge and hands-on experience in development for the Java platform and related technologies;
 - Proficient knowledge of modern PHP, JavaScript, and popular JavaScript-based libraries, and frameworks;
