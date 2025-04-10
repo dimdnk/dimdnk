@@ -17,7 +17,7 @@
 - Strong understanding of design patterns, OOP, and development methodologies;
 - Experienced in software architecture design and development planning, business analysis, and requirements definition;
 - Experience in gathering requirements, establishing development goals, estimating tasks and projects;
-- Experience with DB abstraction layers and messaging services (Apache Kafka, RabbitMQ, JMS, etc.);
+- Experience with DB abstraction layers (JDBC, Hibernate, JOOQ, + Liquibase, Flyway) and messaging services (Apache Kafka, RabbitMQ, JMS, etc.);
 - Experience with different modules of Spring Framework like Web, Webflux, Batch, JDBC, Data Couchbase, REST, Security, Spring Cloud (Task, Gateway, Config, Vault, Sleuth).
 - Working experience in building ELT using Spring Boot, Kafka Streams, Apache Camel 4, Mapstruct, Commons HttpClient;
 - Designing and implementing various REST API using best practices like idempotence, security, content negotiation, HATEOAS, versioning, etc.
