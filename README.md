@@ -90,13 +90,13 @@ I really enjoy building open-source software, specializing in creating RESTful A
 ### 👷 Check out some of my public repos:
 
 
-- [daromir-tech/boot-http](https://github.com/daromir-tech/boot-http) - Useful helpers for http-related functionality.
+- [iqkv/sample-mix-lorem](https://github.com/iqkv/sample-mix-lorem) - loripsum.net  text analyzer service.
 
-- [daromir-tech/.github](https://github.com/daromir-tech/.github) - GitHub Profile Repository
+- [devsecops-toolbox/homelab-operations-pipeline](https://github.com/devsecops-toolbox/homelab-operations-pipeline) - This project aims to standardise CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
 
-- [daromir-tech/boot-info](https://github.com/daromir-tech/boot-info) - Provide access to the system properties.
+- [iqkv/sample-spring-webmvc-rest-api-template](https://github.com/iqkv/sample-spring-webmvc-rest-api-template) - Spring Boot WebMvc App
 
-- [daromir-tech/boot-kafka](https://github.com/daromir-tech/boot-kafka) - Common library for Kafka support.
+- [iqkv/sample-mix-bookingdb](https://github.com/iqkv/sample-mix-bookingdb) - Sample Spring Boot application that uses some features provided by Spring Cloud, deployed on Kubernetes.
 
-- [devsecops-toolbox/.github](https://github.com/devsecops-toolbox/.github) - README repository.
+- [iqkv/quickstart-mvc-rest-user-profile-crud](https://github.com/iqkv/quickstart-mvc-rest-user-profile-crud) - User Profile CRUD - Sample Restful App.
 
