@@ -4,10 +4,10 @@
 
 ### ✴️ About Me:
 
-- 15+ years of professional experience in the IT industry - proficient developer on popular web and backend platforms (Spring Boot, Symfony, Magento, React, etc);
+- 15+ years of professional experience in the IT industry - proficient developer on popular web and backend platforms (*Spring Boot, Symfony, Magento, React*, etc);
 - Domain expertise in e-commerce, finance, retail, and  travel industries;
 - Consulted global retail, investment companies as an IT industry expert in digital transformation and cloud computing;
-- Experienced in *building* software development, QA/QA Automation, DevOps processes from scratch, and optimizing existing ones;
+- Experienced in *building* software development, *QA/QA Automation*, *DevOps* processes from scratch, and optimizing existing ones;
 - Business-oriented: I know how to balance between business needs and tech efforts to maximize the business value;
 - I am passionate about sharing some nice and suitable solutions to open source;
 
@@ -20,17 +20,17 @@
 - Experienced in software architecture design and development planning, business analysis, and requirements definition;
 - Experience in gathering requirements, establishing development goals, and estimating tasks and projects;
 - Experience with DB abstraction layers (*JDBC, Hibernate, JOOQ, + Liquibase, Flyway*) and messaging services (*Apache Kafka, RabbitMQ, JMS*), etc.;
-- Experience with different modules of Spring Framework like Web, Webflux, Batch, Data Couchbase, REST, Security, Spring Cloud (Task, Gateway, Config, Vault, Sleuth).
-- Working experience in building ELT using Spring Boot, Kafka Streams, Apache Camel 4, Mapstruct, Commons HttpClient;
+- Experience with different modules of *Spring Framework* like *Web, Webflux, Batch, Data Couchbase, REST, Security, Spring Cloud (Task, Gateway, Config, Vault, Sleuth)*.
+- Working experience in building *ELT* using *Spring Boot, Kafka Streams, Apache Camel 4, Mapstruct, Commons HttpClient*;
 - Designing and implementing various REST APIs using best practices like idempotence, security, content negotiation, HATEOAS, versioning, etc.
-- Experience with Kubernetes, OpenShift environments, AWS cloud services like EC2, S3, Cloudfront, EKS, and Fargate, and a capability with Google Cloud Run for multi-cloud.
+- Experience with *Kubernetes, OpenShift* environments, *AWS* cloud services like *EC2, S3, Cloudfront, EKS, and Fargate*, and a capability with Google Cloud Run for multi-cloud.
 - Deep understanding and hands-on experience with microservice architecture (autonomy, deployability, load balancing, fault tolerance, monitoring, etc.);
-- Experience with CI/CD (Jenkins, GitLab pipelines, Drone CI, GitHub Actions, etc.);
+- Experience with *CI/CD* (*Jenkins, GitLab pipelines, Drone CI, GitHub Actions*, etc.);
 - Team management skills:
     - Project coordination, guidance, planning, and tasks distribution;
     - Building development processes as a tech leader, code review, and code audit;
     - Team motivation, assistance on team member technical growth;
-    - Following development methodology and processes (Agile, Scrum, SAFe, Kanban);
+    - Following development methodology and processes (*Agile, Scrum, SAFe, Kanban*);
 
 ### 🔖 Experience
 
