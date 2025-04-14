@@ -91,13 +91,13 @@ I enjoy building open-source software. I specialize in creating RESTful APIs, di
 ### 👷 Check out some of my public repos:
 
 
-- [daromir-tech/boot-http](https://github.com/daromir-tech/boot-http) - Useful helpers for http-related functionality.
+- [expertness/boot-http](https://github.com/expertness/boot-http) - Useful helpers for http-related functionality.
 
-- [daromir-tech/.github](https://github.com/daromir-tech/.github) - GitHub Profile Repository
+- [expertness/.github](https://github.com/expertness/.github) - GitHub Profile Repository
 
-- [daromir-tech/boot-reactive-rest](https://github.com/daromir-tech/boot-reactive-rest) - RESTful API support library.
+- [expertness/boot-reactive-rest](https://github.com/expertness/boot-reactive-rest) - RESTful API support library.
 
-- [daromir-tech/boot-security-errors](https://github.com/daromir-tech/boot-security-errors) - Useful exception handlers for security proposes.
+- [expertness/boot-security-errors](https://github.com/expertness/boot-security-errors) - Useful exception handlers for security proposes.
 
-- [daromir-tech/checkstyle-config](https://github.com/daromir-tech/checkstyle-config) - Checkstyle configuration.
+- [expertness/checkstyle-config](https://github.com/expertness/checkstyle-config) - Checkstyle configuration.
 
