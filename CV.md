@@ -38,6 +38,8 @@
 
 - I was working on implementing an ETL engine using Spring Boot 3, Apache Camel, Mapstruct, Kafka Streams, and Hibernate (+ Postgres).
 - Build an enterprise product information management (PIM) software that provides a single place to collect, manage, and enrich product information, create a product catalog, and distribute it to sales and eCommerce channels.
+- Developed monitoring and logging systems with Prometheus+Grafana+Loki+Promtail
+- Migrated legacy applications to OpenShift, improving system scalability and reducing server costs
 
 **Software Engineer, Amadeus IT Group SA** (2016 – 2021)
 
