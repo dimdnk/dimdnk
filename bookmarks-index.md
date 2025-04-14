@@ -1266,7 +1266,7 @@
 - [Let's Debug](https://letsdebug.net/)
 - [Bare metal Kubernetes hands on tutorial with MAAS and Juju - YouTube](https://www.youtube.com/watch?v=sLADei_c9Qg)
 - [Installation - OKD.io](https://www.okd.io/installation/#storage-with-rook-and-ceph)
-- [DevSecOps in the Enterprise Session 5: GitHub Actions, SonarQube &amp; Testing with Azure Web Apps - YouTube](https://m.youtube.com/watch?v=bs5-LjdxFIQ)
+- [DevOps in the Enterprise Session 5: GitHub Actions, SonarQube &amp; Testing with Azure Web Apps - YouTube](https://m.youtube.com/watch?v=bs5-LjdxFIQ)
 - [npm Registry](https://help.sonatype.com/repomanager3/nexus-repository-administration/formats/npm-registry)
 - [github.com](https://github.com/amnezia-vpn/desktop-client)
 - [OKD Code Ready Containers (CRC) Build Process Explained - YouTube](https://www.youtube.com/watch?v=jyGRaodl740)
