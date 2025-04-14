@@ -21,7 +21,7 @@
 - Experience in gathering requirements, establishing development goals, and estimating tasks and projects;
 - Experience with DB abstraction layers (*JDBC, Hibernate, JOOQ, + Liquibase, Flyway*) and messaging services (*Apache Kafka, RabbitMQ, JMS*), etc.;
 - Experience with different modules of *Spring Framework* like *Web, Webflux, Batch, Data Couchbase, REST, Security, Spring Cloud (Task, Gateway, Config, Vault, Sleuth)*.
-- Working experience in building *ELT* using *Spring Boot, Kafka Streams, Apache Camel 4, Mapstruct, Commons HttpClient, ELK stack*;
+- Working experience in building *ELT* using *Spring Boot, Kafka Streams, Apache Camel 4, Mapstruct, Commons HttpClient, ELK, Prometheus, Grafana*;
 - Designing and implementing various REST APIs using best practices like idempotence, security, content negotiation, HATEOAS, versioning, etc.
 - Experience with *Kubernetes, OpenShift* environments, *AWS* cloud services like *EC2, S3, Cloudfront, EKS, and Fargate*, and a capability with Google Cloud Run for multi-cloud.
 - Deep understanding and hands-on experience with microservice architecture (autonomy, deployability, load balancing, fault tolerance, monitoring, etc.);
