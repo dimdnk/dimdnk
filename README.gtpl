@@ -2,9 +2,9 @@
 
 I'm Dima, a software developer focusing on Java, Spring, Kubernetes, microservices, Kafka, RabbitMQ, etc.
 
-I really enjoy building open-source software, specializing in creating RESTful APIs, distributed services, ETL, batch data processing, and cloud-native architecture.
+I enjoy building open-source software. I specialize in creating RESTful APIs, distributed services, ETL, batch/stream data processing, and cloud-native architecture.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmitriidenisenko)](https://www.linkedin.com/in/dmitriidenisenko)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmitriidenisenko)](https://www.linkedin.com/in/dmitriidenisenko)
 
 
 ➡️ ☕ <a href="repo-index.md"  target="_blank">My Repositories</a><br>
