@@ -91,7 +91,7 @@ I enjoy building open-source software. I specialize in creating RESTful APIs, di
 ### 👷 Check out some of my public repos:
 
 
-- [expertness/boot-http](https://github.com/expertness/boot-http) - Useful helpers for http-related functionality.
+- [operativeness/homelab-operations-pipeline](https://github.com/operativeness/homelab-operations-pipeline) - This project aims to standardise CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
 
 - [expertness/.github](https://github.com/expertness/.github) - GitHub Profile Repository
 
@@ -99,5 +99,5 @@ I enjoy building open-source software. I specialize in creating RESTful APIs, di
 
 - [expertness/boot-security-errors](https://github.com/expertness/boot-security-errors) - Useful exception handlers for security proposes.
 
-- [expertness/checkstyle-config](https://github.com/expertness/checkstyle-config) - Checkstyle configuration.
+- [operativeness/.github](https://github.com/operativeness/.github) - README repository.
 
