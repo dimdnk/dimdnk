@@ -91,13 +91,13 @@ I enjoy building open-source software. I specialize in creating RESTful APIs, di
 ### 👷 Check out some of my public repos:
 
 
-- [expertness/.github](https://github.com/expertness/.github) - GitHub Profile Repository
+- [IQKV/sample-reactive-vaadin-chat](https://github.com/IQKV/sample-reactive-vaadin-chat) - Sample of Chat application on top of Vaadin.
 
-- [operativeness/homelab-operations-pipeline](https://github.com/operativeness/homelab-operations-pipeline) - This project aims to standardise CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
+- [IQKV/sample-mix-lorem](https://github.com/IQKV/sample-mix-lorem) - loripsum.net  text analyzer service.
 
-- [expertness/boot-reactive-rest](https://github.com/expertness/boot-reactive-rest) - RESTful API support library.
+- [IQKV/sample-spring-webmvc-rest-api-template](https://github.com/IQKV/sample-spring-webmvc-rest-api-template) - Spring Boot WebMvc App
 
-- [expertness/boot-security-errors](https://github.com/expertness/boot-security-errors) - Useful exception handlers for security proposes.
+- [IQKV/sample-mix-bookingdb](https://github.com/IQKV/sample-mix-bookingdb) - Sample Spring Boot application that uses some features provided by Spring Cloud, deployed on Kubernetes.
 
-- [operativeness/.github](https://github.com/operativeness/.github) - README repository.
+- [IQKV/quickstart-mvc-rest-user-profile-crud](https://github.com/IQKV/quickstart-mvc-rest-user-profile-crud) - User Profile CRUD - Sample Restful App.
 
