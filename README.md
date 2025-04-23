@@ -91,13 +91,13 @@ I enjoy building open-source software. I specialize in creating RESTful APIs, di
 ### 👷 Check out some of my public repos:
 
 
-- [operativeness/homelab-public-assets](https://github.com/operativeness/homelab-public-assets) - Homelab Public Assets.
-
-- [operativeness/homelab-operations-pipeline](https://github.com/operativeness/homelab-operations-pipeline) - This project aims to standardise CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
+- [expertness/boot-http](https://github.com/expertness/boot-http) - Useful helpers for http-related functionality.
 
 - [IQKV/sample-spring-webmvc-rest-api-template](https://github.com/IQKV/sample-spring-webmvc-rest-api-template) - Spring Boot WebMvc App
 
 - [IQKV/sample-mix-bookingdb](https://github.com/IQKV/sample-mix-bookingdb) - Sample Spring Boot application that uses some features provided by Spring Cloud, deployed on Kubernetes.
 
-- [IQKV/quickstart-mvc-rest-user-profile-crud](https://github.com/IQKV/quickstart-mvc-rest-user-profile-crud) - User Profile CRUD - Sample Restful App.
+- [expertness/.github](https://github.com/expertness/.github) - GitHub Profile Repository
+
+- [expertness/boot-mvc-rest](https://github.com/expertness/boot-mvc-rest) - RESTful API support library.
 
