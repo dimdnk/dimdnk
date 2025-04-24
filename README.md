@@ -91,13 +91,13 @@ I enjoy building open-source software. I specialize in creating RESTful APIs, di
 ### 👷 Check out some of my public repos:
 
 
-- [expertness/boot-http](https://github.com/expertness/boot-http) - Useful helpers for http-related functionality.
-
-- [IQKV/sample-spring-webmvc-rest-api-template](https://github.com/IQKV/sample-spring-webmvc-rest-api-template) - Spring Boot WebMvc App
+- [expertness/boot-mail](https://github.com/expertness/boot-mail) - Mail support library.
 
 - [IQKV/sample-mix-bookingdb](https://github.com/IQKV/sample-mix-bookingdb) - Sample Spring Boot application that uses some features provided by Spring Cloud, deployed on Kubernetes.
 
-- [expertness/.github](https://github.com/expertness/.github) - GitHub Profile Repository
+- [expertness/boot-reactive-rest](https://github.com/expertness/boot-reactive-rest) - RESTful API support library.
 
-- [expertness/boot-mvc-rest](https://github.com/expertness/boot-mvc-rest) - RESTful API support library.
+- [IQKV/quickstart-mvc-rest-user-profile-crud](https://github.com/IQKV/quickstart-mvc-rest-user-profile-crud) - User Profile CRUD - Sample Restful App.
+
+- [expertness/boot-security-errors](https://github.com/expertness/boot-security-errors) - Useful exception handlers for security proposes.
 
