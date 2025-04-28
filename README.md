@@ -91,11 +91,11 @@ I enjoy building open-source software. I specialize in creating RESTful APIs, di
 ### 👷 Check out some of my public repos:
 
 
+- [expertness/boot-parent-pom](https://github.com/expertness/boot-parent-pom) - Default configurations for complete dependency tree to quickly build Spring Boot project.
+
 - [expertness/boot-mail](https://github.com/expertness/boot-mail) - Mail support library.
 
 - [IQKV/sample-mix-bookingdb](https://github.com/IQKV/sample-mix-bookingdb) - Sample Spring Boot application that uses some features provided by Spring Cloud, deployed on Kubernetes.
-
-- [expertness/boot-reactive-rest](https://github.com/expertness/boot-reactive-rest) - RESTful API support library.
 
 - [IQKV/quickstart-mvc-rest-user-profile-crud](https://github.com/IQKV/quickstart-mvc-rest-user-profile-crud) - User Profile CRUD - Sample Restful App.
 
