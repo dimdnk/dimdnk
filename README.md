@@ -91,13 +91,13 @@ I enjoy building open-source software. I specialize in creating RESTful APIs, di
 ### 👷 Check out some of my public repos:
 
 
+- [expertness/checkstyle-config](https://github.com/expertness/checkstyle-config) - Checkstyle configuration.
+
 - [dmitriidenisenko/dotfiles](https://github.com/dmitriidenisenko/dotfiles) - This contain my personal config files.
 
 - [expertness/boot-parent-pom](https://github.com/expertness/boot-parent-pom) - Default configurations for complete dependency tree to quickly build Spring Boot project.
 
 - [IQKV/sample-spring-webmvc-rest-api-template](https://github.com/IQKV/sample-spring-webmvc-rest-api-template) - WebMvc REST API with user auth/management
-
-- [IQKV/quickstart-mvc-rest-user-profile-crud](https://github.com/IQKV/quickstart-mvc-rest-user-profile-crud) - User Profile CRUD - Sample Restful App.
 
 - [expertness/boot-security-errors](https://github.com/expertness/boot-security-errors) - Useful exception handlers for security proposes.
 
