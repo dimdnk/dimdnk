@@ -91,13 +91,13 @@ I enjoy building open-source software. I specialize in creating RESTful APIs, di
 ### 👷 Check out some of my public repos:
 
 
-- [expertness/boot-mail](https://github.com/expertness/boot-mail) - Mail support library.
+- [IQKV/sample-spring-webmvc-rest-api-template](https://github.com/IQKV/sample-spring-webmvc-rest-api-template) - WebMvc REST API with user auth/management
 
-- [expertness/.github](https://github.com/expertness/.github) - GitHub Profile Repository
+- [operativeness/homelab-operations-pipeline](https://github.com/operativeness/homelab-operations-pipeline) - This project aims to standardise CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
 
 - [IQKV/sample-mix-bookingdb](https://github.com/IQKV/sample-mix-bookingdb) - Sample Spring Boot application that uses some features provided by Spring Cloud, deployed on Kubernetes.
 
 - [IQKV/quickstart-mvc-rest-user-profile-crud](https://github.com/IQKV/quickstart-mvc-rest-user-profile-crud) - User Profile CRUD - Sample Restful App.
 
-- [expertness/boot-reactive-rest](https://github.com/expertness/boot-reactive-rest) - RESTful API support library.
+- [IQKV/sample-mix-lorem](https://github.com/IQKV/sample-mix-lorem) - loripsum.net  text analyzer service.
 
