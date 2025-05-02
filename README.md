@@ -93,11 +93,11 @@ I enjoy building open-source software. I specialize in creating RESTful APIs, di
 
 - [IQKV/sample-spring-webmvc-rest-api-template](https://github.com/IQKV/sample-spring-webmvc-rest-api-template) - WebMvc REST API with user auth/management
 
-- [operativeness/homelab-operations-pipeline](https://github.com/operativeness/homelab-operations-pipeline) - This project aims to standardise CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
-
 - [IQKV/sample-mix-bookingdb](https://github.com/IQKV/sample-mix-bookingdb) - Sample Spring Boot application that uses some features provided by Spring Cloud, deployed on Kubernetes.
+
+- [operativeness/homelab-operations-pipeline](https://github.com/operativeness/homelab-operations-pipeline) - This project aims to standardise CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
 
 - [IQKV/quickstart-mvc-rest-user-profile-crud](https://github.com/IQKV/quickstart-mvc-rest-user-profile-crud) - User Profile CRUD - Sample Restful App.
 
-- [IQKV/sample-mix-lorem](https://github.com/IQKV/sample-mix-lorem) - loripsum.net  text analyzer service.
+- [expertness/boot-mvc-rest](https://github.com/expertness/boot-mvc-rest) - RESTful API support library.
 
