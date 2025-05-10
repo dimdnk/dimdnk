@@ -4,6 +4,10 @@
 - [dotfiles](https://github.com/dmitriidenisenko/dotfiles): contain my personal config files.
 
 ## 🧰 Quickstart App Templates
+- [standard-maven-project-layout](https://github.com/expertness/standard-maven-project-layout): Standard Maven Project Layout 
+- [standard-ui-project-layout](https://github.com/expertness/standard-ui-project-layout): Standard React Mantine UI Project Layout
+
+
 
 - [quickstart-amqp-consuming-hello](https://github.com/IQKV/quickstart-amqp-consuming-hello): rabbitmq consumer
 - [quickstart-amqp-producing-hello](https://github.com/IQKV/quickstart-amqp-producing-hello): rabbitmq producer
