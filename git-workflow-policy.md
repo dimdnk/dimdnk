@@ -62,4 +62,4 @@ Add the Jira task number at the beginning of the branch name:
 - After completing each task, open a Merge Request for the relevant branch onto `dev`.
 - Conflict resolution before submitting the Merge Request is the responsibility of the developer.
 - Code review is performed by the team's Tech Lead / Repo Owner.
-- The Team Lead or Tech Lead is responsible for adding technical comments, issues, or suggestions inside GitLab, making them trackable and transparent.
+- The Team Lead or Tech Lead is responsible for adding technical comments, issues, or suggestions inside GitHub, making them trackable and transparent.
