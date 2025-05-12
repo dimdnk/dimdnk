@@ -92,13 +92,13 @@ I enjoy building open-source software. I specialize in creating RESTful APIs, di
 ### 👷 Check out some of my public repos:
 
 
-- [expertness/standard-maven-project-layout](https://github.com/expertness/standard-maven-project-layout) - Standard Maven Project Layout
+- [IQKV/quickstart-jpa-jwt-secured](https://github.com/IQKV/quickstart-jpa-jwt-secured) - JWT-based Spring security REST API.
+
+- [operativeness/homelab-operations-pipeline](https://github.com/operativeness/homelab-operations-pipeline) - This project aims to standardise CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
+
+- [IQKV/sample-mix-bookingdb](https://github.com/IQKV/sample-mix-bookingdb) - Sample Spring Boot application that uses some features provided by Spring Cloud, deployed on Kubernetes.
 
 - [expertness/standard-ui-project-layout](https://github.com/expertness/standard-ui-project-layout) - Standard UI Project Layout
-
-- [IQKV/.github](https://github.com/IQKV/.github) - README repository.
-
-- [IQKV/sample-reactive-vaadin-chat](https://github.com/IQKV/sample-reactive-vaadin-chat) - Sample of Chat application on top of Vaadin.
 
 - [IQKV/sample-mix-lorem](https://github.com/IQKV/sample-mix-lorem) - loripsum.net  text analyzer service.
 
