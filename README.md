@@ -92,11 +92,11 @@ I enjoy building open-source software. I specialize in creating RESTful APIs, di
 ### 👷 Check out some of my public repos:
 
 
-- [IQKV/.github](https://github.com/IQKV/.github) - README repository.
+- [expertness/boot-cache](https://github.com/expertness/boot-cache) - Handle properties file for caching options.
 
-- [expertness/.github](https://github.com/expertness/.github) - GitHub Profile Repository
+- [operativeness/homelab-operations-pipeline](https://github.com/operativeness/homelab-operations-pipeline) - This project aims to standardise CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
 
-- [IQKV/sample-webmvc-dashboard](https://github.com/IQKV/sample-webmvc-dashboard) - WebMvc REST API with user auth/management
+- [expertness/standard-ui-project-layout](https://github.com/expertness/standard-ui-project-layout) - Standard UI Project Layout
 
 - [IQKV/quickstart-mvc-rest-user-profile-crud](https://github.com/IQKV/quickstart-mvc-rest-user-profile-crud) - User Profile CRUD - Sample Restful App.
 
