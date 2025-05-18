@@ -2,6 +2,22 @@
 
 - [Curated list of awesome lists](https://project-awesome.org/)
 
+### Unsorted
+
+- [Java interview anton-liauchuk](https://github.com/anton-liauchuk/java-interview)
+- [eugenp tutorials](https://github.com/eugenp/tutorials)
+- [uuidable blog](https://uuidable.com/)
+- [Educational platform anton-liauchuk](https://github.com/anton-liauchuk/educational-platform)
+- [All Algorithms implemented in Java](https://github.com/TheAlgorithms/Java)
+- [.NET project templates with batteries included](https://github.com/Dotnet-Boxed)
+- [Josee9988's GitHub Project Template](https://github.com/Josee9988/project-template)
+- [Nasruddin spring-boot-based-microservices](https://github.com/Nasruddin/spring-boot-based-microservices)
+- [AkashBhuiyan event-driven-microservice-architecture-rabbitmq](https://github.com/AkashBhuiyan/event-driven-microservice-architecture-rabbitmq)
+- [Awesome design patterns](https://github.com/DovAmir/awesome-design-patterns)
+- [Chamilo LMS](https://github.com/chamilo/chamilo-lms)
+- [Sakai is a solution for learning, teaching, research and collaboration](https://github.com/sakaiproject/sakai)
+- [Frappe Learning LMS](https://frappe.io/learning)
+  
 ### Home
 
 ##### Google
