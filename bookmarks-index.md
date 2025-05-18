@@ -14,9 +14,12 @@
 - [Nasruddin spring-boot-based-microservices](https://github.com/Nasruddin/spring-boot-based-microservices)
 - [AkashBhuiyan event-driven-microservice-architecture-rabbitmq](https://github.com/AkashBhuiyan/event-driven-microservice-architecture-rabbitmq)
 - [Awesome design patterns](https://github.com/DovAmir/awesome-design-patterns)
+- [Odoo](https://www.odoo.com/)
+- [ERPNext](https://frappe.io/erpnext)
 - [Chamilo LMS](https://github.com/chamilo/chamilo-lms)
 - [Sakai is a solution for learning, teaching, research and collaboration](https://github.com/sakaiproject/sakai)
 - [Frappe Learning LMS](https://frappe.io/learning)
+- [Plane](https://github.com/makeplane/plane)
   
 ### Home
 
