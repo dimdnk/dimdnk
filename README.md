@@ -92,7 +92,7 @@ I enjoy building open-source software. I specialize in creating RESTful APIs, di
 ### 👷 Check out some of my public repos:
 
 
-- [operativeness/homelab-operations-pipeline](https://github.com/operativeness/homelab-operations-pipeline) - This project aims to standardise CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
+- [operativeness/homelab-public-assets](https://github.com/operativeness/homelab-public-assets) - Homelab Public Assets.
 
 - [expertness/standard-dotgithub-profile-layout](https://github.com/expertness/standard-dotgithub-profile-layout) - Default Community Health Files for Organization
 
