@@ -18,7 +18,7 @@ Static analysis helps maintain high-quality, secure, and maintainable code. This
 
 ## 🚦 Quality Gates
 
-Our SonarQube setup enforces the following gates:
+My SonarQube setup enforces the following gates:
 
 - No critical or blocker-level issues
 - Test coverage thresholds
