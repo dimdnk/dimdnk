@@ -9,6 +9,7 @@ I enjoy building open-source software. I specialize in creating RESTful APIs, di
 
 ➡️ ☕ <a href="repo-index.md"  target="_blank">My Repositories</a><br>
 ➡️ 📚 <a href="git-workflow-policy.md"  target="_blank">My Rules for Git</a><br>
+➡️ 🏆 <a href="code-quality-guidelines.md"  target="_blank">Techniques for keeping the code quality high</a><br>
 ➡️ 💒 <a href="https://dimdnk.com/" target="_blank">Personal Homepage</a><br>
 ➡️ 🧪 <a href="https://knowhowto.dev/" target="_blank">Homelab Services</a><br>
 ➡️ 🌟 <a href="bookmarks-index.md"  target="_blank">My Bookmarks</a><br>
@@ -92,9 +93,9 @@ I enjoy building open-source software. I specialize in creating RESTful APIs, di
 ### 👷 Check out some of my public repos:
 
 
-- [operativeness/homelab-operations-pipeline](https://github.com/operativeness/homelab-operations-pipeline) - This project aims to standardise CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
+- [expertness/boot-starter](https://github.com/expertness/boot-starter) - Spring Boot Starters.
 
-- [IQKV/sample-webmvc-dashboard](https://github.com/IQKV/sample-webmvc-dashboard) - WebMvc REST API with user auth/management
+- [expertness/standard-dotgithub-profile-layout](https://github.com/expertness/standard-dotgithub-profile-layout) - Default Community Health Files for Organization
 
 - [IQKV/sample-mix-bookingdb](https://github.com/IQKV/sample-mix-bookingdb) - Sample Spring Boot application that uses some features provided by Spring Cloud, deployed on Kubernetes.
 
