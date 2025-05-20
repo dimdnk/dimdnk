@@ -9,7 +9,7 @@ I enjoy building open-source software. I specialize in creating RESTful APIs, di
 
 ➡️ ☕ <a href="repo-index.md"  target="_blank">My Repositories</a><br>
 ➡️ 📚 <a href="git-workflow-policy.md"  target="_blank">My Rules for Git</a><br>
-➡️ 🏆 <a href="code-quality-guidelines.md"  target="_blank">Techniques for keeping the code quality high</a><br>
+➡️ 🏆 <a href="code-quality-guidelines.md"  target="_blank">My Quality Guidelines</a><br>
 ➡️ 💒 <a href="https://dimdnk.com/" target="_blank">Personal Homepage</a><br>
 ➡️ 🧪 <a href="https://knowhowto.dev/" target="_blank">Homelab Services</a><br>
 ➡️ 🌟 <a href="bookmarks-index.md"  target="_blank">My Bookmarks</a><br>
