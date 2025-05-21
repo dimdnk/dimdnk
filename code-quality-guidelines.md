@@ -49,3 +49,4 @@ My SonarQube setup enforces the following gates:
 - [CheckStyle](https://checkstyle.sourceforge.io/)
 - [SpotBugs](https://spotbugs.github.io/)
 - [Qulice](https://www.qulice.com/)
+- [Awesome Guidelines](https://github.com/Kristories/awesome-guidelines)
