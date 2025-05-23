@@ -93,13 +93,13 @@ I enjoy building open-source software. I specialize in creating RESTful APIs, di
 ### 👷 Check out some of my public repos:
 
 
-- [expertness/boot-starter](https://github.com/expertness/boot-starter) - Spring Boot Starters.
+- [expertness/standard-ui-project-layout](https://github.com/expertness/standard-ui-project-layout) - Standard UI Project Layout
 
 - [expertness/standard-dotgithub-profile-layout](https://github.com/expertness/standard-dotgithub-profile-layout) - Default Community Health Files for Organization
 
-- [IQKV/sample-mix-bookingdb](https://github.com/IQKV/sample-mix-bookingdb) - Sample Spring Boot application that uses some features provided by Spring Cloud, deployed on Kubernetes.
+- [expertness/standard-docs-vitepress-project-layout](https://github.com/expertness/standard-docs-vitepress-project-layout) - Getting-started guidance, feature details, and API reference documentation template.
 
-- [IQKV/quickstart-mvc-rest-user-profile-crud](https://github.com/IQKV/quickstart-mvc-rest-user-profile-crud) - User Profile CRUD - Sample Restful App.
+- [expertness/standard-maven-project-layout](https://github.com/expertness/standard-maven-project-layout) - Standard Maven Project Layout
 
 - [IQKV/sample-mix-lorem](https://github.com/IQKV/sample-mix-lorem) - loripsum.net  text analyzer service.
 
