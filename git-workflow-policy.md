@@ -19,6 +19,7 @@
 - `bugfix/fix-login-issue`
 
 ### Adding Task Number (Optional):
+
 Add the Jira task number at the beginning of the branch name:
 
 #### Examples:
@@ -35,6 +36,7 @@ Add the Jira task number at the beginning of the branch name:
 - Using the Conventional Commits structure is recommended.
 
 ### Suggested Commit Message Structure:
+
 ```
 <type>(scope): short message
 ```

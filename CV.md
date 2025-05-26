@@ -4,33 +4,33 @@
 
 ### ✴️ About Me:
 
-- 15+ years of professional experience in the IT industry - proficient developer on popular web and backend platforms (*Spring Boot, Symfony, Magento, React*, etc);
-- Domain expertise in e-commerce, finance, retail, and  travel industries;
+- 15+ years of professional experience in the IT industry - proficient developer on popular web and backend platforms (_Spring Boot, Symfony, Magento, React_, etc);
+- Domain expertise in e-commerce, finance, retail, and travel industries;
 - Consulted global retail, investment companies as an IT industry expert in digital transformation and cloud computing;
-- Experienced in *building* software development, *QA/QA Automation*, *DevOps* processes from scratch, and optimizing existing ones;
+- Experienced in _building_ software development, _QA/QA Automation_, _DevOps_ processes from scratch, and optimizing existing ones;
 - Business-oriented: I know how to balance between business needs and tech efforts to maximize the business value;
 - I am passionate about sharing some nice and suitable solutions for open source;
 
 <hr>
 
-- Solid knowledge and hands-on experience in development for the *Java* platform and related technologies;
-- Proficient knowledge of modern *PHP*, *JavaScript*, and popular JavaScript-based libraries and frameworks;
-- Experience with *Spring*, *Quarkus*, *Vaadin*, *Angular*, *Zend*, and other MVC frameworks;
+- Solid knowledge and hands-on experience in development for the _Java_ platform and related technologies;
+- Proficient knowledge of modern _PHP_, _JavaScript_, and popular JavaScript-based libraries and frameworks;
+- Experience with _Spring_, _Quarkus_, _Vaadin_, _Angular_, _Zend_, and other MVC frameworks;
 - Strong understanding of design patterns, OOP, and development methodologies;
 - Experienced in software architecture design and development planning, business analysis, and requirements definition;
 - Experience in gathering requirements, establishing development goals, and estimating tasks and projects;
-- Experience with DB abstraction layers (*JDBC, Hibernate, JOOQ, + Liquibase, Flyway*) and messaging services (*Apache Kafka, RabbitMQ, JMS*), etc.;
-- Experience with different modules of *Spring Framework* like *Web, Webflux, Batch, Data Couchbase, REST, Security, Spring Cloud (Task, Gateway, Config, Vault, Sleuth)*.
-- Working experience in building *ELT* using *Spring Boot, Kafka Streams, Apache Camel 4, Mapstruct, Commons HttpClient, ELK, Prometheus, Grafana*;
+- Experience with DB abstraction layers (_JDBC, Hibernate, JOOQ, + Liquibase, Flyway_) and messaging services (_Apache Kafka, RabbitMQ, JMS_), etc.;
+- Experience with different modules of _Spring Framework_ like _Web, Webflux, Batch, Data Couchbase, REST, Security, Spring Cloud (Task, Gateway, Config, Vault, Sleuth)_.
+- Working experience in building _ELT_ using _Spring Boot, Kafka Streams, Apache Camel 4, Mapstruct, Commons HttpClient, ELK, Prometheus, Grafana_;
 - Designing and implementing various REST APIs using best practices like idempotence, security, content negotiation, HATEOAS, versioning, etc.
-- Experience with *Kubernetes, OpenShift* environments, *AWS* cloud services like *EC2, S3, Cloudfront, EKS, and Fargate*, and a capability with Google Cloud Run for multi-cloud.
+- Experience with _Kubernetes, OpenShift_ environments, _AWS_ cloud services like _EC2, S3, Cloudfront, EKS, and Fargate_, and a capability with Google Cloud Run for multi-cloud.
 - Deep understanding and hands-on experience with microservice architecture (autonomy, deployability, load balancing, fault tolerance, monitoring, etc.);
-- Experience with *CI/CD* (*Jenkins, GitLab pipelines, Drone CI, GitHub Actions*, etc.);
+- Experience with _CI/CD_ (_Jenkins, GitLab pipelines, Drone CI, GitHub Actions_, etc.);
 - Team management skills:
-    - Project coordination, guidance, planning, and tasks distribution;
-    - Building development processes as a tech leader, code review, and code audit;
-    - Team motivation, assistance on team member technical growth;
-    - Following development methodology and processes (*Agile, Scrum, SAFe, Kanban*);
+  - Project coordination, guidance, planning, and tasks distribution;
+  - Building development processes as a tech leader, code review, and code audit;
+  - Team motivation, assistance on team member technical growth;
+  - Following development methodology and processes (_Agile, Scrum, SAFe, Kanban_);
 
 ### 🔖 Experience
 
@@ -53,7 +53,7 @@
 - Create open-source components for web applications to reduce overhead and shorten Zend Framework projects' lifecycle
 - Helped companies to handle complex technical and design problems related to the full stack web development using PHP products
 
-**PHP Developer, Hypnotic Response** (2013 - 2015) 
+**PHP Developer, Hypnotic Response** (2013 - 2015)
 
 Pic-Cha Project
 
@@ -61,12 +61,12 @@ Pic-Cha Project
 - Build & deploy on Amazon EC2 with enabling S3, CloudFront, CloudWatch;
 - Implementing Facebook API, Twitter API, Paypal API integration;
 - Develop JSON REST API for the mobile client, push notification systems based on Google Cloud Messaging & Apple APN;
-- Scaling & sharding databases; 
+- Scaling & sharding databases;
 
 **Team Lead & PHP Developer, MSL** (2011 - 2012)
 
 - Evobet platform was launched to give users the possibility to create their own betting ground and make their experience profitable.
-- The project is built in PHP and leveraged the Mysql, Zend Framework, Redis, Memcached, JQuery, and MarionetteJs. 
+- The project is built in PHP and leveraged the Mysql, Zend Framework, Redis, Memcached, JQuery, and MarionetteJs.
 - Uses flexible, modular, multi-tenant single instance architecture
 - Includes a powerful payment gateway integration framework.
 

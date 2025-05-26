@@ -20,7 +20,7 @@
 - [Sakai is a solution for learning, teaching, research and collaboration](https://github.com/sakaiproject/sakai)
 - [Frappe Learning LMS](https://frappe.io/learning)
 - [Plane](https://github.com/makeplane/plane)
-  
+
 ### Home
 
 ##### Google
