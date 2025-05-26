@@ -6,6 +6,7 @@ I enjoy building open-source software. I specialize in creating RESTful APIs, di
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmitriidenisenko)](https://www.linkedin.com/in/dmitriidenisenko)
 
+
 ➡️ ☕ <a href="repo-index.md"  target="_blank">My Repositories</a><br>
 ➡️ 📚 <a href="git-workflow-policy.md"  target="_blank">My Rules for Git</a><br>
 ➡️ 🏆 <a href="code-quality-guidelines.md"  target="_blank">I follow the Quality Guidelines</a><br>
@@ -91,6 +92,7 @@ I enjoy building open-source software. I specialize in creating RESTful APIs, di
 
 ### 👷 Check out some of my public repos:
 
+
 - [expertness/standard-ui-project-layout](https://github.com/expertness/standard-ui-project-layout) - Standard UI Project Layout
 
 - [expertness/standard-dotgithub-profile-layout](https://github.com/expertness/standard-dotgithub-profile-layout) - Default Community Health Files for Organization
@@ -99,4 +101,5 @@ I enjoy building open-source software. I specialize in creating RESTful APIs, di
 
 - [expertness/standard-maven-project-layout](https://github.com/expertness/standard-maven-project-layout) - Standard Maven Project Layout
 
-- [IQKV/sample-mix-lorem](https://github.com/IQKV/sample-mix-lorem) - loripsum.net text analyzer service.
+- [IQKV/sample-mix-lorem](https://github.com/IQKV/sample-mix-lorem) - loripsum.net  text analyzer service.
+
