@@ -4,12 +4,14 @@
 - [dotfiles](https://github.com/dmitriidenisenko/dotfiles): contain my personal config files.
 
 ## 🧰 GitHub Org Templates
+
 - [standard-dotgithub-profile-layout](https://github.com/expertness/standard-dotgithub-profile-layout): Community Health Files Templates for GitHub Organization
 - [standard-docs-vitepress-project-layout](https://github.com/expertness/standard-docs-vitepress-project-layout): Getting-started guidance, feature details, and API reference documentation template
-- [standard-maven-project-layout](https://github.com/expertness/standard-maven-project-layout): Standard Maven Project Layout 
+- [standard-maven-project-layout](https://github.com/expertness/standard-maven-project-layout): Standard Maven Project Layout
 - [standard-ui-project-layout](https://github.com/expertness/standard-ui-project-layout): Standard React Mantine UI Project Layout
 
 ## 🧰 Quickstart App Templates
+
 - [quickstart-amqp-consuming-hello](https://github.com/IQKV/quickstart-amqp-consuming-hello): rabbitmq consumer
 - [quickstart-amqp-producing-hello](https://github.com/IQKV/quickstart-amqp-producing-hello): rabbitmq producer
 - [quickstart-jpa-jwt-secured](https://github.com/IQKV/quickstart-jpa-jwt-secured): rest-api, spring-security, mysql-database, swagger-ui, liquibase, json-web-token
