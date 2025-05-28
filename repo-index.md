@@ -18,7 +18,6 @@
 - [quickstart-jpa-jwt-secured](https://github.com/IQKV/quickstart-jpa-jwt-secured): rest-api, spring-security, mysql-database, swagger-ui, liquibase, json-web-token
 - [quickstart-kafka-consuming-hello](https://github.com/IQKV/quickstart-kafka-consuming-hello): kafka consumer, testcontainers
 - [quickstart-kafka-producing-hello](https://github.com/IQKV/quickstart-kafka-producing-hello): kafka producer, testcontainers
-- [quickstart-kafka-stream-initialize](https://github.com/IQKV/quickstart-kafka-stream-initialize): kafka-streams, kafka-test
 - [quickstart-mvc-rest-hello-world](https://github.com/IQKV/quickstart-mvc-rest-hello-world): rest-api, swagger-ui
 - [quickstart-mvc-rest-user-profile-crud](https://github.com/IQKV/quickstart-mvc-rest-user-profile-crud): rest-api, swagger-ui, liquibase, postgresql-database
 
