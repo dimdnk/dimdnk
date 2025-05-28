@@ -5,11 +5,11 @@
 
 ## 🧰 GitHub Org Templates
 
-- [standard-dotgithub-profile-layout](https://github.com/expertness/standard-dotgithub-profile-layout): Community Health Files Templates for GitHub Organization
-- [standard-docs-vitepress-project-layout](https://github.com/expertness/standard-docs-vitepress-project-layout): Getting-started guidance, feature details, and API reference documentation template
-- [standard-maven-single-project-layout](https://github.com/expertness/standard-maven-single-project-layout): Standard Maven Project Layout
-- [standard-maven-multi-project-layout](https://github.com/expertness/standard-maven-multi-project-layout): Maven Multi-Module Project Layout
-- [standard-mantine-ui-project-layout](https://github.com/expertness/standard-mantine-ui-project-layout): React Mantine UI Project Layout
+- [standard-dotgithub-profile-layout](https://github.com/IQKV/standard-dotgithub-profile-layout): Community Health Files Templates for GitHub Organization
+- [standard-docs-vitepress-project-layout](https://github.com/IQKV/standard-docs-vitepress-project-layout): Getting-started guidance, feature details, and API reference documentation template
+- [standard-maven-single-project-layout](https://github.com/IQKV/standard-maven-single-project-layout): Standard Maven Project Layout
+- [standard-maven-multi-project-layout](https://github.com/IQKV/standard-maven-multi-project-layout): Maven Multi-Module Project Layout
+- [standard-mantine-ui-project-layout](https://github.com/IQKV/standard-mantine-ui-project-layout): React Mantine UI Project Layout
 
 ## 🧰 Quickstart App Templates
 
