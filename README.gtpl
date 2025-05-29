@@ -1,6 +1,6 @@
 ## 👋 Welcome
 
-I'm Dima, a software developer focusing on Java, Spring, Kubernetes, microservices, Kafka, RabbitMQ, etc.
+I'm Dima, a software developer focusing on Java, Spring, JavaScript, React, Kubernetes, microservices, Postgres, Kafka, RabbitMQ, etc.
 
 I enjoy building open-source software. I specialize in creating RESTful APIs, distributed services, ETL, batch/stream data processing, and cloud-native architecture.
 
