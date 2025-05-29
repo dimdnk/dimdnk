@@ -1,6 +1,6 @@
 ## 👋 Welcome
 
-I'm Dima, a software developer focusing on Java, Spring, Kubernetes, microservices, Kafka, RabbitMQ, etc.
+I'm Dima, a software developer focusing on Java, Spring, JavaScript, React, Kubernetes, microservices, Postgres, Kafka, RabbitMQ, etc.
 
 I enjoy building open-source software. I specialize in creating RESTful APIs, distributed services, ETL, batch/stream data processing, and cloud-native architecture.
 
@@ -93,13 +93,13 @@ I enjoy building open-source software. I specialize in creating RESTful APIs, di
 ### 👷 Check out some of my public repos:
 
 
-- [IQKV/sample-mix-lorem](https://github.com/IQKV/sample-mix-lorem) - loripsum.net  text analyzer service.
+- [IQKV/sample-netflixossusage](https://github.com/IQKV/sample-netflixossusage) - Microservice architecture with Spring Boot, Eureka, Hystrix, Config Server, minikube and Docker.
 
-- [IQKV/sample-mix-netflixoss](https://github.com/IQKV/sample-mix-netflixoss) - Microservice architecture with Spring Boot, Eureka, Hystrix, Config Server, minikube and Docker.
+- [KnowHowDevOps/homelab-operations-pipeline](https://github.com/KnowHowDevOps/homelab-operations-pipeline) - This project aims to standardise CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
 
-- [IQKV/sample-mix-bookingdb](https://github.com/IQKV/sample-mix-bookingdb) - Sample Spring Boot application that uses some features provided by Spring Cloud, deployed on Kubernetes.
+- [IQKV/sample-bookingdb](https://github.com/IQKV/sample-bookingdb) - Sample Spring Boot application that uses some features provided by Spring Cloud, deployed on Kubernetes.
 
-- [manage-organization/homelab-operations-pipeline](https://github.com/manage-organization/homelab-operations-pipeline) - This project aims to standardise CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
+- [KnowHowDevOps/homelab-public-assets](https://github.com/KnowHowDevOps/homelab-public-assets) - Homelab Public Assets.
 
-- [IQKV/quickstart-mvc-rest-user-profile-crud](https://github.com/IQKV/quickstart-mvc-rest-user-profile-crud) - User Profile CRUD - Sample Restful App.
+- [IQKV/sample-lorem](https://github.com/IQKV/sample-lorem) - loripsum.net  text analyzer service.
 
