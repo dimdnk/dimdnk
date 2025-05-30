@@ -95,11 +95,11 @@ I enjoy building open-source software. I specialize in creating RESTful APIs, di
 
 - [IQKV/sample-netflixossusage](https://github.com/IQKV/sample-netflixossusage) - Microservice architecture with Spring Boot, Eureka, Hystrix, Config Server, minikube and Docker.
 
-- [KnowHowDevOps/homelab-operations-pipeline](https://github.com/KnowHowDevOps/homelab-operations-pipeline) - This project aims to standardise CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
+- [IQKV/.github](https://github.com/IQKV/.github) - README repository.
 
 - [IQKV/sample-bookingdb](https://github.com/IQKV/sample-bookingdb) - Sample Spring Boot application that uses some features provided by Spring Cloud, deployed on Kubernetes.
 
-- [KnowHowDevOps/homelab-public-assets](https://github.com/KnowHowDevOps/homelab-public-assets) - Homelab Public Assets.
+- [KnowHowDevOps/homelab-operations-pipeline](https://github.com/KnowHowDevOps/homelab-operations-pipeline) - This project aims to standardise CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
 
 - [IQKV/sample-lorem](https://github.com/IQKV/sample-lorem) - loripsum.net  text analyzer service.
 
