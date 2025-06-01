@@ -93,13 +93,13 @@ I enjoy building open-source software. I specialize in creating RESTful APIs, di
 ### 👷 Check out some of my public repos:
 
 
-- [KnowHowDevOps/homelab-operations-pipeline](https://github.com/KnowHowDevOps/homelab-operations-pipeline) - This project aims to standardise CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
-
-- [IQKV/sample-bookingdb](https://github.com/IQKV/sample-bookingdb) - Sample Spring Boot application that uses some features provided by Spring Cloud, deployed on Kubernetes.
+- [KnowHowDevOps/homelab-public-assets](https://github.com/KnowHowDevOps/homelab-public-assets) - Homelab Public Assets.
 
 - [IQKV/sample-webmvc-dashboard](https://github.com/IQKV/sample-webmvc-dashboard) - WebMvc REST API with user auth/management
 
+- [IQKV/standard-docs-vitepress-project-layout](https://github.com/IQKV/standard-docs-vitepress-project-layout) - Getting-started guidance, feature details, and API reference documentation template.
+
 - [IQKV/quickstart-mvc-rest-user-profile-crud](https://github.com/IQKV/quickstart-mvc-rest-user-profile-crud) - User Profile CRUD - Sample Restful App.
 
-- [IQKV/sample-lorem](https://github.com/IQKV/sample-lorem) - loripsum.net  text analyzer service.
+- [IQKV/standard-dotgithub-profile-layout](https://github.com/IQKV/standard-dotgithub-profile-layout) - Default Community Health Files for Organization
 
