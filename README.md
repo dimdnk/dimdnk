@@ -93,13 +93,13 @@ I enjoy building open-source software. I specialize in creating RESTful APIs, di
 ### 👷 Check out some of my public repos:
 
 
-- [IQKV/checkstyle-config](https://github.com/IQKV/checkstyle-config) - Checkstyle configuration.
-
-- [IQKV/sample-webmvc-dashboard](https://github.com/IQKV/sample-webmvc-dashboard) - WebMvc REST API with user auth/management
+- [IQKV/standard-maven-multi-project-layout](https://github.com/IQKV/standard-maven-multi-project-layout) - 
 
 - [IQKV/sample-bookingdb](https://github.com/IQKV/sample-bookingdb) - Sample Spring Boot application that uses some features provided by Spring Cloud, deployed on Kubernetes.
 
+- [IQKV/sample-webmvc-dashboard](https://github.com/IQKV/sample-webmvc-dashboard) - WebMvc REST API with user auth/management
+
 - [IQKV/quickstart-mvc-rest-user-profile-crud](https://github.com/IQKV/quickstart-mvc-rest-user-profile-crud) - User Profile CRUD - Sample Restful App.
 
-- [IQKV/standard-docs-vitepress-project-layout](https://github.com/IQKV/standard-docs-vitepress-project-layout) - Getting-started guidance, feature details, and API reference documentation template.
+- [IQKV/sample-lorem](https://github.com/IQKV/sample-lorem) - loripsum.net  text analyzer service.
 
