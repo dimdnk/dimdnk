@@ -9,7 +9,7 @@
 - [standard-docs-vitepress-project-layout](https://github.com/IQKV/standard-docs-vitepress-project-layout): Getting-started guidance, feature details, and API reference documentation template
 - [standard-maven-single-project-layout](https://github.com/IQKV/standard-maven-single-project-layout): Standard Maven Project Layout
 - [standard-maven-multi-project-layout](https://github.com/IQKV/standard-maven-multi-project-layout): Maven Multi-Module Project Layout
-- [standard-mantine-ui-project-layout](https://github.com/IQKV/standard-mantine-ui-project-layout): React Mantine UI Project Layout
+- [standard-ui-project-layout](https://github.com/IQKV/standard-ui-project-layout): React Mantine UI Project Layout
 
 ## 🧰 Quickstart App Templates
 
