@@ -23,7 +23,7 @@
 
 ## 📜 Samples
 
-- [sample-bookingdb](https://github.com/IQKV/sample-bookingdb): kubernetes, rabbitmq, rest-api, amqp, graphql-server, swagger-ui, microservices-architecture, maven-multi-module
+- [sample-booking-demand-api-etl](https://github.com/IQKV/sample-booking-demand-api-etl): kubernetes, rabbitmq, rest-api, amqp, graphql-server, swagger-ui, microservices-architecture, maven-multi-module
 - [sample-lorem](https://github.com/IQKV/sample-lorem): kafka,, sample-app, liquibase, postgresql-database, microservices-architecture, maven-multi-module
 - [sample-netflixossusage](https://github.com/IQKV/sample-netflixossusage): legacy, mysql, mongodb, fault-tolerance, service-discovery, spring-cloud, microservices-architecture, zipkin, cloud-design-pattern, maven-multi-module
 - [sample-bookstore-mvc-rest-api](https://github.com/IQKV/sample-bookstore-mvc-rest-api): rest-api, swagger-ui, liquibase, postgresql-database, testcontainers
