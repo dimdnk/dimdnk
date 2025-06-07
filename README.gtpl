@@ -1,8 +1,8 @@
 ## 👋 Welcome
 
-I'm Dima, a software developer focusing on Java, Spring, JavaScript, React, Kubernetes, microservices, Postgres, Kafka, RabbitMQ, etc.
+I'm Dima, a software developer focusing on Java, Spring, JavaScript, React, Kubernetes, microservices, PostgreSQL, Kafka, RabbitMQ, etc.
 
-I enjoy building open-source software. I specialize in creating RESTful APIs, distributed services, ETL, batch/stream data processing, and cloud-native architecture.
+I enjoy building open-source software. I specialize in creating RESTful, GraphQL, gRPC APIs; distributed services, ETL, batch/stream data processing, and cloud-native architecture.
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmitriidenisenko)](https://www.linkedin.com/in/dmitriidenisenko)
 
