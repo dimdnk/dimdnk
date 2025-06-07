@@ -13,6 +13,7 @@
 - [.NET project templates with batteries included](https://github.com/Dotnet-Boxed)
 - [Kestra Workflow Automation Platform](https://github.com/kestra-io/kestra)
 - [MintHCM](https://github.com/minthcm/minthcm)
+- [Chatwoot customer support platform](https://github.com/chatwoot/chatwoot) 
 - [Meetily](https://github.com/Zackriya-Solutions/meeting-minutes)
 - [Budibase low-code platform](https://github.com/Budibase/budibase)
 - [Josee9988's GitHub Project Template](https://github.com/Josee9988/project-template)
