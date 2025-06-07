@@ -6,6 +6,7 @@
 
 - [Java interview anton-liauchuk](https://github.com/anton-liauchuk/java-interview)
 - [eugenp tutorials](https://github.com/eugenp/tutorials)
+- [Self-contained Systems (SCS) architecture](https://scs-architecture.org/)
 - [uuidable blog](https://uuidable.com/)
 - [Educational platform anton-liauchuk](https://github.com/anton-liauchuk/educational-platform)
 - [All Algorithms implemented in Java](https://github.com/TheAlgorithms/Java)
