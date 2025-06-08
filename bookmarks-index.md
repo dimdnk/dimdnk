@@ -13,6 +13,7 @@
 - [All Algorithms implemented in Java](https://github.com/TheAlgorithms/Java)
 - [.NET project templates with batteries included](https://github.com/Dotnet-Boxed)
 - [Kestra Workflow Automation Platform](https://github.com/kestra-io/kestra)
+- [Human Capital Management Market Size, Trends, Share in 2025 (2022-2025)](https://ensaantech.com/blog/human-capital-management-market-size-trends-share/)
 - [MintHCM](https://github.com/minthcm/minthcm)
 - [Synergix ERP](https://www.synergixtech.com/erp-solutions/solutions-by-module/human-resource-management/)
 - [Chatwoot customer support platform](https://github.com/chatwoot/chatwoot) 
@@ -3130,3 +3131,21 @@
 - [GitHub - dbeaver/cloudbeaver: Cloud Database Manager](https://github.com/dbeaver/cloudbeaver)
 - [GitHub - enochtangg/quick-SQL-cheatsheet: A quick reminder of all SQL queries and examples on how to use them.](https://github.com/enochtangg/quick-SQL-cheatsheet)
 - [AOE](https://github.com/AOEpeople)
+
+
+### HCM
+
+Modern HCM systems are focusing on improving the employee experience. From onboarding to career development, the aim is to boost retention and satisfaction by creating a more engaging workplace. 
+
+Top 10 HCM Tools 
+
+- PeoplesHR 
+- Adrenalin 
+- Cornerstone 
+- UKG 
+- Zoho People
+- Workday 
+- BambooHR 
+- Oracle HCM Cloud 
+- SAP Success Factor 
+- ADP Workforce Now 
