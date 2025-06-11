@@ -93,13 +93,13 @@ I enjoy building open-source software. I specialize in creating RESTful, GraphQL
 ### 👷 Check out some of my public repos:
 
 
-- [KnowHowDevOps/homelab-operations-pipeline](https://github.com/KnowHowDevOps/homelab-operations-pipeline) - This project aims to standardise CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
+- [KeepBoard/.github](https://github.com/KeepBoard/.github) - GitHub Organization profile repository
 
-- [IQKV/sample-booking-demand-api-etl](https://github.com/IQKV/sample-booking-demand-api-etl) - Sample Spring Boot application that uses some features provided by Spring Cloud, deployed on Kubernetes.
+- [KeepBoard/docs](https://github.com/KeepBoard/docs) - Project Documentation Website
 
-- [IQKV/sample-webmvc-dashboard](https://github.com/IQKV/sample-webmvc-dashboard) - WebMvc REST API with user auth/management
+- [IQKV/standard-blank-project-layout](https://github.com/IQKV/standard-blank-project-layout) - Blank Project Layout
 
-- [IQKV/quickstart-mvc-rest-user-profile-crud](https://github.com/IQKV/quickstart-mvc-rest-user-profile-crud) - User Profile CRUD - Sample Restful App.
+- [IQKV/boot-security](https://github.com/IQKV/boot-security) - Security support library.
 
-- [IQKV/sample-lorem](https://github.com/IQKV/sample-lorem) - loripsum.net  text analyzer service.
+- [IQKV/sample-bookstore-mvc-rest-api](https://github.com/IQKV/sample-bookstore-mvc-rest-api) - Sample book store REST API service using Spring Boot (backend).
 
