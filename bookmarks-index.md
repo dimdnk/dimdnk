@@ -30,6 +30,7 @@
 - [Sakai is a solution for learning, teaching, research and collaboration](https://github.com/sakaiproject/sakai)
 - [Frappe Learning LMS](https://frappe.io/learning)
 - [Plane](https://github.com/makeplane/plane)
+- [OpenSSF Best Practices Badge Program](https://www.bestpractices.dev/en)
 
 ### Home
 
