@@ -93,13 +93,13 @@ I enjoy building open-source software. I specialize in creating RESTful, GraphQL
 ### 👷 Check out some of my public repos:
 
 
-- [KeepBoard/docs](https://github.com/KeepBoard/docs) - Project Documentation Website
+- [KeepBoard/keepboard](https://github.com/KeepBoard/keepboard) - KeepBoard HCM was made to simplify the management of human resources in the company.
 
-- [KeepBoard/.github](https://github.com/KeepBoard/.github) - GitHub Organization profile repository
-
-- [KeepBoard/operations-pipeline](https://github.com/KeepBoard/operations-pipeline) - This project aims to standardize CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
+- [KeepBoard/.github](https://github.com/KeepBoard/.github) - GitHub Organization profile repository.
 
 - [IQKV/standard-blank-project-layout](https://github.com/IQKV/standard-blank-project-layout) - Blank Project Layout
 
-- [IQKV/boot-info](https://github.com/IQKV/boot-info) - Provide access to the system properties.
+- [KeepBoard/operations-pipeline](https://github.com/KeepBoard/operations-pipeline) - This project aims to standardize CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
+
+- [KeepBoard/ui](https://github.com/KeepBoard/ui) - Admin Dashboard UI.
 
