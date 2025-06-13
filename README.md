@@ -93,13 +93,13 @@ I enjoy building open-source software. I specialize in creating RESTful, GraphQL
 ### 👷 Check out some of my public repos:
 
 
-- [KeepBoard/ui](https://github.com/KeepBoard/ui) - Admin Dashboard UI.
+- [KeepBoard/operations-pipeline](https://github.com/KeepBoard/operations-pipeline) - This project aims to standardize CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
 
-- [KeepBoard/docs](https://github.com/KeepBoard/docs) - Project Documentation Website.
+- [IQKV/standard-dotgithub-profile-layout](https://github.com/IQKV/standard-dotgithub-profile-layout) - Default Community Health Files for Organization
 
-- [KeepBoard/.github](https://github.com/KeepBoard/.github) - GitHub Organization profile repository.
+- [IQKV/standard-docs-vitepress-project-layout](https://github.com/IQKV/standard-docs-vitepress-project-layout) - Getting-started guidance, feature details, and API reference documentation template.
+
+- [IQKV/standard-maven-single-project-layout](https://github.com/IQKV/standard-maven-single-project-layout) - Standard Maven Single Module Project Layout
 
 - [IQKV/standard-blank-project-layout](https://github.com/IQKV/standard-blank-project-layout) - Blank Project Layout
-
-- [KeepBoard/operations-pipeline](https://github.com/KeepBoard/operations-pipeline) - This project aims to standardize CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
 
