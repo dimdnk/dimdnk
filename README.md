@@ -93,13 +93,13 @@ I enjoy building open-source software. I specialize in creating RESTful, GraphQL
 ### 👷 Check out some of my public repos:
 
 
-- [IQKV/standard-ui-project-layout](https://github.com/IQKV/standard-ui-project-layout) - Standard UI Project Layout
-
-- [KeepBoard/ui](https://github.com/KeepBoard/ui) - Admin Dashboard UI.
+- [IQKV/.github](https://github.com/IQKV/.github) - README repository.
 
 - [KeepBoard/operations-pipeline](https://github.com/KeepBoard/operations-pipeline) - This project aims to standardize CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
 
-- [dmitriidenisenko/dotfiles](https://github.com/dmitriidenisenko/dotfiles) - This contain my personal config files.
-
 - [KnowHowDevOps/homelab-operations-pipeline](https://github.com/KnowHowDevOps/homelab-operations-pipeline) - This project aims to standardize CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
+
+- [KeepBoard/ui](https://github.com/KeepBoard/ui) - Admin Dashboard UI.
+
+- [dmitriidenisenko/dotfiles](https://github.com/dmitriidenisenko/dotfiles) - This contain my personal config files.
 
