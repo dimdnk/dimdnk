@@ -93,13 +93,13 @@ I enjoy building open-source software. I specialize in creating RESTful, GraphQL
 ### 👷 Check out some of my public repos:
 
 
-- [KnowHowDevOps/homelab-operations-pipeline](https://github.com/KnowHowDevOps/homelab-operations-pipeline) - This project aims to standardize CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
+- [DaromirTech/boot-security](https://github.com/DaromirTech/boot-security) - Security support library.
 
-- [KeepBoard/ui](https://github.com/KeepBoard/ui) - Admin Dashboard UI.
+- [IQKV/.github](https://github.com/IQKV/.github) - README repository.
 
-- [KeepBoard/.github](https://github.com/KeepBoard/.github) - GitHub Organization profile repository.
+- [DaromirTech/boot-cache](https://github.com/DaromirTech/boot-cache) - Handle properties file for caching options.
 
-- [IQKV/standard-maven-single-project-layout](https://github.com/IQKV/standard-maven-single-project-layout) - Standard Maven Single Module Project Layout
+- [dmitriidenisenko/dotfiles](https://github.com/dmitriidenisenko/dotfiles) - This contain my personal config files.
 
 - [KeepBoard/docs](https://github.com/KeepBoard/docs) - Project Documentation Website.
 
