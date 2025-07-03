@@ -185,3 +185,5 @@ cmake-build-*/
 
 # JIRA plugin
 atlassian-ide-plugin.xml
+
+CLAUDE.local.md
