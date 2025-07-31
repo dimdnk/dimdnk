@@ -93,6 +93,8 @@ I enjoy building open-source software. I specialize in creating RESTful, GraphQL
 ### 👷 Check out some of my public repos:
 
 
+- [IQKV/boot-parent-pom](https://github.com/IQKV/boot-parent-pom) - Default configurations for complete dependency tree to quickly build Spring Boot project.
+
 - [KeepBoard/operations-pipeline](https://github.com/KeepBoard/operations-pipeline) - This project aims to standardize CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
 
 - [KnowHowDevOps/homelab-operations-pipeline](https://github.com/KnowHowDevOps/homelab-operations-pipeline) - This project aims to standardize CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
@@ -100,6 +102,4 @@ I enjoy building open-source software. I specialize in creating RESTful, GraphQL
 - [KeepBoard/ui](https://github.com/KeepBoard/ui) - Admin Dashboard UI.
 
 - [KeepBoard/keepboard](https://github.com/KeepBoard/keepboard) - KeepBoard HCM was made to simplify the management of human resources in the company.
-
-- [IQKV/sample-lorem](https://github.com/IQKV/sample-lorem) - loripsum.net  text analyzer service.
 
