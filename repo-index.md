@@ -1,7 +1,7 @@
 # 🧑‍💻List of my public repositories with topics
 
-- [dmitriidenisenko](https://github.com/dmitriidenisenko/dmitriidenisenko): GitHub public profile.
-- [dotfiles](https://github.com/dmitriidenisenko/dotfiles): contain my personal config files.
+- [dimdnk](https://github.com/dimdnk/dimdnk): GitHub public profile.
+- [dotfiles](https://github.com/dimdnk/dotfiles): contain my personal config files.
 
 ## 🧰 GitHub Org Templates
 

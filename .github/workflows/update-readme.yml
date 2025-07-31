@@ -37,7 +37,7 @@ jobs:
           token: ${{ secrets.GH_PAT }}
 
           # Options
-          user: dmitriidenisenko
+          user: dimdnk
           template: classic
           base: header, activity, community, metadata
           config_timezone: UTC

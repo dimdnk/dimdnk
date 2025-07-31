@@ -4,7 +4,7 @@ I'm Dima, a software developer focusing on Java, Spring, JavaScript, React, Kube
 
 I enjoy building open-source software. I specialize in creating RESTful, GraphQL, gRPC APIs; distributed services, ETL, batch/stream data processing, and cloud-native architecture.
 
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmitriidenisenko)](https://www.linkedin.com/in/dmitriidenisenko)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dimdnk)](https://www.linkedin.com/in/dimdnk)
 
 
 ➡️ ☕ <a href="repo-index.md"  target="_blank">My Repositories</a><br>
@@ -14,7 +14,7 @@ I enjoy building open-source software. I specialize in creating RESTful, GraphQL
 ➡️ 🧪 <a href="https://knowhowto.dev/" target="_blank">Homelab Services</a><br>
 ➡️ 🌟 <a href="bookmarks-index.md"  target="_blank">My Bookmarks</a><br>
 ➡️ 🙇 <a href="awesome-index.md"  target="_blank">Awesome Index</a><br>
-➡️ 💎 <a href="CV.md"  target="_blank">My CV</a> ( <a href="https://github.com/dmitriidenisenko/dmitriidenisenko/raw/refs/heads/dev/Denisenko_Dmitry_CV.pdf"  target="_blank">pdf</a> / <a href="https://github.com/dmitriidenisenko/dmitriidenisenko/raw/refs/heads/dev/Denisenko_Dmitry_CV.docx"  target="_blank">docx</a>)<br>
+➡️ 💎 <a href="CV.md"  target="_blank">My CV</a> ( <a href="https://github.com/dimdnk/dimdnk/raw/refs/heads/dev/Denisenko_Dmitry_CV.pdf"  target="_blank">pdf</a> / <a href="https://github.com/dimdnk/dimdnk/raw/refs/heads/dev/Denisenko_Dmitry_CV.docx"  target="_blank">docx</a>)<br>
 
 ### 💼 Skills
 
@@ -88,7 +88,7 @@ I enjoy building open-source software. I specialize in creating RESTful, GraphQL
 
 ### 🔥 GitHub Stats
 
-<p align="left"><img src="https://raw.githubusercontent.com/dmitriidenisenko/dmitriidenisenko/dev/github-metrics.svg" /></p>
+<p align="left"><img src="https://raw.githubusercontent.com/dimdnk/dimdnk/dev/github-metrics.svg" /></p>
 
 ### 👷 Check out some of my public repos:
 
