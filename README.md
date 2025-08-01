@@ -101,5 +101,5 @@ I enjoy building open-source software. I specialize in creating RESTful, GraphQL
 
 - [IQKV/quickstart-mvc-rest-user-profile-crud](https://github.com/IQKV/quickstart-mvc-rest-user-profile-crud) - User Profile CRUD - Sample Restful App.
 
-- [IQKV/standard-blank-project-layout](https://github.com/IQKV/standard-blank-project-layout) - Blank Project Layout
+- [KeepBoard/hcm-docs](https://github.com/KeepBoard/hcm-docs) - Project Documentation Website.
 
