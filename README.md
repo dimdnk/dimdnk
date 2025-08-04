@@ -93,11 +93,11 @@ I enjoy building open-source software. I specialize in creating RESTful, GraphQL
 ### 👷 Check out some of my public repos:
 
 
-- [IQKV/boot-info](https://github.com/IQKV/boot-info) - Provide access to the system properties.
-
 - [IQKV/sample-lorem](https://github.com/IQKV/sample-lorem) - loripsum.net  text analyzer service.
 
 - [IQKV/sample-bookstore-mvc-rest-api](https://github.com/IQKV/sample-bookstore-mvc-rest-api) - Sample book store REST API service using Spring Boot (backend).
+
+- [IQKV/boot-info](https://github.com/IQKV/boot-info) - Provide access to the system properties.
 
 - [IQKV/quickstart-amqp-producing-hello](https://github.com/IQKV/quickstart-amqp-producing-hello) - Sample of AMQP producer app.
 
