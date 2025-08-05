@@ -93,6 +93,8 @@ I enjoy building open-source software. I specialize in creating RESTful, GraphQL
 ### 👷 Check out some of my public repos:
 
 
+- [KeepBoard/operations-pipeline](https://github.com/KeepBoard/operations-pipeline) - This project aims to standardize CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
+
 - [IQKV/sample-lorem](https://github.com/IQKV/sample-lorem) - loripsum.net  text analyzer service.
 
 - [IQKV/sample-bookstore-mvc-rest-api](https://github.com/IQKV/sample-bookstore-mvc-rest-api) - Sample book store REST API service using Spring Boot (backend).
@@ -100,6 +102,4 @@ I enjoy building open-source software. I specialize in creating RESTful, GraphQL
 - [IQKV/boot-info](https://github.com/IQKV/boot-info) - Provide access to the system properties.
 
 - [IQKV/quickstart-amqp-producing-hello](https://github.com/IQKV/quickstart-amqp-producing-hello) - Sample of AMQP producer app.
-
-- [KnowHowDevOps/homelab-operations-pipeline](https://github.com/KnowHowDevOps/homelab-operations-pipeline) - This project aims to standardize CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
 
