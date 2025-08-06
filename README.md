@@ -1,19 +1,11 @@
 ## 👋 Welcome
 
-Hi, I'm Dima — a backend-focused software developer passionate about scalable systems and clean architecture.
+I'm Dima, a software developer focusing on Java, Spring, JavaScript, React, Kubernetes, microservices, PostgreSQL, Kafka, RabbitMQ, etc.
+
+I enjoy building open-source software. I specialize in creating RESTful, GraphQL, gRPC APIs; distributed services, ETL, batch/stream data processing, and cloud-native architecture.
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dimdnk)](https://www.linkedin.com/in/dimdnk)
 
-#### 💻 I work with:
-
-> ➡️ 	Languages & Frameworks: Java, Spring, JavaScript, React<br>
-> ➡️ 	Infrastructure: Kubernetes, Docker, cloud services<br>
-> ➡️ 	Data & Messaging: PostgreSQL, MySQL, MongoDB, Redis, Kafka, RabbitMQ<br>
-> ➡️ 	APIs & Architecture: REST, GraphQL, gRPC, microservices, distributed systems<br>
-> ➡️ 	Data Processing: ETL, batch & stream pipelines<br>
-> ➡️	Observability: Prometheus, Grafana, and more<br>
-
-🚀 I love building resilient, cloud-native applications, exploring new tech, and contributing to open-source on GitHub.
 
 ➡️ ☕ <a href="repo-index.md"  target="_blank">My Repositories</a><br>
 ➡️ 📚 <a href="git-workflow-policy.md"  target="_blank">My Rules for Git</a><br>
