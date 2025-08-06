@@ -11,6 +11,12 @@
 - Business-oriented: I know how to balance between business needs and tech efforts to maximize the business value;
 - I am passionate about sharing some nice and suitable solutions for open source;
 
+🤖 AI & Workflow Innovation
+
+Exploring AI technologies to enhance Java development workflows. Currently working with agents,
+Model Context Protocols (MCP), and automation tools like n8n. Integrating copilots and platforms like Claude Code 
+to boost productivity and streamline backend processes.
+
 <hr>
 
 - Solid knowledge and hands-on experience in development for the _Java_ platform and related technologies;
