@@ -1,6 +1,6 @@
 ## 👋 Welcome
 
-Hi, I'm Dima — a backend-focused software developer passionate about scalable systems and clean architecture.
+I'm Dima — a backend-focused software developer passionate about scalable systems and clean architecture.
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dimdnk)](https://www.linkedin.com/in/dimdnk)
 
