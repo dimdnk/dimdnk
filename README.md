@@ -15,6 +15,9 @@ I'm Dima — a backend-focused software developer passionate about scalable syst
 
 🚀 I love building resilient, cloud-native applications, exploring new tech, and contributing to open-source on GitHub.
 
+🧩 You can use my carefully crafted [templates](https://github.com/orgs/IQKV/repositories?q=template%3Atrue+archived%3Afalse)
+    to get started with Spring Boot 3 or ReactJS 19 Projects with all the guides like code of conduct, contributing, support, security, and more.
+
 ➡️ ☕ <a href="repo-index.md"  target="_blank">My Repositories</a><br>
 ➡️ 📚 <a href="git-workflow-policy.md"  target="_blank">My Rules for Git</a><br>
 ➡️ 🏆 <a href="code-quality-guidelines.md"  target="_blank">I follow the Quality Guidelines</a><br>
