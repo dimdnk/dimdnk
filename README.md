@@ -104,11 +104,11 @@ I'm Dima — a backend-focused software developer passionate about scalable syst
 ### 👷 Check out some of my public repos:
 
 
+- [IQKV/.github](https://github.com/IQKV/.github) - README repository.
+
 - [IQKV/checkstyle-config](https://github.com/IQKV/checkstyle-config) - Checkstyle configuration.
 
 - [IQKV/quickstart-mvc-rest-hello-world](https://github.com/IQKV/quickstart-mvc-rest-hello-world) - Minimal Spring Boot based RESTful &#39;Hello World&#39; example, including Swagger.
-
-- [IQKV/sample-booking-demand-api-etl](https://github.com/IQKV/sample-booking-demand-api-etl) - Sample Spring Boot application that uses some features provided by Spring Cloud, deployed on Kubernetes.
 
 - [IQKV/sample-netflix-oss-usage](https://github.com/IQKV/sample-netflix-oss-usage) - Microservice architecture with Spring Boot, Eureka, Hystrix, Config Server, minikube and Docker.
 
