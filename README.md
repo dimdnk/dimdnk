@@ -11,13 +11,19 @@ I'm Dima - a backend-focused software developer passionate about scalable system
 > ➡️ 	Data & Messaging: **PostgreSQL, MySQL, MongoDB, Redis, Kafka, RabbitMQ**<br>
 > ➡️ 	APIs & Architecture: **REST, GraphQL, gRPC, microservices, distributed systems**<br>
 > ➡️ 	Data Processing: **ETL, batch & stream pipelines**<br>
-> ➡️ 	AI Tools: I'm using **Claude** with IDE, **n8n**, **MCP** servers for workflow innovation, etc<br>
-> ➡️	Observability: **Prometheus, Grafana, Loki, Tempo**, and more<br>
+> ➡️ 	AI Tools: I'm using **Claude** with IDE, **n8n**, **MCP** servers for workflow innovation<br>
+> ➡️	Observability: **Prometheus, Grafana, Loki, Tempo**<br>
 
-🚀 I love building resilient, cloud-native applications, exploring new tech, and contributing to open-source on GitHub.
+I enjoy building resilient, cloud-native applications, exploring new technologies, and contributing to open-source projects on GitHub.
 
-🧩 You can use my carefully crafted [GitHub templates](https://github.com/orgs/dimdnk/repositories?q=template%3Atrue+archived%3Afalse)
-    to get started with Spring Boot 3 or ReactJS 19 projects (including all the guides like code of conduct, contributing, support, security, git hooks, actions for code validity), and more.
+> 🚀 Supercharge your next project with my expertly crafted [GitHub templates](https://github.com/orgs/dimdnk/repositories?q=template%3Atrue+archived%3Afalse)! Whether you're diving into Spring Boot 3 or exploring the power of ReactJS 19, these templates give you a head start—with built-in best practices, full documentation, and everything you need to build with confidence.
+> 💡 Each template comes packed with essentials:
+> • 	✅ Code of Conduct & Contribution Guidelines
+> • 	🔒 Security & Support Docs
+> • 	🧩 Git Hooks & GitHub Actions for automated code checks
+> • 	📦 Clean architecture and scalable structure
+Start building smarter, faster, and cleaner.
+
 
 ➡️ ☕ <a href="repo-index.md"  target="_blank">My Repositories</a><br>
 ➡️ 📚 <a href="git-workflow-policy.md"  target="_blank">My Rules for Git</a><br>
