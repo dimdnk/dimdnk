@@ -11,7 +11,7 @@ I'm Dima — a backend-focused software developer passionate about scalable syst
 > ➡️ 	Data & Messaging: **PostgreSQL, MySQL, MongoDB, Redis, Kafka, RabbitMQ**<br>
 > ➡️ 	APIs & Architecture: **REST, GraphQL, gRPC, microservices, distributed systems**<br>
 > ➡️ 	Data Processing: **ETL, batch & stream pipelines**<br>
-> ➡️ 	AI Tools: I'm using **Claude** with IDE, **MCP** servers for workflow innovation, etc<br>
+> ➡️ 	AI Tools: I'm using **Claude** with IDE, **n8n**, **MCP** servers for workflow innovation, etc<br>
 > ➡️	Observability: **Prometheus, Grafana, Loki, Tempo**, and more<br>
 
 🚀 I love building resilient, cloud-native applications, exploring new tech, and contributing to open-source on GitHub.
