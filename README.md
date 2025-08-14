@@ -1,6 +1,6 @@
 ## 👋 Welcome
 
-I'm Dima — a backend-focused software developer passionate about scalable systems and clean architecture.
+I'm Dima - a backend-focused software developer passionate about scalable systems and clean architecture.
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dimdnk)](https://www.linkedin.com/in/dimdnk)
 
@@ -104,13 +104,13 @@ I'm Dima — a backend-focused software developer passionate about scalable syst
 ### 👷 Check out some of my public repos:
 
 
-- [KnowHowDevOps/homelab-operations-pipeline](https://github.com/KnowHowDevOps/homelab-operations-pipeline) - This project aims to standardize CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
+- [KnowHowDevOps/homelab-public-assets](https://github.com/KnowHowDevOps/homelab-public-assets) - Homelab Public Assets.
 
-- [IQKV/.github](https://github.com/IQKV/.github) - README repository.
+- [dimdnk/standard-maven-multi-project-layout](https://github.com/dimdnk/standard-maven-multi-project-layout) - Standard Maven Multi-Module Project Layout
 
-- [dimdnk/checkstyle-config](https://github.com/dimdnk/checkstyle-config) - Checkstyle configuration.
+- [dimdnk/standard-dotgithub-profile-layout](https://github.com/dimdnk/standard-dotgithub-profile-layout) - Default Community Health Files for Organization
 
-- [dimdnk/boot-parent-pom](https://github.com/dimdnk/boot-parent-pom) - Default configurations for complete dependency tree to quickly build Spring Boot project.
+- [dimdnk/standard-docs-vitepress-project-layout](https://github.com/dimdnk/standard-docs-vitepress-project-layout) - Getting-started guidance, feature details, and API reference documentation template.
 
-- [IQKV/sample-netflix-oss-usage](https://github.com/IQKV/sample-netflix-oss-usage) - Microservice architecture with Spring Boot, Eureka, Hystrix, Config Server, minikube and Docker.
+- [dimdnk/standard-ui-project-layout](https://github.com/dimdnk/standard-ui-project-layout) - Standard UI Project Layout
 
