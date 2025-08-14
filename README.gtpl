@@ -16,14 +16,14 @@ I'm Dima - a backend-focused software developer passionate about scalable system
 
 I enjoy building resilient, cloud-native applications, exploring new technologies, and contributing to open-source projects on GitHub.
 
-🚀 Supercharge your next project with my expertly crafted [GitHub templates](https://github.com/dimdnk/repositories?q=template%3Atrue+archived%3Afalse)! Whether you're diving into Spring Boot 3 or exploring the power of ReactJS 19, these templates give you a head start - with built-in best practices, full documentation, and everything you need to build with confidence.<br>
+Kickstart your next project with my ready-to-use [GitHub templates](https://github.com/dimdnk/repositories?q=template%3Atrue+archived%3Afalse) for Spring Boot 3 and ReactJS 19. They come packed with best practices, full docs, and everything you need to build fast and confidently
+
 Each template comes packed with essentials:<br>
 > ✅ Code of Conduct & Contribution Guidelines<br>
 > 🔒 Security & Support Docs<br>
-> 🧩 Git Hooks & GitHub Actions for automated code checks<br>
-> 📦 Clean architecture and scalable structure<br>
+> 🧩 Git Hooks & GitHub Actions for automated code checks
 
-Start building smarter, faster, and cleaner.
+### 🚀 Other good stuff
 
 ➡️ ☕ <a href="repo-index.md"  target="_blank">My Repositories</a><br>
 ➡️ 📚 <a href="git-workflow-policy.md"  target="_blank">My Rules for Git</a><br>
@@ -33,6 +33,7 @@ Start building smarter, faster, and cleaner.
 ➡️ 🌟 <a href="bookmarks-index.md"  target="_blank">My Bookmarks</a><br>
 ➡️ 🙇 <a href="awesome-index.md"  target="_blank">Awesome Index</a><br>
 ➡️ 💎 <a href="CV.md"  target="_blank">My CV</a> ( <a href="https://github.com/dimdnk/dimdnk/raw/refs/heads/dev/Denisenko_Dmitry_CV.pdf"  target="_blank">pdf</a> / <a href="https://github.com/dimdnk/dimdnk/raw/refs/heads/dev/Denisenko_Dmitry_CV.docx"  target="_blank">docx</a>)<br>
+
 ### 💼 Skills
 
 <p align="left">
