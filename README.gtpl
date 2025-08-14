@@ -16,7 +16,7 @@ I'm Dima - a backend-focused software developer passionate about scalable system
 
 I enjoy building resilient, cloud-native applications, exploring new technologies, and contributing to open-source projects on GitHub.
 
-🚀 Kickstart your next project with my ready-to-use [GitHub templates](https://github.com/dimdnk/repositories?q=template%3Atrue+archived%3Afalse) for Spring Boot 3 and ReactJS 19. They come packed with best practices, full docs, and everything you need to build fast and confidently.<br>
+🚀 **Kickstart** your next project with my ready-to-use **[GitHub templates](https://github.com/dimdnk?tab=repositories&q=&type=template)** for Spring Boot 3 and ReactJS 19. They come packed with best practices, full docs, and everything you need to build fast and confidently.<br>
 Each template comes packed with essentials:<br>
 > ✅ Code of Conduct & Contribution Guidelines<br>
 > 🔒 Security & Support Docs<br>
