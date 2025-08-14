@@ -16,7 +16,7 @@ I'm Dima — a backend-focused software developer passionate about scalable syst
 
 🚀 I love building resilient, cloud-native applications, exploring new tech, and contributing to open-source on GitHub.
 
-🧩 You can use my carefully crafted [GitHub templates](https://github.com/orgs/IQKV/repositories?q=template%3Atrue+archived%3Afalse)
+🧩 You can use my carefully crafted [GitHub templates](https://github.com/orgs/dimdnk/repositories?q=template%3Atrue+archived%3Afalse)
     to get started with Spring Boot 3 or ReactJS 19 projects (including all the guides like code of conduct, contributing, support, security, git hooks, actions for code validity), and more.
 
 ➡️ ☕ <a href="repo-index.md"  target="_blank">My Repositories</a><br>
@@ -110,7 +110,7 @@ I'm Dima — a backend-focused software developer passionate about scalable syst
 
 - [dimdnk/checkstyle-config](https://github.com/dimdnk/checkstyle-config) - Checkstyle configuration.
 
-- [IQKV/boot-parent-pom](https://github.com/IQKV/boot-parent-pom) - Default configurations for complete dependency tree to quickly build Spring Boot project.
+- [dimdnk/boot-parent-pom](https://github.com/dimdnk/boot-parent-pom) - Default configurations for complete dependency tree to quickly build Spring Boot project.
 
 - [IQKV/sample-netflix-oss-usage](https://github.com/IQKV/sample-netflix-oss-usage) - Microservice architecture with Spring Boot, Eureka, Hystrix, Config Server, minikube and Docker.
 
