@@ -18,10 +18,11 @@ I enjoy building resilient, cloud-native applications, exploring new technologie
 
 > 🚀 Supercharge your next project with my expertly crafted [GitHub templates](https://github.com/orgs/dimdnk/repositories?q=template%3Atrue+archived%3Afalse)! Whether you're diving into Spring Boot 3 or exploring the power of ReactJS 19, these templates give you a head start—with built-in best practices, full documentation, and everything you need to build with confidence.<br>
 > 💡 Each template comes packed with essentials:<br>
-> • 	✅ Code of Conduct & Contribution Guidelines<br>
-> • 	🔒 Security & Support Docs<br>
-> • 	🧩 Git Hooks & GitHub Actions for automated code checks<br>
-> • 	📦 Clean architecture and scalable structure<br>
+> > ✅ Code of Conduct & Contribution Guidelines<br>
+> > 🔒 Security & Support Docs<br>
+> > 🧩 Git Hooks & GitHub Actions for automated code checks<br>
+> > 📦 Clean architecture and scalable structure<br>
+
 Start building smarter, faster, and cleaner.
 
 ➡️ ☕ <a href="repo-index.md"  target="_blank">My Repositories</a><br>
