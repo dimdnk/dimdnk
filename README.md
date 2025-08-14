@@ -108,7 +108,7 @@ I'm Dima — a backend-focused software developer passionate about scalable syst
 
 - [IQKV/.github](https://github.com/IQKV/.github) - README repository.
 
-- [IQKV/checkstyle-config](https://github.com/IQKV/checkstyle-config) - Checkstyle configuration.
+- [dimdnk/checkstyle-config](https://github.com/dimdnk/checkstyle-config) - Checkstyle configuration.
 
 - [IQKV/boot-parent-pom](https://github.com/IQKV/boot-parent-pom) - Default configurations for complete dependency tree to quickly build Spring Boot project.
 
