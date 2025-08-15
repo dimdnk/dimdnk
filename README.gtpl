@@ -3,8 +3,9 @@
 I'm Dima - a backend-focused software developer passionate about scalable systems and clean architecture.
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dimdnk)](https://www.linkedin.com/in/dimdnk)
-💎 <a href="CV.md"  target="_blank">My CV</a> ( <a href="https://github.com/dimdnk/dimdnk/raw/refs/heads/dev/Denisenko_Dmitry_CV.pdf"  target="_blank">pdf</a> / <a href="https://github.com/dimdnk/dimdnk/raw/refs/heads/dev/Denisenko_Dmitry_CV.docx"  target="_blank">docx</a>)<br>
-💒 <a href="https://dimdnk.com/" target="_blank">Homepage</a><br>
+💎 <a href="CV.md"  target="_blank">My CV</a> ( <a href="https://github.com/dimdnk/dimdnk/raw/refs/heads/dev/Denisenko_Dmitry_CV.pdf"  target="_blank">pdf</a> / <a href="https://github.com/dimdnk/dimdnk/raw/refs/heads/dev/Denisenko_Dmitry_CV.docx"  target="_blank">docx</a>)
+💒 <a href="https://dimdnk.com/" target="_blank">Homepage</a>
+☕ <a href="repo-index.md"  target="_blank">My Repositories</a>
 
 #### 💻 I work with:
 
@@ -30,8 +31,6 @@ They come packed with best practices, full docs, and everything you need to buil
 ➡️ ☕ <a href="repo-index.md"  target="_blank">My Repositories</a><br>
 ➡️ 📚 <a href="git-workflow-policy.md"  target="_blank">My Rules for Git</a><br>
 ➡️ 🏆 <a href="code-quality-guidelines.md"  target="_blank">I follow the Quality Guidelines</a><br>
-
-
 ➡️ 🌟 <a href="bookmarks-index.md"  target="_blank">My Bookmarks</a><br>
 ➡️ 🙇 <a href="awesome-index.md"  target="_blank">Awesome Index</a><br>
 
