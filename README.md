@@ -12,7 +12,7 @@ I'm Dima - a backend-focused software developer passionate about scalable system
 > ➡️ 	APIs & Architecture: **REST, GraphQL, gRPC, microservices, distributed systems**<br>
 > ➡️ 	Data Processing: **ETL, batch & stream pipelines**<br>
 > ➡️ 	AI Tools: I'm using **Claude** with IDE, **n8n**, **MCP** servers for workflow innovation<br>
-> ➡️	Observability: **Prometheus, Grafana, Loki, Tempo**<br>
+> ➡️	Observability: **Prometheus, Grafana, Loki, Tempo, ELK Stack**<br>
 
 I enjoy building resilient, cloud-native applications, exploring new technologies, and contributing to open-source projects on GitHub.
 
