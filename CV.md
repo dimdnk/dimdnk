@@ -4,18 +4,18 @@
 
 ### ✴️ About Me:
 
-- 15+ years of professional experience in the IT industry - proficient developer on popular web and backend platforms (_Spring Boot, Symfony, Magento, React_, etc);
-- Domain expertise in e-commerce, finance, retail, and travel industries;
-- Consulted global retail, investment companies as an IT industry expert in digital transformation and cloud computing;
-- Experienced in _building_ software development, _QA/QA Automation_, _DevOps_ processes from scratch, and optimizing existing ones;
-- Business-oriented: I know how to balance between business needs and tech efforts to maximize the business value;
-- I am passionate about sharing some nice and suitable solutions for open source;
+💼 Professional Summary
+
+- Senior Software Engineer skilled in **Java** 17+, **Spring** Framework ecosystem, **Camel4**, **PHP**, **Symfony**, **ReactJS**, **Adobe Commerce**, **Docker/Kubernetes**, **Linux** Servers, and **Cloud** Services.
+- Domain expertise: **e-commerce, finance, retail, travel**.
+- IT consultant for global firms on **digital transformation** and **cloud** adoption.
+- Skilled in building and optimizing **SDLC, QA/Automation, and DevOps** processes.
+- Business-focused: adept at aligning tech solutions with strategic goals.
+- Active **open-source contributor** on **GitHub**.
 
 🤖 AI & Workflow Innovation
 
-Exploring AI technologies to enhance Java development workflows. Currently working with agents,
-Model Context Protocols (MCP), and automation tools like n8n. Integrating copilots and platforms like Claude Code 
-to boost productivity and streamline backend processes.
+I am focused on exploring AI technologies to enhance Java development workflows. Currently, working with agents, **Model Context Protocols** (MCP), and automation tools like **n8n**. Integrating copilots and platforms like **Claude Code** to boost productivity and streamline backend processes.
 
 <hr>
 
