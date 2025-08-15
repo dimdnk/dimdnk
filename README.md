@@ -118,5 +118,5 @@ Each template comes packed with essentials:<br>
 
 - [dimdnk/standard-docs-vitepress-project-layout](https://github.com/dimdnk/standard-docs-vitepress-project-layout) - Getting-started guidance, feature details, and API reference documentation template.
 
-- [dimdnk/standard-ui-project-layout](https://github.com/dimdnk/standard-ui-project-layout) - Standard UI Project Layout
+- [dimdnk/standard-ui-project-layout](https://github.com/dimdnk/standard-ui-project-layout) - Vite &#43; ReactJS 19 &#43; Tanstack Router &#43; Tanstack Query
 
