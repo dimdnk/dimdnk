@@ -32,7 +32,7 @@
 
 ## 🤿 DevOps
 
-- [homelab-operations-pipeline](https://github.com/manage-organization/homelab-operations-pipeline): maintaining CICD with quality gates.
-- [charts](https://github.com/manage-organization/charts): Helm Charts for homelab projects.
-- [homelab-cluster-automation](https://github.com/manage-organization/homelab-cluster-automation): custom Terrafrom, Ansible, Kubernetes manifests.
-- [homelab-public-assets](https://github.com/manage-organization/homelab-public-assets): homelab public assets - js, styles, images, etc.
+- [homelab-operations-pipeline](https://github.com/KnowHowDevOps/homelab-operations-pipeline): maintaining CICD with quality gates.
+- [charts](https://github.com/KnowHowDevOps/charts): Helm Charts for homelab projects.
+- [homelab-cluster-automation](https://github.com/KnowHowDevOps/homelab-cluster-automation): custom Terrafrom, Ansible, Kubernetes manifests.
+- [homelab-public-assets](https://github.com/KnowHowDevOps/homelab-public-assets): homelab public assets - js, styles, images, etc.
