@@ -111,13 +111,13 @@ They come packed with best practices, full docs, and everything you need to buil
 ### 👷 Check out some of my public repos:
 
 
+- [KnowHowDevOps/homelab-operations-pipeline](https://github.com/KnowHowDevOps/homelab-operations-pipeline) - This project aims to standardize CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
+
+- [dimdnk/standard-ui-project-layout](https://github.com/dimdnk/standard-ui-project-layout) - Vite &#43; ReactJS 19 &#43; Tanstack Router &#43; Tanstack Query
+
 - [KnowHowDevOps/.github](https://github.com/KnowHowDevOps/.github) - README repository.
 
 - [dimdnk/standard-mantine-ui-project-layout](https://github.com/dimdnk/standard-mantine-ui-project-layout) - Vite &#43; ReactJS 19 &#43; Tanstack Router &#43; Tanstack Query &#43; Mantine UI.
 
-- [dimdnk/standard-ui-project-layout](https://github.com/dimdnk/standard-ui-project-layout) - Vite &#43; ReactJS 19 &#43; Tanstack Router &#43; Tanstack Query
-
-- [dimdnk/standard-maven-single-project-layout](https://github.com/dimdnk/standard-maven-single-project-layout) - Standard Maven Single Module Project Layout
-
-- [dimdnk/standard-maven-multi-project-layout](https://github.com/dimdnk/standard-maven-multi-project-layout) - Standard Maven Multi-Module Project Layout
+- [dimdnk/standard-blank-project-layout](https://github.com/dimdnk/standard-blank-project-layout) - Blank Project Layout
 
