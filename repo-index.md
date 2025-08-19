@@ -10,7 +10,7 @@
 - [standard-docs-vitepress-project-layout](https://github.com/dimdnk/standard-docs-vitepress-project-layout): Getting-started guidance, feature details, and API reference documentation template
 - [standard-maven-single-project-layout](https://github.com/dimdnk/standard-maven-single-project-layout): Standard Maven Project Layout
 - [standard-maven-multi-project-layout](https://github.com/dimdnk/standard-maven-multi-project-layout): Maven Multi-Module Project Layout
-- [standard-ui-project-layout](https://github.com/dimdnk/standard-ui-project-layout): React 19 Blank Project Layout
+- [standard-blank-ui-project-layout](https://github.com/dimdnk/standard-blank-ui-project-layout): React 19 Blank Project Layout
 - [standard-mantine-ui-project-layout](https://github.com/dimdnk/standard-mantine-ui-project-layout): React Mantine UI Project Layout
 
 ## 🧰 Quickstart App Templates
