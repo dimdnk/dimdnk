@@ -19,11 +19,13 @@ I'm Dima - a Java backend-focused software developer passionate about scalable s
 
 I enjoy building resilient, cloud-native applications, exploring new technologies, and contributing to open-source projects on GitHub.
 
-🚀 **Kickstart** your next project with my ready-to-use 🏗 **[GitHub templates](https://github.com/dimdnk?tab=repositories&q=&type=template)** for **Spring Boot 3** (JDK 21, Maven) and **ReactJS 19** (Vite, Tanstack).
+🚀 1. **Kickstart** your next project with my ready-to-use 🏗 **[GitHub templates](https://github.com/dimdnk?tab=repositories&q=&type=template)** for **Spring Boot 3** (JDK 21, Maven) and **ReactJS 19** (Vite, Tanstack).
 They come packed with best practices, full docs, and everything you need to build fast and confidently:<br>
 > ✅ Code of Conduct & Contribution Guidelines<br>
 > 🔒 Security & Support Docs<br>
 > 🧩 Git Hooks & GitHub Actions for automated code checks
+
+🌟 2. **[IQKV Foundation](https://github.com/IQKV)** project is a curated, organized, and searchable catalog of Spring Boot app samples.
 
 #### 🧑‍🔧 Other good stuff:
 
