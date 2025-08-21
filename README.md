@@ -1,6 +1,6 @@
 ## 👋 Welcome
 
-I'm Dima - a Java backend-focused software developer passionate about scalable systems across Kubernetes, design, quality, and clean architecture.
+I'm Dima - a Java backend-focused software developer passionate about scalable systems across Kubernetes, system design, quality, and clean architecture.
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dimdnk)](https://www.linkedin.com/in/dimdnk) &nbsp;
 💎 <a href="CV.md"  target="_blank">My CV</a> ( <a href="https://github.com/dimdnk/dimdnk/raw/refs/heads/dev/Denisenko_Dmitry_CV.pdf"  target="_blank">pdf</a> / <a href="https://github.com/dimdnk/dimdnk/raw/refs/heads/dev/Denisenko_Dmitry_CV.docx"  target="_blank">docx</a>)
@@ -113,13 +113,13 @@ They come packed with best practices, full docs, and everything you need to buil
 ### 👷 Check out some of my public repos:
 
 
+- [IQKV/quickstart-kafka-consuming-hello](https://github.com/IQKV/quickstart-kafka-consuming-hello) - Minimal Spring Boot based sample of Kafka consumer app.
+
+- [IQKV/sample-lorem](https://github.com/IQKV/sample-lorem) - loripsum.net  text analyzer service.
+
 - [KnowHowDevOps/homelab-operations-pipeline](https://github.com/KnowHowDevOps/homelab-operations-pipeline) - This project aims to standardize CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
 
+- [IQKV/quickstart-kafka-producing-hello](https://github.com/IQKV/quickstart-kafka-producing-hello) - Minimal Spring Boot based sample of Kafka producer app.
+
 - [dimdnk/standard-blank-project-layout](https://github.com/dimdnk/standard-blank-project-layout) - Blank Project Layout
-
-- [dimdnk/standard-docs-vitepress-project-layout](https://github.com/dimdnk/standard-docs-vitepress-project-layout) - Getting-started guidance, feature details, and API reference documentation template.
-
-- [dimdnk/standard-blank-ui-project-layout](https://github.com/dimdnk/standard-blank-ui-project-layout) - Vite &#43; ReactJS 19 &#43; Tanstack Router &#43; Tanstack Query
-
-- [dimdnk/checkstyle-config](https://github.com/dimdnk/checkstyle-config) - Checkstyle configuration.
 
