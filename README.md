@@ -113,13 +113,13 @@ They come packed with best practices, full docs, and everything you need to buil
 ### 👷 Check out some of my public repos:
 
 
-- [dimdnk/standard-blank-ui-project-layout](https://github.com/dimdnk/standard-blank-ui-project-layout) - Vite &#43; ReactJS 19 &#43; Tanstack Router &#43; Tanstack Query
+- [dimdnk/boot-info](https://github.com/dimdnk/boot-info) - Provide access to the system properties.
 
-- [dimdnk/standard-mantine-ui-project-layout](https://github.com/dimdnk/standard-mantine-ui-project-layout) - Vite &#43; ReactJS 19 &#43; Tanstack Router &#43; Tanstack Query &#43; Mantine UI.
+- [dimdnk/standard-blank-project-layout](https://github.com/dimdnk/standard-blank-project-layout) - Blank Project Layout
 
-- [IQKV/sample-booking-demand-api-etl](https://github.com/IQKV/sample-booking-demand-api-etl) - Sample Spring Boot application that uses some features provided by Spring Cloud, deployed on Kubernetes.
+- [dimdnk/standard-maven-multi-project-layout](https://github.com/dimdnk/standard-maven-multi-project-layout) - Standard Maven Multi-Module Project Layout
 
-- [IQKV/sample-netflix-oss-usage](https://github.com/IQKV/sample-netflix-oss-usage) - Microservice architecture with Spring Boot, Eureka, Hystrix, Config Server, minikube and Docker.
+- [dimdnk/standard-dotgithub-profile-layout](https://github.com/dimdnk/standard-dotgithub-profile-layout) - Default Community Health Files for Organization
 
-- [IQKV/sample-bookstore-mvc-rest-api](https://github.com/IQKV/sample-bookstore-mvc-rest-api) - Sample book store REST API service using Spring Boot (backend).
+- [dimdnk/standard-docs-vitepress-project-layout](https://github.com/dimdnk/standard-docs-vitepress-project-layout) - Getting-started guidance, feature details, and API reference documentation template.
 
