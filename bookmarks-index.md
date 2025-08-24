@@ -16,7 +16,7 @@
 - [Human Capital Management Market Size, Trends, Share in 2025 (2022-2025)](https://ensaantech.com/blog/human-capital-management-market-size-trends-share/)
 - [MintHCM](https://github.com/minthcm/minthcm)
 - [Synergix ERP](https://www.synergixtech.com/erp-solutions/solutions-by-module/human-resource-management/)
-- [Chatwoot customer support platform](https://github.com/chatwoot/chatwoot) 
+- [Chatwoot customer support platform](https://github.com/chatwoot/chatwoot)
 - [Meetily](https://github.com/Zackriya-Solutions/meeting-minutes)
 - [Budibase low-code platform](https://github.com/Budibase/budibase)
 - [Josee9988's GitHub Project Template](https://github.com/Josee9988/project-template)
@@ -3133,20 +3133,19 @@
 - [GitHub - enochtangg/quick-SQL-cheatsheet: A quick reminder of all SQL queries and examples on how to use them.](https://github.com/enochtangg/quick-SQL-cheatsheet)
 - [AOE](https://github.com/AOEpeople)
 
-
 ### HCM
 
-Modern HCM systems are focusing on improving the employee experience. From onboarding to career development, the aim is to boost retention and satisfaction by creating a more engaging workplace. 
+Modern HCM systems are focusing on improving the employee experience. From onboarding to career development, the aim is to boost retention and satisfaction by creating a more engaging workplace.
 
-Top 10 HCM Tools 
+Top 10 HCM Tools
 
-- PeoplesHR 
-- Adrenalin 
-- Cornerstone 
-- UKG 
+- PeoplesHR
+- Adrenalin
+- Cornerstone
+- UKG
 - Zoho People
-- Workday 
-- BambooHR 
-- Oracle HCM Cloud 
-- SAP Success Factor 
-- ADP Workforce Now 
+- Workday
+- BambooHR
+- Oracle HCM Cloud
+- SAP Success Factor
+- ADP Workforce Now
