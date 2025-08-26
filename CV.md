@@ -40,7 +40,7 @@ I am focused on exploring AI technologies to enhance Java development workflows.
 
 ### 🔖 Experience
 
-**Java Developer, DataArt Solutions, Inc.** (2021 – Present)
+**Java Developer, DataArt Solutions, Inc.** (2021 – 2025)
 
 - I was working on implementing an ETL engine using Spring Boot 3, Apache Camel, Mapstruct, Kafka Streams, and Hibernate (+ Postgres).
 - Build an enterprise product information management (PIM) software that provides a single place to collect, manage, and enrich product information, create a product catalog, and distribute it to sales and eCommerce channels.
