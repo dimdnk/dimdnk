@@ -9,18 +9,19 @@ I'm Dima - a Java backend-focused software developer passionate about scalable s
 
 #### 💻 I work with:
 
-> ➡️ 	Languages & Frameworks: **Java, Spring, JavaScript, React**<br>
-> ➡️ 	Infrastructure: **Kubernetes, Docker, cloud services**<br>
-> ➡️ 	Data & Messaging: **PostgreSQL, MySQL, MongoDB, Redis, Kafka, RabbitMQ**<br>
-> ➡️ 	APIs & Architecture: **REST, GraphQL, gRPC, microservices, distributed systems**<br>
-> ➡️ 	Data Processing: **ETL, batch & stream pipelines**<br>
-> ➡️ 	AI Tools: I'm experimenting with **Cursor AI**, **Claude** with IDE, **n8n**, **MCP** servers for workflow innovation<br>
-> ➡️	Observability: **Prometheus, Grafana, Loki, Tempo, ELK Stack**<br>
+> ➡️ Languages & Frameworks: **Java, Spring, JavaScript, React**<br>
+> ➡️ Infrastructure: **Kubernetes, Docker, cloud services**<br>
+> ➡️ Data & Messaging: **PostgreSQL, MySQL, MongoDB, Redis, Kafka, RabbitMQ**<br>
+> ➡️ APIs & Architecture: **REST, GraphQL, gRPC, microservices, distributed systems**<br>
+> ➡️ Data Processing: **ETL, batch & stream pipelines**<br>
+> ➡️ AI Tools: I'm experimenting with **Cursor AI**, **Claude** with IDE, **n8n**, **MCP** servers for workflow innovation<br>
+> ➡️ Observability: **Prometheus, Grafana, Loki, Tempo, ELK Stack**<br>
 
 I enjoy building resilient, cloud-native applications, exploring new technologies, and contributing to open-source projects on GitHub.
 
 🚀 1. **Kickstart** your next project with my ready-to-use 🏗 **[GitHub templates](https://github.com/dimdnk?tab=repositories&q=&type=template)** for **Spring Boot 3** (JDK 21, Maven) and **ReactJS 19** (Vite, Tanstack).
 They come packed with best practices, full docs, and everything you need to build fast and confidently:<br>
+
 > ✅ Code of Conduct & Contribution Guidelines<br>
 > 🔒 Security & Support Docs<br>
 > 🧩 Git Hooks & GitHub Actions for automated code checks
@@ -112,14 +113,12 @@ They come packed with best practices, full docs, and everything you need to buil
 
 ### 👷 Check out some of my public repos:
 
-
 - [KnowHowDevOps/homelab-operations-pipeline](https://github.com/KnowHowDevOps/homelab-operations-pipeline) - This project aims to standardize CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
 
-- [IQKV/sample-lorem](https://github.com/IQKV/sample-lorem) - loripsum.net  text analyzer service.
+- [IQKV/sample-lorem](https://github.com/IQKV/sample-lorem) - loripsum.net text analyzer service.
 
 - [IQKV/sample-booking-demand-api-etl](https://github.com/IQKV/sample-booking-demand-api-etl) - Sample Spring Boot application that uses some features provided by Spring Cloud, deployed on Kubernetes.
 
 - [IQKV/sample-bookstore-mvc-rest-api](https://github.com/IQKV/sample-bookstore-mvc-rest-api) - Sample book store REST API service using Spring Boot (backend).
 
 - [IQKV/sample-netflix-oss-usage](https://github.com/IQKV/sample-netflix-oss-usage) - Microservice architecture with Spring Boot, Eureka, Hystrix, Config Server, minikube and Docker.
-
