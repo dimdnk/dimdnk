@@ -117,7 +117,7 @@ They come packed with best practices, full docs, and everything you need to buil
 
 - [dimdnk/standard-blank-ui-project-layout](https://github.com/dimdnk/standard-blank-ui-project-layout) - Vite &#43; ReactJS 19 &#43; Tanstack Router &#43; Tanstack Query
 
-- [dimdnk/boot-kafka](https://github.com/dimdnk/boot-kafka) - Common library for Kafka support.
+- [dimdnk/boot-security](https://github.com/dimdnk/boot-security) - Security support library.
 
 - [IQKV/sample-bookstore-mvc-rest-api](https://github.com/IQKV/sample-bookstore-mvc-rest-api) - Sample book store REST API service using Spring Boot (backend).
 
