@@ -2,10 +2,10 @@
   "$schema": "<https://unpkg.com/release-it@19/schema/release-it.json>",
   "git": {
     "commit": true,
-    "tag": true,
-    "push": true,
-    "commitMessage": "feat: bump ${version}",
-    "tagName": "v${version}",
+    "tag": false,
+    "push": false,
+    "commitMessage": "chore: bump ${version}",
+    "tagName": "${version}",
     "requireCleanWorkingDir": false,
     "requireBranch": "dev"
   },
