@@ -4,7 +4,7 @@
     "commit": true,
     "tag": false,
     "push": false,
-    "commitMessage": "chore: bump ${version}",
+    "commitMessage": "chore: bump v${version}",
     "tagName": "${version}",
     "requireCleanWorkingDir": false,
     "requireBranch": "dev"
