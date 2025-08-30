@@ -7,7 +7,7 @@
     "commitMessage": "chore: bump v${version}",
     "tagName": "${version}",
     "requireCleanWorkingDir": false,
-    "requireBranch": ["main", "develop", "dev", "prerelease/ci", "release"],
+    "requireBranch": ["main", "develop", "dev", "release"],
     "requireUpstream": false,
     "requireCommits": false
   },
