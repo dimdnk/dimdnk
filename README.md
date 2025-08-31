@@ -113,13 +113,13 @@ They come packed with best practices, full docs, and everything you need to buil
 ### 👷 Check out some of my public repos:
 
 
-- [dimdnk/standard-blank-ui-project-layout](https://github.com/dimdnk/standard-blank-ui-project-layout) - Vite &#43; ReactJS 19 &#43; Tanstack Router &#43; Tanstack Query
+- [KnowHowDevOps/homelab-operations-pipeline](https://github.com/KnowHowDevOps/homelab-operations-pipeline) - This project aims to standardize CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
 
-- [dimdnk/standard-blank-project-layout](https://github.com/dimdnk/standard-blank-project-layout) - Blank Project Layout
+- [IQKV/sample-lorem](https://github.com/IQKV/sample-lorem) - loripsum.net  text analyzer service.
 
 - [IQKV/sample-booking-demand-api-etl](https://github.com/IQKV/sample-booking-demand-api-etl) - Sample Spring Boot application that uses some features provided by Spring Cloud, deployed on Kubernetes.
 
-- [dimdnk/standard-maven-multi-project-layout](https://github.com/dimdnk/standard-maven-multi-project-layout) - Standard Maven Multi-Module Project Layout
+- [IQKV/sample-bookstore-mvc-rest-api](https://github.com/IQKV/sample-bookstore-mvc-rest-api) - Sample book store REST API service using Spring Boot (backend).
 
-- [IQKV/quickstart-mvc-rest-user-profile-crud](https://github.com/IQKV/quickstart-mvc-rest-user-profile-crud) - User Profile CRUD - Sample Restful App.
+- [IQKV/sample-netflix-oss-usage](https://github.com/IQKV/sample-netflix-oss-usage) - Microservice architecture with Spring Boot, Eureka, Hystrix, Config Server, minikube and Docker.
 
