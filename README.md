@@ -113,13 +113,13 @@ They come packed with best practices, full docs, and everything you need to buil
 ### 👷 Check out some of my public repos:
 
 
-- [dimdnk/boot-mvc-rest](https://github.com/dimdnk/boot-mvc-rest) - RESTful API support library.
+- [dimdnk/boot-starter](https://github.com/dimdnk/boot-starter) - Spring Boot Starters.
 
 - [dimdnk/standard-blank-project-layout](https://github.com/dimdnk/standard-blank-project-layout) - Blank Project Layout
 
+- [dimdnk/standard-maven-multi-project-layout](https://github.com/dimdnk/standard-maven-multi-project-layout) - Standard Maven Multi-Module Project Layout
+
+- [dimdnk/standard-dotgithub-profile-layout](https://github.com/dimdnk/standard-dotgithub-profile-layout) - Default Community Health Files for Organization
+
 - [dimdnk/standard-docs-vitepress-project-layout](https://github.com/dimdnk/standard-docs-vitepress-project-layout) - Getting-started guidance, feature details, and API reference documentation template.
-
-- [dimdnk/boot-http](https://github.com/dimdnk/boot-http) - Useful helpers for http-related functionality.
-
-- [dimdnk/boot-reactive-rest](https://github.com/dimdnk/boot-reactive-rest) - Reactive REST API support library.
 
