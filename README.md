@@ -113,7 +113,7 @@ They come packed with best practices, full docs, and everything you need to buil
 ### 👷 Check out some of my public repos:
 
 
-- [dimdnk/boot-starter](https://github.com/dimdnk/boot-starter) - Spring Boot Starters.
+- [dimdnk/checkstyle-config](https://github.com/dimdnk/checkstyle-config) - Checkstyle configuration.
 
 - [dimdnk/standard-blank-project-layout](https://github.com/dimdnk/standard-blank-project-layout) - Blank Project Layout
 
