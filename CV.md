@@ -1,6 +1,6 @@
 ## ☕ Dima Denisenko (Java Developer)
 
-➡️ I specialize in REST API Integration/Development, ETL, eCommerce, Retail domain, and service-oriented architectures.
+➡️ Results-driven Software Engineer with 5+ years of experience architecting, developing, and optimizing Java-based SaaS web applications, ETL pipelines, batch/stream processing, and API-driven integrations.
 
 ### ✴️ About Me:
 
