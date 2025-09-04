@@ -17,7 +17,7 @@ I'm Dima - a Java backend developer passionate about scalable systems, Kubernete
 > ➡️ 	AI Tools: I'm experimenting with **Cursor AI**, **Claude** with IDE, **n8n**, **MCP** servers for workflow innovation<br>
 > ➡️	Observability: **Prometheus, Grafana, Loki, Tempo, ELK Stack**<br>
 
-I enjoy building resilient, cloud-native applications, exploring new technologies, and contributing to open-source projects on GitHub.
+I enjoy building resilient, cloud-native applications, exploring new technologies, and contributing to open-source projects on GitHub. There are pragmatic, reusable building blocks:
 
 🚀 1. **Kickstart** your next project with my ready-to-use 🏗 **[GitHub templates](https://github.com/dimdnk?tab=repositories&q=&type=template)** for **Spring Boot 3** (JDK 21, Maven) and **ReactJS 19** (Vite, Tanstack).
 They come packed with best practices, full docs, and everything you need to build fast and confidently:<br>
@@ -27,8 +27,6 @@ They come packed with best practices, full docs, and everything you need to buil
 
 🌟 2. **[App Samples](https://github.com/dimdnk?tab=repositories&q=sample)** - scaffolds for REST, data, messaging, and cloud-native services.<br>
 🐣 3. **[Quickstart Packs](https://github.com/dimdnk?tab=repositories&q=quickstart)** - preconfigured integrations for microservices (security, observability, persistence, messaging).<br>
-
-I aim to deliver pragmatic, reusable building blocks for backend services that promote a clear structure, high testability, and long-term maintainability.
 
 #### 🧑‍🔧 Other good stuff:
 
