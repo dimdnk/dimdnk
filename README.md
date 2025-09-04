@@ -26,7 +26,7 @@ They come packed with best practices, full docs, and everything you need to buil
 > 🧩 Git Hooks & GitHub Actions for automated code checks
 
 🌟 2. **[App Samples](https://github.com/dimdnk?tab=repositories&q=sample)** - scaffolds for REST, data, messaging, and cloud-native services.<br>
-🐣 3. **[Quickstarts](https://github.com/dimdnk?tab=repositories&q=quickstart)** - preconfigured integrations for microservices (security, observability, persistence).<br>
+🐣 3. **[Quickstart Packs](https://github.com/dimdnk?tab=repositories&q=quickstart)** - preconfigured integrations for microservices (security, observability, persistence).<br>
 
 I aim to deliver pragmatic, reusable building blocks for backend services that promote a clear structure, high testability, and long-term maintainability.
 
