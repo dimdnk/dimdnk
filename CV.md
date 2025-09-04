@@ -6,7 +6,7 @@
 
 💼 Professional Summary
 
-- Senior Software Engineer skilled in **Java** 17+, **Spring** Framework ecosystem, **Camel4**, **PHP**, **Symfony**, **ReactJS**, **Adobe Commerce**, **Docker/Kubernetes**, **Linux** Servers, and **Cloud** Services.
+- Senior Software Engineer skilled in **Java** 17+, **Spring** Framework ecosystem (Boot, Security, Data, Cloud, Batch, Mvc, WebFlux, etc), **Camel4**, **PHP**, **Symfony**, **ReactJS**, **Adobe Commerce**, **Docker/Kubernetes**, **Linux** Servers, and **Cloud** Services.
 - Domain expertise: **e-commerce, finance, retail, travel**.
 - IT consultant for global firms on **digital transformation** and **cloud** adoption.
 - Skilled in building and optimizing **SDLC, QA/Automation, and DevOps** processes.
