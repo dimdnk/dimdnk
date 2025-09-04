@@ -25,7 +25,10 @@ They come packed with best practices, full docs, and everything you need to buil
 > 🔒 Security & Support Docs<br>
 > 🧩 Git Hooks & GitHub Actions for automated code checks
 
-🌟 2. **[IQKV Foundation](https://github.com/IQKV)** project is a curated, organized, and searchable catalog of Spring Boot app samples.
+🌟 2. **[Spring Boot app samples](https://github.com/dimdnk?tab=repositories&q=sample)** - scaffolds for REST, data, messaging, and cloud-native services
+🐣 3. **[Quickstart](https://github.com/dimdnk?tab=repositories&q=quickstart)** - preconfigured integrations for microservices
+
+I aim to deliver pragmatic, reusable building blocks for backend services that promote a clear structure, high testability, and long-term maintainability.
 
 #### 🧑‍🔧 Other good stuff:
 
