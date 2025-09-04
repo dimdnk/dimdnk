@@ -25,7 +25,10 @@ They come packed with best practices, full docs, and everything you need to buil
 > 🔒 Security & Support Docs<br>
 > 🧩 Git Hooks & GitHub Actions for automated code checks
 
-🌟 2. **[IQKV Foundation](https://github.com/IQKV)** project is a curated, organized, and searchable catalog of Spring Boot app samples.
+🌟 2. **[Spring Boot app samples](https://github.com/dimdnk?tab=repositories&q=sample)** - scaffolds for REST, data, messaging, and cloud-native services
+🐣 3. **[Quickstart](https://github.com/dimdnk?tab=repositories&q=quickstart)** - preconfigured integrations for microservices
+
+I aim to deliver pragmatic, reusable building blocks for backend services that promote a clear structure, high testability, and long-term maintainability.
 
 #### 🧑‍🔧 Other good stuff:
 
@@ -113,13 +116,13 @@ They come packed with best practices, full docs, and everything you need to buil
 ### 👷 Check out some of my public repos:
 
 
-- [dimdnk/boot-mvc-rest](https://github.com/dimdnk/boot-mvc-rest) - RESTful API support library.
+- [KnowHowDevOps/homelab-operations-pipeline](https://github.com/KnowHowDevOps/homelab-operations-pipeline) - This project aims to standardize CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
 
 - [dimdnk/sample-lorem](https://github.com/dimdnk/sample-lorem) - loripsum.net  text analyzer service.
 
-- [dimdnk/boot-http](https://github.com/dimdnk/boot-http) - Useful helpers for http-related functionality.
+- [dimdnk/sample-booking-demand-api-etl](https://github.com/dimdnk/sample-booking-demand-api-etl) - Sample Spring Boot application that uses some features provided by Spring Cloud, deployed on Kubernetes.
 
-- [dimdnk/boot-reactive-rest](https://github.com/dimdnk/boot-reactive-rest) - Reactive REST API support library.
+- [dimdnk/sample-bookstore-mvc-rest-api](https://github.com/dimdnk/sample-bookstore-mvc-rest-api) - Sample book store REST API service using Spring Boot (backend).
 
-- [dimdnk/sample-netflix-oss-usage](https://github.com/dimdnk/sample-netflix-oss-usage) - Microservice architecture with Spring Boot, Eureka, Hystrix, Config Server, minikube and Docker.
+- [dimdnk/quickstart-mvc-rest-user-profile-crud](https://github.com/dimdnk/quickstart-mvc-rest-user-profile-crud) - User Profile CRUD - Sample Restful App.
 
