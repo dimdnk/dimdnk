@@ -114,13 +114,13 @@ They come packed with best practices, full docs, and everything you need to buil
 ### 👷 Check out some of my public repos:
 
 
-- [KnowHowDevOps/homelab-operations-pipeline](https://github.com/KnowHowDevOps/homelab-operations-pipeline) - This project aims to standardize CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
+- [dimdnk/boot-starter](https://github.com/dimdnk/boot-starter) - Spring Boot Starters.
 
 - [dimdnk/sample-lorem](https://github.com/dimdnk/sample-lorem) - loripsum.net  text analyzer service.
 
 - [dimdnk/sample-booking-demand-api-etl](https://github.com/dimdnk/sample-booking-demand-api-etl) - Sample Spring Boot application that uses some features provided by Spring Cloud, deployed on Kubernetes.
 
-- [dimdnk/sample-bookstore-mvc-rest-api](https://github.com/dimdnk/sample-bookstore-mvc-rest-api) - Sample book store REST API service using Spring Boot (backend).
+- [dimdnk/boot-reactive-rest](https://github.com/dimdnk/boot-reactive-rest) - Reactive REST API support library.
 
-- [dimdnk/quickstart-mvc-rest-user-profile-crud](https://github.com/dimdnk/quickstart-mvc-rest-user-profile-crud) - User Profile CRUD - Sample Restful App.
+- [dimdnk/boot-security-errors](https://github.com/dimdnk/boot-security-errors) - Useful exception handlers for security proposes.
 
