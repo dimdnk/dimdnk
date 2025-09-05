@@ -114,13 +114,13 @@ They come packed with best practices, full docs, and everything you need to buil
 ### 👷 Check out some of my public repos:
 
 
-- [dimdnk/boot-starter](https://github.com/dimdnk/boot-starter) - Spring Boot Starters.
+- [dimdnk/standard-mantine-ui-project-layout](https://github.com/dimdnk/standard-mantine-ui-project-layout) - Vite &#43; ReactJS 19 &#43; Tanstack Router &#43; Tanstack Query &#43; Mantine UI.
 
 - [dimdnk/sample-lorem](https://github.com/dimdnk/sample-lorem) - loripsum.net  text analyzer service.
 
 - [dimdnk/sample-booking-demand-api-etl](https://github.com/dimdnk/sample-booking-demand-api-etl) - Sample Spring Boot application that uses some features provided by Spring Cloud, deployed on Kubernetes.
 
-- [dimdnk/boot-reactive-rest](https://github.com/dimdnk/boot-reactive-rest) - Reactive REST API support library.
+- [dimdnk/sample-bookstore-mvc-rest-api](https://github.com/dimdnk/sample-bookstore-mvc-rest-api) - Sample book store REST API service using Spring Boot (backend).
 
-- [dimdnk/boot-security-errors](https://github.com/dimdnk/boot-security-errors) - Useful exception handlers for security proposes.
+- [dimdnk/quickstart-mvc-rest-user-profile-crud](https://github.com/dimdnk/quickstart-mvc-rest-user-profile-crud) - User Profile CRUD - Sample Restful App.
 
