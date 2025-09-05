@@ -1,6 +1,6 @@
 ## ☕ Dima Denisenko (Java Developer)
 
-➡️ Results-driven Software Engineer with 5+ years of experience architecting, developing, and optimizing Java-based SaaS web applications, ETL pipelines, batch/stream processing, and API-driven integrations.
+➡️ Results-driven Software Engineer with 5+ years of experience architecting, developing, and optimizing Java-based SaaS web applications, ETL pipelines, batch/stream processing flows, and API-driven integrations.
 
 ### ✴️ About Me:
 
