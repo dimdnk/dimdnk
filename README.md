@@ -2,43 +2,35 @@
 
 I'm Dima - a Java backend developer passionate about scalable systems, Kubernetes, system design, and clean architecture.
 
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dimdnk)](https://www.linkedin.com/in/dimdnk) &nbsp;
-💎 <a href="CV.md"  target="_blank">My CV</a> ( <a href="https://github.com/dimdnk/dimdnk/raw/refs/heads/dev/Denisenko_Dmitry_CV.pdf"  target="_blank">pdf</a> / <a href="https://github.com/dimdnk/dimdnk/raw/refs/heads/dev/Denisenko_Dmitry_CV.docx"  target="_blank">docx</a>)
-💒 <a href="https://dimdnk.com/" target="_blank">Homepage</a>
-☕ <a href="repo-index.md"  target="_blank">My Repositories</a>
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dimdnk)](https://www.linkedin.com/in/dimdnk)
+[💎 CV](CV.md) ([pdf](https://github.com/dimdnk/dimdnk/raw/refs/heads/dev/Denisenko_Dmitry_CV.pdf) / [docx](https://github.com/dimdnk/dimdnk/raw/refs/heads/dev/Denisenko_Dmitry_CV.docx)) •
+[🏠 Homepage](https://dimdnk.com/) •
+[📂 Repositories](repo-index.md)
 
-#### 💻 I work with:
+### 💻 Tech Stack
 
-> ➡️ 	Languages & Frameworks: **Java, Spring, JavaScript, React**<br>
-> ➡️ 	Infrastructure: **Kubernetes, Docker, cloud services**<br>
-> ➡️ 	Data & Messaging: **PostgreSQL, MySQL, MongoDB, Redis, Kafka, RabbitMQ**<br>
-> ➡️ 	APIs & Architecture: **REST, GraphQL, gRPC, microservices, distributed systems**<br>
-> ➡️ 	Data Processing: **ETL, batch & stream pipelines**<br>
-> ➡️ 	AI Tools: I'm experimenting with **Cursor AI**, **Claude** with IDE, **n8n**, **MCP** servers for workflow innovation<br>
-> ➡️	Observability: **Prometheus, Grafana, Loki, Tempo, ELK Stack**<br>
+- **Backend**: Java, Spring, PostgreSQL, MySQL, MongoDB, Redis
+- **Infrastructure**: Kubernetes, Docker, cloud services, observability (Prometheus, Grafana, ELK)
+- **Messaging & APIs**: Kafka, RabbitMQ, REST, GraphQL, gRPC
+- **Frontend**: JavaScript, TypeScript, React
+- **Automation**: ETL pipelines, CI/CD, AI-powered tools
 
-I enjoy building resilient, cloud-native applications, exploring new technologies, and contributing to open-source projects on GitHub. There are pragmatic, reusable building blocks:
+### 🚀 Project Templates & Resources
 
-🚀 1. **Kickstart** your next project with my ready-to-use 🏗 **[GitHub templates](https://github.com/dimdnk?tab=repositories&q=&type=template)** for **Spring Boot 3** (JDK 21, Maven) and **ReactJS 19** (Vite, Tanstack).
-They come packed with best practices, full docs, and everything you need to build fast and confidently:<br>
-> ✅ Code of Conduct & Contribution Guidelines<br>
-> 🔒 Security & Support Docs<br>
-> 🧩 Git Hooks & GitHub Actions for automated code checks
+1. **[GitHub Templates](https://github.com/dimdnk?tab=repositories&q=&type=template)**: Ready-to-use Spring Boot 3 and React 19 templates with best practices
+2. **[App Samples](https://github.com/dimdnk?tab=repositories&q=sample)**: Scaffolds for REST, data, messaging, and cloud-native services
+3. **[Quickstart Packs](https://github.com/dimdnk?tab=repositories&q=quickstart)**: Preconfigured microservice integrations
 
-🌟 2. **[App Samples](https://github.com/dimdnk?tab=repositories&q=sample)** - scaffolds for REST, data, messaging, and cloud-native services.<br>
-🐣 3. **[Quickstart Packs](https://github.com/dimdnk?tab=repositories&q=quickstart)** - preconfigured integrations for microservices (security, observability, persistence, messaging).<br>
+### 🔗 Quick Links
 
-#### 🧑‍🔧 Other good stuff:
+- [🧪 Homelab Services](https://knowhowto.dev/)
+- [📚 Git Workflow Policy](git-workflow-policy.md)
+- [🏆 Code Quality Guidelines](code-quality-guidelines.md)
+- [🔖 Bookmarks](bookmarks-index.md)
+- [📚 Awesome Index](awesome-index.md)
 
-➡️ 🧪 <a href="https://knowhowto.dev/" target="_blank">Homelab Services</a><br>
-➡️ ☕ <a href="repo-index.md"  target="_blank">My Repositories</a><br>
-➡️ 📚 <a href="git-workflow-policy.md"  target="_blank">My Rules for Git</a><br>
-➡️ 🏆 <a href="code-quality-guidelines.md"  target="_blank">I follow the Quality Guidelines</a><br>
-➡️ 🌟 <a href="bookmarks-index.md"  target="_blank">My Bookmarks</a><br>
-➡️ 🙇 <a href="awesome-index.md"  target="_blank">Awesome Index</a><br>
-
-### 💼 Skills
-
+<details>
+<summary>💼 Skills & Technologies</summary>
 <p align="left">
 <img src="https://cdn.svgporn.com/logos/java.svg" alt="java" width="25" height="25" />
 <img src="https://cdn.svgporn.com/logos/spring-icon.svg" alt="spring" width="25" height="25" />
@@ -47,61 +39,14 @@ They come packed with best practices, full docs, and everything you need to buil
 <img src="https://cdn.svgporn.com/logos/kafka-icon.svg" alt="kafka" width="25" height="25" />
 <img src="https://cdn.svgporn.com/logos/rabbitmq-icon.svg" alt="rabbit" width="25" height="25" />
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"  alt="php" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
 <img src="https://cdn.svgporn.com/logos/docker-icon.svg" alt="Docker" width="25" height="25" />
-</p>
-
-<details>
-<summary>🛠 More Skills</summary>
-<br>
-<p align="left">
-<img src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" alt="maven" width="25" height="25" />
-<img src="https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png" alt="hibernate" width="25" height="25" />
-<img src="https://user-images.githubusercontent.com/25181517/183891673-32824908-bc5d-44f8-8f72-f0415822404a.png" alt="" width="25" height="25" />
-<img src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png" alt="" width="25" height="25" />
-<img src="https://user-images.githubusercontent.com/25181517/183892181-ad32b69e-3603-418c-b8e7-99e976c2a784.png" alt="" width="25" height="25" />
-<img src="https://user-images.githubusercontent.com/25181517/190229463-87fa862f-ccf0-48da-8023-940d287df610.png" alt="" width="25" height="25" />
-<img src="https://user-images.githubusercontent.com/25181517/184097317-690eea12-3a26-4f7c-8521-729ebbbb3f98.png" alt="" width="25" height="25" />
-<img src="https://user-images.githubusercontent.com/25181517/184146221-671413cb-b1ae-47db-a232-b37c99281516.png" alt="" width="25" height="25" />
-<br />
-
-<img src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" alt="" width="25" height="25" />
-<img src="https://user-images.githubusercontent.com/25181517/179090274-733373ef-3b59-4f28-9ecb-244bea700932.png" alt="" width="25" height="25" />
 <img src="https://cdn.svgporn.com/logos/prometheus.svg" alt="prometheus" width="25" height="25" />
 <img src="https://cdn.svgporn.com/logos/grafana.svg" alt="grafana" width="25" height="25" />
-<img src="https://user-images.githubusercontent.com/25181517/190230082-55409fe9-d5a2-4f3d-bdba-0f0946190e67.png" alt="" width="25" height="25" />
-<img src="https://user-images.githubusercontent.com/25181517/185157723-1ca89950-665d-467c-b653-953559daa1c7.png" alt="" width="25" height="25" />
-<img src="https://user-images.githubusercontent.com/25181517/183345124-0948a5e0-5326-495f-824f-b99d3aee5467.png" alt="" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="25" height="25" />
-<br>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
-<img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="css" width="25" height="25" />
-<img src="https://cdn.svgporn.com/logos/mongodb.svg" alt="mongodb" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="25" height="25" />
 <img src="https://cdn.svgporn.com/logos/openapi-icon.svg" alt="REST API" width="25" height="25" />
 <img src="https://cdn.svgporn.com/logos/graphql.svg" alt="graphql" width="25" height="25" />
-<img src="https://user-images.githubusercontent.com/25181517/192107860-9a9f0894-0e34-4ab3-964d-6297ee4c00e9.png" alt="soap" width="25" height="25" />
-<img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="soap" width="25" height="25" />
-<br>
-
-<img src="https://cdn.svgporn.com/logos/ansible.svg" alt="Ansible" width="25" height="25" />
-<img src="https://cdn.svgporn.com/logos/terraform-icon.svg" alt="Terraform" width="25" height="25" />
-<img src="https://cdn.svgporn.com/logos/helm.svg" alt="Helm" width="25" height="25" />
-<br />
-
-<img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="" width="25" height="25" />
-<img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="" width="25" height="25" />
-<img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" alt="" width="25" height="25" />
-<br>
-
-<img src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="IDEA" width="25" height="25" />
-<img src="https://cdn.svgporn.com/logos/linux-tux.svg" alt="linux" width="25" height="25" />
-<img src="https://cdn.svgporn.com/logos/bash-icon.svg" alt="bash" width="25" height="25" />
-
 </p>
 </details>
 
@@ -111,16 +56,11 @@ They come packed with best practices, full docs, and everything you need to buil
 
 <p align="left"><img src="https://raw.githubusercontent.com/dimdnk/dimdnk/dev/github-metrics.svg" /></p>
 
-### 👷 Check out some of my public repos:
-
+### 👷 Recent Contributions
 
 - [KnowHowDevOps/homelab-operations-pipeline](https://github.com/KnowHowDevOps/homelab-operations-pipeline) - This project aims to standardize CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
-
 - [dimdnk/sample-lorem](https://github.com/dimdnk/sample-lorem) - loripsum.net  text analyzer service.
-
 - [dimdnk/sample-booking-demand-api-etl](https://github.com/dimdnk/sample-booking-demand-api-etl) - Sample Spring Boot application that uses some features provided by Spring Cloud, deployed on Kubernetes.
-
 - [dimdnk/sample-bookstore-mvc-rest-api](https://github.com/dimdnk/sample-bookstore-mvc-rest-api) - Sample book store REST API service using Spring Boot (backend).
-
 - [dimdnk/quickstart-mvc-rest-user-profile-crud](https://github.com/dimdnk/quickstart-mvc-rest-user-profile-crud) - User Profile CRUD - Sample Restful App.
 
