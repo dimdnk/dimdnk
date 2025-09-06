@@ -122,5 +122,5 @@ They come packed with best practices, full docs, and everything you need to buil
 
 - [dimdnk/sample-bookstore-mvc-rest-api](https://github.com/dimdnk/sample-bookstore-mvc-rest-api) - Sample book store REST API service using Spring Boot (backend).
 
-- [dimdnk/sample-netflix-oss-usage](https://github.com/dimdnk/sample-netflix-oss-usage) - Microservice architecture with Spring Boot, Eureka, Hystrix, Config Server, minikube and Docker.
+- [dimdnk/quickstart-mvc-rest-user-profile-crud](https://github.com/dimdnk/quickstart-mvc-rest-user-profile-crud) - User Profile CRUD - Sample Restful App.
 
