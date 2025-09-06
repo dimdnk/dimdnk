@@ -9,7 +9,7 @@ I'm Dima, a backend developer with expertise in Java, Spring ecosystem, PHP, Jav
 
 ### 💻 My Tech Stack
 
-- **Backend**: Java, Spring, PHP, NodeJS, PostgreSQL, MySQL, MongoDB, Redis
+- **Backend**: Java, Spring, PHP, Symfony, NodeJS, PostgreSQL, MySQL, MongoDB, Redis
 - **Infrastructure**: Kubernetes, Docker, cloud services, observability (Prometheus, Grafana, ELK)
 - **Messaging & APIs**: Kafka, RabbitMQ, REST, GraphQL, gRPC
 - **Frontend**: JavaScript, TypeScript, React
@@ -23,7 +23,7 @@ I'm Dima, a backend developer with expertise in Java, Spring ecosystem, PHP, Jav
 
 ### 🔗 Quick Links
 
-- [🧪 Kubernetes powered Homelab Services](https://knowhowto.dev/)
+- [🧪 Homelab powered by K8s](https://knowhowto.dev/)
 - [📚 I use Git Workflow Policy](git-workflow-policy.md)
 - [🏆 Preferable Code Quality Guidelines](code-quality-guidelines.md)
 - [🔖 Bookmarks](bookmarks-index.md)
