@@ -63,4 +63,3 @@ I'm Dima, a backend developer with expertise in Java, Spring ecosystem, PHP, Jav
 - [dimdnk/checkstyle-config](https://github.com/dimdnk/checkstyle-config) - Checkstyle configuration.
 - [dimdnk/sample-bookstore-mvc-rest-api](https://github.com/dimdnk/sample-bookstore-mvc-rest-api) - Sample book store REST API service using Spring Boot (backend).
 - [dimdnk/sample-netflix-oss-usage](https://github.com/dimdnk/sample-netflix-oss-usage) - Microservice architecture with Spring Boot, Eureka, Hystrix, Config Server, minikube and Docker.
-
