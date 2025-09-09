@@ -7,7 +7,7 @@ I'm Dima, a backend developer with expertise in Java, Spring ecosystem, PHP, Jav
 [🏠 Homepage](https://dimdnk.com/) •
 [📂 My public Repositories](repo-index.md)
 
-### 💻 My Tech Stack
+### 💻 Skills & Technologies
 
 - **Backend**: Java, Spring, PHP, Symfony, NodeJS, PostgreSQL, MySQL, MongoDB, Redis
 - **Infrastructure**: Kubernetes, Docker, cloud services, observability (Prometheus, Grafana, ELK)
@@ -28,27 +28,6 @@ I'm Dima, a backend developer with expertise in Java, Spring ecosystem, PHP, Jav
 - [🏆 Preferable Code Quality Guidelines](code-quality-guidelines.md)
 - [🔖 Bookmarks](bookmarks-index.md)
 - [📚 Peronal Awesome Index](awesome-index.md)
-
-<details>
-<summary>💼 Skills & Technologies</summary>
-<p align="left">
-<img src="https://cdn.svgporn.com/logos/java.svg" alt="java" width="25" height="25" />
-<img src="https://cdn.svgporn.com/logos/spring-icon.svg" alt="spring" width="25" height="25" />
-<img src="https://cdn.svgporn.com/logos/postgresql.svg" alt="postgresql" width="25" height="25" />
-<img src="https://cdn.svgporn.com/logos/mysql.svg" alt="mysql" width="25" height="25" />
-<img src="https://cdn.svgporn.com/logos/kafka-icon.svg" alt="kafka" width="25" height="25" />
-<img src="https://cdn.svgporn.com/logos/rabbitmq-icon.svg" alt="rabbit" width="25" height="25" />
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
-<img src="https://cdn.svgporn.com/logos/docker-icon.svg" alt="Docker" width="25" height="25" />
-<img src="https://cdn.svgporn.com/logos/prometheus.svg" alt="prometheus" width="25" height="25" />
-<img src="https://cdn.svgporn.com/logos/grafana.svg" alt="grafana" width="25" height="25" />
-<img src="https://cdn.svgporn.com/logos/openapi-icon.svg" alt="REST API" width="25" height="25" />
-<img src="https://cdn.svgporn.com/logos/graphql.svg" alt="graphql" width="25" height="25" />
-</p>
-</details>
 
 ---
 
