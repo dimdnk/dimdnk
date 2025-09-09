@@ -7,7 +7,7 @@ I'm Dima, a backend developer with expertise in Java, Spring ecosystem, PHP, Jav
 [🏠 Homepage](https://dimdnk.com/) •
 [📂 My public Repositories](repo-index.md)
 
-### 💻 My Tech Stack
+### 💻 Skills & Technologies
 
 - **Backend**: Java, Spring, PHP, Symfony, NodeJS, PostgreSQL, MySQL, MongoDB, Redis
 - **Infrastructure**: Kubernetes, Docker, cloud services, observability (Prometheus, Grafana, ELK)
@@ -29,27 +29,6 @@ I'm Dima, a backend developer with expertise in Java, Spring ecosystem, PHP, Jav
 - [🔖 Bookmarks](bookmarks-index.md)
 - [📚 Peronal Awesome Index](awesome-index.md)
 
-<details>
-<summary>💼 Skills & Technologies</summary>
-<p align="left">
-<img src="https://cdn.svgporn.com/logos/java.svg" alt="java" width="25" height="25" />
-<img src="https://cdn.svgporn.com/logos/spring-icon.svg" alt="spring" width="25" height="25" />
-<img src="https://cdn.svgporn.com/logos/postgresql.svg" alt="postgresql" width="25" height="25" />
-<img src="https://cdn.svgporn.com/logos/mysql.svg" alt="mysql" width="25" height="25" />
-<img src="https://cdn.svgporn.com/logos/kafka-icon.svg" alt="kafka" width="25" height="25" />
-<img src="https://cdn.svgporn.com/logos/rabbitmq-icon.svg" alt="rabbit" width="25" height="25" />
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
-<img src="https://cdn.svgporn.com/logos/docker-icon.svg" alt="Docker" width="25" height="25" />
-<img src="https://cdn.svgporn.com/logos/prometheus.svg" alt="prometheus" width="25" height="25" />
-<img src="https://cdn.svgporn.com/logos/grafana.svg" alt="grafana" width="25" height="25" />
-<img src="https://cdn.svgporn.com/logos/openapi-icon.svg" alt="REST API" width="25" height="25" />
-<img src="https://cdn.svgporn.com/logos/graphql.svg" alt="graphql" width="25" height="25" />
-</p>
-</details>
-
 ---
 
 ### 🔥 GitHub Stats
@@ -58,8 +37,8 @@ I'm Dima, a backend developer with expertise in Java, Spring ecosystem, PHP, Jav
 
 ### 👷 Recent Contributions
 
+- [dimdnk/standard-blank-ui-project-layout](https://github.com/dimdnk/standard-blank-ui-project-layout) - Vite &#43; ReactJS 19 &#43; Tanstack Router &#43; Tanstack Query
 - [KnowHowDevOps/homelab-operations-pipeline](https://github.com/KnowHowDevOps/homelab-operations-pipeline) - This project aims to standardize CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
-- [dimdnk/sample-lorem](https://github.com/dimdnk/sample-lorem) - loripsum.net  text analyzer service.
 - [dimdnk/sample-booking-demand-api-etl](https://github.com/dimdnk/sample-booking-demand-api-etl) - Sample Spring Boot application that uses some features provided by Spring Cloud, deployed on Kubernetes.
 - [dimdnk/sample-bookstore-mvc-rest-api](https://github.com/dimdnk/sample-bookstore-mvc-rest-api) - Sample book store REST API service using Spring Boot (backend).
 - [dimdnk/sample-netflix-oss-usage](https://github.com/dimdnk/sample-netflix-oss-usage) - Microservice architecture with Spring Boot, Eureka, Hystrix, Config Server, minikube and Docker.
