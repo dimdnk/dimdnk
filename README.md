@@ -39,7 +39,7 @@ I'm Dima, a backend developer with expertise in Java, Spring ecosystem, PHP, Jav
 
 - [dimdnk/standard-mantine-ui-project-layout](https://github.com/dimdnk/standard-mantine-ui-project-layout) - Vite &#43; ReactJS 19 &#43; Tanstack Router &#43; Tanstack Query &#43; Mantine UI.
 - [dimdnk/standard-blank-ui-project-layout](https://github.com/dimdnk/standard-blank-ui-project-layout) - Vite &#43; ReactJS 19 &#43; Tanstack Router &#43; Tanstack Query
-- [dimdnk/boot-security](https://github.com/dimdnk/boot-security) - Security support library.
+- [dimdnk/boot-kafka](https://github.com/dimdnk/boot-kafka) - Common library for Kafka support.
 - [dimdnk/sample-netflix-oss-usage](https://github.com/dimdnk/sample-netflix-oss-usage) - Microservice architecture with Spring Boot, Eureka, Hystrix, Config Server, minikube and Docker.
 - [dimdnk/sample-bookstore-mvc-rest-api](https://github.com/dimdnk/sample-bookstore-mvc-rest-api) - Sample book store REST API service using Spring Boot (backend).
 
