@@ -38,8 +38,8 @@ I'm Dima, a backend developer with expertise in Java, Spring ecosystem, PHP, Jav
 ### 👷 Recent Contributions
 
 - [dimdnk/standard-mantine-ui-project-layout](https://github.com/dimdnk/standard-mantine-ui-project-layout) - Vite &#43; ReactJS 19 &#43; Tanstack Router &#43; Tanstack Query &#43; Mantine UI.
-- [dimdnk/standard-blank-ui-project-layout](https://github.com/dimdnk/standard-blank-ui-project-layout) - Vite &#43; ReactJS 19 &#43; Tanstack Router &#43; Tanstack Query
-- [dimdnk/boot-kafka](https://github.com/dimdnk/boot-kafka) - Common library for Kafka support.
-- [dimdnk/sample-netflix-oss-usage](https://github.com/dimdnk/sample-netflix-oss-usage) - Microservice architecture with Spring Boot, Eureka, Hystrix, Config Server, minikube and Docker.
-- [dimdnk/sample-bookstore-mvc-rest-api](https://github.com/dimdnk/sample-bookstore-mvc-rest-api) - Sample book store REST API service using Spring Boot (backend).
+- [dimdnk/standard-blank-project-layout](https://github.com/dimdnk/standard-blank-project-layout) - Blank Project Layout
+- [dimdnk/standard-maven-multi-project-layout](https://github.com/dimdnk/standard-maven-multi-project-layout) - Standard Maven Multi-Module Project Layout
+- [dimdnk/standard-dotgithub-profile-layout](https://github.com/dimdnk/standard-dotgithub-profile-layout) - Default Community Health Files for Organization
+- [dimdnk/standard-docs-vitepress-project-layout](https://github.com/dimdnk/standard-docs-vitepress-project-layout) - Getting-started guidance, feature details, and API reference documentation template.
 
