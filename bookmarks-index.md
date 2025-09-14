@@ -38,7 +38,8 @@
 - qlday.com
 - tagzen.com
 - dayxi.com
-- mameu.com
+- iraday.com
+- irenday.com
 
 ### Home
 
