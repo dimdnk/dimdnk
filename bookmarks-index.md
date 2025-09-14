@@ -32,6 +32,7 @@
 - [Plane](https://github.com/makeplane/plane)
 - [OpenSSF Best Practices Badge Program](https://www.bestpractices.dev/en)
 
+- sdrday.com
 - exacte.com
 - leadela.com
 - niry.com
