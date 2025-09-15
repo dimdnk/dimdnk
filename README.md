@@ -37,7 +37,7 @@ I'm Dima, a backend developer with expertise in Java, Spring ecosystem, PHP, Jav
 
 ### 👷 Recent Contributions
 
-- [dimdnk/standard-mantine-ui-project-layout](https://github.com/dimdnk/standard-mantine-ui-project-layout) - Vite &#43; ReactJS 19 &#43; Tanstack Router &#43; Tanstack Query &#43; Mantine UI.
+- [dimdnk/boot-cache](https://github.com/dimdnk/boot-cache) - Handle properties file for caching options.
 - [dimdnk/standard-blank-project-layout](https://github.com/dimdnk/standard-blank-project-layout) - Blank Project Layout
 - [dimdnk/standard-maven-multi-project-layout](https://github.com/dimdnk/standard-maven-multi-project-layout) - Standard Maven Multi-Module Project Layout
 - [dimdnk/standard-dotgithub-profile-layout](https://github.com/dimdnk/standard-dotgithub-profile-layout) - Default Community Health Files for Organization
