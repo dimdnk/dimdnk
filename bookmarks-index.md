@@ -32,14 +32,17 @@
 - [Plane](https://github.com/makeplane/plane)
 - [OpenSSF Best Practices Badge Program](https://www.bestpractices.dev/en)
 
+
+- DoxDay.com
 - DayQL.com
+- SDRDay.com
+- QLDay.com
 - GripQL.com
 - GripQ.com
 - GripFee.com
-- QLDay.com
-- SDRDay.com
 - Exacte.com
 - Leadela.com
+- t3o.net
 - niry.org
 - niry.com
 
