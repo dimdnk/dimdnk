@@ -13,7 +13,7 @@ I'm Dima, a backend developer with expertise in Java, Spring ecosystem, PHP, Jav
 - **Infrastructure**: Kubernetes, Docker, cloud services, observability (Prometheus, Grafana, ELK)
 - **Messaging & APIs**: Kafka, RabbitMQ, REST, GraphQL, gRPC
 - **Frontend**: JavaScript, TypeScript, React
-- **Automation**: ETL pipelines (Apache Camel, Spring Batch, Kafka Streams), CI/CD (GitHub Actions, Jenkins, Drone), AI-powered tools (n8n, claude, cursor)
+- **Automation**: ETL pipelines (Apache Camel, Spring Batch, Kafka Streams), CI/CD (GitHub Actions, Jenkins, Drone), AI-powered tools (kiro, n8n, claude, cursor)
 
 ### 🚀 Project Templates & Resources
 
