@@ -33,7 +33,8 @@
 - [OpenSSF Best Practices Badge Program](https://www.bestpractices.dev/en)
 
 
-- DoxDay.com
+- iqQL.com
+- ixQL.com
 - DayQL.com
 - SDRDay.com
 - QLDay.com
@@ -45,7 +46,7 @@
 - t3o.net
 - niry.org
 - niry.com
-
+- DoxDay.com
 ### Home
 
 ##### Google
