@@ -33,6 +33,7 @@
 - [OpenSSF Best Practices Badge Program](https://www.bestpractices.dev/en)
 
 
+- mapilot.com
 - iqQL.com
 - ixQL.com
 - DayQL.com
