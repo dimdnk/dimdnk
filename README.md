@@ -37,9 +37,9 @@ I'm Dima, a backend developer with expertise in Java, Spring ecosystem, PHP, Jav
 
 ### 👷 Recent Contributions
 
-- [dimdnk/standard-blank-ui-project-layout](https://github.com/dimdnk/standard-blank-ui-project-layout) - Vite &#43; ReactJS 19 &#43; Tanstack Router &#43; Tanstack Query
+- [dimdnk/standard-blank-project-layout](https://github.com/dimdnk/standard-blank-project-layout) - Blank Project Layout
 - [dimdnk/standard-mantine-ui-project-layout](https://github.com/dimdnk/standard-mantine-ui-project-layout) - Vite &#43; ReactJS 19 &#43; Tanstack Router &#43; Tanstack Query &#43; Mantine UI.
-- [KnowHowDevOps/homelab-operations-pipeline](https://github.com/KnowHowDevOps/homelab-operations-pipeline) - This project aims to standardize CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
-- [dimdnk/sample-netflix-oss-usage](https://github.com/dimdnk/sample-netflix-oss-usage) - Microservice architecture with Spring Boot, Eureka, Hystrix, Config Server, minikube and Docker.
+- [dimdnk/standard-blank-ui-project-layout](https://github.com/dimdnk/standard-blank-ui-project-layout) - Vite &#43; ReactJS 19 &#43; Tanstack Router &#43; Tanstack Query
+- [dimdnk/boot-security](https://github.com/dimdnk/boot-security) - Security support library.
 - [dimdnk/quickstart-kafka-producing-hello](https://github.com/dimdnk/quickstart-kafka-producing-hello) - Minimal Spring Boot based sample of Kafka producer app.
 
