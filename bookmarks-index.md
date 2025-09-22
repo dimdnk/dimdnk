@@ -33,12 +33,14 @@
 - [OpenSSF Best Practices Badge Program](https://www.bestpractices.dev/en)
 
 
-- mapilot.com
+
 - iqQL.com
 - ixQL.com
 - DayQL.com
 - SDRDay.com
 - QLDay.com
+- podeus.com
+- mapilot.com
 - GripQL.com
 - GripQ.com
 - GripFee.com
