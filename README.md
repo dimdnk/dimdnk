@@ -40,6 +40,6 @@ I'm Dima, a backend developer with expertise in Java, Spring ecosystem, PHP, Jav
 - [dimdnk/standard-mantine-ui-project-layout](https://github.com/dimdnk/standard-mantine-ui-project-layout) - Vite &#43; ReactJS 19 &#43; Tanstack Router &#43; Tanstack Query &#43; Mantine UI &#43; FSD Architecture
 - [dimdnk/standard-blank-ui-project-layout](https://github.com/dimdnk/standard-blank-ui-project-layout) - FSD &#43; Vite &#43; ReactJS 19 &#43; Tanstack Router &#43; Tanstack Query
 - [dimdnk/standard-blank-project-layout](https://github.com/dimdnk/standard-blank-project-layout) - Blank Project Layout
-- [dimdnk/boot-security](https://github.com/dimdnk/boot-security) - Security support library.
-- [dimdnk/quickstart-kafka-producing-hello](https://github.com/dimdnk/quickstart-kafka-producing-hello) - Minimal Spring Boot based sample of Kafka producer app.
+- [dimdnk/boot-kafka](https://github.com/dimdnk/boot-kafka) - Common library for Kafka support.
+- [dimdnk/sample-bookstore-mvc-rest-api](https://github.com/dimdnk/sample-bookstore-mvc-rest-api) - Sample book store REST API service using Spring Boot (backend).
 
