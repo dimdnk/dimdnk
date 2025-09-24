@@ -40,7 +40,6 @@
 - ixQL.com
 - DayQL.com
 - SDRDay.com
-- QLDay.com
 - domirio.com
 - podeus.com
 - mapilot.com
@@ -52,7 +51,7 @@
 - t3o.net
 - niry.org
 - niry.com
-- DoxDay.com
+
 ### Home
 
 ##### Google
