@@ -37,9 +37,9 @@ I'm Dima, a backend developer with expertise in Java, Spring ecosystem, PHP, Jav
 
 ### 👷 Recent Contributions
 
-- [IQKV/quickstart-amqp-consuming-hello](https://github.com/IQKV/quickstart-amqp-consuming-hello) - Minimal Spring Boot based sample of AMQP consumer app.
-- [KnowHowDevOps/.github](https://github.com/KnowHowDevOps/.github) - README repository.
-- [KnowHowDevOps/homelab-public-assets](https://github.com/KnowHowDevOps/homelab-public-assets) - Homelab Public Assets.
-- [dimdnk/dotfiles](https://github.com/dimdnk/dotfiles) - This contain my personal config files.
-- [IQKV/.github](https://github.com/IQKV/.github) - README repository.
+- [KnowHowDevOps/homelab-operations-pipeline](https://github.com/KnowHowDevOps/homelab-operations-pipeline) - This project aims to standardize CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
+- [IQKV/standard-maven-multi-project-layout](https://github.com/IQKV/standard-maven-multi-project-layout) - Standard Maven Multi-Module Project Layout
+- [IQKV/standard-dotgithub-profile-layout](https://github.com/IQKV/standard-dotgithub-profile-layout) - Default Community Health Files for Organization
+- [IQKV/standard-mantine-ui-project-layout](https://github.com/IQKV/standard-mantine-ui-project-layout) - Vite &#43; ReactJS 19 &#43; Tanstack Router &#43; Tanstack Query &#43; Mantine UI &#43; FSD Architecture
+- [IQKV/quickstart-kafka-producing-hello](https://github.com/IQKV/quickstart-kafka-producing-hello) - Minimal Spring Boot based sample of Kafka producer app.
 
