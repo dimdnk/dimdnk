@@ -41,5 +41,5 @@ I'm Dima, a backend developer with expertise in Java, Spring ecosystem, PHP, Jav
 - [IQKV/sample-lorem](https://github.com/IQKV/sample-lorem) - loripsum.net  text analyzer service.
 - [IQKV/sample-booking-demand-api-etl](https://github.com/IQKV/sample-booking-demand-api-etl) - Sample Spring Boot application that uses some features provided by Spring Cloud, deployed on Kubernetes.
 - [IQKV/sample-netflix-oss-usage](https://github.com/IQKV/sample-netflix-oss-usage) - Microservice architecture with Spring Boot, Eureka, Hystrix, Config Server, minikube and Docker.
-- [IQKV/sample-bookstore-mvc-rest-api](https://github.com/IQKV/sample-bookstore-mvc-rest-api) - Sample book store REST API service using Spring Boot (backend).
+- [IQKV/quickstart-kafka-producing-hello](https://github.com/IQKV/quickstart-kafka-producing-hello) - Minimal Spring Boot based sample of Kafka producer app.
 
