@@ -32,25 +32,6 @@
 - [Plane](https://github.com/makeplane/plane)
 - [OpenSSF Best Practices Badge Program](https://www.bestpractices.dev/en)
 
-<br>
-
-- LeadTeka.com
-- SalesTeka.com
-- iqQL.com
-- ixQL.com
-- DayQL.com
-- SDRDay.com
-- domirio.com
-- podeus.com
-- mapilot.com
-- GripQL.com
-- GripQ.com
-- GripFee.com
-- Exacte.com
-- Leadela.com
-- t3o.net
-- niry.org
-- niry.com
 
 ### Home
 
