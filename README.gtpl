@@ -13,13 +13,13 @@ I'm Dima, a backend developer with expertise in Java, Spring ecosystem, PHP, Jav
 - **Infrastructure**: Kubernetes, Docker, cloud services, observability (Prometheus, Grafana, ELK)
 - **Messaging & APIs**: Kafka, RabbitMQ, REST, GraphQL, gRPC
 - **Frontend**: JavaScript, TypeScript, React
-- **Automation**: ETL pipelines (Apache Camel, Spring Batch, Kafka Streams), CI/CD (GitHub Actions, Jenkins, Drone), AI-powered tools (kiro, n8n, claude, cursor)
+- **Automation**: ETL pipelines (Apache Camel, Spring Batch, Kafka Streams), CI/CD (GitHub Actions, Jenkins, Drone), AI-powered tools (n8n, claude, cursor, kiro, warp)
 
 ### 🚀 Project Templates & Resources
 
-1. **[My GitHub Templates](https://github.com/dimdnk?tab=repositories&q=&type=template)**: Ready-to-use Spring Boot 3 and React 19 templates with best practices
-2. **[Check out App Samples](https://github.com/dimdnk?tab=repositories&q=sample)**: Scaffolds for REST, data, messaging, and cloud-native services
-3. **[Use Quickstart Packs](https://github.com/dimdnk?tab=repositories&q=quickstart)**: Preconfigured microservice integrations
+1. **[My GitHub Templates](https://github.com/orgs/IQKV/repositories?q=template%3Atrue)**: Ready-to-use Spring Boot 3 and React 19 templates with best practices
+2. **[Check out App Samples](https://github.com/orgs/IQKV/repositories?q=sample)**: Scaffolds for REST, data, messaging, and cloud-native services
+3. **[Use Quickstart Packs](https://github.com/orgs/IQKV/repositories?q=quickstart)**: Preconfigured microservice integrations
 
 ### 🔗 Quick Links
 
