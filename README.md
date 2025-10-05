@@ -37,9 +37,9 @@ I'm Dima, a backend developer with expertise in Java, Spring ecosystem, PHP, Jav
 
 ### 👷 Recent Contributions
 
-- [IQKV/quickstart-kafka-consuming-hello](https://github.com/IQKV/quickstart-kafka-consuming-hello) - Minimal Spring Boot based sample of Kafka consumer app.
-- [IQKV/sample-lorem](https://github.com/IQKV/sample-lorem) - loripsum.net  text analyzer service.
-- [IQKV/standard-mantine-ui-project-layout](https://github.com/IQKV/standard-mantine-ui-project-layout) - Vite &#43; ReactJS 19 &#43; Tanstack Router &#43; Tanstack Query &#43; Mantine UI &#43; FSD Architecture
-- [IQKV/quickstart-amqp-producing-hello](https://github.com/IQKV/quickstart-amqp-producing-hello) - Sample of AMQP producer app.
-- [IQKV/quickstart-amqp-consuming-hello](https://github.com/IQKV/quickstart-amqp-consuming-hello) - Minimal Spring Boot based sample of AMQP consumer app.
+- [KnowHowDevOps/homelab-public-assets](https://github.com/KnowHowDevOps/homelab-public-assets) - Homelab Public Assets.
+- [IQKV/checkstyle-config](https://github.com/IQKV/checkstyle-config) - Checkstyle configuration.
+- [IQKV/quickstart-mvc-rest-hello-world](https://github.com/IQKV/quickstart-mvc-rest-hello-world) - Minimal Spring Boot based RESTful &#39;Hello World&#39; example, including Swagger.
+- [IQKV/quickstart-jpa-jwt-secured](https://github.com/IQKV/quickstart-jpa-jwt-secured) - JWT-based Spring security REST API.
+- [IQKV/.github](https://github.com/IQKV/.github) - README repository.
 
