@@ -37,7 +37,7 @@ I'm Dima, a backend developer with expertise in Java, Spring ecosystem, PHP, Jav
 
 ### 👷 Recent Contributions
 
-- [dimdnk/dotfiles](https://github.com/dimdnk/dotfiles) - This contain my personal config files.
+- [KnowHowDevOps/homelab-public-assets](https://github.com/KnowHowDevOps/homelab-public-assets) - Homelab Public Assets.
 - [IQKV/checkstyle-config](https://github.com/IQKV/checkstyle-config) - Checkstyle configuration.
 - [IQKV/quickstart-mvc-rest-hello-world](https://github.com/IQKV/quickstart-mvc-rest-hello-world) - Minimal Spring Boot based RESTful &#39;Hello World&#39; example, including Swagger.
 - [IQKV/sample-netflix-oss-usage](https://github.com/IQKV/sample-netflix-oss-usage) - Microservice architecture with Spring Boot, Eureka, Hystrix, Config Server, minikube and Docker.
