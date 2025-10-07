@@ -3,9 +3,9 @@
 I'm Dima, a backend developer with expertise in Java, Spring ecosystem, PHP, JavaScript, Kubernetes, and cloud-native microservices. I thrive on building/integrating APIs, ETL, distributed systems, and event-driven architectures with Kafka and RabbitMQ.
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dimdnk)](https://www.linkedin.com/in/dimdnk)
-[💎 CV](CV.md) ([pdf](https://github.com/dimdnk/dimdnk/raw/refs/heads/dev/Denisenko_Dmitry_CV.pdf) / [docx](https://github.com/dimdnk/dimdnk/raw/refs/heads/dev/Denisenko_Dmitry_CV.docx)) •
-[🏠 Homepage](https://dimdnk.com/) •
-[📂 My public Repositories](repo-index.md)
+💎 [CV](CV.md) ([pdf](https://github.com/dimdnk/dimdnk/raw/refs/heads/dev/Denisenko_Dmitry_CV.pdf) / [docx](https://github.com/dimdnk/dimdnk/raw/refs/heads/dev/Denisenko_Dmitry_CV.docx)) •
+🏠 [Homepage](https://dimdnk.com/) •
+📂 [My public Repositories](repo-index.md)
 
 ### 💻 Skills & Technologies
 
@@ -13,7 +13,7 @@ I'm Dima, a backend developer with expertise in Java, Spring ecosystem, PHP, Jav
 - **Infrastructure**: Kubernetes, Docker, cloud services, observability (Prometheus, Grafana, ELK)
 - **Messaging & APIs**: Kafka, RabbitMQ, REST, GraphQL, gRPC
 - **Frontend**: JavaScript, TypeScript, React
-- **Automation**: ETL pipelines (Apache Camel, Spring Batch, Kafka Streams), CI/CD (GitHub Actions, Jenkins, Drone), AI-powered tools (n8n, claude, cursor, kiro, warp)
+- **Automation**: ETL pipelines (Apache Camel, Spring Batch, Kafka Streams), CI/CD (GitHub Actions, Jenkins, Drone), AI-powered tools (n8n, claude, cursor, etc. <!-- kiro, warp, kilo code, trae -->)
 
 ### 🚀 Project Templates & Resources
 
@@ -23,11 +23,11 @@ I'm Dima, a backend developer with expertise in Java, Spring ecosystem, PHP, Jav
 
 ### 🔗 Quick Links
 
-- [🧪 Homelab powered by K8s](https://knowhowto.dev/)
-- [📚 I use Git Workflow Policy](git-workflow-policy.md)
-- [🏆 Preferable Code Quality Guidelines](code-quality-guidelines.md)
-- [🔖 Bookmarks](bookmarks-index.md)
-- [📚 Peronal Awesome Index](awesome-index.md)
+- 🧪 [Homelab powered by K8s](https://knowhowto.dev/)
+- 📚 [I use Git Workflow Policy](git-workflow-policy.md)
+- 🏆 [Preferable Code Quality Guidelines](code-quality-guidelines.md)
+- 🔖 [Bookmarks](bookmarks-index.md)
+- 📚 [Peronal Awesome Index](awesome-index.md)
 
 ---
 
