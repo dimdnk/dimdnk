@@ -32,7 +32,6 @@
 - [Plane](https://github.com/makeplane/plane)
 - [OpenSSF Best Practices Badge Program](https://www.bestpractices.dev/en)
 
-
 ### Home
 
 ##### Google
