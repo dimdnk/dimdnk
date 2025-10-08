@@ -37,8 +37,8 @@ I'm Dima, a backend developer with expertise in Java, Spring ecosystem, PHP, Jav
 
 ### 👷 Recent Contributions
 
-- [GripDay/.github](https://github.com/GripDay/.github) - GitHub Organization profile repository.
-- [IQKV/boot-security](https://github.com/IQKV/boot-security) - Security support library.
+- [KnowHowDevOps/homelab-operations-pipeline](https://github.com/KnowHowDevOps/homelab-operations-pipeline) - This project aims to standardize CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
+- [IQKV/sample-lorem](https://github.com/IQKV/sample-lorem) - loripsum.net  text analyzer service.
 - [IQKV/sample-booking-demand-api-etl](https://github.com/IQKV/sample-booking-demand-api-etl) - Sample Spring Boot application that uses some features provided by Spring Cloud, deployed on Kubernetes.
 - [IQKV/sample-netflix-oss-usage](https://github.com/IQKV/sample-netflix-oss-usage) - Microservice architecture with Spring Boot, Eureka, Hystrix, Config Server, minikube and Docker.
 - [IQKV/quickstart-amqp-producing-hello](https://github.com/IQKV/quickstart-amqp-producing-hello) - Sample of AMQP producer app.
