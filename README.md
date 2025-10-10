@@ -37,7 +37,7 @@ I'm Dima, a backend developer with expertise in Java, Spring ecosystem, PHP, Jav
 
 ### 👷 Recent Contributions
 
-- [IQKV/standard-blank-ui-project-layout](https://github.com/IQKV/standard-blank-ui-project-layout) - FSD &#43; Vite &#43; ReactJS 19 &#43; Tanstack Router &#43; Tanstack Query
+- [IQKV/standard-maven-single-project-layout](https://github.com/IQKV/standard-maven-single-project-layout) - Standard Maven Single Module Project Layout
 - [GripDay/gripday-docs](https://github.com/GripDay/gripday-docs) - Project Documentation Website.
 - [GripDay/helm-charts](https://github.com/GripDay/helm-charts) - Helm Charts
 - [GripDay/operations-pipeline](https://github.com/GripDay/operations-pipeline) - This project aims to standardize CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
