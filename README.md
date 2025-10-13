@@ -37,9 +37,9 @@ I'm Dima, a backend developer with expertise in Java, Spring ecosystem, PHP, Jav
 
 ### 👷 Recent Contributions
 
+- [IQKV/boot-parent-pom](https://github.com/IQKV/boot-parent-pom) - Default configurations for complete dependency tree to quickly build Spring Boot project.
+- [dimdnk/standard-scaffolding-microservices-project-layout](https://github.com/dimdnk/standard-scaffolding-microservices-project-layout) - Scaffolding  Microservices Template
 - [IQKV/sample-lorem](https://github.com/IQKV/sample-lorem) - loripsum.net  text analyzer service.
-- [IQKV/sample-booking-demand-api-etl](https://github.com/IQKV/sample-booking-demand-api-etl) - Sample Spring Boot application that uses some features provided by Spring Cloud, deployed on Kubernetes.
 - [GripDay/system-design-documentation](https://github.com/GripDay/system-design-documentation) - marketing automation platform design documents
 - [KnowHowDevOps/homelab-operations-pipeline](https://github.com/KnowHowDevOps/homelab-operations-pipeline) - This project aims to standardize CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
-- [dimdnk/standard-scaffolding-microservices-project-layout](https://github.com/dimdnk/standard-scaffolding-microservices-project-layout) - Scaffolding  Microservices Template
 
