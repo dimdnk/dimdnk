@@ -1,12 +1,14 @@
 ## ☕ Dima Denisenko (Java Developer)
 
-➡️ Results-driven Software Engineer with 5+ years of experience architecting, developing, and optimizing Java-based SaaS web applications, ETL pipelines, batch/stream processing flows, and API-driven integrations.
+➡️ Results-driven Software Engineer with 5+ years of experience architecting, developing, and optimizing Java-based SaaS web applications, ETL pipelines, batch/stream processing flows, and
+API-driven integrations.
 
 ### ✴️ About Me:
 
 💼 Professional Summary
 
-- Senior Software Engineer skilled in **Java** 17+, **Spring** Framework ecosystem (Boot, Security, Data, Cloud, Batch, Mvc, WebFlux, etc), **Apache Camel**, **PHP**, **Symfony**, **ReactJS**, **Adobe Commerce**, **Docker/Kubernetes**, **Linux** Servers, and **Cloud** Services.
+- Senior Software Engineer skilled in **Java** 17+, **Spring** Framework ecosystem (Boot, Security, Data, Cloud, Batch, Mvc, WebFlux, etc), **Apache Camel**, **PHP**, **Symfony**, **ReactJS
+  **, **Adobe Commerce**, **Docker/Kubernetes**, **Linux** Servers, and **Cloud** Services.
 - Domain expertise: **e-commerce, finance, retail, travel**.
 - IT consultant for global firms on **digital transformation** and **cloud** adoption.
 - Skilled in building and optimizing **SDLC, QA/Automation, and DevOps** processes.
@@ -15,7 +17,8 @@
 
 🤖 AI & Workflow Innovation
 
-I am focused on exploring AI technologies to enhance Java development workflows. Currently, working with agents, **Model Context Protocols** (MCP), and automation tools like **n8n**. Integrating copilots and platforms like **Claude Code** to boost productivity and streamline backend processes.
+I am focused on exploring AI technologies to enhance Java development workflows. Currently, working with agents, **Model Context Protocols** (MCP), and automation tools like **n8n**.
+Integrating copilots and platforms like **Claude Code** to boost productivity and streamline backend processes.
 
 <hr>
 
@@ -43,14 +46,16 @@ I am focused on exploring AI technologies to enhance Java development workflows.
 **Java Developer, DataArt Solutions, Inc.** (2021 – 2025)
 
 - I was working on implementing an ETL engine using Spring Boot 3, Apache Camel, Mapstruct, Kafka Streams, and Hibernate (+ Postgres).
-- Build an enterprise product information management (PIM) software that provides a single place to collect, manage, and enrich product information, create a product catalog, and distribute it to sales and eCommerce channels.
+- Build an enterprise product information management (PIM) software that provides a single place to collect, manage, and enrich product information, create a product catalog, and distribute
+  it to sales and eCommerce channels.
 - Migrated 20+ applications from legacy Kubernetes instances to OpenShift 4, improving system scalability and reducing server costs
 - Implemented containerization strategies with a variety of *Jenkinsfile*s, *Dockerfile*s, podman
 - Developed monitoring and logging systems with Prometheus+Grafana+Loki+Promtail
 
 **Software Engineer, Amadeus IT Group SA** (2016 – 2021)
 
-- Designed and developed an internal extract-transform-load tool that ran in batch mode to gather descriptive static content from different sources (like REST APIs, sFTP, SOAP servers), transform it using XQuery, and finally load it to the third-party consumer.
+- Designed and developed an internal extract-transform-load tool that ran in batch mode to gather descriptive static content from different sources (like REST APIs, sFTP, SOAP servers),
+  transform it using XQuery, and finally load it to the third-party consumer.
 - Leading in the technical content of the system/functional/design specifications
 - Developing Java microservices using Spring Boot, Spring Cloud stack, Kafka, Couchbase, Kubernetes, and OpenShift.
 

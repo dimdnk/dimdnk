@@ -1967,7 +1967,8 @@
 ### · Java
 
 - [provectus/kafka-ui: Open-Source Web UI for Apache Kafka Management](https://github.com/provectus/kafka-ui)
-- [piomin/sample-spring-microservices-new: Demo for Spring Boot 3(`master` branch)/2(other branches) and Spring Cloud microservices with distributed configuration (Spring Cloud Config), service discovery (Eureka), API gateway (Spring Cloud Gateway, Zuul), Swagger/OpenAPI documentation (Springdoc), logs correlation using Spring Cloud Sleuth/Micrometer OTEL and many more](https://github.com/piomin/sample-spring-microservices-new)
+- [piomin/sample-spring-microservices-new: Demo for Spring Boot 3(
+  `master` branch)/2(other branches) and Spring Cloud microservices with distributed configuration (Spring Cloud Config), service discovery (Eureka), API gateway (Spring Cloud Gateway, Zuul), Swagger/OpenAPI documentation (Springdoc), logs correlation using Spring Cloud Sleuth/Micrometer OTEL and many more](https://github.com/piomin/sample-spring-microservices-new)
 - [https://github.com/afsalashyana/Spring-Boot-Tutorials/blob/master/LearnSpringSecurity/src/main/java/com/genuinecoder/learnspringsecurity/model/MyUserRepository.java](https://github.com/afsalashyana/Spring-Boot-Tutorials/blob/master/LearnSpringSecurity/src/main/java/com/genuinecoder/learnspringsecurity/model/MyUserRepository.java)
 - [Demystifying Kafka Exactly Once Semantics (EOS) | by Abhipranay Chauhan | HelloTech](https://engineering.hellofresh.com/demystifying-kafka-exactly-once-semantics-eos-390ae1c32bba?gi=3178a7e6ee7d)
 - [spring-reactive-jwt-sample/techstack.yml at master · hantsy/spring-reactive-jwt-sample](https://github.com/hantsy/spring-reactive-jwt-sample/blob/master/techstack.yml)
@@ -3135,7 +3136,8 @@
 
 ### HCM
 
-Modern HCM systems are focusing on improving the employee experience. From onboarding to career development, the aim is to boost retention and satisfaction by creating a more engaging workplace.
+Modern HCM systems are focusing on improving the employee experience. From onboarding to career development, the aim is to boost retention and satisfaction by creating a more engaging
+workplace.
 
 Top 10 HCM Tools
 

@@ -7,7 +7,8 @@
 
 - [standard-blank-project-layout](https://github.com/IQKV/standard-dotgithub-profile-layout): Blank Project Layout
 - [standard-dotgithub-profile-layout](https://github.com/IQKV/standard-dotgithub-profile-layout): Community Health Files Templates for GitHub Organization
-- [standard-docs-vitepress-project-layout](https://github.com/IQKV/standard-docs-vitepress-project-layout): Getting-started guidance, feature details, and API reference documentation template
+- [standard-docs-vitepress-project-layout](https://github.com/IQKV/standard-docs-vitepress-project-layout): Getting-started guidance, feature details, and API reference documentation
+  template
 - [standard-maven-single-project-layout](https://github.com/IQKV/standard-maven-single-project-layout): Standard Maven Project Layout
 - [standard-maven-multi-project-layout](https://github.com/IQKV/standard-maven-multi-project-layout): Maven Multi-Module Project Layout
 - [standard-blank-ui-project-layout](https://github.com/IQKV/standard-blank-ui-project-layout): React 19 Blank Project Layout
@@ -25,9 +26,11 @@
 
 ## 📜 Samples
 
-- [sample-booking-demand-api-etl](https://github.com/IQKV/sample-booking-demand-api-etl): kubernetes, rabbitmq, rest-api, amqp, graphql-server, swagger-ui, microservices-architecture, maven-multi-module
+- [sample-booking-demand-api-etl](https://github.com/IQKV/sample-booking-demand-api-etl): kubernetes, rabbitmq, rest-api, amqp, graphql-server, swagger-ui, microservices-architecture,
+  maven-multi-module
 - [sample-lorem](https://github.com/IQKV/sample-lorem): kafka,, sample-app, liquibase, postgresql-database, microservices-architecture, maven-multi-module
-- [sample-netflix-oss-usage](https://github.com/IQKV/sample-netflix-oss-usage): legacy, mysql, mongodb, fault-tolerance, service-discovery, spring-cloud, microservices-architecture, zipkin, cloud-design-pattern, maven-multi-module
+- [sample-netflix-oss-usage](https://github.com/IQKV/sample-netflix-oss-usage): legacy, mysql, mongodb, fault-tolerance, service-discovery, spring-cloud, microservices-architecture, zipkin,
+  cloud-design-pattern, maven-multi-module
 - [sample-bookstore-mvc-rest-api](https://github.com/IQKV/sample-bookstore-mvc-rest-api): rest-api, swagger-ui, liquibase, postgresql-database, testcontainers
 - [sample-reactive-crud-secured](https://github.com/IQKV/sample-reactive-crud-secured): spring-security, swagger-ui, postgresql-database, json-web-token, flyway-migrations, webflux-security
 - [sample-reactive-vaadin-chat](https://github.com/IQKV/sample-reactive-vaadin-chat): webflux, vaadin-flow
