@@ -1,7 +1,6 @@
 ## 👋 Welcome
 
-I'm Dima, a backend developer with expertise in Java, Spring ecosystem, PHP, JavaScript, Kubernetes, and cloud-native microservices. I thrive on building/integrating APIs, ETL, distributed
-systems, and event-driven architectures with Kafka and RabbitMQ.
+I'm Dima, a backend developer with expertise in Java, Spring ecosystem, PHP, JavaScript, Kubernetes, and cloud-native microservices. I thrive on building/integrating APIs, ETL, distributed systems, and event-driven architectures with Kafka and RabbitMQ.
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dimdnk)](https://www.linkedin.com/in/dimdnk)
 💎 [CV](CV.md) ([pdf](https://github.com/dimdnk/dimdnk/raw/refs/heads/dev/Denisenko_Dmitry_CV.pdf) / [docx](https://github.com/dimdnk/dimdnk/raw/refs/heads/dev/Denisenko_Dmitry_CV.docx)) •
@@ -38,10 +37,9 @@ systems, and event-driven architectures with Kafka and RabbitMQ.
 
 ### 👷 Recent Contributions
 
-- [IQKV/sample-booking-demand-api-etl](https://github.com/IQKV/sample-booking-demand-api-etl) - Sample Spring Boot application that uses some features provided by Spring Cloud, deployed on
-  Kubernetes.
-- [IQKV/standard-mantine-ui-project-layout](https://github.com/IQKV/standard-mantine-ui-project-layout) - Vite &#43; ReactJS 19 &#43; Tanstack Router &#43; Tanstack Query &#43; Mantine UI
-  &#43; FSD Architecture
-- [dimdnk/standard-scaffolding-microservices-project-layout](https://github.com/dimdnk/standard-scaffolding-microservices-project-layout) - Scaffolding Microservices Template
-- [IQKV/boot-parent-pom](https://github.com/IQKV/boot-parent-pom) - Default configurations for complete dependency tree to quickly build Spring Boot project.
-- [IQKV/sample-lorem](https://github.com/IQKV/sample-lorem) - loripsum.net text analyzer service.
+- [IQKV/standard-maven-single-project-layout](https://github.com/IQKV/standard-maven-single-project-layout) - Standard Maven Single Module Project Layout
+- [GripDay/gripday-docs](https://github.com/GripDay/gripday-docs) - Project Documentation Website.
+- [IQKV/sample-booking-demand-api-etl](https://github.com/IQKV/sample-booking-demand-api-etl) - Sample Spring Boot application that uses some features provided by Spring Cloud, deployed on Kubernetes.
+- [GripDay/helm-charts](https://github.com/GripDay/helm-charts) - Helm Charts
+- [IQKV/quickstart-amqp-producing-hello](https://github.com/IQKV/quickstart-amqp-producing-hello) - Sample of AMQP producer app.
+
