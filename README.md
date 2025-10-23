@@ -37,7 +37,7 @@ I'm Dima, a backend developer with expertise in Java, Spring ecosystem, PHP, Jav
 
 ### 👷 Recent Contributions
 
-- [IQKV/quickstart-mvc-rest-hello-world](https://github.com/IQKV/quickstart-mvc-rest-hello-world) - Minimal Spring Boot based RESTful &#39;Hello World&#39; example, including Swagger.
+- [dimdnk/dotfiles](https://github.com/dimdnk/dotfiles) - This contain my personal config files.
 - [IQKV/sample-lorem](https://github.com/IQKV/sample-lorem) - loripsum.net  text analyzer service.
 - [IQKV/sample-booking-demand-api-etl](https://github.com/IQKV/sample-booking-demand-api-etl) - Sample Spring Boot application that uses some features provided by Spring Cloud, deployed on Kubernetes.
 - [GripDay/helm-charts](https://github.com/GripDay/helm-charts) - Helm Charts
