@@ -39,7 +39,7 @@ I'm Dima, a backend developer with expertise in Java, Spring ecosystem, PHP, Jav
 
 - [IQKV/standard-mantine-ui-project-layout](https://github.com/IQKV/standard-mantine-ui-project-layout) - Vite &#43; ReactJS 19 &#43; Tanstack Router &#43; Tanstack Query &#43; Mantine UI &#43; FSD Architecture
 - [GripDay/gripday-docs](https://github.com/GripDay/gripday-docs) - Project Documentation Website.
-- [IQKV/sample-reactive-crud-secured](https://github.com/IQKV/sample-reactive-crud-secured) - Minimal Spring Boot based reactive app example, which manages user entity (including Swagger UI).
+- [IQKV/quickstart-kafka-consuming-hello](https://github.com/IQKV/quickstart-kafka-consuming-hello) - Minimal Spring Boot based sample of Kafka consumer app.
 - [IQKV/standard-blank-ui-project-layout](https://github.com/IQKV/standard-blank-ui-project-layout) - FSD &#43; Vite &#43; ReactJS 19 &#43; Tanstack Router &#43; Tanstack Query
 - [IQKV/sample-netflix-oss-usage](https://github.com/IQKV/sample-netflix-oss-usage) - Microservice architecture with Spring Boot, Eureka, Hystrix, Config Server, minikube and Docker.
 
