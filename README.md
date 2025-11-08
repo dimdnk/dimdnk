@@ -37,9 +37,9 @@ I'm Dima, a backend developer with expertise in Java, Spring ecosystem, PHP, Jav
 
 ### 👷 Recent Contributions
 
-- [GripDay/gripday-docs](https://github.com/GripDay/gripday-docs) - Project Documentation Website.
 - [IQKV/boot-parent-pom](https://github.com/IQKV/boot-parent-pom) - Default configurations for complete dependency tree to quickly build Spring Boot project.
-- [KnowHowDevOps/homelab-operations-pipeline](https://github.com/KnowHowDevOps/homelab-operations-pipeline) - This project aims to standardize CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
+- [IQKV/checkstyle-config](https://github.com/IQKV/checkstyle-config) - Checkstyle configuration.
+- [GripDay/gripday-docs](https://github.com/GripDay/gripday-docs) - Project Documentation Website.
 - [IQKV/standard-mantine-ui-project-layout](https://github.com/IQKV/standard-mantine-ui-project-layout) - Vite &#43; ReactJS 19 &#43; Tanstack Router &#43; Tanstack Query &#43; Mantine UI &#43; FSD Architecture
-- [IQKV/misc-util](https://github.com/IQKV/misc-util) - Miscellaneous Utilities
+- [KnowHowDevOps/homelab-operations-pipeline](https://github.com/KnowHowDevOps/homelab-operations-pipeline) - This project aims to standardize CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
 
