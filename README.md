@@ -37,9 +37,9 @@ I'm Dima, a backend developer with expertise in Java, Spring ecosystem, PHP, Jav
 
 ### 👷 Recent Contributions
 
-- [GripDay/helm-charts](https://github.com/GripDay/helm-charts) - Helm Charts
-- [dimdnk/dotfiles](https://github.com/dimdnk/dotfiles) - This contain my personal config files.
 - [GripDay/operations-pipeline](https://github.com/GripDay/operations-pipeline) - This project aims to standardize CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
-- [GripDay/gripday](https://github.com/GripDay/gripday) - Open-Core Marketing Automation Platform
-- [GripDay/.github](https://github.com/GripDay/.github) - GitHub Organization profile repository.
+- [KnowHowDevOps/homelab-public-assets](https://github.com/KnowHowDevOps/homelab-public-assets) - Homelab Public Assets.
+- [dimdnk/dotfiles](https://github.com/dimdnk/dotfiles) - This contain my personal config files.
+- [IQKV/misc-util](https://github.com/IQKV/misc-util) - Miscellaneous Utilities
+- [IQKV/.github](https://github.com/IQKV/.github) - README repository.
 
