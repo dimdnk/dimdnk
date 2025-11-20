@@ -38,7 +38,7 @@ I'm Dima, a backend developer with expertise in Java, Spring ecosystem, PHP, Jav
 ### 👷 Recent Contributions
 
 - [KnowHowDevOps/homelab-operations-pipeline](https://github.com/KnowHowDevOps/homelab-operations-pipeline) - This project aims to standardize CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
-- [IQKV/sample-lorem](https://github.com/IQKV/sample-lorem) - loripsum.net  text analyzer service.
+- [IQKV/quickstart-amqp-producing-hello](https://github.com/IQKV/quickstart-amqp-producing-hello) - Sample of AMQP producer app.
 - [IQKV/sample-booking-demand-api-etl](https://github.com/IQKV/sample-booking-demand-api-etl) - Sample Spring Boot application that uses some features provided by Spring Cloud, deployed on Kubernetes.
 - [IQKV/standard-blank-ui-project-layout](https://github.com/IQKV/standard-blank-ui-project-layout) - FSD &#43; Vite &#43; ReactJS 19 &#43; Tanstack Router &#43; Tanstack Query
 - [IQKV/sample-netflix-oss-usage](https://github.com/IQKV/sample-netflix-oss-usage) - Microservice architecture with Spring Boot, Eureka, Hystrix, Config Server, minikube and Docker.
