@@ -37,9 +37,9 @@ I'm Dima, a backend developer with expertise in Java, Spring ecosystem, PHP, Jav
 
 ### 👷 Recent Contributions
 
+- [KnowHowDevOps/homelab-operations-pipeline](https://github.com/KnowHowDevOps/homelab-operations-pipeline) - This project aims to standardize CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
 - [IQKV/standard-mantine-ui-project-layout](https://github.com/IQKV/standard-mantine-ui-project-layout) - Vite &#43; ReactJS 19 &#43; Tanstack Router &#43; Tanstack Query &#43; Mantine UI &#43; FSD Architecture
-- [IQKV/quickstart-jpa-jwt-secured](https://github.com/IQKV/quickstart-jpa-jwt-secured) - JWT-based Spring security REST API.
-- [IQKV/sample-booking-demand-api-etl](https://github.com/IQKV/sample-booking-demand-api-etl) - Sample Spring Boot application that uses some features provided by Spring Cloud, deployed on Kubernetes.
-- [GripDay/operations-pipeline](https://github.com/GripDay/operations-pipeline) - This project aims to standardize CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
-- [IQKV/sample-netflix-oss-usage](https://github.com/IQKV/sample-netflix-oss-usage) - Microservice architecture with Spring Boot, Eureka, Hystrix, Config Server, minikube and Docker.
+- [IQKV/ui-starter-integration-to-microservices-backend](https://github.com/IQKV/ui-starter-integration-to-microservices-backend) - A production-ready template demonstrating user management, dashboard analytics, and security features with integration to microservices backend.
+- [IQKV/standard-blank-ui-project-layout](https://github.com/IQKV/standard-blank-ui-project-layout) - FSD &#43; Vite &#43; ReactJS 19 &#43; Tanstack Router &#43; Tanstack Query
+- [IQKV/ui-starter-dedicated-authentication-portal](https://github.com/IQKV/ui-starter-dedicated-authentication-portal) - This project serves as a starting point for developing an authentication portal for SAAS applications, providing a solid foundation with modern patterns and best practices.
 
