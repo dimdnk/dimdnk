@@ -38,8 +38,8 @@ I'm Dima, a backend developer with expertise in Java, Spring ecosystem, PHP, Jav
 ### 👷 Recent Contributions
 
 - [IQKV/quickstart-microservices-platform](https://github.com/IQKV/quickstart-microservices-platform) - Production-ready Spring Boot microservices platform demonstrating modern architecture patterns, security best practices, and operational excellence for building scalable distributed systems.
+- [IQKV/ui-starter-dedicated-authentication-portal](https://github.com/IQKV/ui-starter-dedicated-authentication-portal) - This project serves as a starting point for developing an authentication portal for SAAS applications, providing a solid foundation with modern patterns and best practices.
 - [IQKV/sample-netflix-oss-usage](https://github.com/IQKV/sample-netflix-oss-usage) - Microservice architecture with Spring Boot, Eureka, Hystrix, Config Server, minikube and Docker.
-- [IQKV/sample-microservices-bookstore](https://github.com/IQKV/sample-microservices-bookstore) - Domain service demonstrating catalog and inventory management with DDD patterns.
 - [IQKV/standard-blank-ui-project-layout](https://github.com/IQKV/standard-blank-ui-project-layout) - FSD &#43; Vite &#43; ReactJS 19 &#43; Tanstack Router &#43; Tanstack Query
 - [IQKV/sample-lorem](https://github.com/IQKV/sample-lorem) - loripsum.net  text analyzer service.
 
