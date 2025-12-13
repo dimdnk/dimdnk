@@ -41,5 +41,5 @@ I'm Dima, a backend developer with expertise in Java, Spring ecosystem, PHP, Jav
 - [IQKV/ui-starter-integration-to-microservices-backend](https://github.com/IQKV/ui-starter-integration-to-microservices-backend) - A production-ready template demonstrating user management, dashboard analytics, and security features with integration to microservices backend.
 - [IQKV/boot-parent-pom](https://github.com/IQKV/boot-parent-pom) - Default configurations for complete dependency tree to quickly build Spring Boot project.
 - [IQKV/ui-starter-dedicated-authentication-portal](https://github.com/IQKV/ui-starter-dedicated-authentication-portal) - This project serves as a starting point for developing an authentication portal for SAAS applications, providing a solid foundation with modern patterns and best practices.
-- [IQKV/quickstart-amqp-consuming-hello](https://github.com/IQKV/quickstart-amqp-consuming-hello) - Minimal Spring Boot based sample of AMQP consumer app.
+- [IQKV/sample-netflix-oss-usage](https://github.com/IQKV/sample-netflix-oss-usage) - Microservice architecture with Spring Boot, Eureka, Hystrix, Config Server, minikube and Docker.
 
