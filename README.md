@@ -37,9 +37,9 @@ I'm Dima, a backend developer with expertise in Java, Spring ecosystem, PHP, Jav
 
 ### 👷 Recent Contributions
 
-- [ImperaHCM/.github](https://github.com/ImperaHCM/.github) - GitHub Organization profile repository.
 - [IQKV/ui-starter-app-portal](https://github.com/IQKV/ui-starter-app-portal) - A production-ready template demonstrating user management, dashboard analytics, and security features with integration to microservices backend.
+- [IQKV/quickstart-microservices-platform](https://github.com/IQKV/quickstart-microservices-platform) - Production-ready Spring Boot microservices platform demonstrating modern architecture patterns, security best practices, and operational excellence for building scalable distributed systems.
+- [GripDay/helm-charts](https://github.com/GripDay/helm-charts) - Helm Charts
 - [IQKV/sample-ui-billing-api-integration](https://github.com/IQKV/sample-ui-billing-api-integration) - Subscription and Billing feature provide subscription lifecycle management, payment processing, usage tracking, and customer self-service capabilities.
-- [IQKV/ui-starter-auth-portal](https://github.com/IQKV/ui-starter-auth-portal) - This project serves as a starting point for developing an authentication portal for SAAS applications, providing a solid foundation with modern patterns and best practices.
-- [KnowHowDevOps/homelab-operations-pipeline](https://github.com/KnowHowDevOps/homelab-operations-pipeline) - This project aims to standardize CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
+- [ImperaHCM/.github](https://github.com/ImperaHCM/.github) - GitHub Organization profile repository.
 
