@@ -37,9 +37,9 @@ I'm Dima, a backend developer with expertise in Java, Spring ecosystem, PHP, Jav
 
 ### 👷 Recent Contributions
 
+- [IQKV/sample-tactical-ddd-microservices-billing](https://github.com/IQKV/sample-tactical-ddd-microservices-billing) - Sample of subscription billing and usage metering service integration.
 - [IQKV/sample-ui-billing-api-integration](https://github.com/IQKV/sample-ui-billing-api-integration) - Subscription and Billing feature provide subscription lifecycle management, payment processing, usage tracking, and customer self-service capabilities.
-- [IQKV/quickstart-ui-auth-portal](https://github.com/IQKV/quickstart-ui-auth-portal) - This project serves as a starting point for developing an authentication portal for SAAS applications, providing a solid foundation with modern patterns and best practices.
-- [IQKV/quickstart-ui-app-portal](https://github.com/IQKV/quickstart-ui-app-portal) - A production-ready template demonstrating user management, dashboard analytics, and security features with integration to microservices backend.
+- [IQKV/sample-reactive-vaadin-chat](https://github.com/IQKV/sample-reactive-vaadin-chat) - Sample of Chat application on top of Vaadin.
 - [IQKV/boot-parent-pom](https://github.com/IQKV/boot-parent-pom) - Default configurations for complete dependency tree to quickly build Spring Boot project.
-- [IQKV/sample-lorem](https://github.com/IQKV/sample-lorem) - loripsum.net  text analyzer service.
+- [IQKV/quickstart-ui-app-portal](https://github.com/IQKV/quickstart-ui-app-portal) - A production-ready template demonstrating user management, dashboard analytics, and security features with integration to microservices backend.
 
