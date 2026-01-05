@@ -37,9 +37,9 @@ I'm Dima, a backend developer with expertise in Java, Spring ecosystem, PHP, Jav
 
 ### 👷 Recent Contributions
 
-- [IQKV/quickstart-ui-app-portal](https://github.com/IQKV/quickstart-ui-app-portal) - A production-ready template demonstrating user management, dashboard analytics, and security features with integration to microservices backend.
-- [IQKV/quickstart-ui-auth-portal](https://github.com/IQKV/quickstart-ui-auth-portal) - This project serves as a starting point for developing an authentication portal for SAAS applications, providing a solid foundation with modern patterns and best practices.
-- [IQKV/sample-tactical-ddd-microservices-billing](https://github.com/IQKV/sample-tactical-ddd-microservices-billing) - Sample of subscription billing and usage metering service integration.
-- [IQKV/boot-parent-pom](https://github.com/IQKV/boot-parent-pom) - Default configurations for complete dependency tree to quickly build Spring Boot project.
-- [IQKV/sample-ui-billing-api-integration](https://github.com/IQKV/sample-ui-billing-api-integration) - Subscription and Billing feature provide subscription lifecycle management, payment processing, usage tracking, and customer self-service capabilities.
+- [IQKV/quickstart-amqp-consuming-hello](https://github.com/IQKV/quickstart-amqp-consuming-hello) - Minimal Spring Boot based sample of AMQP consumer app.
+- [IQKV/sample-webmvc-dashboard](https://github.com/IQKV/sample-webmvc-dashboard) - WebMvc REST API with user auth/management
+- [IQKV/standard-maven-single-project-layout](https://github.com/IQKV/standard-maven-single-project-layout) - Standard Maven Single Module Project Layout
+- [IQKV/sample-microservices-bookstore](https://github.com/IQKV/sample-microservices-bookstore) - Domain service demonstrating catalog and inventory management with DDD patterns.
+- [IQKV/sample-bookstore-mvc-rest-api](https://github.com/IQKV/sample-bookstore-mvc-rest-api) - Sample book store REST API service using Spring Boot (backend).
 
