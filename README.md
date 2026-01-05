@@ -37,9 +37,9 @@ I'm Dima, a backend developer with expertise in Java, Spring ecosystem, PHP, Jav
 
 ### 👷 Recent Contributions
 
-- [IQKV/quickstart-amqp-consuming-hello](https://github.com/IQKV/quickstart-amqp-consuming-hello) - Minimal Spring Boot based sample of AMQP consumer app.
+- [IQKV/boot-parent-pom](https://github.com/IQKV/boot-parent-pom) - Default configurations for complete dependency tree to quickly build Spring Boot project.
 - [IQKV/sample-webmvc-dashboard](https://github.com/IQKV/sample-webmvc-dashboard) - WebMvc REST API with user auth/management
 - [IQKV/standard-maven-single-project-layout](https://github.com/IQKV/standard-maven-single-project-layout) - Standard Maven Single Module Project Layout
 - [IQKV/sample-microservices-bookstore](https://github.com/IQKV/sample-microservices-bookstore) - Domain service demonstrating catalog and inventory management with DDD patterns.
-- [IQKV/sample-bookstore-mvc-rest-api](https://github.com/IQKV/sample-bookstore-mvc-rest-api) - Sample book store REST API service using Spring Boot (backend).
+- [IQKV/sample-netflix-oss-usage](https://github.com/IQKV/sample-netflix-oss-usage) - Microservice architecture with Spring Boot, Eureka, Hystrix, Config Server, minikube and Docker.
 
