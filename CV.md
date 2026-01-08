@@ -43,7 +43,7 @@ Integrating copilots and platforms like **Claude Code** to boost productivity an
 
 ### 🔖 Experience
 
-**Java Developer, DataArt Solutions, Inc.** (2021 – 2025)
+**Java Developer, DataArt Solutions, Inc.** (2021 - 2025)
 
 - I was working on implementing an ETL engine using Spring Boot 3, Apache Camel, Mapstruct, Kafka Streams, and Hibernate (+ Postgres).
 - Build an enterprise product information management (PIM) software that provides a single place to collect, manage, and enrich product information, create a product catalog, and distribute
@@ -52,14 +52,14 @@ Integrating copilots and platforms like **Claude Code** to boost productivity an
 - Implemented containerization strategies with a variety of *Jenkinsfile*s, *Dockerfile*s, podman
 - Developed monitoring and logging systems with Prometheus+Grafana+Loki+Promtail
 
-**Software Engineer, Amadeus IT Group SA** (2016 – 2021)
+**Software Engineer, Amadeus IT Group SA** (2016 - 2021)
 
 - Designed and developed an internal extract-transform-load tool that ran in batch mode to gather descriptive static content from different sources (like REST APIs, sFTP, SOAP servers),
   transform it using XQuery, and finally load it to the third-party consumer.
 - Leading in the technical content of the system/functional/design specifications
 - Developing Java microservices using Spring Boot, Spring Cloud stack, Kafka, Couchbase, Kubernetes, and OpenShift.
 
-**Tech Lead/Co-founder , WellCart** (2012 – 2016)
+**Tech Lead/Co-founder , WellCart** (2012 - 2016)
 
 - Create open-source components for web applications to reduce overhead and shorten Zend Framework projects' lifecycle
 - Helped companies to handle complex technical and design problems related to the full stack web development using PHP products
