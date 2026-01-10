@@ -37,9 +37,9 @@ I'm Dima, a backend developer with expertise in Java, Spring ecosystem, PHP, Jav
 
 ### 👷 Recent Contributions
 
-- [IQKV/quickstart-microservices-platform](https://github.com/IQKV/quickstart-microservices-platform) - Production-ready Spring Boot microservices platform demonstrating modern architecture patterns, security best practices, and operational excellence for building scalable distributed systems.
-- [IQKV/sample-tactical-ddd-microservices-billing](https://github.com/IQKV/sample-tactical-ddd-microservices-billing) - Sample of subscription billing and usage metering service integration.
-- [GripDay/.github](https://github.com/GripDay/.github) - GitHub Organization profile repository.
-- [KnowHowDevOps/homelab-operations-pipeline](https://github.com/KnowHowDevOps/homelab-operations-pipeline) - This project aims to standardize CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
 - [IQKV/quickstart-ui-auth-portal](https://github.com/IQKV/quickstart-ui-auth-portal) - This project serves as a starting point for developing an authentication portal for SAAS applications, providing a solid foundation with modern patterns and best practices.
+- [IQKV/sample-tactical-ddd-microservices-billing](https://github.com/IQKV/sample-tactical-ddd-microservices-billing) - Sample of subscription billing and usage metering service integration.
+- [IQKV/sample-microservices-bookstore](https://github.com/IQKV/sample-microservices-bookstore) - Domain service demonstrating catalog and inventory management with DDD patterns.
+- [IQKV/quickstart-microservices-platform](https://github.com/IQKV/quickstart-microservices-platform) - Production-ready Spring Boot microservices platform demonstrating modern architecture patterns, security best practices, and operational excellence for building scalable distributed systems.
+- [IQKV/quickstart-ui-app-portal](https://github.com/IQKV/quickstart-ui-app-portal) - A production-ready template demonstrating user management, dashboard analytics, and security features with integration to microservices backend.
 
