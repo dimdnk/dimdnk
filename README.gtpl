@@ -23,7 +23,7 @@ I'm Dima, a backend developer with expertise in Java, Spring ecosystem, PHP, Jav
 
 ### 🔗 Quick Links
 
-- 🧪 [Homelab powered by K8s](https://knowhowto.dev/)
+- 🧪 [My Homelab powered by K8s](https://knowhowto.dev/)
 - 📚 [I use Git Workflow Policy](git-workflow-policy.md)
 - 🏆 [Preferable Code Quality Guidelines](code-quality-guidelines.md)
 - 🔖 [Bookmarks](bookmarks-index.md)
