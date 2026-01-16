@@ -1,6 +1,6 @@
 ## ☕ Dima Denisenko (Java Developer)
 
-➡️ Results-driven Software Engineer with 5+ years of experience architecting, developing, and optimizing Java-based SaaS web applications, ETL pipelines, batch/stream processing flows, and
+➡️ Results-driven Software Engineer with 6+ years of experience architecting, developing, and optimizing Java-based SaaS web applications, ETL pipelines, batch/stream processing flows, and
 API-driven integrations.
 
 ### ✴️ About Me:
@@ -61,33 +61,25 @@ Integrating copilots and platforms like **Claude Code** to boost productivity an
 
 **Tech Lead/Co-founder , WellCart** (2012 - 2016)
 
-- Create open-source components for web applications to reduce overhead and shorten Zend Framework projects' lifecycle
-- Helped companies to handle complex technical and design problems related to the full stack web development using PHP products
+- Created open-source components for web applications to reduce overhead and shorten Zend Framework projects' lifecycle
+- Solved complex technical and architectural challenges across eCommerce applications, specializing in PHP, Doctrine ORM, and Zend Framework.
 
 **PHP Developer, Hypnotic Response** (2013 - 2015)
 
-Pic-Cha Project
-
-- Full rewriting legacy code in media sharing startup, photo hosting;
-- Build & deploy on Amazon EC2 with enabling S3, CloudFront, CloudWatch;
-- Implementing Facebook API, Twitter API, Paypal API integration;
-- Develop JSON REST API for the mobile client, push notification systems based on Google Cloud Messaging & Apple APN;
-- Scaling & sharding databases;
+Delivered numerous full‑stack, high‑quality solutions across Slim, Symfony, Zend, and Ruby on Rails projects.
 
 **Team Lead & PHP Developer, MSL** (2011 - 2012)
 
-- Evobet platform was launched to give users the possibility to create their own betting ground and make their experience profitable.
-- The project is built in PHP and leveraged the Mysql, Zend Framework, Redis, Memcached, JQuery, and MarionetteJs.
-- Uses flexible, modular, multi-tenant single instance architecture
-- Includes a powerful payment gateway integration framework.
+Played a key role in launching the Evobet platform, delivering full‑stack PHP/Zend services
+with RabbitMQ‑driven workflows and Redis‑backed caching to support betting environments.
 
 **PHP Developer, Magento** 2009 - 2011
 
-- Develop and customize Magento modules to enhance user experience and functionality;
-- Integrate third-party APIs and services to extend Magento platform capabilities;
-- Optimize Magento performance using caching, indexing, and database tuning techniques;
-- Collaborate with UX/UI designers to implement responsive and accessible web designs;
-- Implement automated testing frameworks to ensure code quality and reliability;
+- Built and customized Magento 1 modules
+- Integrated third‑party APIs
+- Improved performance with caching, indexing, and DB tuning
+- Delivered responsive, accessible UX/UI
+- Added automated testing for reliability
 
 ### 💼 Skills
 
