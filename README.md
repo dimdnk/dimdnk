@@ -23,7 +23,7 @@ I'm Dima, a backend developer with expertise in Java, Spring ecosystem, PHP, Jav
 
 ### 🔗 Quick Links
 
-- 🧪 [Homelab powered by K8s](https://knowhowto.dev/)
+- 🧪 [My Homelab powered by K8s](https://knowhowto.dev/)
 - 📚 [I use Git Workflow Policy](git-workflow-policy.md)
 - 🏆 [Preferable Code Quality Guidelines](code-quality-guidelines.md)
 - 🔖 [Bookmarks](bookmarks-index.md)
@@ -38,8 +38,8 @@ I'm Dima, a backend developer with expertise in Java, Spring ecosystem, PHP, Jav
 ### 👷 Recent Contributions
 
 - [IQKV/boot-parent-pom](https://github.com/IQKV/boot-parent-pom) - Default configurations for complete dependency tree to quickly build Spring Boot project.
-- [IQKV/standard-maven-multi-project-layout](https://github.com/IQKV/standard-maven-multi-project-layout) - Standard Maven Multi-Module Project Layout
 - [IQKV/standard-maven-single-project-layout](https://github.com/IQKV/standard-maven-single-project-layout) - Standard Maven Single Module Project Layout
+- [IQKV/standard-maven-multi-project-layout](https://github.com/IQKV/standard-maven-multi-project-layout) - Standard Maven Multi-Module Project Layout
 - [IQKV/quickstart-microservices-platform](https://github.com/IQKV/quickstart-microservices-platform) - Production-ready Spring Boot microservices platform demonstrating modern architecture patterns, security best practices, and operational excellence for building scalable distributed systems.
 - [IQKV/quickstart-ui-app-portal](https://github.com/IQKV/quickstart-ui-app-portal) - A production-ready template demonstrating user management, dashboard analytics, and security features with integration to microservices backend.
 
