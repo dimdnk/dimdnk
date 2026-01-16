@@ -54,7 +54,7 @@ Integrating copilots and platforms like **Claude Code** to boost productivity an
 
 **Founder and Technologist, IQ Key Value Foundation** (2021 - Present)
 
-Leading the IQKV software platform and coordinating services that support full‑stack SaaS development and custom API integrations.
+- Leading the IQKV software platform and coordinating services that support full‑stack SaaS development and custom API integrations.
 
 **Software Engineer, Amadeus IT Group SA** (2016 - 2021)
 
@@ -70,7 +70,7 @@ Leading the IQKV software platform and coordinating services that support full�
 
 **PHP Developer, Hypnotic Response** (2013 - 2015)
 
-Delivered numerous full‑stack, high‑quality solutions across Slim, Symfony, Zend, and Ruby on Rails projects.
+- Delivered numerous full‑stack, high‑quality solutions across Slim, Symfony, Zend, and Ruby on Rails projects.
 
 **Team Lead & PHP Developer, MSL** (2011 - 2012)
 
