@@ -52,6 +52,10 @@ Integrating copilots and platforms like **Claude Code** to boost productivity an
 - Implemented containerization strategies with a variety of *Jenkinsfile*s, *Dockerfile*s, podman
 - Developed monitoring and logging systems with Prometheus+Grafana+Loki+Promtail
 
+**Founder and Technologist, IQ Key Value Foundation** (2021 - Present)
+
+Leading the IQKV software platform and coordinating services that support full‑stack SaaS development and custom API integrations.
+
 **Software Engineer, Amadeus IT Group SA** (2016 - 2021)
 
 - Designed and developed an internal extract-transform-load tool that ran in batch mode to gather descriptive static content from different sources (like REST APIs, sFTP, SOAP servers),
