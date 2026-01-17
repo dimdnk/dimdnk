@@ -9,7 +9,7 @@ I'm Dima, a Platform Engineer with 15+ years in IT, specialising in full-stack, 
 
 ### 💻 Skills & Technologies
 
-- **Backend**: Java, Spring, PHP, Symfony, NodeJS, PostgreSQL, MySQL, MongoDB, Redis
+- **Backend**: Java, Spring, NodeJS, PHP, Symfony, Laravel, PostgreSQL, MySQL, MongoDB, Redis
 - **Infrastructure**: Kubernetes, Docker, cloud services, observability (Prometheus, Grafana, ELK)
 - **Messaging & APIs**: Kafka, RabbitMQ, REST, GraphQL, gRPC
 - **Frontend**: JavaScript, TypeScript, React
