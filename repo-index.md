@@ -4,7 +4,7 @@
 - [dotfiles](https://github.com/dimdnk/dotfiles): contain my personal config files.
 
 ## 🧰 GitHub Org Templates
-
+- [quickstart-microservices-platform](https://github.com/IQKV/quickstart-microservices-platform): Production-ready Spring Boot microservices platform demonstrating modern architecture patterns, security best practices, and operational excellence for building scalable distributed systems.
 - [standard-blank-project-layout](https://github.com/IQKV/standard-dotgithub-profile-layout): Blank Project Layout
 - [standard-dotgithub-profile-layout](https://github.com/IQKV/standard-dotgithub-profile-layout): Community Health Files Templates for GitHub Organization
 - [standard-docs-vitepress-project-layout](https://github.com/IQKV/standard-docs-vitepress-project-layout): Getting-started guidance, feature details, and API reference documentation
