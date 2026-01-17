@@ -3,7 +3,7 @@
 I'm Dima, a backend developer with expertise in Java, Spring ecosystem, PHP, JavaScript, Kubernetes, and cloud-native microservices. I thrive on building/integrating APIs, ETL, distributed systems, and event-driven architectures with Kafka and RabbitMQ.
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dimdnk)](https://www.linkedin.com/in/dimdnk)
-💎 [CV](CV.md) ([pdf](https://github.com/dimdnk/dimdnk/raw/refs/heads/dev/Denisenko_Dmitry_CV.pdf) / [docx](https://github.com/dimdnk/dimdnk/raw/refs/heads/dev/Denisenko_Dmitry_CV.docx)) •
+💎 [My Resume](CV.md) ([pdf](https://github.com/dimdnk/dimdnk/raw/refs/heads/dev/Denisenko_Dmitry_CV.pdf) / [docx](https://github.com/dimdnk/dimdnk/raw/refs/heads/dev/Denisenko_Dmitry_CV.docx)) •
 🏠 [Homepage](https://dimdnk.com/) •
 📂 [My public Repositories](repo-index.md)
 
