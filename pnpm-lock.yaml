@@ -30,11 +30,11 @@ importers:
         specifier: ^16.2.7
         version: 16.2.7
       prettier:
-        specifier: 3.7.4
-        version: 3.7.4
+        specifier: 3.8.0
+        version: 3.8.0
       prettier-plugin-packagejson:
         specifier: 2.5.20
-        version: 2.5.20(prettier@3.7.4)
+        version: 2.5.20(prettier@3.8.0)
       release-it:
         specifier: ^19.2.3
         version: 19.2.3(@types/node@24.9.1)
@@ -1838,8 +1838,8 @@ packages:
       prettier:
         optional: true
 
-  prettier@3.7.4:
-    resolution: {integrity: sha512-v6UNi1+3hSlVvv8fSaoUbggEM5VErKmmpGA7Pl3HF8V6uKY7rvClBOJlH6yNwQtfTueNkGVpOv/mtWL9L4bgRA==}
+  prettier@3.8.0:
+    resolution: {integrity: sha512-yEPsovQfpxYfgWNhCfECjG5AQaO+K3dp6XERmOepyPDVqcJm+bjyCVO3pmU+nAPe0N5dDvekfGezt/EIiRe1TA==}
     engines: {node: '>=14'}
     hasBin: true
 
@@ -2155,6 +2155,7 @@ packages:
   tar@6.2.1:
     resolution: {integrity: sha512-DZ4yORTwrbTj/7MZYq2w+/ZFdI6OZ/f9SFHR+71gIVUZhOQPHzVCLpvRnPgyaMpfWxxk/4ONva3GQSyNIKRv6A==}
     engines: {node: '>=10'}
+    deprecated: Old versions of tar are not supported, and contain widely publicized security vulnerabilities, which have been fixed in the current version. Please update. Support for old versions may be purchased (at exhorbitant rates) by contacting i@izs.me
 
   text-extensions@2.4.0:
     resolution: {integrity: sha512-te/NtwBwfiNRLf9Ijqx3T0nlqZiQ2XrrtBvu+cLL8ZRrGkO0NHTug8MYFKyoSrv/sHTaSKfilUkizV6XhxMJ3g==}
@@ -4169,14 +4170,14 @@ snapshots:
       picocolors: 1.1.1
       source-map-js: 1.2.1
 
-  prettier-plugin-packagejson@2.5.20(prettier@3.7.4):
+  prettier-plugin-packagejson@2.5.20(prettier@3.8.0):
     dependencies:
       sort-package-json: 3.5.0
       synckit: 0.11.11
     optionalDependencies:
-      prettier: 3.7.4
+      prettier: 3.8.0
 
-  prettier@3.7.4: {}
+  prettier@3.8.0: {}
 
   pretty-ms@9.3.0:
     dependencies:
