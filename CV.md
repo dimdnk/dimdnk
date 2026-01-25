@@ -1,5 +1,7 @@
 ## ☕ Dima Denisenko (Java Developer)
 
+📑 [Download](https://github.com/dimdnk/dimdnk/raw/refs/heads/dev/CV_Java_Denisenko_Dmitry.pdf)
+
 ➡️ Results-driven Software Engineer with 6+ years of experience architecting, developing, and optimizing Java-based SaaS web applications, ETL pipelines, batch/stream processing flows, and
 API-driven integrations.
 
