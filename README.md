@@ -37,9 +37,9 @@ I'm Dima, a Platform Engineer with 15+ years in IT, specialising in full-stack, 
 
 ### 👷 Recent Contributions
 
-- [IQKV/quickstart-ui-app-portal](https://github.com/IQKV/quickstart-ui-app-portal) - A production-ready template demonstrating user management, dashboard analytics, and security features with integration to microservices backend.
-- [IQKV/checkstyle-config](https://github.com/IQKV/checkstyle-config) - Checkstyle configuration.
-- [IQKV/boot-parent-pom](https://github.com/IQKV/boot-parent-pom) - Default configurations for complete dependency tree to quickly build Spring Boot project.
-- [IQKV/quickstart-microservices-platform](https://github.com/IQKV/quickstart-microservices-platform) - Production-ready Spring Boot microservices platform demonstrating modern architecture patterns, security best practices, and operational excellence for building scalable distributed systems.
 - [IQKV/.github](https://github.com/IQKV/.github) - README repository.
+- [KnowHowDevOps/homelab-operations-pipeline](https://github.com/KnowHowDevOps/homelab-operations-pipeline) - This project aims to standardize CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
+- [IQKV/quickstart-crm-contact-service](https://github.com/IQKV/quickstart-crm-contact-service) -  CRM contact management service built with Spring Boot, providing multi-tenant contact management capabilities with lead scoring and conversion tracking.
+- [IQKV/quickstart-microservices-platform](https://github.com/IQKV/quickstart-microservices-platform) - Production-ready Spring Boot microservices platform demonstrating modern architecture patterns, security best practices, and operational excellence for building scalable distributed systems.
+- [IQKV/quickstart-crm-lead-service](https://github.com/IQKV/quickstart-crm-lead-service) - CRM lead management service built with Spring Boot, providing multi-tenant lead capture, qualification, scoring, and conversion capabilities.
 
