@@ -37,9 +37,9 @@ I'm Dima, a Platform Engineer with 15+ years in IT, specialising in full-stack, 
 
 ### 👷 Recent Contributions
 
-- [IQKV/.github](https://github.com/IQKV/.github) - README repository.
+- [IQKV/standard-blank-project-layout](https://github.com/IQKV/standard-blank-project-layout) - Blank Project Layout
 - [KnowHowDevOps/homelab-operations-pipeline](https://github.com/KnowHowDevOps/homelab-operations-pipeline) - This project aims to standardize CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
+- [IQKV/misc-util](https://github.com/IQKV/misc-util) - Miscellaneous Utilities
 - [IQKV/quickstart-crm-contact-service](https://github.com/IQKV/quickstart-crm-contact-service) -  CRM contact management service built with Spring Boot, providing multi-tenant contact management capabilities with lead scoring and conversion tracking.
-- [IQKV/quickstart-microservices-platform](https://github.com/IQKV/quickstart-microservices-platform) - Production-ready Spring Boot microservices platform demonstrating modern architecture patterns, security best practices, and operational excellence for building scalable distributed systems.
-- [IQKV/quickstart-crm-lead-service](https://github.com/IQKV/quickstart-crm-lead-service) - CRM lead management service built with Spring Boot, providing multi-tenant lead capture, qualification, scoring, and conversion capabilities.
+- [IQKV/standard-blank-ui-project-layout](https://github.com/IQKV/standard-blank-ui-project-layout) - FSD &#43; Vite &#43; ReactJS 19 &#43; Tanstack Router &#43; Tanstack Query
 
