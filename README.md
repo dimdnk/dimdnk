@@ -37,9 +37,9 @@ I'm Dima, a Platform Engineer with 15+ years in IT, specialising in full-stack, 
 
 ### 👷 Recent Contributions
 
-- [IQKV/iqscaffold-gateway-service](https://github.com/IQKV/iqscaffold-gateway-service) - Reactive API gateway providing intelligent routing, JWT authentication, Redis-backed rate limiting, circuit breaker patterns, and user context propagation across microservices.
 - [KnowHowDevOps/homelab-operations-pipeline](https://github.com/KnowHowDevOps/homelab-operations-pipeline) - This project aims to standardize CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
-- [IQKV/quickstart-microservices-platform](https://github.com/IQKV/quickstart-microservices-platform) - Production-ready Spring Boot microservices platform demonstrating modern architecture patterns, security best practices, and operational excellence for building scalable distributed systems.
-- [IQKV/iqscaffold-user-service](https://github.com/IQKV/iqscaffold-user-service) - Centralized authentication and user management microservice providing JWT-based authentication, user lifecycle management, role-based access control, and email verification.
 - [IQKV/quickstart-ui-app-portal](https://github.com/IQKV/quickstart-ui-app-portal) - A production-ready template demonstrating user management, dashboard analytics, and security features with integration to microservices backend.
+- [IQKV/standard-blank-ui-project-layout](https://github.com/IQKV/standard-blank-ui-project-layout) - FSD &#43; Vite &#43; ReactJS 19 &#43; Tanstack Router &#43; Tanstack Query
+- [IQKV/quickstart-ui-auth-portal](https://github.com/IQKV/quickstart-ui-auth-portal) - This project serves as a starting point for developing an authentication portal for SAAS applications, providing a solid foundation with modern patterns and best practices.
+- [IQKV/quickstart-microservices-platform](https://github.com/IQKV/quickstart-microservices-platform) - Production-ready Spring Boot microservices platform demonstrating modern architecture patterns, security best practices, and operational excellence for building scalable distributed systems.
 
