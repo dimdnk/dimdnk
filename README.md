@@ -37,9 +37,9 @@ I'm Dima, a Platform Engineer with 15+ years in IT, specialising in full-stack, 
 
 ### 👷 Recent Contributions
 
-- [IQKV/iqscaffold-contact-service](https://github.com/IQKV/iqscaffold-contact-service) -  CRM contact management service, providing multi-tenant contact management capabilities with lead scoring and conversion tracking.
+- [IQKV/iqscaffold-gateway-service](https://github.com/IQKV/iqscaffold-gateway-service) - Reactive API gateway providing intelligent routing, JWT authentication, Redis-backed rate limiting, circuit breaker patterns, and user context propagation across microservices.
 - [IQKV/iqscaffold-lead-service](https://github.com/IQKV/iqscaffold-lead-service) - CRM lead management service, providing multi-tenant lead capture, qualification, scoring, and conversion capabilities.
 - [IQKV/iqscaffold-billing-service](https://github.com/IQKV/iqscaffold-billing-service) - Multi-tenant billing and payment orchestration service providing Stripe integration, merchant onboarding, automated payment lifecycle management, and comprehensive financial operations.
 - [IQKV/quickstart-ui-app-portal](https://github.com/IQKV/quickstart-ui-app-portal) - A production-ready template demonstrating user management, dashboard analytics, and security features with integration to microservices backend.
-- [IQKV/iqscaffold-gateway-service](https://github.com/IQKV/iqscaffold-gateway-service) - Reactive API gateway providing intelligent routing, JWT authentication, Redis-backed rate limiting, circuit breaker patterns, and user context propagation across microservices.
+- [IQKV/iqscaffold-contact-service](https://github.com/IQKV/iqscaffold-contact-service) -  CRM contact management service, providing multi-tenant contact management capabilities with lead scoring and conversion tracking.
 
