@@ -39,7 +39,7 @@ I'm Dima, a Platform Engineer with 15+ years in IT, specialising in full-stack, 
 
 - [IQKV/iqscaffold-pipeline-service](https://github.com/IQKV/iqscaffold-pipeline-service) - A CRM pipeline management service, providing lead tracking, pipeline stage management, and follow-up scheduling capabilities.
 - [KnowHowDevOps/homelab-operations-pipeline](https://github.com/KnowHowDevOps/homelab-operations-pipeline) - This project aims to standardize CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
-- [IQKV/iqscaffold-ui-saas-landing-kit](https://github.com/IQKV/iqscaffold-ui-saas-landing-kit) - Lightweight marketing site for SaaS MVPs
-- [IQKV/iqscaffold-ui-app-portal](https://github.com/IQKV/iqscaffold-ui-app-portal) - A production-ready template demonstrating user management, dashboard analytics, and security features with integration to microservices backend.
-- [IQKV/iqscaffold-ui-auth-portal](https://github.com/IQKV/iqscaffold-ui-auth-portal) - This project serves as a starting point for developing an authentication portal for SAAS applications, providing a solid foundation with modern patterns and best practices.
+- [IQKV/microservices-platform](https://github.com/IQKV/microservices-platform) - Production-ready Spring Boot microservices platform demonstrating modern architecture patterns, security best practices, and operational excellence for building scalable distributed systems.
+- [IQKV/iqscaffold-contact-service](https://github.com/IQKV/iqscaffold-contact-service) -  CRM contact management service, providing multi-tenant contact management capabilities with lead scoring and conversion tracking.
+- [IQKV/iqscaffold-gateway-service](https://github.com/IQKV/iqscaffold-gateway-service) - Reactive API gateway providing intelligent routing, JWT authentication, Redis-backed rate limiting, circuit breaker patterns, and user context propagation across microservices.
 
