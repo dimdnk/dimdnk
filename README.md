@@ -37,9 +37,9 @@ I'm Dima, a Platform Engineer with 15+ years in IT, specialising in full-stack, 
 
 ### 👷 Recent Contributions
 
-- [IQKV/misc-util](https://github.com/IQKV/misc-util) - Miscellaneous Utilities
-- [IQKV/microservices-platform](https://github.com/IQKV/microservices-platform) - Production-ready Spring Boot microservices platform demonstrating modern architecture patterns, security best practices, and operational excellence for building scalable distributed systems.
-- [IQKV/iqscaffold-user-service](https://github.com/IQKV/iqscaffold-user-service) - Centralized authentication and user management microservice providing JWT-based authentication, user lifecycle management, role-based access control, and email verification.
-- [IQKV/checkstyle-config](https://github.com/IQKV/checkstyle-config) - Checkstyle configuration.
-- [IQKV/boot-parent-pom](https://github.com/IQKV/boot-parent-pom) - Default configurations for complete dependency tree to quickly build Spring Boot project.
+- [GripDay/vintage-boot-starter](https://github.com/GripDay/vintage-boot-starter) - Spring Boot Starters.
+- [IQKV/iqscaffold-contact-service](https://github.com/IQKV/iqscaffold-contact-service) -  CRM contact management service, providing multi-tenant contact management capabilities with lead scoring and conversion tracking.
+- [IQKV/iqscaffold-lead-service](https://github.com/IQKV/iqscaffold-lead-service) - CRM lead management service, providing multi-tenant lead capture, qualification, scoring, and conversion capabilities.
+- [IQKV/iqscaffold-pipeline-service](https://github.com/IQKV/iqscaffold-pipeline-service) - A CRM pipeline management service, providing lead tracking, pipeline stage management, and follow-up scheduling capabilities.
+- [IQKV/iqscaffold-ui-auth-portal](https://github.com/IQKV/iqscaffold-ui-auth-portal) - This project serves as a starting point for developing an authentication portal for SAAS applications, providing a solid foundation with modern patterns and best practices.
 
