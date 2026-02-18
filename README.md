@@ -39,7 +39,7 @@ I'm Dima, a Platform Engineer with 15+ years in IT, specialising in full-stack, 
 
 - [GripDay/vintage-boot-starter](https://github.com/GripDay/vintage-boot-starter) - Spring Boot Starters.
 - [IQKV/iqscaffold-contact-service](https://github.com/IQKV/iqscaffold-contact-service) -  CRM contact management service, providing multi-tenant contact management capabilities with lead scoring and conversion tracking.
-- [IQKV/iqscaffold-lead-service](https://github.com/IQKV/iqscaffold-lead-service) - CRM lead management service, providing multi-tenant lead capture, qualification, scoring, and conversion capabilities.
 - [IQKV/iqscaffold-pipeline-service](https://github.com/IQKV/iqscaffold-pipeline-service) - A CRM pipeline management service, providing lead tracking, pipeline stage management, and follow-up scheduling capabilities.
+- [IQKV/iqscaffold-lead-service](https://github.com/IQKV/iqscaffold-lead-service) - CRM lead management service, providing multi-tenant lead capture, qualification, scoring, and conversion capabilities.
 - [IQKV/iqscaffold-ui-auth-portal](https://github.com/IQKV/iqscaffold-ui-auth-portal) - This project serves as a starting point for developing an authentication portal for SAAS applications, providing a solid foundation with modern patterns and best practices.
 
