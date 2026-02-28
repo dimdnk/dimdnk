@@ -37,9 +37,9 @@ I'm Dima, a Platform Engineer with 15+ years in IT, specialising in full-stack, 
 
 ### 👷 Recent Contributions
 
-- [IQKV/iqscaffold-pipeline-service](https://github.com/IQKV/iqscaffold-pipeline-service) - A CRM pipeline management service, providing lead tracking, pipeline stage management, and follow-up scheduling capabilities.
-- [KnowHowDevOps/homelab-operations-pipeline](https://github.com/KnowHowDevOps/homelab-operations-pipeline) - This project aims to standardize CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
-- [IQKV/standard-maven-multi-project-layout](https://github.com/IQKV/standard-maven-multi-project-layout) - Standard Maven Multi-Module Project Layout
+- [IQKV/iqscaffold-user-service](https://github.com/IQKV/iqscaffold-user-service) - Centralized authentication and user management microservice providing JWT-based authentication, user lifecycle management, role-based access control, and email verification.
+- [IQKV/iqscaffold-lead-service](https://github.com/IQKV/iqscaffold-lead-service) - CRM lead management service, providing multi-tenant lead capture, qualification, scoring, and conversion capabilities.
 - [IQKV/iqscaffold-billing-service](https://github.com/IQKV/iqscaffold-billing-service) - Multi-tenant billing and payment orchestration service providing Stripe integration, merchant onboarding, automated payment lifecycle management, and comprehensive financial operations.
+- [IQKV/iqscaffold-contact-service](https://github.com/IQKV/iqscaffold-contact-service) -  CRM contact management service, providing multi-tenant contact management capabilities with lead scoring and conversion tracking.
 - [IQKV/iqscaffold-ui-auth-portal](https://github.com/IQKV/iqscaffold-ui-auth-portal) - This project serves as a starting point for developing an authentication portal for SAAS applications, providing a solid foundation with modern patterns and best practices.
 
