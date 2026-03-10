@@ -42,4 +42,3 @@ I'm Dima, a Platform Engineer with 15+ years in IT, specialising in full-stack, 
 - [IQKV/iqscaffold-ui-app-portal](https://github.com/IQKV/iqscaffold-ui-app-portal) - A production-ready template demonstrating user management, dashboard analytics, and security features with integration to microservices backend.
 - [IQKV/iqscaffold-ui-auth-portal](https://github.com/IQKV/iqscaffold-ui-auth-portal) - This project serves as a starting point for developing an authentication portal for SAAS applications, providing a solid foundation with modern patterns and best practices.
 - [IQKV/iqscaffold-ui-saas-landing-kit](https://github.com/IQKV/iqscaffold-ui-saas-landing-kit) - Lightweight marketing site for SaaS MVPs
-
