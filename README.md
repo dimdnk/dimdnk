@@ -17,7 +17,7 @@ I'm Dima, a Platform Engineer with 15+ years in IT, specialising in full-stack, 
 
 ### 🚀 Project Templates & Resources
 
-1. **[My GitHub Templates](https://github.com/orgs/IQKV/repositories?q=template%3Atrue)**: Ready-to-use Spring Boot 3 and React 19 templates with best practices
+1. **[My GitHub Templates](https://github.com/orgs/IQKV/repositories?q=template%3Atrue)**: Ready-to-use Spring Boot 4 and React 19 templates with best practices
 2. **[Check out App Samples](https://github.com/orgs/IQKV/repositories?q=sample)**: Scaffolds for REST, data, messaging, and cloud-native services
 3. **[Use Quickstart Packs](https://github.com/orgs/IQKV/repositories?q=quickstart)**: Preconfigured microservice integrations
 
@@ -37,9 +37,9 @@ I'm Dima, a Platform Engineer with 15+ years in IT, specialising in full-stack, 
 
 ### 👷 Recent Contributions
 
-- [IQKV/standard-blank-ui-project-layout](https://github.com/IQKV/standard-blank-ui-project-layout) - FSD &#43; Vite &#43; ReactJS 19 &#43; Tanstack Router &#43; Tanstack Query
-- [KnowHowDevOps/homelab-operations-pipeline](https://github.com/KnowHowDevOps/homelab-operations-pipeline) - This project aims to standardize CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
+- [IQKV/iqscaffold-gateway-service](https://github.com/IQKV/iqscaffold-gateway-service) - Reactive API gateway providing intelligent routing, JWT authentication, Redis-backed rate limiting, circuit breaker patterns, and user context propagation across microservices.
+- [GripDay/gripday-docs](https://github.com/GripDay/gripday-docs) - Project Documentation Website.
 - [IQKV/iqscaffold-ui-mantine-app-portal](https://github.com/IQKV/iqscaffold-ui-mantine-app-portal) - A production-ready template demonstrating user management, dashboard analytics, and security features with integration to microservices backend.
 - [IQKV/iqscaffold-ui-mantine-auth-portal](https://github.com/IQKV/iqscaffold-ui-mantine-auth-portal) - This project serves as a starting point for developing an authentication portal for SAAS applications, providing a solid foundation with modern patterns and best practices.
-- [IQKV/misc-util](https://github.com/IQKV/misc-util) - Miscellaneous Utilities
+- [IQKV/iqscaffold-ui-saas-landing-kit](https://github.com/IQKV/iqscaffold-ui-saas-landing-kit) - Lightweight marketing site for SaaS MVPs
 
