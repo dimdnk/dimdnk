@@ -17,7 +17,7 @@ I'm Dima, a Platform Engineer with 15+ years in IT, specialising in full-stack, 
 
 ### 🚀 Project Templates & Resources
 
-1. **[My GitHub Templates](https://github.com/orgs/IQKV/repositories?q=template%3Atrue)**: Ready-to-use Spring Boot 3 and React 19 templates with best practices
+1. **[My GitHub Templates](https://github.com/orgs/IQKV/repositories?q=template%3Atrue)**: Ready-to-use Spring Boot 4 and React 19 templates with best practices
 2. **[Check out App Samples](https://github.com/orgs/IQKV/repositories?q=sample)**: Scaffolds for REST, data, messaging, and cloud-native services
 3. **[Use Quickstart Packs](https://github.com/orgs/IQKV/repositories?q=quickstart)**: Preconfigured microservice integrations
 
