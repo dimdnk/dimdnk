@@ -37,9 +37,9 @@ I'm Dima, a Platform Engineer with 15+ years in IT, specialising in full-stack, 
 
 ### 👷 Recent Contributions
 
-- [IQKV/foundation-misc-util](https://github.com/IQKV/foundation-misc-util) - Miscellaneous Utilities
+- [IQKV/standard-maven-multi-project-layout](https://github.com/IQKV/standard-maven-multi-project-layout) - Standard Maven Multi-Module Project Layout
 - [KnowHowDevOps/homelab-operations-pipeline](https://github.com/KnowHowDevOps/homelab-operations-pipeline) - This project aims to standardize CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
 - [IQKV/iqscaffold-ui-mantine-app-portal](https://github.com/IQKV/iqscaffold-ui-mantine-app-portal) - A production-ready template demonstrating user management, dashboard analytics, and security features with integration to microservices backend.
 - [IQKV/iqscaffold-ui-mantine-auth-portal](https://github.com/IQKV/iqscaffold-ui-mantine-auth-portal) - This project serves as a starting point for developing an authentication portal for SAAS applications, providing a solid foundation with modern patterns and best practices.
-- [IQKV/iqscaffold-ui-saas-landing-kit](https://github.com/IQKV/iqscaffold-ui-saas-landing-kit) - Lightweight marketing site for SaaS MVPs
+- [IQKV/standard-docs-vitepress-project-layout](https://github.com/IQKV/standard-docs-vitepress-project-layout) - Getting-started guidance, feature details, and API reference documentation template.
 
