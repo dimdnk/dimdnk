@@ -37,7 +37,7 @@ I'm Dima, a Platform Engineer with 15+ years in IT, specialising in full-stack, 
 
 ### 👷 Recent Contributions
 
-- [IQKV/foundation-misc-util](https://github.com/IQKV/foundation-misc-util) - Miscellaneous Utilities
+- [IQKV/iqscaffold-gateway-service](https://github.com/IQKV/iqscaffold-gateway-service) - Reactive API gateway providing intelligent routing, JWT authentication, Redis-backed rate limiting, circuit breaker patterns, and user context propagation across microservices.
 - [IQKV/iqscaffold-ui-mantine-auth-portal](https://github.com/IQKV/iqscaffold-ui-mantine-auth-portal) - This project serves as a starting point for developing an authentication portal for SAAS applications, providing a solid foundation with modern patterns and best practices.
 - [IQKV/iqscaffold-ui-mantine-app-portal](https://github.com/IQKV/iqscaffold-ui-mantine-app-portal) - A production-ready template demonstrating user management, dashboard analytics, and security features with integration to microservices backend.
 - [KnowHowDevOps/homelab-operations-pipeline](https://github.com/KnowHowDevOps/homelab-operations-pipeline) - This project aims to standardize CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
