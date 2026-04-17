@@ -37,9 +37,9 @@ I'm Dima, a Platform Engineer with 15+ years in IT, specialising in full-stack, 
 
 ### 👷 Recent Contributions
 
-- [IQKV/foundation-misc-util](https://github.com/IQKV/foundation-misc-util) - Miscellaneous Utilities
+- [IQKV/standard-ui-blank-astro-daisyui-ssr](https://github.com/IQKV/standard-ui-blank-astro-daisyui-ssr) - A minimal Astro boilerplate with Tailwind, DaisyUI, React islands.
 - [IQKV/iqscaffold-ui-mantine-auth-portal](https://github.com/IQKV/iqscaffold-ui-mantine-auth-portal) - This project serves as a starting point for developing an authentication portal for SAAS applications, providing a solid foundation with modern patterns and best practices.
-- [IQKV/iqscaffold-ui-mantine-app-portal](https://github.com/IQKV/iqscaffold-ui-mantine-app-portal) - A production-ready template demonstrating user management, dashboard analytics, and security features with integration to microservices backend.
+- [IQKV/standard-blank-project-layout](https://github.com/IQKV/standard-blank-project-layout) - Blank Project Layout
 - [KnowHowDevOps/homelab-operations-pipeline](https://github.com/KnowHowDevOps/homelab-operations-pipeline) - This project aims to standardize CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
-- [KnowHowDevOps/system-design-documentation](https://github.com/KnowHowDevOps/system-design-documentation) - SaaS Platform Design Documents.
+- [IQKV/standard-docs-vitepress-project-layout](https://github.com/IQKV/standard-docs-vitepress-project-layout) - Getting-started guidance, feature details, and API reference documentation template.
 
