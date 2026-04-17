@@ -12,8 +12,7 @@
   template
 - [standard-maven-single-project-layout](https://github.com/IQKV/standard-maven-single-project-layout): Standard Maven Project Layout
 - [standard-maven-multi-project-layout](https://github.com/IQKV/standard-maven-multi-project-layout): Maven Multi-Module Project Layout
-- [standard-blank-ui-project-layout](https://github.com/dimdnk/standard-blank-ui-project-layout): React 19 Blank Project Layout
-- [standard-ui-mantine-project-layout](https://github.com/dimdnk/standard-ui-mantine-project-layout): React Mantine UI Project Layout
+- [standard-ui-mantine-project-layout](https://github.com/IQKV/standard-ui-mantine-project-layout): React Mantine UI Project Layout
 
 ## 🧰 Quickstart App Templates
 
