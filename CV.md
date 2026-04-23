@@ -47,7 +47,7 @@ Integrating copilots and platforms like **Claude Code** to boost productivity an
 
 **Java Developer, DataArt Solutions, Inc.** (2021 - 2025)
 
-- I was working on implementing an ETL engine using Spring Boot 3, Apache Camel, Mapstruct, Kafka Streams, and Hibernate (+ Postgres).
+- I was working on implementing an ETL engine using Spring Boot 4, Apache Camel, Mapstruct, Kafka Streams, and Hibernate (+ Postgres).
 - Build an enterprise product information management (PIM) software that provides a single place to collect, manage, and enrich product information, create a product catalog, and distribute
   it to sales and eCommerce channels.
 - Migrated 20+ applications from legacy Kubernetes instances to OpenShift 4, improving system scalability and reducing server costs

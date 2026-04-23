@@ -1967,7 +1967,7 @@
 ### · Java
 
 - [provectus/kafka-ui: Open-Source Web UI for Apache Kafka Management](https://github.com/provectus/kafka-ui)
-- [piomin/sample-spring-microservices-new: Demo for Spring Boot 3(
+- [piomin/sample-spring-microservices-new: Demo for Spring Boot 4(
   `master` branch)/2(other branches) and Spring Cloud microservices with distributed configuration (Spring Cloud Config), service discovery (Eureka), API gateway (Spring Cloud Gateway, Zuul), Swagger/OpenAPI documentation (Springdoc), logs correlation using Spring Cloud Sleuth/Micrometer OTEL and many more](https://github.com/piomin/sample-spring-microservices-new)
 - [https://github.com/afsalashyana/Spring-Boot-Tutorials/blob/master/LearnSpringSecurity/src/main/java/com/genuinecoder/learnspringsecurity/model/MyUserRepository.java](https://github.com/afsalashyana/Spring-Boot-Tutorials/blob/master/LearnSpringSecurity/src/main/java/com/genuinecoder/learnspringsecurity/model/MyUserRepository.java)
 - [Demystifying Kafka Exactly Once Semantics (EOS) | by Abhipranay Chauhan | HelloTech](https://engineering.hellofresh.com/demystifying-kafka-exactly-once-semantics-eos-390ae1c32bba?gi=3178a7e6ee7d)
@@ -1983,7 +1983,7 @@
 - [amigoscode/full-stack-professional](https://github.com/amigoscode/full-stack-professional/tree/main)
 - [7 Microservices Interview Questions - ByteByteGo Newsletter](https://blog.bytebytego.com/p/7-microservices-interview-questions)
 - [Azul | The Java Platform for the Modern Cloud Enterprise](https://www.azul.com/)
-- [GitHub - JuliaZamaitat/spring-drools-nextjs-demo: This is a demo full-stack application using Spring Boot 3, Drools 7 and Next.js 13.](https://github.com/JuliaZamaitat/spring-drools-nextjs-demo)
+- [GitHub - JuliaZamaitat/spring-drools-nextjs-demo: This is a demo full-stack application using Spring Boot 4, Drools 7 and Next.js 13.](https://github.com/JuliaZamaitat/spring-drools-nextjs-demo)
 - [Настраиваем память JVM-приложения в Kubernetes / Habr](https://www.google.com/amp/s/habr.com/ru/amp/publications/691240/)
 - [Instancio: Test Data Generator for Java - Instancio](https://www.instancio.org/)
 - [Java Tutorial | Learn Java Programming](https://www.geeksforgeeks.org/java/)
@@ -1993,7 +1993,7 @@
 - [GitHub - tamerlankayak/CQRS-Microservices](https://github.com/tamerlankayak/CQRS-Microservices)
 - [asimio / code-coverage-maven-jacoco / pom.xml — Bitbucket](https://bitbucket.org/asimio/code-coverage-maven-jacoco/src/master/pom.xml)
 - [AssertJ’s Java 8 Features | Baeldung](https://www.baeldung.com/assertJ-java-8-features#3-localdate-assertions)
-- [Microservices with Spring Boot 3 and Spring Cloud](https://piotrminkowski.com/2023/03/13/microservices-with-spring-boot-3-and-spring-cloud/)
+- [Microservices with Spring Boot 4 and Spring Cloud](https://piotrminkowski.com/2023/03/13/microservices-with-spring-boot-3-and-spring-cloud/)
 - [GitHub - TechPrimers/kafka-streams-microservices-example: End to End project for Kafka Streams using Spring Cloud Kafka streams](https://github.com/TechPrimers/kafka-streams-microservices-example)
 - [Can swagger-UI work for services inside kubernetes? - Stack Overflow](https://stackoverflow.com/questions/62932053/can-swagger-ui-work-for-services-inside-kubernetes)
 - [belyaev-andrey (belyaev-andrey) / Repositories · GitHub](https://github.com/belyaev-andrey?tab=repositories)
@@ -2094,7 +2094,7 @@
 - [Piotr's TechBlog - Java, Spring, Kotlin, microservices, Kubernetes, containers](https://piotrminkowski.com/)
 - [ali-bouali/spring-boot-3-jwt-security: Sample project on how to implement JWT security based using Spring boot 3 and Spring security 6](https://github.com/ali-bouali/spring-boot-3-jwt-security)
 - [spring-boot/org.springframework.boot.autoconfigure.AutoConfiguration.imports at main · spring-projects/spring-boot](https://github.com/spring-projects/spring-boot/blob/main/spring-boot-project/spring-boot-autoconfigure/src/main/resources/META-INF/spring/org.springframework.boot.autoconfigure.AutoConfiguration.imports)
-- [java - Custom Spring Boot 3 Starter does not create ConfigurationProperties beans - Stack Overflow](https://stackoverflow.com/questions/75044304/custom-spring-boot-3-starter-does-not-create-configurationproperties-beans/75124719)
+- [java - Custom Spring Boot 4 Starter does not create ConfigurationProperties beans - Stack Overflow](https://stackoverflow.com/questions/75044304/custom-spring-boot-3-starter-does-not-create-configurationproperties-beans/75124719)
 - [Getting Started - Paketo Buildpacks](https://paketo.io/docs/)
 - [JBang](https://www.jbang.dev/)
 - [quarkus/CreateProjectMojo.java at main · quarkusio/quarkus · GitHub](https://github.com/quarkusio/quarkus/blob/main/devtools/maven/src/main/java/io/quarkus/maven/CreateProjectMojo.java)
@@ -2656,7 +2656,7 @@
 - [Overview of Spring Boot Dev Tools |Baeldung](https://www.baeldung.com/spring-boot-devtools)
 - [tutorials/spring-boot-modules/spring-boot-3 at master · eugenp/tutorials · GitHub](https://github.com/eugenp/tutorials/tree/master/spring-boot-modules/spring-boot-3)
 - [aabarmin (Aleksandr Barmin) · GitHub](https://github.com/aabarmin)
-- [Spring Boot 3 and Spring Framework 6.0 – What’s New | Baeldung](https://www.baeldung.com/spring-boot-3-spring-6-new)
+- [Spring Boot 4 and Spring Framework 6.0 – What’s New | Baeldung](https://www.baeldung.com/spring-boot-3-spring-6-new)
 - [rajadilipkolli/aws-stack: All POC's Related to AWS Stack](https://github.com/rajadilipkolli/aws-stack)
 - [multiple OpenAPI definitions in one Spring Boot](https://springdoc.org/faq.html#how-can-i-deploy-the-deploy-springdoc-openapi-ui-behind-a-reverse-proxy)
 - [Liveness and Readiness Probes in Spring Boot | Baeldung](https://www.baeldung.com/spring-liveness-readiness-probes)
@@ -2854,11 +2854,11 @@
 - [Spring Boot monitoring with Prometheus Operator | by Artur Bartosik | DevOps.dev](https://blog.devops.dev/spring-boot-monitoring-with-prometheus-operator-82508300f87d)
 - [Maximizing Kubernetes Efficiency with OpenTelemetry Tracing - The New Stack](https://thenewstack.io/maximizing-kubernetes-efficiency-with-opentelemetry-tracing/)
 - [Алерты в микросервисной архитектуре / Хабр](https://habr.com/ru/companies/garage8/articles/726464/)
-- [Observability in Spring Boot 3 With AOP, Micrometer And Zipkin | Better Programming](https://betterprogramming.pub/observability-in-spring-boot-3-with-aop-micrometer-and-zipkin-a2afbba187dc)
-- [Spring Boot 3 Observability: monitor Application on the method level | by Noah Hsu | JavaToDev | Medium](https://medium.com/spring-boot/spring-boot-3-observability-monitor-application-on-the-method-level-8057abec5926)
+- [Observability in Spring Boot 4 With AOP, Micrometer And Zipkin | Better Programming](https://betterprogramming.pub/observability-in-spring-boot-3-with-aop-micrometer-and-zipkin-a2afbba187dc)
+- [Spring Boot 4 Observability: monitor Application on the method level | by Noah Hsu | JavaToDev | Medium](https://medium.com/spring-boot/spring-boot-3-observability-monitor-application-on-the-method-level-8057abec5926)
 - [blueswen/spring-boot-observability: Observe Spring Boot app with three pillars of observability: Traces (Tempo), Metrics (Prometheus), Logs (Loki) on Grafana through OpenTelemetry and OpenMetrics.](https://github.com/blueswen/spring-boot-observability)
 - [Sending Demo Traces With the HotROD Application | Logz.io Docs](https://docs.logz.io/docs/user-guide/distributed-tracing/set-up-tracing/hotrod/)
-- [Spring Boot 3 Observability](https://neilwhite.ca/spring-boot-3-observeability/)
+- [Spring Boot 4 Observability](https://neilwhite.ca/spring-boot-3-observeability/)
 - [observability-demo/pom.xml at main · neil-writes-code/observability-demo](https://github.com/neil-writes-code/observability-demo/blob/main/pom.xml)
 - [Prometheus: monitoring services using additional scrape config for Prometheus Operator | Fabian Lee : Software Engineer](https://fabianlee.org/2022/07/08/prometheus-monitoring-services-using-additional-scrape-config-for-prometheus-operator/)
 - [springboot-prometheus-k8s-sample/deploy at master · jeanmorais/springboot-prometheus-k8s-sample · GitHub](https://github.com/jeanmorais/springboot-prometheus-k8s-sample/tree/master/deploy)
@@ -2872,7 +2872,7 @@
 - [Open Telemetry | Prometheus | Exemplars | Loki | Tempo | Grafana](https://k8staz.com/setting-up-open-source-observability-stack-on-kubernetes-from-scratch)
 - [otel-springboot-grafana-tools/Dockerfile at master · stazdx/otel-springboot-grafana-tools · GitHub](https://github.com/stazdx/otel-springboot-grafana-tools/blob/master/springboot-app/Dockerfile)
 - [Tempo data source | Grafana documentation](https://grafana.com/docs/grafana/latest/datasources/tempo/)
-- [Reactive Observability in Spring Boot 3 with Micrometer | VMware Tanzu Developer Center](https://tanzu.vmware.com/developer/guides/observability-reactive-spring-boot-3/)
+- [Reactive Observability in Spring Boot 4 with Micrometer | VMware Tanzu Developer Center](https://tanzu.vmware.com/developer/guides/observability-reactive-spring-boot-3/)
 - [What happened to tempo older helm charts? - Grafana Tempo - Grafana Labs Community Forums](https://community.grafana.com/t/what-happened-to-tempo-older-helm-charts/51426)
 - [Setting up the Kube Prometheus Stack | LinuxBlog.xyz](https://linuxblog.xyz/posts/kube-prometheus-stack/)
 
@@ -2968,7 +2968,7 @@
 
 ##### Spring Boot
 
-- [SivaLabs - Spring Boot 3 : Error Responses using Problem Details for HTTP APIs](https://www.sivalabs.in/spring-boot-3-error-reporting-using-problem-details/)
+- [SivaLabs - Spring Boot 4 : Error Responses using Problem Details for HTTP APIs](https://www.sivalabs.in/spring-boot-3-error-reporting-using-problem-details/)
 - [kotlin-projects/sk-gateway at master · siddhivinayak-sk/kotlin-projects · GitHub](https://github.com/siddhivinayak-sk/kotlin-projects/tree/master/sk-gateway)
 - [A website to liste to music online build with NextJs + Spring Boot + MySQL](https://www.google.com/amp/s/reactjsexample.com/a-website-to-liste-to-music-online-build-with-nextjs-spring-boot-mysql/amp/)
 - [How to use Saga Pattern with Spring Boot? by C. Barkin Ozer | Medium](https://cbarkinozer.medium.com/how-to-use-saga-pattern-with-spring-boot-67c3428810f1)
