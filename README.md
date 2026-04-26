@@ -42,4 +42,3 @@ I'm Dima, a Platform Engineer with 15+ years in IT, specialising in full-stack, 
 - [IQKV/.github](https://github.com/IQKV/.github) - README repository.
 - [KnowHowDevOps/homelab-operations-pipeline](https://github.com/KnowHowDevOps/homelab-operations-pipeline) - This project aims to standardize CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
 - [IQKV/foundation-ui-saas-landing-kit](https://github.com/IQKV/foundation-ui-saas-landing-kit) - Lightweight marketing site for SaaS MVPs
-
