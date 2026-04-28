@@ -38,8 +38,8 @@ I'm Dima, a Platform Engineer with 15+ years in IT, specialising in full-stack, 
 ### 👷 Recent Contributions
 
 - [IQKV/standard-dotgithub-profile-layout](https://github.com/IQKV/standard-dotgithub-profile-layout) - Default Community Health Files for Organization
-- [IQKV/iqscaffold-ui-mantine-auth-portal](https://github.com/IQKV/iqscaffold-ui-mantine-auth-portal) - This project serves as a starting point for developing an authentication portal for SAAS applications, providing a solid foundation with modern patterns and best practices.
-- [IQKV/iqscaffold-ui-mantine-app-portal](https://github.com/IQKV/iqscaffold-ui-mantine-app-portal) - A production-ready template demonstrating user management, dashboard analytics, and security features with integration to microservices backend.
+- [KnowHowDevOps/iqscaffold-ui-mantine-auth-portal](https://github.com/KnowHowDevOps/iqscaffold-ui-mantine-auth-portal) - This project serves as a starting point for developing an authentication portal for SAAS applications, providing a solid foundation with modern patterns and best practices.
+- [KnowHowDevOps/iqscaffold-ui-mantine-app-portal](https://github.com/KnowHowDevOps/iqscaffold-ui-mantine-app-portal) - A production-ready template demonstrating user management, dashboard analytics, and security features with integration to microservices backend.
 - [KnowHowDevOps/homelab-operations-pipeline](https://github.com/KnowHowDevOps/homelab-operations-pipeline) - This project aims to standardize CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
 - [IQKV/foundation-ui-saas-landing-kit](https://github.com/IQKV/foundation-ui-saas-landing-kit) - Lightweight marketing site for SaaS MVPs
 
