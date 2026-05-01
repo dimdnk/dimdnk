@@ -37,9 +37,9 @@ I'm Dima, a Platform Engineer with 15+ years in IT, specialising in full-stack, 
 
 ### 👷 Recent Contributions
 
-- [IQKV/sample-lorem](https://github.com/IQKV/sample-lorem) - loripsum.net  text analyzer service.
-- [KnowHowDevOps/iqscaffold-ui-mantine-auth-portal](https://github.com/KnowHowDevOps/iqscaffold-ui-mantine-auth-portal) - This project serves as a starting point for developing an authentication portal for SAAS applications, providing a solid foundation with modern patterns and best practices.
-- [KnowHowDevOps/system-design-documentation](https://github.com/KnowHowDevOps/system-design-documentation) - SaaS Platform Design Documents.
+- [IQKV/standard-maven-single-project-layout](https://github.com/IQKV/standard-maven-single-project-layout) - Standard Maven Single Module Project Layout
+- [IQKV/standard-maven-multi-project-layout](https://github.com/IQKV/standard-maven-multi-project-layout) - Standard Maven Multi-Module Project Layout
+- [IQKV/standard-ui-blank-astro-daisyui-ssr](https://github.com/IQKV/standard-ui-blank-astro-daisyui-ssr) - A minimal Astro boilerplate with Tailwind, DaisyUI, React islands.
 - [KnowHowDevOps/homelab-operations-pipeline](https://github.com/KnowHowDevOps/homelab-operations-pipeline) - This project aims to standardize CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
-- [IQKV/.github](https://github.com/IQKV/.github) - README repository.
+- [IQKV/foundation-billing-service](https://github.com/IQKV/foundation-billing-service) - Billing and subscription management microservice,
 
