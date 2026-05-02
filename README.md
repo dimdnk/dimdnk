@@ -40,6 +40,6 @@ I'm Dima, a Platform Engineer with 15+ years in IT, specialising in full-stack, 
 - [IQKV/foundation-iam-service](https://github.com/IQKV/foundation-iam-service) - Centralized authentication and user management microservice providing JWT-based authentication, user lifecycle management, role-based access control, and email verification.
 - [KnowHowDevOps/iqscaffold-ui-mantine-auth-portal](https://github.com/KnowHowDevOps/iqscaffold-ui-mantine-auth-portal) - This project serves as a starting point for developing an authentication portal for SAAS applications, providing a solid foundation with modern patterns and best practices.
 - [KnowHowDevOps/system-design-documentation](https://github.com/KnowHowDevOps/system-design-documentation) - SaaS Platform Design Documents.
-- [IQKV/foundation-billing-service](https://github.com/IQKV/foundation-billing-service) - Billing and subscription management microservice,
 - [KnowHowDevOps/homelab-operations-pipeline](https://github.com/KnowHowDevOps/homelab-operations-pipeline) - This project aims to standardize CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
+- [IQKV/foundation-billing-service](https://github.com/IQKV/foundation-billing-service) - Billing and subscription management microservice,
 
