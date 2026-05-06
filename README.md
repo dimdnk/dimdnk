@@ -37,9 +37,9 @@ I'm Dima, a Platform Engineer with 15+ years in IT, specialising in full-stack, 
 
 ### 👷 Recent Contributions
 
-- [IQKV/standard-maven-multi-project-layout](https://github.com/IQKV/standard-maven-multi-project-layout) - Standard Maven Multi-Module Project Layout
 - [IQKV/.github](https://github.com/IQKV/.github) - README repository.
+- [IQKV/foundation-ui-saas-landing-kit](https://github.com/IQKV/foundation-ui-saas-landing-kit) - Lightweight marketing site for SaaS MVPs
 - [IQKV/standard-ui-mantine-project-layout](https://github.com/IQKV/standard-ui-mantine-project-layout) - Vite &#43; ReactJS 19 &#43; Tanstack Router &#43; Tanstack Query &#43; Mantine UI &#43; FSD Architecture
 - [IQKV/foundation-billing-service](https://github.com/IQKV/foundation-billing-service) - Billing and subscription management microservice,
-- [IQKV/foundation-iam-service](https://github.com/IQKV/foundation-iam-service) - Centralized authentication and user management microservice providing JWT-based authentication, user lifecycle management, role-based access control, and email verification.
+- [IQKV/standard-ui-blank-astro-daisyui-ssr](https://github.com/IQKV/standard-ui-blank-astro-daisyui-ssr) - A minimal Astro boilerplate with Tailwind, DaisyUI, React islands.
 
