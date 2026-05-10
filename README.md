@@ -37,9 +37,9 @@ I'm Dima, a Platform Engineer with 15+ years in IT, specialising in full-stack, 
 
 ### 👷 Recent Contributions
 
-- [IQKV/sample-webmvc-dashboard](https://github.com/IQKV/sample-webmvc-dashboard) - WebMvc REST API with user auth/management
-- [IQKV/foundation-ui-saas-landing-kit](https://github.com/IQKV/foundation-ui-saas-landing-kit) - Lightweight marketing site for SaaS MVPs
+- [IQKV/standard-ui-blank-astro-daisyui-ssr](https://github.com/IQKV/standard-ui-blank-astro-daisyui-ssr) - A minimal Astro boilerplate with Tailwind, DaisyUI, React islands.
+- [IQKV/foundation-gateway-service](https://github.com/IQKV/foundation-gateway-service) - Reactive API gateway providing intelligent routing, JWT authentication, and user context propagation across microservices.
 - [IQKV/standard-ui-mantine-project-layout](https://github.com/IQKV/standard-ui-mantine-project-layout) - Vite &#43; ReactJS 19 &#43; Tanstack Router &#43; Tanstack Query &#43; Mantine UI &#43; FSD Architecture
 - [IQKV/foundation-billing-service](https://github.com/IQKV/foundation-billing-service) - Billing and subscription management microservice,
-- [KnowHowDevOps/homelab-operations-pipeline](https://github.com/KnowHowDevOps/homelab-operations-pipeline) - This project aims to standardize CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
+- [IQKV/foundation-iam-service](https://github.com/IQKV/foundation-iam-service) - Centralized authentication and user management microservice providing JWT-based authentication, user lifecycle management, role-based access control, and email verification.
 
