@@ -37,9 +37,9 @@ I'm Dima, a Platform Engineer with 15+ years in IT, specialising in full-stack, 
 
 ### 👷 Recent Contributions
 
-- [IQKV/foundation-iam-service](https://github.com/IQKV/foundation-iam-service) - Centralized authentication and user management microservice providing JWT-based authentication, user lifecycle management, role-based access control, and email verification.
-- [IQKV/foundation-gateway-service](https://github.com/IQKV/foundation-gateway-service) - Reactive API gateway providing intelligent routing, JWT authentication, and user context propagation across microservices.
+- [IQKV/.github](https://github.com/IQKV/.github) - README repository.
+- [IQKV/foundation-ui-saas-landing-kit](https://github.com/IQKV/foundation-ui-saas-landing-kit) - Lightweight marketing site for SaaS MVPs
 - [IQKV/foundation-billing-service](https://github.com/IQKV/foundation-billing-service) - Billing and subscription management microservice,
-- [KnowHowDevOps/homelab-operations-pipeline](https://github.com/KnowHowDevOps/homelab-operations-pipeline) - This project aims to standardize CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
+- [IQKV/foundation-iam-service](https://github.com/IQKV/foundation-iam-service) - Centralized authentication and user management microservice providing JWT-based authentication, user lifecycle management, role-based access control, and email verification.
 - [IQKV/system-design-documentation](https://github.com/IQKV/system-design-documentation) - SaaS Platform Design Documents.
 
