@@ -38,8 +38,8 @@ I'm Dima, a Platform Engineer with 15+ years in IT, specialising in full-stack, 
 ### 👷 Recent Contributions
 
 - [IQKV/system-design-documentation](https://github.com/IQKV/system-design-documentation) - SaaS Platform Design Documents.
-- [IQKV/microservices-platform](https://github.com/IQKV/microservices-platform) - Spring Boot microservices platform demonstrating modern architecture patterns, security best practices, and operational excellence for building scalable distributed systems.
-- [IQKV/foundation-ui-platform-admin](https://github.com/IQKV/foundation-ui-platform-admin) - Key Value Platform Admin UI
-- [IQKV/foundation-docs-website](https://github.com/IQKV/foundation-docs-website) - Documentation site for the IQKV multi-tenant SaaS platform.
+- [IQKV/foundation-audit-service](https://github.com/IQKV/foundation-audit-service) - Implements auditing across by capturing events across the platform.
+- [IQKV/foundation-ui-app](https://github.com/IQKV/foundation-ui-app) - Reference tenant UI
 - [IQKV/foundation-billing-service](https://github.com/IQKV/foundation-billing-service) - Billing and subscription management microservice,
+- [IQKV/foundation-ui-platform-admin](https://github.com/IQKV/foundation-ui-platform-admin) - Key Value Platform Admin UI
 
