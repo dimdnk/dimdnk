@@ -39,7 +39,7 @@ I'm Dima, a Platform Engineer with 15+ years in IT, specialising in full-stack, 
 
 - [IQKV/foundation-audit-service](https://github.com/IQKV/foundation-audit-service) - Implements auditing across by capturing events across the platform.
 - [IQKV/foundation-ui-platform-admin](https://github.com/IQKV/foundation-ui-platform-admin) - Key Value Platform Admin UI
-- [IQKV/microservices-platform](https://github.com/IQKV/microservices-platform) - Spring Boot microservices platform demonstrating modern architecture patterns, security best practices, and operational excellence for building scalable distributed systems.
 - [IQKV/foundation-billing-service](https://github.com/IQKV/foundation-billing-service) - Billing and subscription management microservice,
-- [IQKV/foundation-cms-service](https://github.com/IQKV/foundation-cms-service) - Multi-tenant CMS service for the IQ Key Value platform.
+- [IQKV/microservices-platform](https://github.com/IQKV/microservices-platform) - Spring Boot microservices platform demonstrating modern architecture patterns, security best practices, and operational excellence for building scalable distributed systems.
+- [IQKV/foundation-ui-app](https://github.com/IQKV/foundation-ui-app) - Reference tenant UI
 
