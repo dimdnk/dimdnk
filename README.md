@@ -37,9 +37,9 @@ I'm Dima, a Platform Engineer with 15+ years in IT, specialising in full-stack, 
 
 ### 👷 Recent Contributions
 
-- [IQKV/foundation-microservice-project-layout](https://github.com/IQKV/foundation-microservice-project-layout) - 
-- [IQKV/foundation-tenancy](https://github.com/IQKV/foundation-tenancy) - Shared tenancy components for IQKV microservices.
+- [IQKV/foundation-ui-app](https://github.com/IQKV/foundation-ui-app) - Reference tenant UI
+- [IQKV/foundation-gateway-service](https://github.com/IQKV/foundation-gateway-service) - Reactive API gateway providing intelligent routing, JWT authentication, and user context propagation across microservices.
 - [IQKV/foundation-billing-service](https://github.com/IQKV/foundation-billing-service) - Billing and subscription management microservice,
-- [IQKV/foundation-entitlement-plan-resolver-mvc](https://github.com/IQKV/foundation-entitlement-plan-resolver-mvc) - Foundation Entitlement Plan Resolver Shared Library
-- [IQKV/system-design-documentation](https://github.com/IQKV/system-design-documentation) - SaaS Platform Design Documents.
+- [IQKV/foundation-audit-service](https://github.com/IQKV/foundation-audit-service) - Implements auditing across by capturing events across the platform.
+- [IQKV/microservices-platform](https://github.com/IQKV/microservices-platform) - Spring Boot microservices platform demonstrating modern architecture patterns, security best practices, and operational excellence for building scalable distributed systems.
 
