@@ -31,6 +31,12 @@
 - [Frappe Learning LMS](https://frappe.io/learning)
 - [Plane](https://github.com/makeplane/plane)
 - [OpenSSF Best Practices Badge Program](https://www.bestpractices.dev/en)
+- LetSide.com
+- Fenerate.com
+- Hamiri.com
+- Atalante.io
+- Tentorial.com
+- Towardly.io / Towardly.app / Towardly.org
 
 ### Home
 
