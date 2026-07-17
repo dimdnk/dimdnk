@@ -36,6 +36,7 @@
 - Hamiri.com
 - Atalante.io
 - Tentorial.com
+- Dirsh.com
 - Towardly.io / Towardly.app / Towardly.org
 
 ### Home
