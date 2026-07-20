@@ -31,15 +31,18 @@
 - [Frappe Learning LMS](https://frappe.io/learning)
 - [Plane](https://github.com/makeplane/plane)
 - [OpenSSF Best Practices Badge Program](https://www.bestpractices.dev/en)
-- LetSide.com
-- TonSide.com
-- TierSide.com
-- ApertureSide.com
-- Hamiri.com
-- Atalante.io
-- Tentorial.com
-- Dirsh.com
-- Towardly.io / Towardly.app / Towardly.org
+- Business Processes
+    - TonSide.com
+    - TierSide.com
+    - ApertureSide.com
+    - LetSide.com
+- LMS
+    - Towardly.io / Towardly.app / Towardly.org
+    - Hamiri.com
+    - Atalante.io
+    - Tentorial.com
+    - Dirsh.com
+
 
 ### Home
 
