@@ -33,6 +33,7 @@
 - [OpenSSF Best Practices Badge Program](https://www.bestpractices.dev/en)
 - LetSide.com
 - Tierside.com
+- Apertureside.com
 - Fenerate.com
 - Hamiri.com
 - Atalante.io
