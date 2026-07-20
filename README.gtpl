@@ -14,7 +14,7 @@ I'm Dima, a Platform Engineer with 15+ years in IT, specialising in full-stack, 
 - **Backend**: Java, Spring, NodeJS, PHP, Symfony, Laravel, PostgreSQL, MySQL, MongoDB, Redis
 - **Infrastructure**: Kubernetes, Docker, cloud services, observability (Prometheus, Grafana, ELK)
 - **Messaging & APIs**: Kafka, RabbitMQ, REST, GraphQL, gRPC
-- **Frontend**: JavaScript, TypeScript, React (MUI, Mantine, Bootstrap 5), Astro, Vue, some legacy Angular experiences
+- **Frontend**: JavaScript, TypeScript, React (MUI, Mantine 9, Bootstrap 5), Astro, Vue, some legacy Angular experiences
 - **Automation**: ETL pipelines (Apache Camel, Spring Batch, Kafka Streams), CI/CD (GitHub Actions, Jenkins, Drone), AI-powered tools (n8n, claude, cursor, etc. <!-- kiro, warp, kilo code, trae -->)
 
 ### 🔗 Quick Links
@@ -32,7 +32,7 @@ I'm Dima, a Platform Engineer with 15+ years in IT, specialising in full-stack, 
 <p align="left"><img src="https://raw.githubusercontent.com/dimdnk/dimdnk/dev/github-metrics.svg" /></p>
 -->
 ### 👷 Recent Contributions
-{{ range recentContributions 5 }}
+{{ range recentContributions 3 }}
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
 {{- end }}
 
