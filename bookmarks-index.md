@@ -32,9 +32,9 @@
 - [Plane](https://github.com/makeplane/plane)
 - [OpenSSF Best Practices Badge Program](https://www.bestpractices.dev/en)
 - LetSide.com
-- Tierside.com
-- Apertureside.com
-- Fenerate.com
+- TonSide.com
+- TierSide.com
+- ApertureSide.com
 - Hamiri.com
 - Atalante.io
 - Tentorial.com
