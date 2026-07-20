@@ -7,6 +7,8 @@ I'm Dima, a Platform Engineer with 15+ years in IT, specialising in full-stack, 
 🏠 [Homepage](https://dimdnk.com/) •
 📂 [My public Repositories](repo-index.md)
 
+👷 **[My GitHub Templates](https://github.com/orgs/IQKV/repositories?q=template%3Atrue)**: Ready-to-use Spring Boot 4 and React 19 templates with best practices
+
 ### 💻 Skills & Technologies
 
 - **Backend**: Java, Spring, NodeJS, PHP, Symfony, Laravel, PostgreSQL, MySQL, MongoDB, Redis
@@ -14,12 +16,6 @@ I'm Dima, a Platform Engineer with 15+ years in IT, specialising in full-stack, 
 - **Messaging & APIs**: Kafka, RabbitMQ, REST, GraphQL, gRPC
 - **Frontend**: JavaScript, TypeScript, React (MUI, Mantine, Bootstrap 5), Astro, Vue, some legacy Angular experiences
 - **Automation**: ETL pipelines (Apache Camel, Spring Batch, Kafka Streams), CI/CD (GitHub Actions, Jenkins, Drone), AI-powered tools (n8n, claude, cursor, etc. <!-- kiro, warp, kilo code, trae -->)
-
-### 🚀 Project Templates & Resources
-
-1. **[My GitHub Templates](https://github.com/orgs/IQKV/repositories?q=template%3Atrue)**: Ready-to-use Spring Boot 4 and React 19 templates with best practices
-2. **[Check out App Samples](https://github.com/orgs/IQKV/repositories?q=sample)**: Scaffolds for REST, data, messaging, and cloud-native services
-3. **[Use Quickstart Packs](https://github.com/orgs/IQKV/repositories?q=quickstart)**: Preconfigured microservice integrations
 
 ### 🔗 Quick Links
 
@@ -30,11 +26,11 @@ I'm Dima, a Platform Engineer with 15+ years in IT, specialising in full-stack, 
 - 📚 [Peronal Awesome Index](awesome-index.md)
 
 ---
-
+<!--
 ### 🔥 GitHub Stats
 
 <p align="left"><img src="https://raw.githubusercontent.com/dimdnk/dimdnk/dev/github-metrics.svg" /></p>
-
+-->
 ### 👷 Recent Contributions
 {{ range recentContributions 5 }}
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
