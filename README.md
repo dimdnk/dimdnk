@@ -15,7 +15,7 @@ I'm Dima, a Platform Engineer with 15+ years in IT, specialising in full-stack, 
 - **Infrastructure**: Kubernetes, Docker, cloud services, observability (Prometheus, Grafana, ELK)
 - **Messaging & APIs**: Kafka, RabbitMQ, REST, GraphQL, gRPC
 - **Frontend**: JavaScript, TypeScript, React (MUI, Mantine 9, Bootstrap 5), Astro, Vue, some legacy Angular experiences
-- **Automation**: ETL pipelines (Apache Camel, Spring Batch, Kafka Streams), CI/CD (GitHub Actions, Jenkins, Drone), AI-powered tools (n8n, claude, cursor, etc. <!-- kiro, warp, kilo code, trae -->)
+- **Automation**: ETL pipelines (Apache Camel, Spring Batch, Kafka Streams), CI/CD (GitHub Actions, Jenkins, Drone), AI-powered tools (n8n, claude, cursor, etc. )
 
 ### 🔗 Quick Links
 
@@ -26,16 +26,10 @@ I'm Dima, a Platform Engineer with 15+ years in IT, specialising in full-stack, 
 - 📚 [Peronal Awesome Index](awesome-index.md)
 
 ---
-<!--
-### 🔥 GitHub Stats
 
-<p align="left"><img src="https://raw.githubusercontent.com/dimdnk/dimdnk/dev/github-metrics.svg" /></p>
--->
 ### 👷 Recent Contributions
 
-- [IQKV/foundation-ui-platform-admin](https://github.com/IQKV/foundation-ui-platform-admin) - Key Value Platform Admin UI
-- [IQKV/foundation-billing-service](https://github.com/IQKV/foundation-billing-service) - Billing and subscription management microservice,
-- [IQKV/foundation-iam-service](https://github.com/IQKV/foundation-iam-service) - Centralized authentication and user management microservice providing JWT-based authentication, user lifecycle management, role-based access control, and email verification.
-- [IQKV/foundation-microservice-project-layout](https://github.com/IQKV/foundation-microservice-project-layout) - 
 - [IQKV/foundation-audit-service](https://github.com/IQKV/foundation-audit-service) - Implements auditing across by capturing events across the platform.
+- [IQKV/foundation-billing-service](https://github.com/IQKV/foundation-billing-service) - Billing and subscription management microservice,
+- [IQKV/foundation-cms-service](https://github.com/IQKV/foundation-cms-service) - Multi-tenant CMS service for the IQ Key Value platform.
 
