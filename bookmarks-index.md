@@ -36,12 +36,14 @@
     - TierSide.com
     - ApertureSide.com
     - LetSide.com
+    - Sideberry.com (sedebery.com redirect)
 - LMS
     - Towardly.io / Towardly.app / Towardly.org
     - Hamiri.com
     - Atalante.io
     - Tentorial.com
     - Dirsh.com
+    - Exacte.com
 
 
 ### Home
