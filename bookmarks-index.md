@@ -32,19 +32,18 @@
 - [Plane](https://github.com/makeplane/plane)
 - [OpenSSF Best Practices Badge Program](https://www.bestpractices.dev/en)
 - Business Processes
-    - TonSide.com
     - TierSide.com
-    - ApertureSide.com
-    - LetSide.com
+    - LetSide.com ($195)
     - Sideberry.com
-- LMS
-    - Towardly.io / Towardly.app / Towardly.org
-    - Hamiri.com
-    - Atalante.io
-    - Tentorial.com
-    - Dirsh.com
-    - Exacte.com
+    - TonSide.com
+    - ApertureSide.com
 
+- LMS
+    - Towardly.com ($2550)
+    - Hamiri.com ($399)
+    - Atalante.io (com $7826)
+    - Tentorial.com ($2495)
+    - Dirsh.com ($300)
 
 ### Home
 
