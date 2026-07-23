@@ -36,7 +36,7 @@
     - TierSide.com
     - ApertureSide.com
     - LetSide.com
-    - Sideberry.com (sedebery.com redirect)
+    - Sideberry.com
 - LMS
     - Towardly.io / Towardly.app / Towardly.org
     - Hamiri.com
