@@ -31,5 +31,4 @@ I'm Dima, a Platform Engineer with 15+ years in IT, specialising in full-stack, 
 
 - [IQKV/foundation-ui-platform-admin](https://github.com/IQKV/foundation-ui-platform-admin) - Key Value Platform Admin UI
 - [IQKV/foundation-billing-service](https://github.com/IQKV/foundation-billing-service) - Billing and subscription management microservice,
-- [IQKV/foundation-microservice-project-layout](https://github.com/IQKV/foundation-microservice-project-layout) - 
-
+- [IQKV/foundation-microservice-project-layout](https://github.com/IQKV/foundation-microservice-project-layout) -

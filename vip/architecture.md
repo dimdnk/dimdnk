@@ -3,6 +3,7 @@
 > **Audience:** Engineers, architects.
 > **Purpose:** Single source of truth for all technical decisions before development starts.
 > **Related docs:**
+>
 > - `business-overview.md` — product overview, GTM, feature roadmap, pricing
 > - `intelligence-and-competitive-landscape.md` — competitor landscape, ETL tooling rationale, document parsing choices
 
@@ -12,20 +13,22 @@
 
 VIP is a new product service built **on top of the IQKV foundation**. It does not replace or fork any existing service. It reuses:
 
-| Foundation service | What VIP inherits |
-|-|-|
-| `foundation-gateway-service` | JWT validation, tenant routing, header propagation — no changes needed |
-| `foundation-iam-service` | Auth, multi-tenancy, team invitations, SSO, presigned S3 upload pattern |
+| Foundation service           | What VIP inherits                                                                       |
+| ---------------------------- | --------------------------------------------------------------------------------------- |
+| `foundation-gateway-service` | JWT validation, tenant routing, header propagation — no changes needed                  |
+| `foundation-iam-service`     | Auth, multi-tenancy, team invitations, SSO, presigned S3 upload pattern                 |
 | `foundation-billing-service` | Plan entitlements (`max_venues`, `ai_extraction_enabled`, etc.), subscription lifecycle |
-| `foundation-audit-service` | Compliance log — consumes VIP events passively, no code changes |
-| `foundation-ui-app` | Extended (not forked) with new `/venues/*` routes under FSD architecture |
-| `foundation-tenancy` | Schema-per-tenant isolation library reused directly |
+| `foundation-audit-service`   | Compliance log — consumes VIP events passively, no code changes                         |
+| `foundation-ui-app`          | Extended (not forked) with new `/venues/*` routes under FSD architecture                |
+| `foundation-tenancy`         | Schema-per-tenant isolation library reused directly                                     |
 
 **New services introduced by VIP:**
+
 - `vip-venue-service` — core domain (venues, assets, metadata, search)
 - `vip-ai-service` — document ETL pipeline, extraction orchestration, embedding generation
 
 **New infrastructure introduced by VIP:**
+
 - pgvector extension on existing PostgreSQL (not a new service)
 - PostGIS extension on existing PostgreSQL (not a new service)
 - IBM Docling (optional self-hosted container, Phase 2 only)
@@ -37,48 +40,51 @@ VIP is a new product service built **on top of the IQKV foundation**. It does no
 ### Bounded Contexts
 
 #### `venue/` — Core Profile
+
 **Aggregate root: `Venue`**
 
-| Field | Type | Notes |
-|-|-|-|
-| `id` | UUID | PK |
-| `name` | varchar(255) | |
-| `address` | text | |
-| `location` | geography(point) | PostGIS, lat/lng |
-| `description` | text | Human-written or AI-drafted |
-| `status` | enum | `DRAFT`, `ACTIVE`, `ARCHIVED` |
-| `metadata` | jsonb | Consolidated extracted + manual fields |
-| `metadata_sources` | jsonb | Provenance per field (see §4) |
-| `metadata_aggregated_at` | timestamp | When consolidation last ran |
-| `description_embedding` | vector(1536) | pgvector, for semantic search |
-| `description_text` | tsvector | Auto-updated via trigger, full-text search |
-| `created_by` | UUID | IAM user id |
-| `created_at` | timestamp | |
-| `updated_at` | timestamp | |
+| Field                    | Type             | Notes                                      |
+| ------------------------ | ---------------- | ------------------------------------------ |
+| `id`                     | UUID             | PK                                         |
+| `name`                   | varchar(255)     |                                            |
+| `address`                | text             |                                            |
+| `location`               | geography(point) | PostGIS, lat/lng                           |
+| `description`            | text             | Human-written or AI-drafted                |
+| `status`                 | enum             | `DRAFT`, `ACTIVE`, `ARCHIVED`              |
+| `metadata`               | jsonb            | Consolidated extracted + manual fields     |
+| `metadata_sources`       | jsonb            | Provenance per field (see §4)              |
+| `metadata_aggregated_at` | timestamp        | When consolidation last ran                |
+| `description_embedding`  | vector(1536)     | pgvector, for semantic search              |
+| `description_text`       | tsvector         | Auto-updated via trigger, full-text search |
+| `created_by`             | UUID             | IAM user id                                |
+| `created_at`             | timestamp        |                                            |
+| `updated_at`             | timestamp        |                                            |
 
 **Operations:** create, update, archive, restore.
 
 ---
 
 #### `asset/` — File Attachments
+
 **Aggregate root: `VenueAsset`**
 
-| Field | Type | Notes |
-|-|-|-|
-| `id` | UUID | PK |
-| `venue_id` | UUID | FK → venues |
-| `asset_type` | enum | `PDF_DECK`, `FLOOR_PLAN`, `PHOTO`, `VIDEO`, `CAD_FILE`, `SPEC_SHEET`, `MISC` |
-| `file_name` | varchar(255) | |
-| `content_type` | varchar(100) | MIME type |
-| `size_bytes` | bigint | |
-| `s3_key` | text | Storage path |
-| `extracted_text` | text | Raw text extracted by parser |
-| `extracted_text_embedding` | vector(1536) | pgvector, chunk-level search |
-| `extraction_status` | enum | `PENDING`, `IN_PROGRESS`, `COMPLETED`, `FAILED` |
-| `uploaded_by` | UUID | |
-| `uploaded_at` | timestamp | |
+| Field                      | Type         | Notes                                                                        |
+| -------------------------- | ------------ | ---------------------------------------------------------------------------- |
+| `id`                       | UUID         | PK                                                                           |
+| `venue_id`                 | UUID         | FK → venues                                                                  |
+| `asset_type`               | enum         | `PDF_DECK`, `FLOOR_PLAN`, `PHOTO`, `VIDEO`, `CAD_FILE`, `SPEC_SHEET`, `MISC` |
+| `file_name`                | varchar(255) |                                                                              |
+| `content_type`             | varchar(100) | MIME type                                                                    |
+| `size_bytes`               | bigint       |                                                                              |
+| `s3_key`                   | text         | Storage path                                                                 |
+| `extracted_text`           | text         | Raw text extracted by parser                                                 |
+| `extracted_text_embedding` | vector(1536) | pgvector, chunk-level search                                                 |
+| `extraction_status`        | enum         | `PENDING`, `IN_PROGRESS`, `COMPLETED`, `FAILED`                              |
+| `uploaded_by`              | UUID         |                                                                              |
+| `uploaded_at`              | timestamp    |                                                                              |
 
 **Upload flow:** two-phase presigned URL (same pattern as IAM avatar upload).
+
 1. `POST /assets/initiate` → returns presigned S3 PUT URL + `asset_id`
 2. Client uploads directly to S3
 3. `POST /assets/{id}/confirm` → marks asset ready, publishes `asset.uploaded` event
@@ -86,35 +92,37 @@ VIP is a new product service built **on top of the IQKV foundation**. It does no
 ---
 
 #### `extraction/` — AI Processing Jobs
+
 **Aggregate root: `ExtractionJob`**
 
-| Field | Type | Notes |
-|-|-|-|
-| `id` | UUID | PK |
-| `asset_id` | UUID | FK → venue_assets |
-| `status` | enum | `QUEUED`, `PROCESSING`, `COMPLETED`, `FAILED` |
-| `extractor_type` | enum | `TIKA_TEXT`, `GPT4O_DOCUMENT`, `GPT4O_VISION` |
-| `extracted_data` | jsonb | Raw extraction result |
-| `confidence_scores` | jsonb | Per-field confidence (0.0–1.0) |
-| `started_at` | timestamp | |
-| `completed_at` | timestamp | |
-| `error_message` | text | On failure |
+| Field               | Type      | Notes                                         |
+| ------------------- | --------- | --------------------------------------------- |
+| `id`                | UUID      | PK                                            |
+| `asset_id`          | UUID      | FK → venue_assets                             |
+| `status`            | enum      | `QUEUED`, `PROCESSING`, `COMPLETED`, `FAILED` |
+| `extractor_type`    | enum      | `TIKA_TEXT`, `GPT4O_DOCUMENT`, `GPT4O_VISION` |
+| `extracted_data`    | jsonb     | Raw extraction result                         |
+| `confidence_scores` | jsonb     | Per-field confidence (0.0–1.0)                |
+| `started_at`        | timestamp |                                               |
+| `completed_at`      | timestamp |                                               |
+| `error_message`     | text      | On failure                                    |
 
 ---
 
 #### `metadata_events/` — Event Log (for aggregation)
+
 **Not an aggregate root — append-only event log.**
 
-| Field | Type | Notes |
-|-|-|-|
-| `id` | UUID | PK |
-| `venue_id` | UUID | FK → venues |
-| `event_type` | enum | `ASSET_EXTRACTED`, `MANUAL_OVERRIDE`, `BULK_IMPORT` |
-| `source_type` | enum | `PDF_DECK`, `FLOOR_PLAN`, `PHOTO`, `USER_INPUT` |
-| `source_id` | UUID | asset_id or user_id |
-| `event_data` | jsonb | Fields with values and confidence scores |
-| `occurred_at` | timestamp | |
-| `created_by` | UUID | |
+| Field         | Type      | Notes                                               |
+| ------------- | --------- | --------------------------------------------------- |
+| `id`          | UUID      | PK                                                  |
+| `venue_id`    | UUID      | FK → venues                                         |
+| `event_type`  | enum      | `ASSET_EXTRACTED`, `MANUAL_OVERRIDE`, `BULK_IMPORT` |
+| `source_type` | enum      | `PDF_DECK`, `FLOOR_PLAN`, `PHOTO`, `USER_INPUT`     |
+| `source_id`   | UUID      | asset_id or user_id                                 |
+| `event_data`  | jsonb     | Fields with values and confidence scores            |
+| `occurred_at` | timestamp |                                                     |
+| `created_by`  | UUID      |                                                     |
 
 ---
 
@@ -171,6 +179,7 @@ pricing
 ```
 
 **Provenance per field** (stored in `metadata_sources`):
+
 ```json
 "capacity.max_total": {
   "value": 500,
@@ -201,10 +210,13 @@ LOW_CONFIDENCE_AI   → confidence < 0.7
 ```
 
 ### Array Fields (amenities, restrictions)
+
 Set-union across all sources. An entry is included if at least one source reports it with confidence ≥ 0.6.
 
 ### Trigger Points
+
 Aggregation runs (async, via RabbitMQ) when:
+
 - An `asset.uploaded` event triggers extraction → extraction completes → `extraction.completed` triggers aggregation
 - A user submits a manual override → immediate re-aggregation
 - A scheduled job catches stale venues (24h without re-aggregation)
@@ -241,6 +253,7 @@ Aggregation is debounced (5s) to batch rapid successive events.
 ```
 
 ### vip-venue-service
+
 - **Responsibilities:** venue CRUD, asset upload flow (presigned URL), metadata read/write, search API, plan entitlement enforcement
 - **Database:** own PostgreSQL schema (schema-per-tenant via `foundation-tenancy`)
 - **Exposes:** REST API at `/api/v1/venues`
@@ -248,6 +261,7 @@ Aggregation is debounced (5s) to batch rapid successive events.
 - **Publishes:** `venue.created`, `venue.updated`, `asset.uploaded`, `asset.deleted` (RabbitMQ)
 
 ### vip-ai-service
+
 - **Responsibilities:** document ETL pipeline (parse → chunk → extract → embed), extraction job lifecycle, cost tracking
 - **Database:** shared schema with venue-service (extraction_jobs, metadata_events tables) — OR separate schema, decision at implementation
 - **Consumes:** `asset.uploaded` (RabbitMQ) — triggers pipeline
@@ -267,16 +281,16 @@ DocumentReader  →  DocumentTransformer  →  DocumentWriter
 
 ### Stage 1 — Parse (per asset type)
 
-| Asset type | Reader | Notes |
-|-|-|-|
-| PDF (text-based) | `TikaDocumentReader` | Apache Tika, ships with Spring AI |
-| PDF (scanned) | `TikaDocumentReader` + Tesseract OCR | Tika bundles OCR |
-| PDF (complex layout, tables) | Docling sidecar → custom `DocumentReader` | Phase 2; better table fidelity |
-| DOCX / XLSX / PPTX | `TikaDocumentReader` | Same reader, 1000+ formats |
-| Images (JPG, PNG) | GPT-4o vision direct | No text reader needed |
-| Floor plan (PDF/image) | Docling layout-aware → GPT-4o vision | Phase 2 |
-| DWG / DXF (CAD) | `TikaDocumentReader` (AutoCAD parser) | Extracts metadata; visual in Phase 2 |
-| Video | Out of scope Phase 1 | Phase 2: keyframe extraction via ffmpeg |
+| Asset type                   | Reader                                    | Notes                                   |
+| ---------------------------- | ----------------------------------------- | --------------------------------------- |
+| PDF (text-based)             | `TikaDocumentReader`                      | Apache Tika, ships with Spring AI       |
+| PDF (scanned)                | `TikaDocumentReader` + Tesseract OCR      | Tika bundles OCR                        |
+| PDF (complex layout, tables) | Docling sidecar → custom `DocumentReader` | Phase 2; better table fidelity          |
+| DOCX / XLSX / PPTX           | `TikaDocumentReader`                      | Same reader, 1000+ formats              |
+| Images (JPG, PNG)            | GPT-4o vision direct                      | No text reader needed                   |
+| Floor plan (PDF/image)       | Docling layout-aware → GPT-4o vision      | Phase 2                                 |
+| DWG / DXF (CAD)              | `TikaDocumentReader` (AutoCAD parser)     | Extracts metadata; visual in Phase 2    |
+| Video                        | Out of scope Phase 1                      | Phase 2: keyframe extraction via ffmpeg |
 
 ### Stage 2 — Transform
 
@@ -292,11 +306,11 @@ DocumentReader  →  DocumentTransformer  →  DocumentWriter
 
 ### Processing SLA
 
-| Asset type | Target latency |
-|-|-|
-| PDF / DOCX (text) | < 30s |
-| Images / floor plans | < 60s |
-| CAD files | < 2 min |
+| Asset type           | Target latency |
+| -------------------- | -------------- |
+| PDF / DOCX (text)    | < 30s          |
+| Images / floor plans | < 60s          |
+| CAD files            | < 2 min        |
 
 Retry on failure: 3 attempts with exponential backoff. After 3 failures → `extraction.failed` event → user notification.
 
@@ -308,13 +322,13 @@ All search is served by `vip-venue-service` querying PostgreSQL directly. No sep
 
 ### Search Modes
 
-| Mode | Implementation | Use case |
-|-|-|-|
-| Keyword | `tsvector` / `to_tsquery` (GIN index) | "conference downtown AV" |
-| Structured filters | JSONB queries (GIN index) | capacity ≥ 200, amenities include WiFi |
-| Semantic | pgvector cosine distance (IVFFlat index) | "modern loft space with natural light" |
-| Geo-spatial | PostGIS `ST_DWithin` (GIST index) | venues within 10 miles of zip code |
-| Hybrid | Reciprocal Rank Fusion over keyword + semantic | Default search bar |
+| Mode               | Implementation                                 | Use case                               |
+| ------------------ | ---------------------------------------------- | -------------------------------------- |
+| Keyword            | `tsvector` / `to_tsquery` (GIN index)          | "conference downtown AV"               |
+| Structured filters | JSONB queries (GIN index)                      | capacity ≥ 200, amenities include WiFi |
+| Semantic           | pgvector cosine distance (IVFFlat index)       | "modern loft space with natural light" |
+| Geo-spatial        | PostGIS `ST_DWithin` (GIST index)              | venues within 10 miles of zip code     |
+| Hybrid             | Reciprocal Rank Fusion over keyword + semantic | Default search bar                     |
 
 ### Vector Index Strategy
 
@@ -332,38 +346,38 @@ Base path: `/api/v1/venues`
 
 ### Venues
 
-| Method | Path | Auth | Description |
-|-|-|-|-|
-| `GET` | `/` | JWT Member | List venues (paginated, filterable) |
-| `POST` | `/` | JWT Member | Create venue profile |
-| `GET` | `/{id}` | JWT Member | Get venue with consolidated metadata |
-| `PATCH` | `/{id}` | JWT Admin | Update venue fields |
-| `DELETE` | `/{id}` | JWT Owner | Archive venue |
-| `GET` | `/search` | JWT Member | Hybrid search (keyword + semantic + filters) |
+| Method   | Path      | Auth       | Description                                  |
+| -------- | --------- | ---------- | -------------------------------------------- |
+| `GET`    | `/`       | JWT Member | List venues (paginated, filterable)          |
+| `POST`   | `/`       | JWT Member | Create venue profile                         |
+| `GET`    | `/{id}`   | JWT Member | Get venue with consolidated metadata         |
+| `PATCH`  | `/{id}`   | JWT Admin  | Update venue fields                          |
+| `DELETE` | `/{id}`   | JWT Owner  | Archive venue                                |
+| `GET`    | `/search` | JWT Member | Hybrid search (keyword + semantic + filters) |
 
 ### Assets
 
-| Method | Path | Auth | Description |
-|-|-|-|-|
-| `POST` | `/{venueId}/assets/initiate` | JWT Member | Start upload — returns presigned S3 URL |
-| `POST` | `/{venueId}/assets/{id}/confirm` | JWT Member | Confirm upload, trigger extraction |
-| `GET` | `/{venueId}/assets` | JWT Member | List assets for venue |
-| `DELETE` | `/{venueId}/assets/{id}` | JWT Member | Delete asset and S3 object |
+| Method   | Path                             | Auth       | Description                             |
+| -------- | -------------------------------- | ---------- | --------------------------------------- |
+| `POST`   | `/{venueId}/assets/initiate`     | JWT Member | Start upload — returns presigned S3 URL |
+| `POST`   | `/{venueId}/assets/{id}/confirm` | JWT Member | Confirm upload, trigger extraction      |
+| `GET`    | `/{venueId}/assets`              | JWT Member | List assets for venue                   |
+| `DELETE` | `/{venueId}/assets/{id}`         | JWT Member | Delete asset and S3 object              |
 
 ### Metadata
 
-| Method | Path | Auth | Description |
-|-|-|-|-|
-| `GET` | `/{venueId}/metadata` | JWT Member | Get consolidated metadata + provenance |
-| `POST` | `/{venueId}/metadata/{field}/override` | JWT Member | Manual override for a field |
-| `GET` | `/{venueId}/metadata/{field}/history` | JWT Member | Extraction event history for field |
+| Method | Path                                   | Auth       | Description                            |
+| ------ | -------------------------------------- | ---------- | -------------------------------------- |
+| `GET`  | `/{venueId}/metadata`                  | JWT Member | Get consolidated metadata + provenance |
+| `POST` | `/{venueId}/metadata/{field}/override` | JWT Member | Manual override for a field            |
+| `GET`  | `/{venueId}/metadata/{field}/history`  | JWT Member | Extraction event history for field     |
 
 ### Extraction Jobs (read-only for clients)
 
-| Method | Path | Auth | Description |
-|-|-|-|-|
-| `GET` | `/{venueId}/extractions` | JWT Member | List extraction jobs for venue |
-| `GET` | `/{venueId}/extractions/{jobId}` | JWT Member | Get job status and result |
+| Method | Path                             | Auth       | Description                    |
+| ------ | -------------------------------- | ---------- | ------------------------------ |
+| `GET`  | `/{venueId}/extractions`         | JWT Member | List extraction jobs for venue |
+| `GET`  | `/{venueId}/extractions/{jobId}` | JWT Member | Get job status and result      |
 
 ---
 
@@ -373,39 +387,39 @@ Exchange: `iqkv.events` (Topic) — same exchange used by all foundation service
 
 ### Published by vip-venue-service
 
-| Routing key | Payload fields | Description |
-|-|-|-|
-| `venue.created` | venue_id, tenant_id, created_by | New venue profile created |
-| `venue.updated` | venue_id, tenant_id, changed_fields | Venue fields updated |
+| Routing key      | Payload fields                                                  | Description                           |
+| ---------------- | --------------------------------------------------------------- | ------------------------------------- |
+| `venue.created`  | venue_id, tenant_id, created_by                                 | New venue profile created             |
+| `venue.updated`  | venue_id, tenant_id, changed_fields                             | Venue fields updated                  |
 | `asset.uploaded` | asset_id, venue_id, tenant_id, asset_type, s3_key, content_type | Asset confirmed, ready for extraction |
-| `asset.deleted` | asset_id, venue_id, tenant_id | Asset removed |
+| `asset.deleted`  | asset_id, venue_id, tenant_id                                   | Asset removed                         |
 
 ### Published by vip-ai-service
 
-| Routing key | Payload fields | Description |
-|-|-|-|
-| `extraction.started` | job_id, asset_id, venue_id, tenant_id | Processing began |
-| `extraction.completed` | job_id, asset_id, venue_id, tenant_id | Extraction succeeded |
-| `extraction.failed` | job_id, asset_id, venue_id, tenant_id, reason | All retries exhausted |
+| Routing key            | Payload fields                                | Description           |
+| ---------------------- | --------------------------------------------- | --------------------- |
+| `extraction.started`   | job_id, asset_id, venue_id, tenant_id         | Processing began      |
+| `extraction.completed` | job_id, asset_id, venue_id, tenant_id         | Extraction succeeded  |
+| `extraction.failed`    | job_id, asset_id, venue_id, tenant_id, reason | All retries exhausted |
 
 ### Consumed by vip-ai-service
 
-| Routing key | Queue | Action |
-|-|-|-|
-| `asset.uploaded` | `vip.extraction.priority` (Enterprise) | Trigger ETL pipeline immediately |
-| `asset.uploaded` | `vip.extraction.standard` (Free/Pro) | Trigger ETL pipeline (standard queue) |
+| Routing key      | Queue                                  | Action                                |
+| ---------------- | -------------------------------------- | ------------------------------------- |
+| `asset.uploaded` | `vip.extraction.priority` (Enterprise) | Trigger ETL pipeline immediately      |
+| `asset.uploaded` | `vip.extraction.standard` (Free/Pro)   | Trigger ETL pipeline (standard queue) |
 
 ### Consumed by vip-venue-service
 
-| Routing key | Queue | Action |
-|-|-|-|
-| `extraction.completed` | `vip.metadata.aggregation` | Run metadata aggregation for venue |
-| `extraction.failed` | `vip.extraction.dlq` | Mark asset extraction_status = FAILED |
+| Routing key            | Queue                      | Action                                |
+| ---------------------- | -------------------------- | ------------------------------------- |
+| `extraction.completed` | `vip.metadata.aggregation` | Run metadata aggregation for venue    |
+| `extraction.failed`    | `vip.extraction.dlq`       | Mark asset extraction_status = FAILED |
 
 ### Consumed by foundation-audit-service (passive, no changes)
 
-| Routing key | Notes |
-|-|-|
+| Routing key                          | Notes                                                      |
+| ------------------------------------ | ---------------------------------------------------------- |
 | `venue.#`, `asset.#`, `extraction.#` | Automatically captured by audit service's wildcard binding |
 
 ---
@@ -414,17 +428,17 @@ Exchange: `iqkv.events` (Topic) — same exchange used by all foundation service
 
 Feature codes used in `foundation-billing-service` plan config:
 
-| Feature code | Free | Pro | Enterprise | Enforcement point |
-|-|-|-|-|-|
-| `max_venues` | 10 | 500 | unlimited | venue-service: before create |
-| `max_assets_per_venue` | 20 | 100 | unlimited | venue-service: before upload |
-| `basic_extraction` | ✅ | ✅ | ✅ | ai-service: PDF text only |
-| `advanced_extraction` | ⛔ | ✅ | ✅ | ai-service: all asset types |
-| `cad_support` | ⛔ | ✅ | ✅ | venue-service: reject DWG/DXF upload |
-| `semantic_search` | ⛔ | ✅ | ✅ | venue-service: search endpoint |
-| `priority_ai_processing` | ⛔ | ⛔ | ✅ | RabbitMQ: route to priority queue |
-| `api_access` | ⛔ | ✅ | ✅ | gateway: API key route |
-| `white_label` | ⛔ | ⛔ | ✅ | ui-app: branding config |
+| Feature code             | Free | Pro | Enterprise | Enforcement point                    |
+| ------------------------ | ---- | --- | ---------- | ------------------------------------ |
+| `max_venues`             | 10   | 500 | unlimited  | venue-service: before create         |
+| `max_assets_per_venue`   | 20   | 100 | unlimited  | venue-service: before upload         |
+| `basic_extraction`       | ✅   | ✅  | ✅         | ai-service: PDF text only            |
+| `advanced_extraction`    | ⛔   | ✅  | ✅         | ai-service: all asset types          |
+| `cad_support`            | ⛔   | ✅  | ✅         | venue-service: reject DWG/DXF upload |
+| `semantic_search`        | ⛔   | ✅  | ✅         | venue-service: search endpoint       |
+| `priority_ai_processing` | ⛔   | ⛔  | ✅         | RabbitMQ: route to priority queue    |
+| `api_access`             | ⛔   | ✅  | ✅         | gateway: API key route               |
+| `white_label`            | ⛔   | ⛔  | ✅         | ui-app: branding config              |
 
 Enforcement via `PlanFeatureGuard` (same pattern as IAM service's existing implementation).
 
@@ -554,15 +568,16 @@ src/features/venue-management/
 
 New routes added to TanStack Router:
 
-| Path | Auth | Description |
-|-|-|-|
-| `/venues` | Member | Venue list / search |
-| `/venues/new` | Member | Create venue |
-| `/venues/:id` | Member | Venue profile |
-| `/venues/:id/assets` | Member | Asset gallery |
+| Path                   | Auth   | Description          |
+| ---------------------- | ------ | -------------------- |
+| `/venues`              | Member | Venue list / search  |
+| `/venues/new`          | Member | Create venue         |
+| `/venues/:id`          | Member | Venue profile        |
+| `/venues/:id/assets`   | Member | Asset gallery        |
 | `/venues/:id/metadata` | Member | Metadata view + edit |
 
 Reuse without modification:
+
 - Auth flows, session management, token refresh
 - Team management (`/team`)
 - Billing / entitlements (`FeatureGate`, `useEntitlements`)
@@ -576,15 +591,15 @@ Both VIP services follow foundation patterns exactly.
 
 **Prometheus metrics to add:**
 
-| Metric | Labels | Notes |
-|-|-|-|
-| `vip_venues_total` | tenant_id, status | Venue count by state |
-| `vip_assets_uploaded_total` | tenant_id, asset_type | Upload volume |
-| `vip_extractions_total` | tenant_id, extractor_type, status | Success/failure rates |
-| `vip_extraction_duration_seconds` | extractor_type | Latency histogram |
-| `vip_ai_cost_usd_total` | tenant_id, model | Cost tracking |
-| `vip_search_requests_total` | search_mode | keyword / semantic / hybrid |
-| `vip_search_latency_seconds` | search_mode | Search latency |
+| Metric                            | Labels                            | Notes                       |
+| --------------------------------- | --------------------------------- | --------------------------- |
+| `vip_venues_total`                | tenant_id, status                 | Venue count by state        |
+| `vip_assets_uploaded_total`       | tenant_id, asset_type             | Upload volume               |
+| `vip_extractions_total`           | tenant_id, extractor_type, status | Success/failure rates       |
+| `vip_extraction_duration_seconds` | extractor_type                    | Latency histogram           |
+| `vip_ai_cost_usd_total`           | tenant_id, model                  | Cost tracking               |
+| `vip_search_requests_total`       | search_mode                       | keyword / semantic / hybrid |
+| `vip_search_latency_seconds`      | search_mode                       | Search latency              |
 
 Grafana dashboard added to `docker/grafana/provisioning/dashboards/VipService.json`.
 
@@ -592,31 +607,31 @@ Grafana dashboard added to `docker/grafana/provisioning/dashboards/VipService.js
 
 ## 13. Security
 
-| Concern | Approach |
-|-|-|
-| Tenant data isolation | Schema-per-tenant (PostgreSQL + pgvector); S3 key prefix per tenant |
-| Asset access | Presigned S3 URLs only (15 min upload, 1h download). No public bucket. |
-| AI data handling | Documents sent to OpenAI API per their data processing terms. Enterprise option: Azure OpenAI (data stays in tenant's region). |
-| GDPR / right to erasure | `DELETE tenant` cascades to venues → assets → S3 objects → vector embeddings |
-| Audit trail | All `venue.*`, `asset.*`, `extraction.*` events passively consumed by Audit Service |
-| PII in documents | Warn on upload. Do not log extracted text. |
+| Concern                 | Approach                                                                                                                       |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| Tenant data isolation   | Schema-per-tenant (PostgreSQL + pgvector); S3 key prefix per tenant                                                            |
+| Asset access            | Presigned S3 URLs only (15 min upload, 1h download). No public bucket.                                                         |
+| AI data handling        | Documents sent to OpenAI API per their data processing terms. Enterprise option: Azure OpenAI (data stays in tenant's region). |
+| GDPR / right to erasure | `DELETE tenant` cascades to venues → assets → S3 objects → vector embeddings                                                   |
+| Audit trail             | All `venue.*`, `asset.*`, `extraction.*` events passively consumed by Audit Service                                            |
+| PII in documents        | Warn on upload. Do not log extracted text.                                                                                     |
 
 ---
 
 ## 14. Technology Decisions (summary)
 
-| Concern | Decision | Rationale |
-|-|-|-|
-| Document parsing | Apache Tika via Spring AI `TikaDocumentReader` | 1000+ formats, DWG support, fault-tolerant Tika Pipes, zero extra infra |
-| PDF layout / tables | IBM Docling (Phase 2, self-hosted) | State-of-the-art table reconstruction, MIT license, zero per-page cost |
-| AI framework | Spring AI 1.0 | Java-native, provider-agnostic, ETL pipeline built-in, Micrometer integration |
-| LLM (extraction) | OpenAI GPT-4o | Best structured output + multimodal (vision for images/floor plans) |
-| Embeddings | OpenAI text-embedding-3-small | 1536 dims, $0.02/1M tokens, good quality/cost ratio |
-| Vector store | pgvector (PostgreSQL extension) | No new service, transactional, tenant-isolated via schema |
-| Full-text search | PostgreSQL tsvector | Unified with relational data, no new service |
-| Geo search | PostGIS (PostgreSQL extension) | No new service |
-| Async processing | RabbitMQ (existing foundation) | Priority queues, DLQ, already in platform |
-| File storage | S3 / MinIO (existing foundation) | Presigned URL pattern already proven in IAM |
+| Concern             | Decision                                       | Rationale                                                                     |
+| ------------------- | ---------------------------------------------- | ----------------------------------------------------------------------------- |
+| Document parsing    | Apache Tika via Spring AI `TikaDocumentReader` | 1000+ formats, DWG support, fault-tolerant Tika Pipes, zero extra infra       |
+| PDF layout / tables | IBM Docling (Phase 2, self-hosted)             | State-of-the-art table reconstruction, MIT license, zero per-page cost        |
+| AI framework        | Spring AI 1.0                                  | Java-native, provider-agnostic, ETL pipeline built-in, Micrometer integration |
+| LLM (extraction)    | OpenAI GPT-4o                                  | Best structured output + multimodal (vision for images/floor plans)           |
+| Embeddings          | OpenAI text-embedding-3-small                  | 1536 dims, $0.02/1M tokens, good quality/cost ratio                           |
+| Vector store        | pgvector (PostgreSQL extension)                | No new service, transactional, tenant-isolated via schema                     |
+| Full-text search    | PostgreSQL tsvector                            | Unified with relational data, no new service                                  |
+| Geo search          | PostGIS (PostgreSQL extension)                 | No new service                                                                |
+| Async processing    | RabbitMQ (existing foundation)                 | Priority queues, DLQ, already in platform                                     |
+| File storage        | S3 / MinIO (existing foundation)               | Presigned URL pattern already proven in IAM                                   |
 
 Full rationale and competitor analysis: see `venue-intelligence-platform-intelligence.md`.
 
@@ -630,17 +645,18 @@ Full rationale and competitor analysis: see `venue-intelligence-platform-intelli
 - [ ] **Cost tracking granularity:** per-asset or per-tenant-per-month? Both are in schema; decide which is surfaced in UI.
 - [ ] **Embedding re-generation trigger:** currently on `metadata.aggregated`. Should it also trigger on manual name/description edit? **Lean: yes, debounced.**
 
-
 ---
 
 ## 16. Next Steps & Design Iterations
 
 ### Before Sprint 1 — Resolve These First
+
 - [ ] **One service or two?** Start as one (`vip-venue-service` with internal AI module), extract `vip-ai-service` when processing load justifies it.
 - [ ] **Docling in Phase 1?** No — Tika-only for MVP. Add Docling sidecar in Phase 2 for floor plan / table fidelity.
 - [ ] **MVP scope cut** — Phase 1 is: venue profiles, asset upload, basic AI extraction (PDF only), keyword + semantic search, team collaboration. Everything else is Phase 2+.
 
 ### Phase 2 Design (post-MVP signal)
+
 - Conflict resolution UX — API shape + state machine for resolving competing extracted values
 - Bulk import / CSV ingestion — for concierge onboarding and agency migrations
 - Saved searches + alerts — schema and delivery mechanism
@@ -649,18 +665,21 @@ Full rationale and competitor analysis: see `venue-intelligence-platform-intelli
 - Video walkthroughs — keyframe extraction via ffmpeg, vision-based amenity detection
 
 ### Phase 3 Design
+
 - Export / sharing — shareable branded links, PDF/Excel report generation, venue comparison view
 - Deduplication — detect and merge duplicate venue records across teams
 - Verification workflow — API + UX for promoting AI-extracted fields to "human-verified" status
 - CRM integrations — Salesforce, HubSpot webhook connectors
 
 ### Cross-Cutting Concerns (design before Phase 2 builds)
+
 - **AI resilience** — fallback behavior when OpenAI is unavailable; graceful degradation (queue for retry, notify user)
 - **Per-tenant AI cost controls** — budget caps, monthly usage alerts, what happens at limit
 - **Storage / retention policy** — S3 lifecycle rules, old embedding versions, extracted text retention (GDPR angle)
 - **Testing strategy** — test doubles for OpenAI, fixture documents for ETL pipeline, contract tests between services
 
 ### Strategic Bets to Validate with First Users
+
 - Is semantic search ("find venues like this one") actually used, or do planners prefer structured filters?
 - What's the real extraction accuracy on real-world venue PDFs? Run benchmark on 50 sample documents before committing to accuracy claims.
 - Is the "aha moment" the extraction result, or the search finding something instantly? Shapes onboarding flow design.
