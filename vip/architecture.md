@@ -24,8 +24,9 @@ VIP is a new product service built **on top of the IQKV foundation**. It does no
 
 **New services introduced by VIP:**
 
-- `vip-venue-service` — core domain (venues, assets, metadata, search)
-- `vip-ai-service` — document ETL pipeline, extraction orchestration, embedding generation
+- `vip-venue-model` — shared library (JAR). Canonical domain model, event contracts, enums, and Liquibase migrations. No Spring beans, no business logic — pure model and schema. Imported by both services.
+- `vip-venue-service` — core domain: venues, assets, metadata, search, plan enforcement. Synchronous request/response only.
+- `vip-venue-ingestion-worker` — async sidecar: document ETL pipeline, extraction orchestration, embedding generation, scheduled jobs. No inbound HTTP — event-driven only. Shares the same PostgreSQL schema as `vip-venue-service`.
 
 **New infrastructure introduced by VIP:**
 
@@ -240,11 +241,11 @@ Aggregation is debounced (5s) to batch rapid successive events.
                     │              vip-venue-service              │
                     │  venues · assets · metadata · search · api │
                     └────────┬─────────────────────────┬─────────┘
-                             │ RabbitMQ: asset.uploaded │ pgvector queries
+                             │ RabbitMQ: asset.uploaded │ read/write
                     ┌────────▼─────────┐     ┌─────────▼────────┐
-                    │  vip-ai-service  │     │   PostgreSQL      │
-                    │  ETL · extract   │────►│   + pgvector      │
-                    │  · embed · agg   │     │   + PostGIS       │
+                    │ vip-ingestion-   │     │   PostgreSQL      │
+                    │    worker        │────►│   + pgvector      │
+                    │ (async sidecar)  │     │   + PostGIS       │
                     └──────────────────┘     └──────────────────┘
                              │
                     ┌────────▼─────────┐
@@ -255,22 +256,97 @@ Aggregation is debounced (5s) to batch rapid successive events.
 ### vip-venue-service
 
 - **Responsibilities:** venue CRUD, asset upload flow (presigned URL), metadata read/write, search API, plan entitlement enforcement
-- **Database:** own PostgreSQL schema (schema-per-tenant via `foundation-tenancy`)
+- **Database:** owns the VIP PostgreSQL schema (schema-per-tenant via `foundation-tenancy`). Shared with `vip-venue-ingestion-worker` — no cross-service API calls for data.
 - **Exposes:** REST API at `/api/v1/venues`
-- **Consumes:** `extraction.completed`, `extraction.failed` (RabbitMQ)
 - **Publishes:** `venue.created`, `venue.updated`, `asset.uploaded`, `asset.deleted` (RabbitMQ)
+- **Consumes:** `extraction.completed`, `extraction.failed` (RabbitMQ) — triggers metadata aggregation
 
-### vip-ai-service
+### vip-venue-ingestion-worker
 
-- **Responsibilities:** document ETL pipeline (parse → chunk → extract → embed), extraction job lifecycle, cost tracking
-- **Database:** shared schema with venue-service (extraction_jobs, metadata_events tables) — OR separate schema, decision at implementation
-- **Consumes:** `asset.uploaded` (RabbitMQ) — triggers pipeline
+- **Responsibilities:** document ETL pipeline (parse → chunk → extract → embed), extraction job lifecycle, metadata aggregation, scheduled maintenance jobs (stale re-aggregation, cost reporting)
+- **Nature:** async sidecar — no inbound HTTP, no REST API, no service discovery entry. Event-driven only.
+- **Database:** shared PostgreSQL schema with `vip-venue-service`. Reads `venue_assets`, writes `extraction_jobs`, `venue_metadata_events`, `venue_vectors`, `ai_cost_tracking`.
+- **Consumes:** `asset.uploaded` (RabbitMQ) — triggers ETL pipeline
 - **Publishes:** `extraction.started`, `extraction.completed`, `extraction.failed` (RabbitMQ)
-- **External calls:** OpenAI API (GPT-4o, text-embedding-3-small), optionally Docling sidecar
+- **External calls:** OpenAI API (GPT-4o, text-embedding-3-small), optionally Docling sidecar (Phase 2)
+- **Scaling:** replicas scaled independently based on RabbitMQ queue depth — no impact on `vip-venue-service`
+
+### Table Ownership
+
+Both services share one PostgreSQL schema. Ownership defines who may write to a table. Cross-boundary reads are permitted; cross-boundary writes are not.
+
+| Table                   | Owner                  | The other service may… |
+| ----------------------- | ---------------------- | ---------------------- |
+| `venues`                | `vip-venue-service`    | read (ingestion-worker: resolve venue_id only) |
+| `venue_assets`          | `vip-venue-service`    | read (ingestion-worker: fetch asset for processing) |
+| `venue_metadata_events` | `vip-venue-service`    | write via event reaction (`extraction.completed` → venue-service aggregates) |
+| `extraction_jobs`       | `vip-venue-ingestion-worker` | read (venue-service: expose job status to API) |
+| `venue_vectors`         | `vip-venue-ingestion-worker` | read (venue-service: vector search queries) |
+| `ai_cost_tracking`      | `vip-venue-ingestion-worker` | read (venue-service: expose cost summary to API) |
+
+The single legitimate cross-boundary read from `vip-venue-ingestion-worker` is a `SELECT` on `venue_assets` by `asset_id` (delivered in the `asset.uploaded` event payload). This is a foreign key lookup, not business logic — acceptable and intentional.
 
 ---
 
-## 5. ETL Pipeline (vip-ai-service)
+## 4a. Shared Library — vip-venue-model
+
+`vip-venue-model` is a plain Java library (JAR, no Spring Boot, no `@SpringBootApplication`). Both `vip-venue-service` and `vip-venue-ingestion-worker` declare it as a compile dependency. It is the single source of truth for anything both services need to agree on.
+
+**Contents:**
+
+```
+vip-venue-model/
+├── model/
+│   ├── venue/
+│   │   ├── Venue.java                  JPA entity (aggregate root)
+│   │   ├── VenueStatus.java            enum: DRAFT, ACTIVE, ARCHIVED
+│   │   └── VenueAsset.java             JPA entity
+│   ├── asset/
+│   │   ├── AssetType.java              enum: PDF_DECK, FLOOR_PLAN, PHOTO, CAD_FILE…
+│   │   └── ExtractionStatus.java       enum: PENDING, IN_PROGRESS, COMPLETED, FAILED
+│   ├── extraction/
+│   │   ├── ExtractionJob.java          JPA entity
+│   │   ├── ExtractorType.java          enum: TIKA_TEXT, GPT4O_DOCUMENT, GPT4O_VISION
+│   │   └── VenueMetadataEvent.java     JPA entity (append-only event log)
+│   ├── metadata/
+│   │   ├── VenueMetadata.java          value object (mirrors venues.metadata JSONB)
+│   │   ├── VenueCapacity.java          capacity configurations value object
+│   │   ├── MetadataSource.java         provenance per field
+│   │   └── MetadataEventType.java      enum: ASSET_EXTRACTED, MANUAL_OVERRIDE, BULK_IMPORT
+│   └── events/                         RabbitMQ message contracts (POJOs, no framework deps)
+│       ├── AssetUploadedEvent.java
+│       ├── ExtractionStartedEvent.java
+│       ├── ExtractionCompletedEvent.java
+│       └── ExtractionFailedEvent.java
+└── db/
+    └── changelog/
+        └── tenant/                     Liquibase migrations — single source of truth
+            ├── 001-venues.sql
+            ├── 002-venue-assets.sql
+            ├── 003-extraction-jobs.sql
+            ├── 004-metadata-events.sql
+            ├── 005-venue-vectors.sql
+            └── 006-ai-cost-tracking.sql
+```
+
+**Rules:**
+- No `@Service`, `@Repository`, `@Component`, or any Spring bean annotation
+- No business logic — entities, value objects, enums, event POJOs only
+- JPA annotations on entities are acceptable (`@Entity`, `@Table`, `@Column` etc.)
+- Liquibase migrations live here so schema changes are a compile-time dependency bump, not a coordination exercise between services
+- Changing an event POJO field is a compile-time break in both services — intentional, prevents silent contract drift
+
+**Dependency graph:**
+
+```
+vip-venue-model  (library, no runtime)
+      ├── vip-venue-service     (Spring Boot, imports model)
+      └── vip-venue-ingestion-worker  (Spring Boot, imports model)
+```
+
+---
+
+## 5. ETL Pipeline (vip-venue-ingestion-worker)
 
 Built on **Spring AI's ETL framework**. Three composable stages:
 
@@ -394,7 +470,7 @@ Exchange: `iqkv.events` (Topic) — same exchange used by all foundation service
 | `asset.uploaded` | asset_id, venue_id, tenant_id, asset_type, s3_key, content_type | Asset confirmed, ready for extraction |
 | `asset.deleted`  | asset_id, venue_id, tenant_id                                   | Asset removed                         |
 
-### Published by vip-ai-service
+### Published by vip-venue-ingestion-worker
 
 | Routing key            | Payload fields                                | Description           |
 | ---------------------- | --------------------------------------------- | --------------------- |
@@ -402,7 +478,7 @@ Exchange: `iqkv.events` (Topic) — same exchange used by all foundation service
 | `extraction.completed` | job_id, asset_id, venue_id, tenant_id         | Extraction succeeded  |
 | `extraction.failed`    | job_id, asset_id, venue_id, tenant_id, reason | All retries exhausted |
 
-### Consumed by vip-ai-service
+### Consumed by vip-venue-ingestion-worker
 
 | Routing key      | Queue                                  | Action                                |
 | ---------------- | -------------------------------------- | ------------------------------------- |
@@ -446,8 +522,7 @@ Enforcement via `PlanFeatureGuard` (same pattern as IAM service's existing imple
 
 ## 10. Database Schema (Liquibase, tenant schema)
 
-Migrations live in `src/main/resources/db/changelog/tenant/`.  
-Applied automatically on new tenant provisioning via `TenantProvisionedEvent` listener (same pattern as IAM).
+Migrations live in `vip-venue-model` under `src/main/resources/db/changelog/tenant/` — the shared library is the single source of truth for schema. Both `vip-venue-service` and `vip-venue-ingestion-worker` include the library on their classpath; `vip-venue-service` runs the migrations on startup (or a dedicated init container applies them on tenant provisioning via `TenantProvisionedEvent` listener, same pattern as IAM).
 
 ```sql
 -- extensions (applied once per tenant schema)
@@ -639,11 +714,11 @@ Full rationale and competitor analysis: see `venue-intelligence-platform-intelli
 
 ## 15. Open Decisions (resolve before Sprint 1)
 
-- [ ] **One service or two?** `vip-venue-service` + `vip-ai-service` vs. a single `vip-venue-service` with an internal AI module. Two services = cleaner separation, independent scaling. One service = simpler for solo build. **Lean: start as one service, extract when needed.**
+- [x] **One service or two?** ~~`vip-venue-service` + `vip-ai-service` vs. a single `vip-venue-service` with an internal AI module.~~ **Decided:** Two deployments — `vip-venue-service` (synchronous API, data-tied) and `vip-venue-ingestion-worker` (async sidecar, shared schema, no inbound HTTP). Services are tied to data; ingestion is a processing concern, not a peer service.
+- [x] **Naming convention.** Service names reflect domain/purpose, not implementation technology. `vip-venue-ingestion-worker` describes what it does (ingest and process assets), not how (AI/ML).
 - [ ] **Docling in Phase 1?** Start with pure Tika (simpler). Add Docling sidecar in Phase 2 when floor plan / table fidelity is needed. **Lean: Tika-only for Phase 1.**
 - [ ] **Chunking table** in separate schema or same as venue tables? Spring AI's `PgVectorStore` defaults to a `vector_store` table. VIP uses `venue_vectors` to be explicit. Confirm naming before first migration.
 - [ ] **Cost tracking granularity:** per-asset or per-tenant-per-month? Both are in schema; decide which is surfaced in UI.
-- [ ] **Embedding re-generation trigger:** currently on `metadata.aggregated`. Should it also trigger on manual name/description edit? **Lean: yes, debounced.**
 
 ---
 
@@ -651,9 +726,8 @@ Full rationale and competitor analysis: see `venue-intelligence-platform-intelli
 
 ### Before Sprint 1 — Resolve These First
 
-- [ ] **One service or two?** Start as one (`vip-venue-service` with internal AI module), extract `vip-ai-service` when processing load justifies it.
 - [ ] **Docling in Phase 1?** No — Tika-only for MVP. Add Docling sidecar in Phase 2 for floor plan / table fidelity.
-- [ ] **MVP scope cut** — Phase 1 is: venue profiles, asset upload, basic AI extraction (PDF only), keyword + semantic search, team collaboration. Everything else is Phase 2+.
+- [ ] **MVP scope cut** — Phase 1 is: venue profiles, asset upload, basic extraction (PDF only), keyword + semantic search, team collaboration. Everything else is Phase 2+.
 
 ### Phase 2 Design (post-MVP signal)
 
