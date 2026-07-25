@@ -70,6 +70,79 @@ VIP's long-term direction is a two-sided marketplace: planners manage their port
 
 ---
 
+## Ideal Customer Profile (ICP)
+
+### B2B Buyers — who signs the contract and pays
+
+These are the people VIP needs to convince. They control budget and make the purchase decision.
+
+**Agency Owner / Managing Director**
+
+- 5–50 person event planning agency
+- Recurring pain: senior planners leave and take their venue knowledge with them
+- Business case: protect institutional knowledge, onboard new hires faster, respond to clients more confidently
+- Willingness to pay: high — $99/month is trivial against the cost of one wasted senior planner hour per week
+- Decision speed: fast — no procurement committee, credit card purchase
+
+**Head of Events / Events Director (corporate)**
+
+- In-house event team at a mid-to-large company (tech, finance, pharma, professional services)
+- Recurring pain: repeating venue research for every event cycle, no shared library across the team
+- Business case: reduce duplicated research, give new team members a running start, standardise venue intelligence across stakeholders (EA, HR, marketing)
+- Willingness to pay: medium-high — likely needs a budget line, but $99–$500/month is well within discretionary spend
+- Decision speed: medium — may need one level of approval
+
+**Operations Manager / Executive Assistant (SMB)**
+
+- Responsible for company offsites, team events, executive dinners
+- Not a professional planner but runs recurring events and keeps reinventing the wheel
+- Business case: stop starting from scratch every quarter
+- Willingness to pay: medium — personal budget or discretionary ops spend
+- Decision speed: fast if the pain is fresh (just finished a stressful event search)
+
+---
+
+### End Users — who uses it every day
+
+These are the people VIP needs to delight. If they don't find it useful in the first week, the buyer cancels.
+
+**Event Planner / Account Manager (agency)**
+
+- Uses VIP on every client brief — searches first, uploads new venues after site visits
+- Cares about: search speed, accurate extraction, mobile upload during site visits
+- Aha moment: types a client requirement and gets the right venue back in under 10 seconds
+- Churn risk: if search results are inaccurate or extraction misses key fields, they stop trusting it and go back to email
+
+**Junior Planner / Coordinator**
+
+- New to the team, relies on the shared library to get up to speed
+- Cares about: not having to ask senior colleagues for basic venue info, being able to answer client questions independently
+- Aha moment: finds venue details without interrupting a senior colleague for the first time
+- Retention driver: the shared library becomes how they learn the portfolio — deeply sticky once habitual
+
+**Solo Independent Planner**
+
+- Buyer and end user are the same person
+- Cares about: not carrying everything in their head, being able to work from their phone, impressing clients with fast answers
+- Aha moment: pulls up venue details on their phone during a client call without putting them on hold
+- Price sensitivity: higher than agencies — $99/month needs to feel clearly worth it
+
+---
+
+### ICP Matrix
+
+| Segment               | Company size | Buyer               | End user                | ACV                        | Priority        |
+| --------------------- | ------------ | ------------------- | ----------------------- | -------------------------- | --------------- |
+| Small agency          | 5–20 staff   | Owner / MD          | Planners                | $1,188/yr (Pro)            | **Tier 1**      |
+| Mid agency            | 20–50 staff  | Director / MD       | Planners + coordinators | $1,188–5K/yr               | **Tier 1**      |
+| Corporate events team | 50–500 staff | Head of Events / EA | Coordinators            | $1,188–15K/yr (Enterprise) | **Tier 2**      |
+| Solo planner          | 1 person     | Self                | Self                    | $1,188/yr (Pro)            | Tier 3 (volume) |
+| Large agency / AMC    | 50+ staff    | VP Events / COO     | Large team              | $10K+/yr (Enterprise)      | Tier 2          |
+
+**Tier 1 focus for MVP:** small to mid agencies (5–50 staff). Fastest decision cycle, clearest pain, highest word-of-mouth potential within tight professional communities.
+
+---
+
 ## Core Value Propositions
 
 **Time back.** Stop rebuilding venue research from scratch. Search replaces digging. 45 minutes becomes 10 seconds.
