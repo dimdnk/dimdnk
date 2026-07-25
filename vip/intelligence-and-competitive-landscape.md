@@ -3,6 +3,8 @@
 > Technical and strategic reference for the document intelligence, ETL pipeline,
 > and competitive positioning of VIP.
 
+**Docs:** [What is VIP?](what-is-vip.md) · [Business Overview](business-overview.md) · [Competitive Landscape](intelligence-and-competitive-landscape.md) · [Architecture](architecture.md)
+
 ---
 
 ## 1. Competitive Landscape
@@ -815,3 +817,7 @@ pgvector with IVFFlat index:
 **Document type:** Technical intelligence reference
 **Stage:** Pre-build design
 **Audience:** Engineering, founding team
+
+---
+
+**Docs:** [What is VIP?](what-is-vip.md) · [Business Overview](business-overview.md) · [Competitive Landscape](intelligence-and-competitive-landscape.md) · [Architecture](architecture.md)

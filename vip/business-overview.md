@@ -2,21 +2,41 @@
 
 > Solo-built MVP. US market first, platform-native for global expansion.
 
----
-
-## The Problem We Solve
-
-Event professionals spend hours every week hunting through scattered venue files — PDFs in email, photos on phones, floor plans in shared drives, spec sheets in personal folders. There's no single place to look. Every search is manual. Every new team member starts from zero.
-
-The result: slow client responses, knowledge silos, wasted time, and missed opportunities.
+**Docs:** [What is VIP?](what-is-vip.md) · [Business Overview](business-overview.md) · [Competitive Landscape](intelligence-and-competitive-landscape.md) · [Architecture](architecture.md)
 
 ---
 
-## Our Solution
+## The Problem
+
+Event professionals spend hours every week hunting through scattered venue files — PDFs in email, photos on phones, floor plans in shared drives, spec sheets in personal folders. There is no single place to look. Every search is manual. Every new team member starts from zero.
+
+The knowledge exists. It is just buried.
+
+A client calls and asks: "can you find me a venue for 150 people, kosher catering, downtown, available in October?" The planner knows they have seen the right place — somewhere. They spend 45 minutes digging through inboxes and folders, send an answer they are not fully confident about, and the client wonders why it took so long.
+
+This happens multiple times a week at every agency. The cost is not just time — it is lost client confidence, missed opportunities, and institutional knowledge that walks out the door when a senior planner leaves.
+
+**The specific pain:**
+
+- Senior planners hoard knowledge in personal folders. When they leave, it is gone.
+- New hires take months to get up to speed on the venue portfolio.
+- The same venues get researched from scratch for every new event.
+- Clients ask questions that require digging through 50-page PDFs.
+- Teams have no shared, authoritative source for venue details.
+
+---
+
+## The Solution
 
 **Upload once. AI organizes everything. Search finds any venue in seconds.**
 
-VIP turns fragmented venue documentation into a structured, searchable intelligence layer. Drop in a venue deck, a floor plan, a photo set — the platform automatically extracts what matters: capacity, amenities, restrictions, contacts. Every venue becomes a rich, queryable profile instead of a pile of files.
+VIP turns fragmented venue documentation into a structured, searchable intelligence layer.
+
+Drop in a venue deck, a floor plan, a photo set, a spec sheet — the platform reads all of it automatically and extracts what matters: capacity in every room configuration, amenities, catering policy, AV specs, restrictions, contacts, pricing indicators. Every venue becomes a rich, queryable profile instead of a pile of files.
+
+When a client asks that question, anyone on the team types it and gets the answer in seconds — with a source citation showing exactly which document the data came from and how confident the system is.
+
+**The aha moment:** upload one PDF, see the extracted venue profile appear in 30 seconds. That is when it clicks.
 
 ---
 
@@ -24,40 +44,43 @@ VIP turns fragmented venue documentation into a structured, searchable intellige
 
 ### Primary — Event Planning Agencies
 
-Small to mid-size teams (5–50 people) managing dozens or hundreds of venues.
+Small to mid-size teams (5–50 people) managing dozens or hundreds of venues across corporate events, galas, conferences, product launches, and private celebrations.
 
-- They already have the files. They just can't find anything.
-- Senior planners hoard knowledge in their own folders.
-- New hires take months to get up to speed.
-- Clients ask questions that require digging through 50-page PDFs.
+- They already have the files accumulated over years of working with venues.
+- The knowledge is fragmented: across individuals, inboxes, shared drives, and memory.
+- Senior planners are the single point of failure — they hold the relationships and the context.
+- New hires take 3–6 months to become independently useful on venue questions.
+- Client response speed is a direct competitive differentiator — agencies that answer faster win more business.
 
-**Buying moment:** team grows, a client ask falls through the cracks, or a key planner leaves taking their venue knowledge with them.
+**Buying trigger:** the team grows past a point where informal knowledge sharing breaks down, a client ask falls through the cracks, or a key planner leaves and takes their venue knowledge with them.
 
 ### Secondary — Corporate Event Teams
 
-In-house teams at larger companies running recurring events.
+In-house teams at larger companies running recurring events — quarterly offsites, annual conferences, team-building events, executive dinners.
 
-- They repeat venue research for every event.
-- No institutional memory between events.
-- Multiple stakeholders need access to the same information.
+- They repeat the same venue research for every event cycle because nothing was captured properly.
+- Multiple stakeholders (EA, HR, marketing, procurement) need access to the same venue information.
+- No institutional memory between events — the person who ran last year's event may not be running this year's.
 
-### Future — Venue Managers (Marketplace Direction)
+### Future — Venue Marketplace (Platform Direction)
 
-Venues themselves want to reach planners. Right now they send the same PDF deck to every inquiry.
+Venues themselves want to reach planners. Right now they send the same PDF deck to every inquiry and hope it stands out. Most of it ends up in an inbox never to be found again.
 
-This opens a two-sided marketplace angle down the road: planners discover venues, venues pay to be found.
+VIP's long-term direction is a two-sided marketplace: planners manage their portfolio for free, venues pay for visibility and to reach planners actively searching. The venue intelligence layer is the foundation that makes that marketplace trusted — planners share structured, verified venue profiles rather than raw PDF dumps.
 
 ---
 
-## Core Value Props
+## Core Value Propositions
 
-**Time back.** Stop rebuilding venue research from scratch. Search replaces digging.
+**Time back.** Stop rebuilding venue research from scratch. Search replaces digging. 45 minutes becomes 10 seconds.
 
-**Team knowledge.** When a planner leaves or a new one joins, nothing is lost. The intelligence stays in the platform.
+**Team knowledge.** When a planner leaves or a new one joins, nothing is lost. The intelligence stays in the platform, attributed to its source, available to everyone with access.
 
-**Client speed.** Answer "can this venue fit 200 people with AV?" in 10 seconds, not 30 minutes.
+**Client speed.** Answer questions in the room, on the phone, in the meeting. No "let me get back to you."
 
-**Confidence.** Every claim is sourced. AI shows where the data came from and how confident it is.
+**Confidence.** Every data point is sourced. The system shows which document it came from, what page, and how confident it is. Planners can verify anything with one click.
+
+**Conflict resolution.** When two documents give different capacity numbers, VIP surfaces the conflict and lets the planner resolve it once — rather than discovering the discrepancy mid-proposal.
 
 ---
 
@@ -67,130 +90,130 @@ This opens a two-sided marketplace angle down the road: planners discover venues
 
 **Venue Profiles**
 
-- Create a venue card (name, address, description)
-- Upload any mix of files: PDF decks, photos, floor plans, specs
-- All assets organized under one venue
+- Create a venue card: name, address, description, tags
+- Upload any mix of files: PDF decks, photos, floor plans, spec sheets
+- All assets organized under one venue, versioned, with upload history
 
 **AI Extraction**
 
-- Automatically detects: capacity, venue type, amenities, catering policy, restrictions, contacts
-- Extracts from PDFs and images without manual data entry
-- Shows confidence scores — users see what AI is sure about and what to verify
+- Automatically detects: capacity (all configurations), venue type, amenities, catering policy, AV specs, accessibility, logistics, restrictions, contacts, indicative pricing
+- Extracts from text-based PDFs and images without manual data entry
+- Confidence scores per field — users see what AI is certain about and what to verify
+- Source citation — every extracted field links back to the source document and page
 
 **Smart Search**
 
-- Natural language queries: "waterfront venue for 150, in-house catering"
-- Filter by capacity, location, amenities, venue type
+- Natural language queries: "waterfront venue for 150, in-house catering, no curfew"
+- Structured filters: capacity, location, amenities, venue type, catering policy
 - Semantic similarity: "find venues like this one"
-- Keyword search across all uploaded document content
+- Full-text search across all uploaded document content
+- Hybrid mode: combines keyword, semantic, and structured filters in one query
 
 **Team Collaboration**
 
-- Invite teammates, role-based access
-- Shared library — everyone sees the same venues
-- Activity log (who added what)
+- Invite teammates with role-based access (Owner, Admin, Member, Viewer)
+- Shared library — every team member sees the same venues and the same data
+- Activity log: who added what, when, and what changed
 
 **Mobile-Friendly**
 
-- Responsive design — usable on phones during site visits
-- Upload photos directly from mobile
+- Fully responsive — usable on phones during site visits
+- Upload photos directly from mobile camera
 
 ---
 
 ### Phase 2 · Intelligence Layer
 
-**Deeper AI Capabilities**
+**Deeper Extraction**
 
-- Floor plan analysis (layout types, dimensions)
-- Photo-based amenity detection
-- CAD/DWG file support
-- Multi-language document extraction (Spanish, French — common in US market)
+- Floor plan analysis: room names, layout type, dimensions, capacity annotations
+- Photo-based amenity detection via vision AI
+- CAD/DWG file support — extract dimensions and room metadata from AutoCAD files
+- Multi-language document extraction (Spanish, French — common in the US market)
+- Video walkthrough support: keyframe extraction and vision-based amenity detection
 
 **Search Upgrades**
 
-- Geo-spatial search (venues within X miles)
-- Saved searches and alerts
-- Faceted navigation with 10+ filters simultaneously
+- Geo-spatial search: venues within X miles of a zip code or city center
+- Saved searches with email alerts when new venues match
+- Faceted navigation with 10+ simultaneous filters
 
 **Data Quality Tools**
 
-- Manual override with one click (correct AI mistakes)
-- Conflict resolution UI (AI found two different capacities — which is right?)
-- Full history of every metadata change and its source
+- Manual override: correct any AI-extracted field with one click
+- Conflict resolution UI: when two sources disagree, see both values, their confidence, and their source — resolve once
+- Full provenance history: every field shows its complete extraction and edit history
+- Bulk re-extraction: re-run AI on existing assets after model improvements
 
 **Basic Analytics**
 
-- Most-viewed venues
-- What teams are searching for
-- Export shortlists to PDF or Excel
+- Most-viewed and most-searched venues
+- Team search patterns — what is the team looking for most
+- Export shortlists to PDF or Excel for client proposals
 
 ---
 
-### Phase 3 · Collaboration & Sharing
+### Phase 3 · Collaboration & Marketplace
 
 **Client-Facing Features**
 
-- Share a venue shortlist via branded link
-- Clients can comment and rate venues
-- Auto-generate venue comparison reports
+- Share a curated venue shortlist via branded, password-optional link
+- Clients can comment, rate, and flag favorites directly in the shared view
+- Auto-generate venue comparison reports (PDF/Excel) from selected venues
 
 **Workflow Tools**
 
-- Venue folders and tags (by event type, city, season)
-- Custom fields (company-specific metadata)
-- Integration hooks for CRMs (Salesforce, HubSpot)
+- Venue folders and tags: organize by event type, city, season, status
+- Custom fields: company-specific metadata beyond the standard schema
+- Integration hooks for CRMs: Salesforce, HubSpot, and custom webhooks
 
 **White-Label (Enterprise)**
 
-- Custom domain
-- Brand colors and logo
-- Custom email templates
+- Custom domain (venues.youragency.com)
+- Brand colors and logo throughout the product
+- Custom email templates for team and client communications
 
-**International Expansion Features**
+**Marketplace Features**
 
-- Multi-language UI
-- Multi-currency pricing
-- Localized support (timezone-aware)
+- Venue-facing profiles: venues claim and enhance their VIP listing
+- Planner-to-venue discovery: search across the full VIP venue network, not just your own library
+- Venue subscription: venues pay for enhanced visibility, direct inquiry routing, analytics
 
 ---
 
-## International Expansion — Built-In, Not Bolted On
+## International Expansion — Designed In, Not Added On
 
-The platform is designed for global from day one, but launches US-first to validate the core product quickly.
+The platform launches US-first to validate the core product. The architecture supports global from day one.
 
 ### Stage 1 · US (Launch)
 
-- English only
-- USD pricing
-- Focus on major event markets: NYC, LA, Chicago, Miami, Las Vegas
-- US event industry associations as distribution channels (MPI, PCMA)
+- English only, USD pricing
+- Focus: NYC, LA, Chicago, Miami, Las Vegas — the five largest US event markets
+- Distribution: MPI, PCMA, BizBash community channels
 
 ### Stage 2 · English-Speaking Markets
 
-- UK, Canada, Australia — minimal localization needed
-- Currency and date format adjustments
-- Regional venue terminology differences
+- UK, Canada, Australia — minimal localization effort
+- Currency and date format adjustments, regional terminology
 
 ### Stage 3 · EU
 
 - Full localization: German, French, Spanish
-- GDPR compliance layer (data residency, right to erasure)
-- Local payment methods
-- VAT handling per country
+- GDPR compliance: data residency options, right to erasure, DPA contracts
+- Local payment methods, VAT handling per country
 
 ### Stage 4 · APAC & Beyond
 
-- Arabic (right-to-left)
-- CJK character support
+- Arabic (right-to-left layout support), CJK character sets
 - Data residency compliance per region
 - Local partnership model for market entry
 
-**Platform capabilities already in place:**
+**Already in place at the platform level:**
 
-- Multi-tenant architecture (data isolated per customer)
-- AI works in 50+ languages (GPT-4o multilingual)
-- All timestamps UTC, displayed in user's timezone
-- Currency stored in USD, displayed in local
+- Schema-per-tenant multi-tenancy: data fully isolated per customer
+- AI extraction works in 50+ languages (GPT-4o multilingual)
+- All timestamps stored UTC, displayed in user's local timezone
+- Prices stored in USD, displayed in local currency
 - Compliance hooks for GDPR, CCPA, LGPD
 
 ---
@@ -200,108 +223,130 @@ The platform is designed for global from day one, but launches US-first to valid
 ### Free — Starter
 
 - 10 venues, 20 assets per venue
-- Basic AI extraction (PDF text only)
-- Solo use (no team invites)
-- Goal: low-friction entry, convert at the limit
+- Basic AI extraction (text-based PDFs only)
+- Solo use — no team invites
+- Goal: frictionless entry point, convert when the user hits the limit or needs a team feature
 
-### Pro — Professional · ~$99/month
+### Pro — $99/month (or ~$83/month billed annually)
 
 - 500 venues, 100 assets per venue
-- Full AI extraction (all file types)
-- Semantic search
-- Team collaboration (unlimited members)
-- Annual billing option with discount
+- Full AI extraction across all supported file types
+- Semantic and hybrid search
+- Team collaboration — unlimited members
+- Export and shortlist features
+- Target: small agencies and active independent planners
 
 ### Enterprise — Custom pricing
 
 - Unlimited venues and assets
-- Priority AI processing
-- White-label
-- SSO / SAML
-- API access for integrations
-- Dedicated support
+- Priority AI processing queue
+- White-label (custom domain, branding)
+- SSO / SAML integration
+- REST API access for integrations
+- Dedicated onboarding and support
+- SLA-backed uptime commitment
+- Target: agencies with 50+ staff, corporate event teams, association management companies
 
-### Future Revenue Angles
+### Future Revenue
 
-- **Marketplace:** venues pay for visibility to planners
-- **Lead generation:** charge venues per planner inquiry
-- **Data products:** anonymized venue market intelligence
+- **Marketplace listings:** venues pay for enhanced visibility, verified badges, inquiry routing
+- **Lead generation:** venues pay per qualified planner inquiry
+- **Data products:** anonymized, aggregated venue intelligence — trends, pricing benchmarks, availability signals — sold to industry research buyers
 
 ---
 
 ## Competitive Positioning
 
+The detailed competitive landscape analysis is in `intelligence-and-competitive-landscape.md`. Summary:
+
 **vs. Dropbox / Google Drive**
-They store files. We understand them. AI extraction and structured search are the difference.
+They store files. VIP understands them. The difference is AI extraction and structured search — a planner can ask a question and get an answer, not a list of files to open.
 
 **vs. Airtable / Notion**
-Great general tools. No AI extraction, no venue-specific search, still manual data entry.
+Flexible general-purpose tools that require manual data entry to be useful. Every field someone types in is a field that goes out of date. VIP extracts from source documents automatically, so the data stays in sync with what venues actually sent.
 
-**vs. Legacy venue management tools**
-Older products are directory listings or CRM add-ons — not document intelligence platforms.
+**vs. Cvent / VenueScanner / VenueFindAI**
+Marketplace and discovery tools — they know what venues self-submit publicly. VIP works with documents the planner already has, extracted into a private, team-owned knowledge base. Complementary, not competing.
 
-**Our edge:**
+**vs. Bynder / Brandfolder (DAM platforms)**
+Store and tag files for brand teams. No venue-specific schema, no structured extraction, no understanding of capacity or catering policy. A well-organized filing cabinet is not an intelligence layer.
 
-- AI-first, not search-as-an-afterthought
-- Multi-source data model (aggregate from multiple uploads, handle conflicts)
-- Global-ready architecture from day one
-- Marketplace potential that single-purpose tools can't build toward
+**vs. Spark (GEVME/PCMA)**
+Helps planners write faster — content generation, agenda drafting, RFP copy. Does not help them know their venues better. VIP provides the venue intelligence that makes Spark's output accurate and specific.
+
+**The gap VIP fills:**
+Nobody provides document intelligence specifically for event planners managing their own venue portfolio. The slot is unoccupied.
+
+**VIP's durable edge:**
+
+- Venue-specific extraction schema — not generic field detection, but the exact fields event planners use (capacity configurations, catering policy, curfew, rigging points, load-in access)
+- Multi-source aggregation with conflict resolution — when five documents disagree, VIP surfaces it and resolves it, rather than silently picking one value
+- Full provenance — every data point traces back to a source document and page
+- Global-ready from day one — architecture, not afterthought
 
 ---
 
-## Go-to-Market (Solo / Lean)
+## Go-to-Market
 
-### Finding First Customers
+### Phase 1 — First 10 Paying Customers
 
-- Personal outreach to event planners in network
-- LinkedIn direct messages with specific pain point framing
-- Offer concierge onboarding: we upload their first 20 venues for free
-- Target communities: event planner Facebook groups, Reddit (r/eventplanning), industry Slack groups
+Personal and direct. No paid acquisition yet.
 
-### Launch Channels
+- Direct outreach to event planners in existing network
+- LinkedIn outreach with specific pain point framing ("do you manage a venue library?")
+- Concierge onboarding offer: we import your first 20 venues for free — reduces the activation barrier to zero
+- Community seeding: event planner Facebook groups, r/eventplanning, industry Slack groups (EventProfs, MPI chapters)
+- One US city focus first — build word-of-mouth in a specific community before expanding
 
-- Product Hunt
-- BizBash, EventMB (event industry press)
-- Content: "The state of venue research in 2026" — survey + report
-- Short demo video (2–3 min) showing AI extraction live
+### Phase 2 — Scaling to 100 Customers
 
-### Retention Levers
+- Product Hunt launch
+- Industry press: BizBash, Skift Meetings, EventMB
+- Content marketing: "The state of venue research in 2026" — a short survey + report that surfaces the pain quantitatively, positions VIP as the authority, and generates inbound leads
+- Demo video (2–3 min): live AI extraction from a real venue PDF, no narration needed
+- PCMA and MPI partnership / sponsorship — Spark (GEVME/PCMA) is a complementary tool and a potential distribution channel
 
-- Email onboarding sequence (7-day drip)
-- In-app tips as users hit milestones
-- Monthly changelog emails (build habit of checking what's new)
-- "Upgrade nudge" when users hit free tier limits
+### Retention
 
-### Referral Mechanics
+- 7-day email onboarding sequence: one capability introduced per day
+- In-app milestone prompts: first upload, first search, first team invite
+- Monthly changelog emails — build the habit of checking what is new
+- Upgrade prompts precisely when the free tier limit is hit, not before
 
-- Give 1 month free for each paying referral
-- Team invites generate natural viral loop (one Pro user invites teammates)
+### Viral Loop
+
+- Team invites: one Pro subscriber inviting colleagues grows the seat count without extra acquisition cost
+- Shared shortlists: every client-facing shortlist link is a passive product demo to a new potential user
+- Referral: one free month for each paying referral
 
 ---
 
 ## Key Risks
 
-**AI accuracy below expectations**
-Mitigation: show confidence scores, make manual override trivial, set honest expectations upfront.
+**AI extraction accuracy below expectations**
+The core value proposition depends on extraction being good enough that planners trust the output. Real-world venue PDFs vary enormously — text-based, scanned, design-heavy, multi-column. Mitigation: benchmark 50 real venue documents before launch and measure field-level accuracy. Show confidence scores always. Make manual override a first-class, one-click feature. Set honest expectations rather than claiming perfection.
 
-**Empty platform problem**
-Mitigation: seed with public venue data, offer concierge import for early customers, make bulk upload frictionless.
+**Empty platform problem (cold start)**
+A venue library with one venue in it is not useful. Mitigation: concierge onboarding (we import your first batch for free) gets early customers past the empty-state friction. Seed the free tier with publicly available venue data from major US markets so it is never completely empty.
 
-**Trust / data confidentiality**
-Mitigation: strong tenant isolation, encryption by default, transparency about how data is handled.
+**Trust and data confidentiality**
+Planners' venue portfolios contain proprietary relationships and pricing intelligence. They will not upload this to a platform they do not trust. Mitigation: schema-per-tenant isolation (no cross-customer data leakage), encryption at rest and in transit, clear data handling policy, transparency about how OpenAI processes documents (enterprise option: Azure OpenAI for data residency).
 
-**Feature creep on solo build**
-Mitigation: strict MVP discipline — ship Phase 1 only, gather signal before building Phase 2.
+**Single-planner adoption without team buy-in**
+Stickiness is team-level, not individual. A solo user switching tools is low friction. A team of 15 sharing a venue library is sticky. Mitigation: price at the team level (Pro includes unlimited team members), make the shared library the primary UX entry point, not the individual profile.
+
+**Feature creep on a solo build**
+Every interesting problem is a distraction from shipping. Mitigation: Phase 1 is fixed scope — venue profiles, asset upload, basic extraction (PDF text only), keyword and semantic search, team collaboration. Everything else is Phase 2 or later. No exceptions during MVP.
 
 ---
 
-## Questions to Resolve Before Launch
+## Open Questions Before Launch
 
-- What's the single metric that proves value? (Venues uploaded? Weekly searches?)
-- What's the minimum a customer needs to feel the "aha moment"? (Probably: upload 1 PDF, see extracted metadata in 30 seconds)
-- What's the right free tier limit to drive upgrades without frustrating genuine users?
-- Which US city / event community to seed first for word-of-mouth?
-- International: UK first (easy) or EU first (larger)?
+- What is the single metric that proves value? Hypothesis: weekly active searches (not venues uploaded — search proves the knowledge is being used).
+- What is the minimum a customer needs to feel the aha moment? Hypothesis: upload 1 PDF, see extracted metadata appear in under 30 seconds, run one search that returns it.
+- What is the right free tier ceiling — high enough to demonstrate value, low enough to drive upgrade?
+- Which US city or event community to seed first for concentrated word-of-mouth?
+- UK first (low localization effort, similar market) or EU first (larger market, higher complexity)?
 
 ---
 
@@ -309,14 +354,24 @@ Mitigation: strict MVP discipline — ship Phase 1 only, gather signal before bu
 
 Start as the tool event planners use to organize and search their venue library.
 
-Grow into the intelligence layer that sits underneath the entire event planning workflow — from venue discovery to proposal to booking.
+Grow into the intelligence layer that sits underneath the entire event planning workflow — from venue discovery to proposal to booking to post-event review.
 
-Long-term: a two-sided marketplace where planners find venues, and venues compete to be found — with AI as the matchmaker.
+Long-term: a two-sided marketplace where planners find venues and venues compete to be found — with AI as the matchmaker, and the venue knowledge base as the trust layer that makes recommendations credible.
 
-The venue knowledge that currently lives in scattered files, personal folders, and people's heads should live in one place, structured, searchable, and shared.
+The venue knowledge that currently lives in scattered files, personal folders, and people's heads should live in one place — structured, searchable, sourced, and shared.
 
 ---
 
-**Document type:** Business brainstorm / sales overview
+## Plain English
+
+For anyone who wants to understand what this is without the business language — see [`what-is-vip.md`](what-is-vip.md).
+
+---
+
+**Document type:** Business overview
 **Stage:** Pre-launch MVP
-**Audience:** Founders, early customers, potential partners
+**Audience:** Founders, team, early customers, potential partners
+
+---
+
+**Docs:** [What is VIP?](what-is-vip.md) · [Business Overview](business-overview.md) · [Competitive Landscape](intelligence-and-competitive-landscape.md) · [Architecture](architecture.md)

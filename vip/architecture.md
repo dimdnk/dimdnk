@@ -2,10 +2,8 @@
 
 > **Audience:** Engineers, architects.
 > **Purpose:** Single source of truth for all technical decisions before development starts.
-> **Related docs:**
->
-> - `business-overview.md` — product overview, GTM, feature roadmap, pricing
-> - `intelligence-and-competitive-landscape.md` — competitor landscape, ETL tooling rationale, document parsing choices
+
+**Docs:** [What is VIP?](what-is-vip.md) · [Business Overview](business-overview.md) · [Competitive Landscape](intelligence-and-competitive-landscape.md) · [Architecture](architecture.md)
 
 ---
 
@@ -275,14 +273,14 @@ Aggregation is debounced (5s) to batch rapid successive events.
 
 Both services share one PostgreSQL schema. Ownership defines who may write to a table. Cross-boundary reads are permitted; cross-boundary writes are not.
 
-| Table                   | Owner                  | The other service may… |
-| ----------------------- | ---------------------- | ---------------------- |
-| `venues`                | `vip-venue-service`    | read (ingestion-worker: resolve venue_id only) |
-| `venue_assets`          | `vip-venue-service`    | read (ingestion-worker: fetch asset for processing) |
-| `venue_metadata_events` | `vip-venue-service`    | write via event reaction (`extraction.completed` → venue-service aggregates) |
-| `extraction_jobs`       | `vip-venue-ingestion-worker` | read (venue-service: expose job status to API) |
-| `venue_vectors`         | `vip-venue-ingestion-worker` | read (venue-service: vector search queries) |
-| `ai_cost_tracking`      | `vip-venue-ingestion-worker` | read (venue-service: expose cost summary to API) |
+| Table                   | Owner                        | The other service may…                                                       |
+| ----------------------- | ---------------------------- | ---------------------------------------------------------------------------- |
+| `venues`                | `vip-venue-service`          | read (ingestion-worker: resolve venue_id only)                               |
+| `venue_assets`          | `vip-venue-service`          | read (ingestion-worker: fetch asset for processing)                          |
+| `venue_metadata_events` | `vip-venue-service`          | write via event reaction (`extraction.completed` → venue-service aggregates) |
+| `extraction_jobs`       | `vip-venue-ingestion-worker` | read (venue-service: expose job status to API)                               |
+| `venue_vectors`         | `vip-venue-ingestion-worker` | read (venue-service: vector search queries)                                  |
+| `ai_cost_tracking`      | `vip-venue-ingestion-worker` | read (venue-service: expose cost summary to API)                             |
 
 The single legitimate cross-boundary read from `vip-venue-ingestion-worker` is a `SELECT` on `venue_assets` by `asset_id` (delivered in the `asset.uploaded` event payload). This is a foreign key lookup, not business logic — acceptable and intentional.
 
@@ -330,6 +328,7 @@ vip-venue-model/
 ```
 
 **Rules:**
+
 - No `@Service`, `@Repository`, `@Component`, or any Spring bean annotation
 - No business logic — entities, value objects, enums, event POJOs only
 - JPA annotations on entities are acceptable (`@Entity`, `@Table`, `@Column` etc.)
@@ -758,3 +757,7 @@ Full rationale and competitor analysis: see `venue-intelligence-platform-intelli
 - What's the real extraction accuracy on real-world venue PDFs? Run benchmark on 50 sample documents before committing to accuracy claims.
 - Is the "aha moment" the extraction result, or the search finding something instantly? Shapes onboarding flow design.
 - Which asset type matters most to upload first — venue decks or floor plans? Informs parser priority.
+
+---
+
+**Docs:** [What is VIP?](what-is-vip.md) · [Business Overview](business-overview.md) · [Competitive Landscape](intelligence-and-competitive-landscape.md) · [Architecture](architecture.md)
