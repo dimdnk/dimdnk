@@ -29,7 +29,7 @@ I'm Dima, a Platform Engineer with 15+ years in IT, specialising in full-stack, 
 
 ### 👷 Recent Contributions
 
-- [IQKV/boot-parent-pom](https://github.com/IQKV/boot-parent-pom) - Default configurations for complete dependency tree to quickly build Spring Boot project.
+- [IQKV/checkstyle-config](https://github.com/IQKV/checkstyle-config) - Checkstyle configuration.
 - [IQKV/foundation-tenancy](https://github.com/IQKV/foundation-tenancy) - Shared tenancy components for IQKV microservices.
 - [IQKV/foundation-billing-service](https://github.com/IQKV/foundation-billing-service) - Billing and subscription management microservice,
 
