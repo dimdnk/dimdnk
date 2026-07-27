@@ -29,7 +29,7 @@ I'm Dima, a Platform Engineer with 15+ years in IT, specialising in full-stack, 
 
 ### 👷 Recent Contributions
 
-- [IQKV/foundation-ui-app](https://github.com/IQKV/foundation-ui-app) - Reference tenant UI
+- [IQKV/standard-docs-vitepress-project-layout](https://github.com/IQKV/standard-docs-vitepress-project-layout) - Getting-started guidance, feature details, and API reference documentation template.
+- [IQKV/standard-ui-mantine-project-layout](https://github.com/IQKV/standard-ui-mantine-project-layout) - Vite &#43; ReactJS 19 &#43; Tanstack Router &#43; Tanstack Query &#43; Mantine UI &#43; FSD Architecture
 - [IQKV/system-design-documentation](https://github.com/IQKV/system-design-documentation) - SaaS Platform Design Documents.
-- [IQKV/foundation-billing-service](https://github.com/IQKV/foundation-billing-service) - Billing and subscription management microservice,
 
