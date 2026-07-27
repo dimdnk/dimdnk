@@ -54,7 +54,7 @@ Integrating copilots and platforms like **Claude Code** to boost productivity an
 - Implemented containerization strategies with a variety of *Jenkinsfile*s, *Dockerfile*s, podman
 - Developed monitoring and logging systems with Prometheus+Grafana+Loki+Promtail
 
-**Founder and Technologist, IQ Key Value Foundation** (2021 - Present)
+**Founder and Technologist, iQ Key Value Foundation** (2021 - Present)
 
 - Leading the IQKV software platform and coordinating services that support full‑stack SaaS development and custom API integrations.
 
