@@ -1,32 +1,32 @@
-# Venue Intelligence Platform (VenueIP) — Architecture Reference
+# Venue Intelligence Platform (IQ BENE) — Architecture Reference
 
 > **Audience:** Engineers, architects.
 > **Purpose:** Single source of truth for all technical decisions before development starts.
 
-**Docs:** [What is VenueIP?](what-is-vip.md) · [Business Overview](business-overview.md) · [Competitive Landscape](intelligence-and-competitive-landscape.md) · [Architecture](architecture.md)
+**Docs:** [What is IQ BENE?](what-is-vip.md) · [Business Overview](business-overview.md) · [Competitive Landscape](intelligence-and-competitive-landscape.md) · [Architecture](architecture.md)
 
 ---
 
 ## 1. Platform Context
 
-VenueIP is a new product service built **on top of the IQKV foundation**. It does not replace or fork any existing service. It reuses:
+IQ BENE is a new product service built **on top of the IQKV foundation**. It does not replace or fork any existing service. It reuses:
 
-| Foundation service           | What VenueIP inherits                                                                   |
+| Foundation service           | What IQ BENE inherits                                                                   |
 | ---------------------------- | --------------------------------------------------------------------------------------- |
 | `foundation-gateway-service` | JWT validation, tenant routing, header propagation — no changes needed                  |
 | `foundation-iam-service`     | Auth, multi-tenancy, team invitations, SSO, presigned S3 upload pattern                 |
 | `foundation-billing-service` | Plan entitlements (`max_venues`, `ai_extraction_enabled`, etc.), subscription lifecycle |
-| `foundation-audit-service`   | Compliance log — consumes VenueIP events passively, no code changes                     |
+| `foundation-audit-service`   | Compliance log — consumes IQ BENE events passively, no code changes                     |
 | `foundation-ui-app`          | Extended (not forked) with new `/venues/*` routes under FSD architecture                |
 | `foundation-tenancy`         | Schema-per-tenant isolation library reused directly                                     |
 
-**New services introduced by VenueIP:**
+**New services introduced by IQ BENE:**
 
 - `vip-venue-model` — shared library (JAR). Canonical domain model, event contracts, enums, and Liquibase migrations. No Spring beans, no business logic — pure model and schema. Imported by both services.
 - `vip-venue-service` — core domain: venues, assets, metadata, search, plan enforcement. Synchronous request/response only.
 - `vip-venue-ingestion-worker` — async sidecar: document ETL pipeline, extraction orchestration, embedding generation, scheduled jobs. No inbound HTTP — event-driven only. Shares the same PostgreSQL schema as `vip-venue-service`.
 
-**New infrastructure introduced by VenueIP:**
+**New infrastructure introduced by IQ BENE:**
 
 - pgvector extension on existing PostgreSQL (not a new service)
 - PostGIS extension on existing PostgreSQL (not a new service)
@@ -254,7 +254,7 @@ Aggregation is debounced (5s) to batch rapid successive events.
 ### vip-venue-service
 
 - **Responsibilities:** venue CRUD, asset upload flow (presigned URL), metadata read/write, search API, plan entitlement enforcement
-- **Database:** owns the VenueIP PostgreSQL schema (schema-per-tenant via `foundation-tenancy`). Shared with `vip-venue-ingestion-worker` — no cross-service API calls for data.
+- **Database:** owns the IQ BENE PostgreSQL schema (schema-per-tenant via `foundation-tenancy`). Shared with `vip-venue-ingestion-worker` — no cross-service API calls for data.
 - **Exposes:** REST API at `/api/v1/venues`
 - **Publishes:** `venue.created`, `venue.updated`, `asset.uploaded`, `asset.deleted` (RabbitMQ)
 - **Consumes:** `extraction.completed`, `extraction.failed` (RabbitMQ) — triggers metadata aggregation
@@ -629,7 +629,7 @@ CREATE INDEX idx_ai_cost_month ON ai_cost_tracking (DATE_TRUNC('month', created_
 
 ## 11. UI Integration (foundation-ui-app)
 
-Extend `foundation-ui-app` — do **not** fork. New VenueIP features live under:
+Extend `foundation-ui-app` — do **not** fork. New IQ BENE features live under:
 
 ```
 src/features/venue-management/
@@ -661,7 +661,7 @@ Reuse without modification:
 
 ## 12. Observability
 
-Both VenueIP services follow foundation patterns exactly.
+Both IQ BENE services follow foundation patterns exactly.
 
 **Prometheus metrics to add:**
 
@@ -716,7 +716,7 @@ Full rationale and competitor analysis: see `venue-intelligence-platform-intelli
 - [x] **One service or two?** ~~`vip-venue-service` + `vip-ai-service` vs. a single `vip-venue-service` with an internal AI module.~~ **Decided:** Two deployments — `vip-venue-service` (synchronous API, data-tied) and `vip-venue-ingestion-worker` (async sidecar, shared schema, no inbound HTTP). Services are tied to data; ingestion is a processing concern, not a peer service.
 - [x] **Naming convention.** Service names reflect domain/purpose, not implementation technology. `vip-venue-ingestion-worker` describes what it does (ingest and process assets), not how (AI/ML).
 - [ ] **Docling in Phase 1?** Start with pure Tika (simpler). Add Docling sidecar in Phase 2 when floor plan / table fidelity is needed. **Lean: Tika-only for Phase 1.**
-- [ ] **Chunking table** in separate schema or same as venue tables? Spring AI's `PgVectorStore` defaults to a `vector_store` table. VenueIP uses `venue_vectors` to be explicit. Confirm naming before first migration.
+- [ ] **Chunking table** in separate schema or same as venue tables? Spring AI's `PgVectorStore` defaults to a `vector_store` table. IQ BENE uses `venue_vectors` to be explicit. Confirm naming before first migration.
 - [ ] **Cost tracking granularity:** per-asset or per-tenant-per-month? Both are in schema; decide which is surfaced in UI.
 
 ---
@@ -760,4 +760,4 @@ Full rationale and competitor analysis: see `venue-intelligence-platform-intelli
 
 ---
 
-**Docs:** [What is VenueIP?](what-is-vip.md) · [Business Overview](business-overview.md) · [Competitive Landscape](intelligence-and-competitive-landscape.md) · [Architecture](architecture.md)
+**Docs:** [What is IQ BENE?](what-is-vip.md) · [Business Overview](business-overview.md) · [Competitive Landscape](intelligence-and-competitive-landscape.md) · [Architecture](architecture.md)
