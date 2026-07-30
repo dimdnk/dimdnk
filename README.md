@@ -29,7 +29,7 @@ I'm Dima, a Platform Engineer with 15+ years in IT, specialising in full-stack, 
 
 ### 👷 Recent Contributions
 
+- [iqbene/.github](https://github.com/iqbene/.github) - 
 - [IQKV/standard-ui-blank-astro-daisyui-ssr](https://github.com/IQKV/standard-ui-blank-astro-daisyui-ssr) - A minimal Astro boilerplate with Tailwind, DaisyUI, React islands.
 - [IQKV/standard-docs-vitepress-project-layout](https://github.com/IQKV/standard-docs-vitepress-project-layout) - Getting-started guidance, feature details, and API reference documentation template.
-- [IQKV/foundation-billing-service](https://github.com/IQKV/foundation-billing-service) - Billing and subscription management microservice,
 
