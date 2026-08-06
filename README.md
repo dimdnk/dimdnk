@@ -31,5 +31,5 @@ I'm Dima, a Platform Engineer with 15+ years in IT, specialising in full-stack, 
 
 - [KnowHowDevOps/homelab-operations-pipeline](https://github.com/KnowHowDevOps/homelab-operations-pipeline) - This project aims to standardize CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
 - [iqbene/system-design-documentation](https://github.com/iqbene/system-design-documentation) - 
-- [IQKV/system-design-documentation](https://github.com/IQKV/system-design-documentation) - SaaS Platform Design Documents.
+- [IQKV/foundation-gateway-service](https://github.com/IQKV/foundation-gateway-service) - Reactive API gateway providing intelligent routing, JWT authentication, and user context propagation across microservices.
 
