@@ -29,7 +29,7 @@ I'm Dima, a Platform Engineer with 15+ years in IT, specialising in full-stack, 
 
 ### 👷 Recent Contributions
 
-- [oiqb/system-design-documentation](https://github.com/oiqb/system-design-documentation) - 
-- [KnowHowDevOps/homelab-operations-pipeline](https://github.com/KnowHowDevOps/homelab-operations-pipeline) - This project aims to standardize CI/CD for hassle-free deployments whilst maintaining high coding standards via quality gates.
-- [IQKV/system-design-documentation](https://github.com/IQKV/system-design-documentation) - SaaS Platform Design Documents.
+- [venuemi/.github](https://github.com/venuemi/.github) - 
+- [venuemi/system-design-documentation](https://github.com/venuemi/system-design-documentation) - 
+- [IQKV/foundation-ui-saas-landing-kit](https://github.com/IQKV/foundation-ui-saas-landing-kit) - Lightweight marketing site for SaaS MVPs
 
