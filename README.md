@@ -30,6 +30,6 @@ I'm Dima, a Platform Engineer with 15+ years in IT, specialising in full-stack, 
 ### 👷 Recent Contributions
 
 - [venuemi/.github](https://github.com/venuemi/.github) - 
-- [venuemi/system-design-documentation](https://github.com/venuemi/system-design-documentation) - 
-- [IQKV/foundation-ui-saas-landing-kit](https://github.com/IQKV/foundation-ui-saas-landing-kit) - Lightweight marketing site for SaaS MVPs
+- [IQKV/foundation-ui-platform-admin](https://github.com/IQKV/foundation-ui-platform-admin) - Key Value Platform Admin UI
+- [IQKV/system-design-documentation](https://github.com/IQKV/system-design-documentation) - SaaS Platform Design Documents.
 
