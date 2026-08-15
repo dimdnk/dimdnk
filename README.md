@@ -29,7 +29,7 @@ I'm Dima, a Platform Engineer with 15+ years in IT, specialising in full-stack, 
 
 ### 👷 Recent Contributions
 
-- [IQKV/microservices-platform](https://github.com/IQKV/microservices-platform) - Spring Boot microservices platform demonstrating modern architecture patterns, security best practices, and operational excellence for building scalable distributed systems.
 - [IQKV/foundation-ui-app](https://github.com/IQKV/foundation-ui-app) - Reference tenant UI
 - [venuemi/system-design-documentation](https://github.com/venuemi/system-design-documentation) - 
+- [IQKV/foundation-billing-service](https://github.com/IQKV/foundation-billing-service) - Billing and subscription management microservice,
 
