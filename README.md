@@ -29,7 +29,7 @@ I'm Dima, a Platform Engineer with 15+ years in IT, specialising in full-stack, 
 
 ### 👷 Recent Contributions
 
-- [venuemi/.github](https://github.com/venuemi/.github) - 
+- [IQKV/foundation-ui-platform-admin](https://github.com/IQKV/foundation-ui-platform-admin) - Key Value Platform Admin UI
+- [IQKV/foundation-tenancy](https://github.com/IQKV/foundation-tenancy) - Shared tenancy components for IQKV microservices.
 - [IQKV/foundation-billing-service](https://github.com/IQKV/foundation-billing-service) - Billing and subscription management microservice,
-- [IQKV/foundation-misc-util](https://github.com/IQKV/foundation-misc-util) - Miscellaneous Utilities
 
