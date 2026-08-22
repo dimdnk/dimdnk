@@ -30,6 +30,6 @@ I'm Dima, a Platform Engineer with 15+ years in IT, specialising in full-stack, 
 ### 👷 Recent Contributions
 
 - [IQKV/standard-blank-project-layout](https://github.com/IQKV/standard-blank-project-layout) - Blank Project Layout
-- [IQKV/foundation-tenancy](https://github.com/IQKV/foundation-tenancy) - Shared tenancy components for IQKV microservices.
+- [IQKV/foundation-entitlement-plan-resolver-mvc](https://github.com/IQKV/foundation-entitlement-plan-resolver-mvc) - Foundation Entitlement Plan Resolver Shared Library
 - [IQKV/foundation-billing-service](https://github.com/IQKV/foundation-billing-service) - Billing and subscription management microservice,
 
