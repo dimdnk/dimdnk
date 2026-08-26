@@ -17,19 +17,3 @@ I'm Dima, a Platform Engineer with 15+ years in IT, specialising in full-stack, 
 - **Frontend**: JavaScript, TypeScript, React (MUI, Mantine 9, Bootstrap 5), Astro, Vue, some legacy Angular experiences
 - **Automation**: ETL pipelines (Apache Camel, Spring Batch, Kafka Streams), CI/CD (GitHub Actions, Jenkins, Drone), AI-powered tools (n8n, claude, cursor, etc. )
 
-### 🔗 Quick Links
-
-- 🧪 [My Homelab powered by K8s](https://knowhowto.dev/)
-- 📚 [I use Git Workflow Policy](git-workflow-policy.md)
-- 🏆 [Preferable Code Quality Guidelines](code-quality-guidelines.md)
-- 🔖 [Bookmarks](bookmarks-index.md)
-- 📚 [Peronal Awesome Index](awesome-index.md)
-
----
-
-### 👷 Recent Contributions
-
-- [IQKV/foundation-billing-service](https://github.com/IQKV/foundation-billing-service) - Billing and subscription management microservice,
-- [IQKV/foundation-gateway-service](https://github.com/IQKV/foundation-gateway-service) - Reactive API gateway providing intelligent routing, JWT authentication, and user context propagation across microservices.
-- [IQKV/foundation-microservice-project-layout](https://github.com/IQKV/foundation-microservice-project-layout) - 
-
