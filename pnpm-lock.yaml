@@ -12,11 +12,11 @@ importers:
         specifier: ^21.2.2
         version: 21.2.2(@types/node@25.0.10)(conventional-commits-filter@5.0.0)(conventional-commits-parser@6.4.0)(typescript@5.8.3)
       '@commitlint/config-conventional':
-        specifier: ^21.2.0
-        version: 21.2.0
+        specifier: ^21.2.2
+        version: 21.2.2
       '@release-it/conventional-changelog':
         specifier: ^12.0.0
-        version: 12.0.0(conventional-commits-filter@5.0.0)(conventional-commits-parser@6.4.0)(release-it@19.2.4(@types/node@25.0.10))
+        version: 12.0.0(conventional-commits-filter@5.0.0)(conventional-commits-parser@6.4.0)(release-it@19.2.4(@types/node@25.0.10)(supports-color@10.2.2))
       cz-conventional-changelog:
         specifier: ^3.3.0
         version: 3.3.0(@types/node@25.0.10)(typescript@5.8.3)
@@ -40,19 +40,19 @@ importers:
         version: 7.0.2001
       release-it:
         specifier: ^19.2.4
-        version: 19.2.4(@types/node@25.0.10)
+        version: 19.2.4(@types/node@25.0.10)(supports-color@10.2.2)
       release-it-pnpm:
         specifier: ^4.6.6
-        version: 4.6.6(release-it@19.2.4(@types/node@25.0.10))
+        version: 4.6.6(release-it@19.2.4(@types/node@25.0.10)(supports-color@10.2.2))
       sort-package-json:
         specifier: ^4.0.0
         version: 4.0.0
       stylelint:
         specifier: ^17.14.1
-        version: 17.14.1(typescript@5.8.3)
+        version: 17.14.1(supports-color@10.2.2)(typescript@5.8.3)
       stylelint-config-standard-scss:
         specifier: ^17.0.0
-        version: 17.0.0(postcss@8.5.23)(stylelint@17.14.1(typescript@5.8.3))
+        version: 17.0.0(postcss@8.5.23)(stylelint@17.14.1(supports-color@10.2.2)(typescript@5.8.3))
       tsdown:
         specifier: ^0.22.14
         version: 0.22.14(typescript@5.8.3)(unrun@0.2.37)
@@ -77,10 +77,6 @@ packages:
     resolution: {integrity: sha512-a+6hQxIxnpdvSvS2apvttPNbEliYsVC3PqFYDiiB2kjbwIsQsj1urvQ4Tkf70pKYozPalKAuRQmm/GHwndduqA==}
     engines: {node: '>=22.12.0'}
     hasBin: true
-
-  '@commitlint/config-conventional@21.2.0':
-    resolution: {integrity: sha512-Qf8WRDVcyVd14if6VTWenebxFbKnVnbzPUJjlzjkyJGeHK2xCGd63Dr1XZzj0plXKQb9P0BfOxoc1HVeCo2BWQ==}
-    engines: {node: '>=22.12.0'}
 
   '@commitlint/config-conventional@21.2.2':
     resolution: {integrity: sha512-NxA37SZviusFUEYOQZ5hNnZ1h7O/KiemPkxjOlpzKJNnWxThiwc6/SaZhaPa8fyLvfRBAywhQhJJk8XESHWlpQ==}
@@ -194,8 +190,8 @@ packages:
     resolution: {integrity: sha512-TzlTVpKPjaqW6qOYjQcYUDuGsLCNsvFHVBXkYGTAnf5V37jCWrE5haKNXzz0WZUtVHjrpV76L1buANjwXMfT8w==}
     engines: {node: '>=22'}
 
-  '@conventional-changelog/template@1.3.0':
-    resolution: {integrity: sha512-GsCw/qu92GI0EX6s7fxUi/SG1lmFjG9XZivxxEDZXqztuQKCn5o5wKdz4v005zci0Md7EZzgAwmQLoIEDZoaow==}
+  '@conventional-changelog/template@1.4.0':
+    resolution: {integrity: sha512-aalGyl7dbB5PArRebDIX43ZvBlXrYm9uWzGJ26t+4SzJVPsOuvfILGGbw5X4yX7i50YEmJ8zvbiWnqH/AAnZqg==}
     engines: {node: '>=22'}
 
   '@csstools/css-calc@3.3.0':
@@ -1444,8 +1440,8 @@ packages:
     resolution: {integrity: sha512-n4Kr1HFMTf3iMbES0TMxKIcYtUUv4rKqyQQp2JwfOEfFCOfGT3Tq4mCyJ8S9/YPyWhydjfKrrvnyl+gCjA+mJQ==}
     engines: {node: '>=22'}
 
-  conventional-changelog-conventionalcommits@10.3.0:
-    resolution: {integrity: sha512-qag0zFD867Qq1DK0jAWicyWlEMS1FFC/BLVLISaoeI7Y6Em6aWchk7BCkhOTsecRpMsV6qX41XmlNnghiiTmSw==}
+  conventional-changelog-conventionalcommits@10.4.0:
+    resolution: {integrity: sha512-Rriac6ZrAlVm6cy9Bz4NSp+WMHpwNXoPIYex+HjCgduAVUSbnew29DQjQw0C4g9u3HtSYzGiGY+pdBXAZo+4aA==}
     engines: {node: '>=22'}
 
   conventional-changelog-conventionalcommits@9.3.1:
@@ -3062,15 +3058,10 @@ snapshots:
       - conventional-commits-parser
       - typescript
 
-  '@commitlint/config-conventional@21.2.0':
-    dependencies:
-      '@commitlint/types': 21.2.0
-      conventional-changelog-conventionalcommits: 10.2.1
-
   '@commitlint/config-conventional@21.2.2':
     dependencies:
       '@commitlint/types': 21.2.0
-      conventional-changelog-conventionalcommits: 10.3.0
+      conventional-changelog-conventionalcommits: 10.4.0
 
   '@commitlint/config-validator@21.2.0':
     dependencies:
@@ -3232,7 +3223,7 @@ snapshots:
 
   '@conventional-changelog/template@1.2.1': {}
 
-  '@conventional-changelog/template@1.3.0': {}
+  '@conventional-changelog/template@1.4.0': {}
 
   '@csstools/css-calc@3.3.0(@csstools/css-parser-algorithms@4.0.0(@csstools/css-tokenizer@4.0.0))(@csstools/css-tokenizer@4.0.0)':
     dependencies:
@@ -3663,7 +3654,7 @@ snapshots:
     dependencies:
       quansync: 1.0.0
 
-  '@release-it/conventional-changelog@12.0.0(conventional-commits-filter@5.0.0)(conventional-commits-parser@6.4.0)(release-it@19.2.4(@types/node@25.0.10))':
+  '@release-it/conventional-changelog@12.0.0(conventional-commits-filter@5.0.0)(conventional-commits-parser@6.4.0)(release-it@19.2.4(@types/node@25.0.10)(supports-color@10.2.2))':
     dependencies:
       '@conventional-changelog/git-client': 3.1.0(conventional-commits-filter@5.0.0)(conventional-commits-parser@6.4.0)
       concat-stream: 2.0.0
@@ -3671,7 +3662,7 @@ snapshots:
       conventional-changelog-angular: 9.2.1
       conventional-changelog-conventionalcommits: 10.2.1
       conventional-recommended-bump: 12.1.0
-      release-it: 19.2.4(@types/node@25.0.10)
+      release-it: 19.2.4(@types/node@25.0.10)(supports-color@10.2.2)
       semver: 7.8.5
     transitivePeerDependencies:
       - conventional-commits-filter
@@ -4223,15 +4214,15 @@ snapshots:
 
   conventional-changelog-angular@9.3.0:
     dependencies:
-      '@conventional-changelog/template': 1.3.0
+      '@conventional-changelog/template': 1.4.0
 
   conventional-changelog-conventionalcommits@10.2.1:
     dependencies:
       '@conventional-changelog/template': 1.2.1
 
-  conventional-changelog-conventionalcommits@10.3.0:
+  conventional-changelog-conventionalcommits@10.4.0:
     dependencies:
-      '@conventional-changelog/template': 1.3.0
+      '@conventional-changelog/template': 1.4.0
 
   conventional-changelog-conventionalcommits@9.3.1:
     dependencies:
@@ -4243,7 +4234,7 @@ snapshots:
 
   conventional-changelog-writer@9.2.0:
     dependencies:
-      '@conventional-changelog/template': 1.2.1
+      '@conventional-changelog/template': 1.4.0
       '@simple-libs/stream-utils': 2.0.0
       argue-cli: 3.1.0
       conventional-commits-filter: 6.0.1
@@ -4348,9 +4339,11 @@ snapshots:
 
   data-uri-to-buffer@6.0.2: {}
 
-  debug@4.4.3:
+  debug@4.4.3(supports-color@10.2.2):
     dependencies:
       ms: 2.1.3
+    optionalDependencies:
+      supports-color: 10.2.2
 
   dedent@0.7.0: {}
 
@@ -4557,11 +4550,11 @@ snapshots:
     dependencies:
       resolve-pkg-maps: 1.0.0
 
-  get-uri@6.0.5:
+  get-uri@6.0.5(supports-color@10.2.2):
     dependencies:
       basic-ftp: 5.3.1
       data-uri-to-buffer: 6.0.2
-      debug: 4.4.3
+      debug: 4.4.3(supports-color@10.2.2)
     transitivePeerDependencies:
       - supports-color
 
@@ -4679,17 +4672,17 @@ snapshots:
 
   html-tags@5.1.0: {}
 
-  http-proxy-agent@7.0.2:
+  http-proxy-agent@7.0.2(supports-color@10.2.2):
     dependencies:
       agent-base: 7.1.4
-      debug: 4.4.3
+      debug: 4.4.3(supports-color@10.2.2)
     transitivePeerDependencies:
       - supports-color
 
-  https-proxy-agent@7.0.6:
+  https-proxy-agent@7.0.6(supports-color@10.2.2):
     dependencies:
       agent-base: 7.1.4
-      debug: 4.4.3
+      debug: 4.4.3(supports-color@10.2.2)
     transitivePeerDependencies:
       - supports-color
 
@@ -5134,16 +5127,16 @@ snapshots:
       '@oxlint/binding-win32-x64-msvc': 1.75.0
       oxlint-tsgolint: 7.0.2001
 
-  pac-proxy-agent@7.2.0:
+  pac-proxy-agent@7.2.0(supports-color@10.2.2):
     dependencies:
       '@tootallnate/quickjs-emscripten': 0.23.0
       agent-base: 7.1.4
-      debug: 4.4.3
-      get-uri: 6.0.5
-      http-proxy-agent: 7.0.2
-      https-proxy-agent: 7.0.6
+      debug: 4.4.3(supports-color@10.2.2)
+      get-uri: 6.0.5(supports-color@10.2.2)
+      http-proxy-agent: 7.0.2(supports-color@10.2.2)
+      https-proxy-agent: 7.0.6(supports-color@10.2.2)
       pac-resolver: 7.0.1
-      socks-proxy-agent: 8.0.5
+      socks-proxy-agent: 8.0.5(supports-color@10.2.2)
     transitivePeerDependencies:
       - supports-color
 
@@ -5246,16 +5239,16 @@ snapshots:
 
   protocols@2.0.2: {}
 
-  proxy-agent@6.5.0:
+  proxy-agent@6.5.0(supports-color@10.2.2):
     dependencies:
       agent-base: 7.1.4
-      debug: 4.4.3
-      http-proxy-agent: 7.0.2
-      https-proxy-agent: 7.0.6
+      debug: 4.4.3(supports-color@10.2.2)
+      http-proxy-agent: 7.0.2(supports-color@10.2.2)
+      https-proxy-agent: 7.0.6(supports-color@10.2.2)
       lru-cache: 7.18.3
-      pac-proxy-agent: 7.2.0
+      pac-proxy-agent: 7.2.0(supports-color@10.2.2)
       proxy-from-env: 1.1.0
-      socks-proxy-agent: 8.0.5
+      socks-proxy-agent: 8.0.5(supports-color@10.2.2)
     transitivePeerDependencies:
       - supports-color
 
@@ -5291,19 +5284,19 @@ snapshots:
 
   readdirp@5.0.0: {}
 
-  release-it-pnpm@4.6.6(release-it@19.2.4(@types/node@25.0.10)):
+  release-it-pnpm@4.6.6(release-it@19.2.4(@types/node@25.0.10)(supports-color@10.2.2)):
     dependencies:
       bumpp: 10.4.1
       changelogithub: 13.16.1
       conventional-changelog-conventionalcommits: 9.3.1
       conventional-recommended-bump: 11.2.0
       kolorist: 1.8.0
-      release-it: 19.2.4(@types/node@25.0.10)
+      release-it: 19.2.4(@types/node@25.0.10)(supports-color@10.2.2)
       semver: 7.8.5
     transitivePeerDependencies:
       - magicast
 
-  release-it@19.2.4(@types/node@25.0.10):
+  release-it@19.2.4(@types/node@25.0.10)(supports-color@10.2.2):
     dependencies:
       '@nodeutils/defaults-deep': 1.1.0
       '@octokit/rest': 22.0.1
@@ -5321,7 +5314,7 @@ snapshots:
       open: 10.2.0
       ora: 9.0.0
       os-name: 6.1.0
-      proxy-agent: 6.5.0
+      proxy-agent: 6.5.0(supports-color@10.2.2)
       semver: 7.7.3
       tinyglobby: 0.2.15
       undici: 6.23.0
@@ -5461,10 +5454,10 @@ snapshots:
 
   smart-buffer@4.2.0: {}
 
-  socks-proxy-agent@8.0.5:
+  socks-proxy-agent@8.0.5(supports-color@10.2.2):
     dependencies:
       agent-base: 7.1.4
-      debug: 4.4.3
+      debug: 4.4.3(supports-color@10.2.2)
       socks: 2.8.9
     transitivePeerDependencies:
       - supports-color
@@ -5534,33 +5527,33 @@ snapshots:
 
   strip-json-comments@3.1.1: {}
 
-  stylelint-config-recommended-scss@17.0.1(postcss@8.5.23)(stylelint@17.14.1(typescript@5.8.3)):
+  stylelint-config-recommended-scss@17.0.1(postcss@8.5.23)(stylelint@17.14.1(supports-color@10.2.2)(typescript@5.8.3)):
     dependencies:
       postcss-scss: 4.0.9(postcss@8.5.23)
-      stylelint: 17.14.1(typescript@5.8.3)
-      stylelint-config-recommended: 18.0.0(stylelint@17.14.1(typescript@5.8.3))
-      stylelint-scss: 7.2.0(stylelint@17.14.1(typescript@5.8.3))
+      stylelint: 17.14.1(supports-color@10.2.2)(typescript@5.8.3)
+      stylelint-config-recommended: 18.0.0(stylelint@17.14.1(supports-color@10.2.2)(typescript@5.8.3))
+      stylelint-scss: 7.2.0(stylelint@17.14.1(supports-color@10.2.2)(typescript@5.8.3))
     optionalDependencies:
       postcss: 8.5.23
 
-  stylelint-config-recommended@18.0.0(stylelint@17.14.1(typescript@5.8.3)):
+  stylelint-config-recommended@18.0.0(stylelint@17.14.1(supports-color@10.2.2)(typescript@5.8.3)):
     dependencies:
-      stylelint: 17.14.1(typescript@5.8.3)
+      stylelint: 17.14.1(supports-color@10.2.2)(typescript@5.8.3)
 
-  stylelint-config-standard-scss@17.0.0(postcss@8.5.23)(stylelint@17.14.1(typescript@5.8.3)):
+  stylelint-config-standard-scss@17.0.0(postcss@8.5.23)(stylelint@17.14.1(supports-color@10.2.2)(typescript@5.8.3)):
     dependencies:
-      stylelint: 17.14.1(typescript@5.8.3)
-      stylelint-config-recommended-scss: 17.0.1(postcss@8.5.23)(stylelint@17.14.1(typescript@5.8.3))
-      stylelint-config-standard: 40.0.0(stylelint@17.14.1(typescript@5.8.3))
+      stylelint: 17.14.1(supports-color@10.2.2)(typescript@5.8.3)
+      stylelint-config-recommended-scss: 17.0.1(postcss@8.5.23)(stylelint@17.14.1(supports-color@10.2.2)(typescript@5.8.3))
+      stylelint-config-standard: 40.0.0(stylelint@17.14.1(supports-color@10.2.2)(typescript@5.8.3))
     optionalDependencies:
       postcss: 8.5.23
 
-  stylelint-config-standard@40.0.0(stylelint@17.14.1(typescript@5.8.3)):
+  stylelint-config-standard@40.0.0(stylelint@17.14.1(supports-color@10.2.2)(typescript@5.8.3)):
     dependencies:
-      stylelint: 17.14.1(typescript@5.8.3)
-      stylelint-config-recommended: 18.0.0(stylelint@17.14.1(typescript@5.8.3))
+      stylelint: 17.14.1(supports-color@10.2.2)(typescript@5.8.3)
+      stylelint-config-recommended: 18.0.0(stylelint@17.14.1(supports-color@10.2.2)(typescript@5.8.3))
 
-  stylelint-scss@7.2.0(stylelint@17.14.1(typescript@5.8.3)):
+  stylelint-scss@7.2.0(stylelint@17.14.1(supports-color@10.2.2)(typescript@5.8.3)):
     dependencies:
       '@csstools/css-calc': 3.3.0(@csstools/css-parser-algorithms@4.0.0(@csstools/css-tokenizer@4.0.0))(@csstools/css-tokenizer@4.0.0)
       '@csstools/css-parser-algorithms': 4.0.0(@csstools/css-tokenizer@4.0.0)
@@ -5573,9 +5566,9 @@ snapshots:
       postcss-resolve-nested-selector: 0.1.6
       postcss-selector-parser: 7.1.4
       postcss-value-parser: 4.2.0
-      stylelint: 17.14.1(typescript@5.8.3)
+      stylelint: 17.14.1(supports-color@10.2.2)(typescript@5.8.3)
 
-  stylelint@17.14.1(typescript@5.8.3):
+  stylelint@17.14.1(supports-color@10.2.2)(typescript@5.8.3):
     dependencies:
       '@csstools/css-calc': 3.3.0(@csstools/css-parser-algorithms@4.0.0(@csstools/css-tokenizer@4.0.0))(@csstools/css-tokenizer@4.0.0)
       '@csstools/css-parser-algorithms': 4.0.0(@csstools/css-tokenizer@4.0.0)
@@ -5588,7 +5581,7 @@ snapshots:
       cosmiconfig: 9.0.2(typescript@5.8.3)
       css-functions-list: 3.3.3
       css-tree: 3.2.1
-      debug: 4.4.3
+      debug: 4.4.3(supports-color@10.2.2)
       fast-glob: 3.3.3
       fastest-levenshtein: 1.0.16
       file-entry-cache: 11.1.5
