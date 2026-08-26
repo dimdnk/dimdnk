@@ -7,8 +7,6 @@ I'm Dima, a Platform Engineer with 15+ years in IT, specialising in full-stack, 
 🏠 [Homepage](https://dimdnk.com/) •
 📂 [My public Repositories](repo-index.md)
 
-👷 **[My GitHub Templates](https://github.com/orgs/IQKV/repositories?q=template%3Atrue)**: Ready-to-use Spring Boot 4 and React 19 templates with best practices
-
 ### 💻 Skills & Technologies
 
 - **Backend**: Java, Spring, NodeJS, PHP, Symfony, Laravel, PostgreSQL, MySQL, MongoDB, Redis
